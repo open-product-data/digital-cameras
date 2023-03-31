@@ -1,0 +1,111 @@
+ProductCode: nikon_cpl19
+Award: ""
+ImageURL: /files/p/products/nikon_cpl19/eb34f7bd4fd44f059839af9ec3cae2e0.png
+Name: Nikon Coolpix L19
+ShortSpecs:
+    - 8 megapixels
+    - 2.7″ screen
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpl19
+ReviewData:
+    ExecutiveSummary: Like sister model the L20, the Coolpix L19 is a basic budget camera with bare bones point-and-shoot functionality in an understated body. You do get a 3.6x zoom lens (covering a less than ideal 41-145mm range - so no wideangle) and a handful of new gadgets designed to provide true point-and-shoot ease of use (including Auto Scene Selector, Smile Mode and Blink Detection) and a 2.7" screen, but that's about it. (April 2009)
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001PKCK20
+        - B003IT1TM8
+        - B001PK8FG0
+Specs:
+    Announced: Feb 3, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (Alkaline, NiMH, Oxyride or Lithium)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 61 x 97 x 29 mm (2.4 x 3.82 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (64 - 1600)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: ""
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.1–6.7
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 1800, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 20 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 130 g (0.29 lb / 4.59 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

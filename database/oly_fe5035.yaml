@@ -1,0 +1,88 @@
+ProductCode: oly_fe5035
+Award: ""
+ImageURL: /files/p/products/oly_fe5035/32055680de5a4ceea817bdd770052705.png
+Name: Olympus FE-5035
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe5035
+ReviewData:
+    ExecutiveSummary: The 14MP FE-5035 comes with a 5x zoom wide-angle zoom lens starting at 24mm equivalent and a 2.7 inch LCD. It offers AF tracking and i-Auto mode. A range of Magic Filters is also on hand to give your images a creative edge. It also comes with an in-camera guide and advanced face detection.
+    ProductPhotos:
+        - /files/p/products/oly_fe5035/shots/379917770a9e440f93c1881230da2129.png
+        - /files/p/products/oly_fe5035/shots/5583da695f064d62a2a458465c275e5d.png
+        - /files/p/products/oly_fe5035/shots/c450c052440449e3907ea712450db684.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 18, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-70 & charger
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 96 x 58 x 20 mm (3.78 x 2.28 x 0.79″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Fill-in
+    FlashRange: 5.80 m
+    FocalLengthEquiv: 24–120 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, High Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.6–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 4288 x 2416, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 12 seconds)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 18 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 130 g (0.29 lb / 4.59 oz)
+    WhiteBalancePresets: "7"

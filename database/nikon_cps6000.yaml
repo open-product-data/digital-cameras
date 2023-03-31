@@ -1,0 +1,103 @@
+ProductCode: nikon_cps6000
+Award: ""
+ImageURL: /files/p/products/nikon_cps6000/e64d3333251c4d67a6fd66f17c4d54c3.png
+Name: Nikon Coolpix S6000
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 196 mm (7×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps6000
+ReviewData:
+    ExecutiveSummary: Nikon's Coolpix S6000 offers 14.2 effective megapixels with a 7x optical Zoom-Nikkor ED glass lens. It features Nikon's Smart Portrait System that automatically takes a picture when your subject smiles and warns you if they blinked. The camera can record 720p HD videos and inlcudes an HD output.
+    ProductPhotos:
+        - /files/p/products/nikon_cps6000/shots/6b5e8800f4cb4ee5ac9e5d2fdcc539a2.png
+        - /files/p/products/nikon_cps6000/shots/e29a23b3d5b04991b3aead2b1b6359ec.png
+        - /files/p/products/nikon_cps6000/shots/b034784e309d4328a2f981a2dd61204a.png
+        - /files/p/products/nikon_cps6000/shots/cf52042041c64d8db35d3ba332214b02.png
+        - /files/p/products/nikon_cps6000/shots/82f63dbf26da4a8f8773128abb661f1d.png
+    ReviewSummary: null
+    ASIN:
+        - B003JFH0JM
+        - B0034XKECE
+Specs:
+    Announced: Feb 3, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion EN-EL12 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2x)
+    Dimensions: 97 x 55 x 25 mm (3.82 x 2.17 x 0.98″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow Sync
+    FlashRange: ""
+    FocalLengthEquiv: 28–196 mm
+    Format: H.264
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, Auto gain ISO 100-1600, Fixed range auto (100-400, 100-800) 100, 200, 400, 800, 1600, 2000, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: High, Normal
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.7–5.6
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4224 x 2376, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (3 sec or 10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 156 g (0.34 lb / 5.50 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""

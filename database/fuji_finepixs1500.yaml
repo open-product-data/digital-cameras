@@ -1,0 +1,90 @@
+ProductCode: fuji_finepixs1500
+Award: ""
+ImageURL: /files/p/products/fuji_finepixs1500/59a4e37d5b804ef6a3b981a6bab93eaf.png
+Name: Fujifilm FinePix S1500
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 33 – 396 mm (12×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixs1500
+ReviewData:
+    ExecutiveSummary: Successor to the S1000FD (at the time  the world's smallest 12x zoom camera), the FinePix S1500 is the latest in a long line of very compact SLR-styled big zoom cameras designed to appeal to those wanting a lot of lens on a tight budget. The big change is the inclusion of optical (CCD shift) image stabilization, making the long zoom a lot more usable in less than perfect light, and  for the money you're getting a lot of features - including full photographic controls and a 7.5fps burst mode (at reduced resolution) - in a lightweight package.
+    ProductPhotos:
+        - /files/p/products/fuji_finepixs1500/shots/4afac5b136b34aee9cd0aad35593bca2.png
+        - /files/p/products/fuji_finepixs1500/shots/ef3c5c4d5ec14168a23d86a3f31801e7.png
+        - /files/p/products/fuji_finepixs1500/shots/ddf924f021d94f72964356ddeaece9e0.png
+        - /files/p/products/fuji_finepixs1500/shots/7b8335cfe91c484e9fe45380d7dacc2e.png
+        - /files/p/products/fuji_finepixs1500/shots/61badea00c6e41b986e100f4a430c0fc.png
+    ReviewSummary: null
+    ASIN:
+        - B001QENO7A
+Specs:
+    Announced: Feb 17, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 103 x 73 x 68 mm (4.06 x 2.87 x 2.68″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 8.70 m (Auto ISO)
+    FocalLengthEquiv: 33–396 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Auto (800), Auto (400), 64, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 12×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 2592 x 1944, 2048 x 1944, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 23 MB
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Electronic
+    WeightIncBatteries: 345 g (0.76 lb / 12.17 oz)
+    WhiteBalancePresets: "6"

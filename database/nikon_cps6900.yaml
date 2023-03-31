@@ -1,0 +1,145 @@
+ProductCode: nikon_cps6900
+Award: ""
+ImageURL: /files/p/products/nikon_cps6900/cccfbb026e6d444dba47f7f8a3e6e39f.png
+Name: Nikon Coolpix S6900
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 300 mm (12×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps6900
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Featuring a 3-inch Vari-angle touch screen, built-in kickstand and front shutter release button, the COOLPIX S6900 is designed to capture fun and flattering self-portraits with ease. Equipped with a 16-megapixel CMOS Sensor, 12x Optical Zoom NIKKOR ED glass lens and 24x Dynamic Fine Zoom, users can take close-up “selfies,” group shots and portraits with extreme detail and accuracy. The camera also includes built-in Wi-Fi with NFC connectivity for easy sharing with friends. Incorporating lens-shift VR technology, camera shake is minimized to ensure sharp images and HD video. Combine the S6900’s target-finding AF and 20 scene modes, users can instantly focus on capturing stunning photos and videos, rather than modifying their settings when the shooting situation changes.'
+    ProductPhotos:
+        - /files/p/products/nikon_cps6900/shots/c341c997da8a40ed94fde434eb88d444.png
+    ReviewSummary: null
+    ASIN:
+        - B00T85PPLC
+        - B00T85PS4Q
+Specs:
+    AEBracketing: ""
+    Announced: Feb 10, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL19 lithium-ion battery & charger
+    BatteryLifeCIPA: "180"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 58 x 28 mm (3.9 x 2.28 x 1.1″)
+    DriveModes:
+        - Single
+        - Best Shot Selector
+        - Continuous H
+        - Continuous H 60
+        - Continuous H 120
+        - Continuous L
+        - Multi-shot 16
+        - Pre-shooting cache
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Scene
+        - Scene Auto Selector
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: 2.80 m (at Auto ISO)
+    FocalLengthEquiv: 25–300 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $229.95
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–6.3
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 12×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p), 1280 x 720 (30p, 25p), 640 x 480 (30p, 25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Black and White Copy
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Museum
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: RGBW TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 181 g (0.40 lb / 6.38 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: with NFC

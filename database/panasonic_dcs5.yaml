@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220224050425/https://www.dpreview.com/reviews/panasonic-dc-s5-review
+ProductCode: panasonic_dcs5
+Award: silver
+ImageURL: /files/p/products/panasonic_dcs5/fca416441f634cdb809058151db1ad7b.png
+Name: Panasonic Lumix DC-S5
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 88
+URL: /products/panasonic/slrs/panasonic_dcs5
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix S5 is a hybrid stills/video camera that has a 24MP full-frame sensor. Like the other members of the Lumix S family, it uses the L-mount developed with Sigma and Leica. The S5 has built-in 5-axis image stabilization, which can reduce shake by up to 6.5 stops with compatible lenses. A high-res mode uses the IS system to produce 96MP images with much higher levels of detail. It has a fully articulating LCD with 1.84 million dots and a large EVF with 2.36M dots.On the video side, the S5 can capture 10-bit 4K at up to 60p. V-Log and V-Gamut have a claimed dynamic range of over 14 stops. Panasonic has improved the accuracy of continuous autofocus in video mode and face/eye/body recognition accuracy in all shooting modes. The S5 has mic and headphone sockets, and supports Panasonic's XLR adapter. The compact but well-built body is weather-sealed and has two SD card slots (one of the two supporting UHS-II speeds). It has dual-band Wi-Fi and Bluetooth. The camera can be powered and charged over its USB-C connector.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcs5/shots/92e0fe3d0d8c45e4831cdbca0f622b6d.png
+        - /files/p/products/panasonic_dcs5/shots/8adf3551dc5e4037815d2cf3ccf7a278.png
+        - /files/p/products/panasonic_dcs5/shots/cc1bb202a45945a6b955a1b085d55078.png
+        - /files/p/products/panasonic_dcs5/shots/2c86e16854994be0968760df22fcd225.png
+        - /files/p/products/panasonic_dcs5/shots/64a913e099b7485e829dd39c14462f26.png
+        - /files/p/products/panasonic_dcs5/shots/229dc76e81984888909d52c9b2a8c0f8.png
+    ReviewSummary:
+        GoodFor: Amateur videographers who also want a capable stills camera
+        NotSoGoodFor: Stills shooters who need to capture fast action or want a better through-the-viewfinder experience
+        Conclusion: The Panasonic Lumix DC-S5 is an full-frame mirrorless camera that's great at both still and video shooting. Its well-built, fairly portable and feature-packed. Image quality is in-line with its peers, though autofocus is a little bit behind. The S5's video features are the best in its class and video quality is impressive, as well.
+    ASIN:
+        - B08FF55MV4
+        - B08FCYFL42
+        - B08Y1PPMRL
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 2, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLK22 lithium-ion battery and charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,497.99 - $4,195.98
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 133 x 97 x 82 mm (5.24 x 3.82 x 3.23″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2, 12-bit)
+        - HLG (CTA-2072)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Syn./Red-eye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis Dual IS 2
+    JPEGQualityLevels: Fine, standard
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $1999 (body only), $2299 (w/20-60mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3328 x 2496 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3328 x 2496 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: ""
+    ReviewPreview: "88%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 11, 2021"
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II supported in slot 1)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (Power Delivery supported)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 714 g (1.57 lb / 25.19 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual-band) + Bluetooth

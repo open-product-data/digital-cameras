@@ -1,0 +1,79 @@
+ProductCode: fuji_finepixf420z
+Award: ""
+ImageURL: /files/p/products/fuji_finepixf420z/6e579c32a24f49e7bcf500e90144b409.png
+Name: Fujifilm FinePix F420 Zoom
+ShortSpecs:
+    - 3 megapixels
+    - 1.8″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixf420z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B08KYFG4LC
+        - B084ZTV3QK
+        - B084B3Z8FX
+Specs:
+    Announced: Oct 21, 2003
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NH-20)
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (lower res only)
+    Dimensions: 77 x 69 x 26 mm (3.03 x 2.72 x 1.02″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 36–108 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (ISO 125 - 640), 160, 200, 400 (higher at 1280 x 960)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "No"
+    MacroFocusRange: 8 cm (3.15″)
+    ManualFocus: "No"
+    MaxResolution: 2816 x 2120
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 30 fps, unlimited
+    ReviewPreview: ""
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "6"

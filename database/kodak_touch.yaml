@@ -1,0 +1,93 @@
+ProductCode: kodak_touch
+Award: ""
+ImageURL: /files/p/products/kodak_touch/cbcd7080b547470198d34206685a112c.png
+Name: Kodak EasyShare Touch
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_touch
+ReviewData:
+    ExecutiveSummary: The EasyShare Touch is based around a 3-inch  touchscreen LCD, 14Mp sensor and 5x optical zoom lens. It also features a dedicated video record button that makes it easy to take 720p HD video that you can edit and share right on the camera. It features Kodak’s Smart Capture and Face Recognition features, multiple scene and artistic modes – like photo booth and film effects – to have more fun with your pictures, and an HDMI connector.
+    ProductPhotos:
+        - /files/p/products/kodak_touch/shots/0c9761ed8ca943b9b5bebe9a25d55878.png
+        - /files/p/products/kodak_touch/shots/2701d5c79d9f45e49b7db1f274ad6ee0.png
+        - /files/p/products/kodak_touch/shots/a386134ce1f04ed9acb9a7c98b3e2f3b.png
+    ReviewSummary: null
+    ASIN:
+        - B004FLL572
+        - B004FLL57M
+        - B004FLL57C
+Specs:
+    Announced: Jan 4, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Face Detection
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion KLIC-7006 rechargeable battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 101 x 58 x 19 mm (3.98 x 2.28 x 0.75″)
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (Micro)
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2848, 4288 x 2416, 2880 x 2160, 2048 x 1536
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 64 MB Internal
+    StorageTypes: MicroSD/MicroSDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 150 g (0.33 lb / 5.29 oz)
+    WhiteBalancePresets: "4"

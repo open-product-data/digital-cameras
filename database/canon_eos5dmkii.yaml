@@ -1,0 +1,123 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211024064629/https://www.dpreview.com/reviews/canoneos5dmarkii/
+ProductCode: canon_eos5dmkii
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_eos5dmkii/109ae05108f348419a9132ac21e3287f.png
+Name: Canon EOS 5D Mark II
+ShortSpecs:
+    - 21 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eos5dmkii
+ReviewData:
+    ExecutiveSummary: How do you follow a classic? That's the question Canon faced when it got to work producing a successor to the EOS 5D. The original 5D was the first 'affordable' and lightweight (in relative terms) full frame camera. Its successor the 5D Mark II boasts 21 megapixels, 1080p video, 3.0" VGA LCD, Live view, and higher capacity battery. It is a camera that aims to leapfrog its direct competitors, both in terms of resolution and video capability.
+    ProductPhotos:
+        - /files/p/products/canon_eos5dmkii/shots/bcd8cdd80090469ba36b46593cc8c693.png
+        - /files/p/products/canon_eos5dmkii/shots/1680a6b67d4b4a0abcd7db06d0a9f80e.png
+        - /files/p/products/canon_eos5dmkii/shots/9ed58a45ee7e47d9a5b7a080e0d06ff9.png
+    ReviewSummary:
+        GoodFor: Studio, landscape and low light photographers wanting full frame and the best possible image quality. HD Movies.
+        NotSoGoodFor: Action / sports / wildlife
+        Conclusion: Although some aspects of the spec (AF, metering) are looking a little long in the tooth, the superb image quality and class-leading movie output should ensure the Mark II is as popular as its predecessor. The numerous smaller improvements are welcome, and if you want full frame (without going to an even more expensive pro body) the 5D Mark II is about as good as it gets right now.
+    ASIN:
+        - B001G5ZTLS
+        - B001G5ZTMM
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 17, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E6 rechargeable battery & charger
+    BatteryLifeCIPA: "850"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,499.95
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.9 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 152 x 114 x 75 mm (5.98 x 4.49 x 2.95″)
+    DriveModes: ""
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus Sync connector)
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 6400 in 1/3 stops, plus 50, 12800, 25600 as option
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5616 x 3744
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4080 x 2720, 2784 x 1856, 5616 x 3744, 3861 x 2574, 2784 x 1856
+    Processor: Digic 4
+    RemoteControl: Yes (N3 connector)
+    Resolutions: 1920 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "79%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 13, 2009"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT liquid-crystal color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II), UDMA, Microdrive
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (by cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 98%
+    ViewfinderMagnification: 0.71×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 850 g (1.87 lb / 29.98 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: (Optional)

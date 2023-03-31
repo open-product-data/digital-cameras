@@ -1,0 +1,145 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016005130/https://www.dpreview.com/reviews/2015-superzoom-camera-roundup
+ProductCode: fujifilm_s9900w
+Award: ""
+ImageURL: /files/p/products/fujifilm_s9900w/a77254ae00104d3fae3426e13a7d2ef8.png
+Name: Fujifilm FinePix S9900W
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1200 mm (50×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s9900w
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The FinePix S9900W features a 16.2 Megapixel CMOS sensor with a maximum ISO sensitivity of 12,800, and deliver rapid focusing speeds for beautiful high resolution images. It gives users a bright F2.9-F6.5 lens that offers an amazing 50x optical zoom 24-1200mm optical range that can be boosted to an incredible 100x magnification with Fujifilm’s Intelligent Digital Zoom technology, while going all the way down to 1cm in Super Macro mode for extraordinary close up images.The camera gives users the speed they are looking for to capture every shot they want. The S9900W has a startup time of just 1 second, autofocuses in as little as 0.15 seconds, and is ready to take another shot in just 0.6 seconds. Those wanting to capture a burst of full resolution images in quick succession can do so using the continuous shooting speed of 10 frames-per-second (maximum 10 frames).The FinePix S9900W offers remote shooting via a smartphone or tablet, and photos and movies can be easily sent to devices using the same wireless connectivity. Users can download the free Fujifilm Camera Remote app, then press the dedicated Wi-Fi button for easy remote shooting and also zooming in or out to fine-tune compositions and shooting movies. Images are just as easily sent to smartphones and tablets where they can be viewed, posted to social media and backed up.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_s9900w/shots/e9aa57e202984004bdc3dfd58cba6766.png
+        - /files/p/products/fujifilm_s9900w/shots/31d384c2675d4ba991eb489f32949e72.png
+        - /files/p/products/fujifilm_s9900w/shots/d2545c09fc0e4027b405208a710af1bd.png
+    ReviewSummary: null
+    ASIN:
+        - B00S4KXO10
+Specs:
+    AEBracketing: 2 (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 15, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: 4 x AA (alkaline, lithium, NiMH)
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 123 x 87 x 116 mm (4.84 x 3.43 x 4.57″)
+    DriveModes:
+        - Single
+        - Continuous top
+        - Best frame capture
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, flash on, flash off, slow synchro
+    FlashRange: 7.00 m (with Auto ISO)
+    FocalLengthEquiv: 24–1200 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-axis IS in movie mode (lens-shift + electronic)
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $349
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: 1/1700 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 50×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3264 x 2448, 2048 x 1536), 3:2 (4608 x 3072, 3264 x 2176, 2304 x 1536), 16:9 (4608 x 2592, 3264 x 1840, 1920 x 1080), 1:1 (3456 x 3546, 2432 x 2432, 1728 x 1728)
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (6oi), 1280 x 720 (60p), 640 x 480 (30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2015"
+    SceneModes:
+        - Portrait
+        - Baby
+        - Smile & Shoot
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 38MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: 97%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 670 g (1.48 lb / 23.63 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

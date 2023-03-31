@@ -1,0 +1,95 @@
+ProductCode: samsung_tl210
+Award: ""
+ImageURL: /files/p/products/samsung_tl210/ae8e1072a21442bc94714f1f2f2c021f.png
+Name: Samsung TL210 (PL150)
+ShortSpecs:
+    - 12 megapixels
+    - 3.5″ screen
+    - 27 – 135 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_tl210
+ReviewData:
+    ExecutiveSummary: The Samsung TL210 (PL150 in Europe) has the same 12MP sensor and dual LCD design as the cheaper TL205 but the TL210 features a more versatile 5X image stabilized zoom starting at a useful 27mm equivalent. The TL210 also offers 720p HD video and a 3.0" rear LCD, and like the TL205, it is designed to lean backwards slightly when placed on a flat surface. This, combined with the dual LCD design, helps when taking self-portraits.
+    ProductPhotos:
+        - /files/p/products/samsung_tl210/shots/91b4762366074439a2e3758c836b3624.png
+        - /files/p/products/samsung_tl210/shots/402547970c244aeb9053fbb0ec9a3769.png
+        - /files/p/products/samsung_tl210/shots/ef91a1e3fe42437980ba24a3910973ac.png
+        - /files/p/products/samsung_tl210/shots/304f820b74154baf85c4542710d0d9bb.png
+    ReviewSummary: null
+    ASIN:
+        - B0035EELIU
+Specs:
+    Announced: Jan 6, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion SLB-07B rechargeable battery & charger
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $349.98
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 99 x 59 x 20 mm (3.9 x 2.32 x 0.79″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync
+    FlashRange: 3.40 m
+    FocalLengthEquiv: 27–135 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes ((Optional))
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3984 x 2656, 3840 x 2160, 3264 x 2448, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30 fps)
+    ScreenDots: 230,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Double, Motion)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 55 MB Internal
+    StorageTypes: MicroSD/ MicroSDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 177 g (0.39 lb / 6.24 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

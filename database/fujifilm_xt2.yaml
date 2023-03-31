@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412014725/https://www.dpreview.com/reviews/fujifilm-x-t2
+ProductCode: fujifilm_xt2
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt2/53b9d3058b774bbca42ac9a2fb171dab.png
+Name: Fujifilm X-T2
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 86
+URL: /products/fujifilm/slrs/fujifilm_xt2
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Fujifilm X-T2 is the company''s enthusiast SLR-style mirrorless camera. It features a 24MP X-Trans CMOS III sensor and the company''s latest image processor (X-Processor Pro). The rugged magnesium alloy body is sealed against dust and moisture and has a unique articulating LCD as well as a large, high resolution EVF. The AF system has been greatly improved upon since the X-T1 and had 325 total focus points, 169 of which are phase-detect, as well as a higher readout speed. The camera has the full suite of Fujifilm''s Film Simulation Modes, including the latest, ACROS. It can also capture 4K video, a first for the company. An available battery grip triples battery life and also improve burst speeds, reduces shutter lag/blackout times, and ''boosts'' 4K recording time to 30 minutes.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt2/shots/63673d865a1645ee8382ec29b94c0f8e.png
+        - /files/p/products/fujifilm_xt2/shots/984a715dfa254e2a961377c1b0e5d698.png
+        - /files/p/products/fujifilm_xt2/shots/0fbb8b345e0d451c9ed206ca756503eb.png
+        - /files/p/products/fujifilm_xt2/shots/62770306acc64f51a19087d5de80c57e.png
+        - /files/p/products/fujifilm_xt2/shots/e28c62c701114a8f888323f8f88f569c.png
+        - /files/p/products/fujifilm_xt2/shots/44871d7f889d41e58c38e8194867ddcb.png
+        - /files/p/products/fujifilm_xt2/shots/2b0413466ba34886ab50cd526495a8a2.png
+        - /files/p/products/fujifilm_xt2/shots/c9eb8b1606b142658a48d7408b97b321.png
+        - /files/p/products/fujifilm_xt2/shots/d9c43f0f38054d579d91df58004ecafa.png
+    ReviewSummary:
+        GoodFor: Photographers looking for a jack-of-all-trades camera with hands-on ergonomics and excellent image quality.
+        NotSoGoodFor: Those professionals who need to be able to depend absolutely on the autofocus system.
+        Conclusion: The X-T2 is Fujifilm's most all-round capable ILC ever. It offers the excellent Raw image quality and delicious JPEGs as the X-Pro2 but gains much improved autofocus and some of the most detailed 4K footage we've seen. This full capability is only realized with certain lenses and in good light, but overall it's a camera whose capabilities extend far beyond those hinted at by its retro design.
+    ASIN:
+        - B01N7MXJUH
+        - B01I3LNMAM
+        - B01MZ975O3
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jul 7, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (Small external flash included)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 133 x 92 x 49 mm (5.24 x 3.62 x 1.93″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Fujifilm RAF, 14-bit)
+    FlashModes: Auto, standard, slow sync, manual, commander
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-12800 (expands to 100-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1599 (body only), $1899 (w/18-55mm)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "325"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (4240 x 2832, 3008 x 2000), 16:9 (6000 x 3376, 4240 x 2384, 3008 x 1688), 1:1 (4000 x 4000, 2832 x 2832, 2000 x 2000)
+    Processor: X-Processor Pro2
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: 3840 x 2160 (29.97p, 25p, 24p, 23.98p), 1920 x 1080 (59.94p, 50p, 29.97p, 25p, 24p, 23.98p), 1280 x 720 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "86%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 19, 2016"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual SD/SDHC/SDXC (UHS II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.16× (0.77× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 507 g (1.12 lb / 17.88 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

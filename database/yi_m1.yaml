@@ -1,0 +1,117 @@
+ProductCode: yi_m1
+Award: ""
+ImageURL: /files/p/products/yi_m1/6013da562f3f46469f55115c9a8c9548.png
+Name: YI M1
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 69
+URL: /products/yi/slrs/yi_m1
+ReviewData:
+    ExecutiveSummary: Young Innovators is a China-based company that first made their mark in the 4K action cam market. The YI M1 is a 20MP micro four thirds mirrorless entry level ILC camera that features an 81 point contrast detect AF system rated to -4EV, 4K/30P video recording and Raw capability. The camera is built around a 3" touch screen LCD display that features touch to focus and touch shutter technologies. The camera also has built in Wi-Fi and Bluetooth LE.
+    ProductPhotos:
+        - /files/p/products/yi_m1/shots/bcbfe4b166ad4ceabc9ed6b00297994d.png
+        - /files/p/products/yi_m1/shots/10e0109951974f8db1e2fea4863a88b9.png
+        - /files/p/products/yi_m1/shots/dd5a173542dd42dc9e4fa30847a54256.png
+    ReviewSummary:
+        GoodFor: Beginners looking to move from their smartphone to a platform that delivers higher quality photos, bearing in mind that the autofocus is severely limited. Photographers who manually focus and want excellent quality Raw files in a small, low cost package.
+        NotSoGoodFor: Someone with more experience looking for direct control or capable autofocus. If you're looking for a camera to capture erratically moving subjects, like small children, this camera isn't a good fit.
+        Conclusion: The M1 is built around a 20MP Four Thirds sensor that produces excellent Raw files offering good latitude. JPEGs are subtle in color, but full of detail in good light. Low light JPEGs suffer due to unsophisticated noise reduction. Autofocus routinely fails even on still subjects, while continuous AF is unusable; these problems are only made worse in low-light. The M1 produces some nice Full HD video and the 4K/30p video is capable, but can be very lens dependent and shaky due to the lack of stabilization while in 4K mode and the inconsistent rudimentary digital stabilization found in the Full HD mode. The autofocus is mostly unusable in video mode as it hunts a great deal and you have no control over what the camera is focusing on.
+    ASIN:
+        - B01CW4CKHW
+        - B01CW4CNKG
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 19, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: Contrast Detect (sensor)Multi-areaCenterSelective single-pointSingleContinuousTouchFace DetectionLive View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BXM-10 lithium-ion battery & charger
+    BatteryLifeCIPA: "450"
+    BodyMaterial: Composite and Metal
+    BodyType: Rangefinder-style mirrorless
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 114 x 64 x 34 mm (4.49 x 2.52 x 1.34″)
+    DriveModes: SingleContinuousSelf-timer
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: PanoramaProgramShutter PriorityAperture PriorityManualSceneSuper Professional Guide (used w/ app)
+    ExternalFlash: Yes (Hot-Shoe)
+    FieldOfView: ""
+    FileFormat: JPEG (Exif v2.3)DNG
+    FlashModes: Auto, On, Off, Slow Sync, Red-Eye Slow
+    FlashRange: ""
+    FlashXSyncSpeed: 1/125 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: MultiCenter-weightedSpot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: 3840 x 2160 @ 30p / 75 Mbps, MOV, H.264, AAC1920 x 1080 @ 60p / 30 Mbps, MOV, H.264, AAC1920 x 1080 @ 30p / 15 Mbps, MOV, H.264, AAC1920 x 1080 @ 24p / 15 Mbps, MOV, H.264, AAC1280 x 720 @ 60p / 15 Mbps, MOV, H.264, AAC1280 x 720 @ 30p / 10 Mbps, MOV, H.264, AAC1280 x 720 @ 24p / 10 Mbps, MOV, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "81"
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 29, 2016"
+    SceneModes: PortraitLandscapeSportNight SceneCandleSunsetFireworksBeach & Snow
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (MP4)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames up to 6 shots)
+    WeightIncBatteries: 281 g (0.62 lb / 9.91 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: 801.11b/g/n with Bluetooth LE

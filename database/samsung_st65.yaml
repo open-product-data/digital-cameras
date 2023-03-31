@@ -1,0 +1,86 @@
+ProductCode: samsung_st65
+Award: ""
+ImageURL: /files/p/products/samsung_st65/7d91b779af4b4f9ab0e97af632e62cf9.png
+Name: Samsung ST65
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st65
+ReviewData:
+    ExecutiveSummary: The Samsung ST65 is a 14MP stylish compact featuring 5x optical zoom lens starting at 27mm and 2.7 inch LCD. It features the company's Smart Album automatically organizes photos by type, date and face recognition and 720p HD video recording.
+    ProductPhotos:
+        - /files/p/products/samsung_st65/shots/be0dc21e4be44b9d81045c803592ab51.png
+        - /files/p/products/samsung_st65/shots/3446063ef1354234b92f1cc2e1b723e0.png
+        - /files/p/products/samsung_st65/shots/4e3d073cd5b54a1883f32d79ce9a474f.png
+    ReviewSummary: null
+    ASIN:
+        - B004NWC31U
+Specs:
+    Announced: Jan 19, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 92 x 53 x 17 mm (3.62 x 2.09 x 0.67″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

@@ -1,0 +1,77 @@
+ProductCode: hp_e327
+Award: ""
+ImageURL: /files/p/products/hp_e327/e0d184855397469f97eff3aea2a63dca.png
+Name: HP Photosmart E327
+ShortSpecs:
+    - 5 megapixels
+    - 1.8″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/hp/compacts/hp_e327
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000DZDP9A
+Specs:
+    Announced: Jan 4, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 99 x 32 x 53 mm (3.9 x 1.26 x 2.09″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 35 mm
+    Format: MPEG-2
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 4 star, 3 star, 2 star, 1 star
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2560 x 1920
+    MaximumAperture: F3.5
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 24 fps, MPEG-2
+    ScreenDots: 153,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 150 g (0.33 lb / 5.29 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,124 @@
+ProductCode: pentax_645d
+Award: ""
+ImageURL: /files/p/products/pentax_645d/09e89bcd068f4ba98a59022014ed40e9.png
+Name: Pentax 645D
+ShortSpecs:
+    - 40 megapixels
+    - 3″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_645d
+ReviewData:
+    ExecutiveSummary: Five years after announcing its development, and following a month-long online campaign trailing the launch, Pentax finally unveiled its much anticipated 645D medium format digital camera in March 2010. The first digital version of the company's 645 medium format camera system, it features a 40MP, 44 x 33 CCD sensor, 921k dot 3.0"" LCD and is compatible with the existing 645 system lenses. The camera will initially be available only in the Japanese market at a suggested retail price of ¥850,000 (~ US $9,400).
+    ProductPhotos:
+        - /files/p/products/pentax_645d/shots/619c75ebe0f941c5b00632e58afc2463.png
+        - /files/p/products/pentax_645d/shots/0cc233e41c8748dbbdd9d90db8a65189.png
+        - /files/p/products/pentax_645d/shots/ab4019680a434dbe83e741b9625bcd04.png
+        - /files/p/products/pentax_645d/shots/c769883bf16044e5b669cade63c9e05b.png
+    ReviewSummary: null
+    ASIN:
+        - B004A4U886
+Specs:
+    AEBracketing: ±2 (3, 5 frames at 1/7 EV, 1/5 EV, 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Mar 10, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI90 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: Yes (3)
+    DigitalZoom: "No"
+    Dimensions: 156 x 117 x 119 mm (6.14 x 4.61 x 4.69″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 40 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync, Rear Curtain
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600 (100 with boost)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LensMount: Pentax 645AF2
+    LiveView: ""
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7264 x 5440
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Prime II
+    RemoteControl: Yes (Optional, wired or wireless)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle and with AR coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 40 megapixels
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 98%
+    ViewfinderMagnification: 0.85×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1480 g (3.26 lb / 52.21 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

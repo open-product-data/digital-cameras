@@ -1,0 +1,117 @@
+ProductCode: ricoh_grdigital3
+Award: ""
+ImageURL: /files/p/products/ricoh_grdigital3/664f01f987b74fdd80627e47c55da230.png
+Name: Ricoh GR Digital III
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_grdigital3
+ReviewData:
+    ExecutiveSummary: Successor to the GR Digital II, the GR Digital III offers a 28mm (equivalent) f/1.9 lens and a new 10MP sensor with larger pixel pitch than its predecessor. It continues the Ricoh tradition of high resolution screens, becoming one of the first compact to offer a 920,000 dots VGA panel. A new imaging engine, in combination with the more sensitive sensor promises to improve high ISO performance. It also gains faster AF and a 'full-press snap' mode that jumps to a preset focus distance for fast street shooting. It can also shoot a burst of up to 5 RAW files in continuous or bracketing mode.
+    ProductPhotos:
+        - /files/p/products/ricoh_grdigital3/shots/a022c7ae6d954aef8ae434deb7c6a35a.png
+        - /files/p/products/ricoh_grdigital3/shots/3c3dd76e3889432598afb07b824f3616.png
+        - /files/p/products/ricoh_grdigital3/shots/ba454cb660e44ae4916e11590d21d1d1.png
+        - /files/p/products/ricoh_grdigital3/shots/e2e77a19ec774b06b11645f0147ab67d.png
+    ReviewSummary: null
+    ASIN:
+        - B08LM9BLN2
+        - B07NSMJX2K
+        - B0BJ4S91HN
+Specs:
+    AEBracketing: ""
+    Announced: Jul 27, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $969.95 - $1,019.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 59 x 26 mm (4.29 x 2.32 x 1.02″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Manual
+    FlashRange: 3.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28 mm
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Economy, Normal, Fine
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F1.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 2736 x 2736, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1280 x 960, 640 x 480
+    Processor: GR engine III
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 88 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 208 g (0.46 lb / 7.34 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

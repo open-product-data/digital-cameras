@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211125194748/https://www.dpreview.com/reviews/sony-alpha-a7
+ProductCode: sony_a7
+Award: silver
+ImageURL: /files/p/products/sony_a7/6a79cd94931944dcb5ede89a8c587bdf.png
+Name: Sony a7
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 80
+URL: /products/sony/slrs/sony_a7
+ReviewData:
+    ExecutiveSummary: The Sony Alpha 7 is a full-frame E-mount mirrorless camera. The A7 is very similar to its more expensive sibling (the A7R), except that it uses a 24 megapixel CMOS sensor with on-chip phase detection. The A7 twins are the smallest and lightest full-frame cameras on the market. While the cameras can use any E-mount lens, there will be a crop factor involved (unless you don't mind vignetting). Sony is producing a new line of FE-series lenses that take advantage of the larger sensor.The A7's use the new Sony Bionz X processor, which produces images with better detail, less noise, and reduced diffraction. Other features include a 3-inch, tilting LCD, XGA OLED electronic viewfinder, Multi-interface (hot) shoe, Wi-Fi with NFC, and 1080/60p video recording.
+    ProductPhotos:
+        - /files/p/products/sony_a7/shots/2fee066f3598410f93701e3561259596.png
+        - /files/p/products/sony_a7/shots/35cc7ff60e584198a30d747fc66c2628.png
+        - /files/p/products/sony_a7/shots/5dafc26c784349e6ad36439bf9980750.png
+        - /files/p/products/sony_a7/shots/a1325337a3b14bd2ac556fb7f0bfc1b5.png
+        - /files/p/products/sony_a7/shots/9c5095d8531449b1bb5c39a74d977468.png
+    ReviewSummary:
+        GoodFor: Those seeking a full-frame sensor in a small body, determined third-party and historic lens owners, video enthusiasts, and social media mavens
+        NotSoGoodFor: JPEG shooters, Auto ISO users, and photographers who want to quickly capture a moment
+        Conclusion: The Alpha 7 has broken new ground in the full-frame market, in terms of both size and price. While it's not perfect, the a7's compact size, broad feature set and very good raw image quality arguably make up for issues like relatively poor battery life and slightly overprocessed JPEGs.
+    ASIN:
+        - B00FRDUZXM
+        - B00FRDV06I
+        - B07D9217NW
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 16, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4)
+    Dimensions: 127 x 94 x 48 mm (5 x 3.7 x 1.89″)
+    DriveModes:
+        - Single, continuous, speed priority continuous, self-timer, bracketing (AE, white balance, DRO)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - RAW (ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4K still, uncompressed video output)
+    HeadphonePort: "Yes"
+    ISO: 100-25600
+    ImageParameters:
+        - Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn Leaves, Black & White, Sepia
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1699.99 / £1299 (body only), $1999.99 / £1549 (with 28-70mm F3.5-5.6 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "117"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 3936 x 2624, 3936 x 2216, 3008 x 1688, 3008 x 2000
+    Processor: Bionz X
+    RemoteControl: Yes (wired)
+    Resolutions: 1920 x 1080 (60p, 60i, 24p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 22, 2014"
+    SceneModes:
+        - Portrait, Landscape, Macro, Sports Action, Sunset, Night Portrait, Night Scene, Hand-held Twilight, Anti Motion Blur
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: Xtra Fine LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: headphone and microphone ports, XLR support via adapter
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 474 g (1.04 lb / 16.72 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: with NFC and wireless control via PlayMemories Mobile app

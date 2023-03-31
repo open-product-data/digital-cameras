@@ -1,0 +1,99 @@
+ProductCode: panasonic_dmcfx580
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfx580/08e90f57f2b34c5198e0c60a2be68547.png
+Name: Panasonic Lumix DMC-FX580 (Lumix DMC-FX550)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 125 mm (5×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfx580
+ReviewData:
+    ExecutiveSummary: Premium slimline compact with ultrawide (25-125mm) Leica-branded 5x zoom, optical image stabilization, 12MP sensor, manual exposure mode and a high resolution 3.0" touch-screen interface. New features for '09 include Face Recognition technology (used to prioritize certain people in face detection mode and to sort images by subject) and a new faster and more powerful version of the Venus processing engine. Aside from the touch screen interface the FX580 is very similar to the more compact FX48/FX40. April 2009
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfx580/shots/6747757fff604057a6d907e6166742d8.png
+        - /files/p/products/panasonic_dmcfx580/shots/f2b8e16c613342e88bd8ffa90512d06c.png
+        - /files/p/products/panasonic_dmcfx580/shots/96d1b6a0daaf4117a1479f0e1d173d3f.png
+        - /files/p/products/panasonic_dmcfx580/shots/9c157d53391b4be18d599f70770110ab.png
+    ReviewSummary: null
+    ASIN:
+        - B001QFZMAG
+Specs:
+    Announced: Jan 27, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $448.99
+    ContinuousDrive: 2.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 95 x 57 x 22 mm (3.74 x 2.24 x 0.87″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 6.00 m
+    FocalLengthEquiv: 25–125 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600 (1600-6400 with boost)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2560 x 1920, 2560 x 1712, 2560 x 1440, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 167 g (0.37 lb / 5.89 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

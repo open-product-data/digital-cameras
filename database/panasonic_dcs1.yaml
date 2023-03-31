@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220308070028/https://www.dpreview.com/reviews/panasonic-lumix-dc-s1-review
+ProductCode: panasonic_dcs1
+Award: silver
+ImageURL: /files/p/products/panasonic_dcs1/bddcd6f13ba3482ca4ddfa1c66aa48c7.png
+Name: Panasonic S1
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 88
+URL: /products/panasonic/slrs/panasonic_dcs1
+ReviewData:
+    ExecutiveSummary: The DC-S1 is one of two of Panasonic's new line of full-frame mirrorless cameras. It uses the L-mount originally developed by Leica and supports lenses from the German manufacturer along with Panasonic and Sigma. The S1 features a 24MP sensor, in-body shake reduction that works in conjunction with stabilized lenses, and Panasonic's Depth from Defocus contrast-detect AF system. Other features include an ultra-high-res EVF, double-hinged LCD, top panel LCD and dual memory card slots (SD and XQD). The S1 is capable of capturing 4K/60p video. The magnesium alloy body is weather-resistant and has a shutter rated to 400k cycles.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcs1/shots/14244d65d4284004be04ac0008e9df33.png
+        - /files/p/products/panasonic_dcs1/shots/2a89d9a7ff024124a4407753317a3deb.png
+        - /files/p/products/panasonic_dcs1/shots/9b22b819dab84fb3ad4600d1625c8722.png
+        - /files/p/products/panasonic_dcs1/shots/725474af91c74319b3e5f6e62c38ab3d.png
+        - /files/p/products/panasonic_dcs1/shots/38d5d1f35e11431886bb79c6fee4e33d.png
+        - /files/p/products/panasonic_dcs1/shots/98fa72a84ca443988bfa3300617d34b1.png
+    ReviewSummary:
+        GoodFor: Those seeking a stills/video hybrid camera with a solid, weather-sealed body with excellent image and video quality.
+        NotSoGoodFor: Photographers requiring a top-notch autofocus system. Those looking for a lighter, more portable body.
+        Conclusion: The Panasonic Lumix DC-S1 is an incredibly well-built (but heavy) camera with excellent image and video quality. The body has numerous control points and is highly customizable. The S1's built-in image stabilization is effective, and the camera can use this system to produce ultra-high-res stills. Autofocus is speedy and accurate in most situations, though the continuous AF experience can be frustrating when using the EVF. Video quality is excellent, with 4K/60p support and numerous capture controls, and more on the way via a paid upgrade. While it's more expensive than its peers, the S1 is great for a variety of use cases, and is worth your consideration if you don't mind its size and weight.
+    ASIN:
+        - B07N87JS6Q
+        - B00HC6FMWQ
+        - B07RXMS2CF
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 1, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLJ31 lithium-ion battery & charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,498.00 - $5,495.98
+    CIPAImageStabilizationRating: 6 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 149 x 110 x 97 mm (5.87 x 4.33 x 3.82″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2)
+        - HLG (CTA-2072)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync w/Red-eye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/320 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (4:2:2 8-bit output (except 4K/60p))
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis; combines with in-lens stabilization for increased shake reduction
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $2499 (body only), $3399 (w/24-105mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 72 Mbps, MP4, H.265, AAC
+        - 3840 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 72 Mbps, MP4, H.265, AAC
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 72 Mbps, MP4, H.265, AAC
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "88%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 25, 2019"
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: XQD + SD card slots; UHS-II supported
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (can be charged with high-power laptop/tablet chargers or portable power banks)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 899 g (1.98 lb / 31.71 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

@@ -1,0 +1,86 @@
+ProductCode: sony_dscw130
+Award: ""
+ImageURL: /files/p/products/sony_dscw130/6d78bdefeaf544fa8c94c61e773b7107.png
+Name: Sony Cyber-shot DSC-W130
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 32 – 128 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw130
+ReviewData:
+    ExecutiveSummary: One of a range of very similar W series compacts announced in early 2008, the DSC-W130 is a basic but nicely put together 8.1 megapixel metal-bodied job with a useful 32-128mm (equiv.) 4x zoom and 2.5" screen. The almost identical DSC-W120 (which has a 7.2 megapixel sensor) did very well in our December 2008 budget camera group test. (April 2009)
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0013TUG5G
+        - B0013UGRYO
+        - B0013TVY02
+Specs:
+    Announced: Jan 23, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-BG1) & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (up to 2x)
+    Dimensions: 88 x 57 x 22 mm (3.46 x 2.24 x 0.87″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.90 m (Auto ISO)
+    FocalLengthEquiv: 32–128 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–7.1
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 4 cm (1.57″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 3264 x 2176, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 30 fps, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 15 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 154 g (0.34 lb / 5.43 oz)
+    WhiteBalancePresets: "6"

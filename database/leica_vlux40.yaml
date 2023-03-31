@@ -1,0 +1,157 @@
+ProductCode: leica_vlux40
+Award: ""
+ImageURL: /files/p/products/leica_vlux40/4b1f7eb10421450d901709f6e5ed38e8.png
+Name: Leica V-Lux 40
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 24 – 480 mm (20×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_vlux40
+ReviewData:
+    ExecutiveSummary: The Leica V-Lux40 is a 14MP, 20X compact superzoom camera. It is the second V-Lux model to feature GPS, and very closely resembles the Panasonic DMC-TZ30/ZS20. This gives it a 24-480mm equivalent zoom range and 14.1MP output (from a 15.3MP CMOS sensor). It also means it's capable of capturing 1080 video. The camera also features the highest-res screen in the Leica range - a 460k dot 3.0" LCD. Unlike the similar Panasonic, the Leica V-Lux 40 includes Adobe Photoshop Elements 10 and Premier Elements 10.
+    ProductPhotos:
+        - /files/p/products/leica_vlux40/shots/fd3a5acc2cfd4e3d829a68d48463f4f4.png
+        - /files/p/products/leica_vlux40/shots/202710608d624c2ab9fe6e4d914c7212.png
+        - /files/p/products/leica_vlux40/shots/af5e7334a5804846be20008b66bc1267.png
+        - /files/p/products/leica_vlux40/shots/593c14d5177d4121aac58933d5c170c4.png
+    ReviewSummary: null
+    ASIN:
+        - B0082ES1R0
+Specs:
+    AEBracketing: ±1 (3 frames at 1/3 EV, 1 EV steps)
+    Announced: May 10, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Continuous
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,299.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 105 x 59 x 28 mm (4.13 x 2.32 x 1.1″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Custom
+        - 3D
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - '3D: MPO'
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 6.40 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–480 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (Type C)
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600. 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $699 / £550 (inc VAT)
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.3–6.4
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 3240, 4320 x 2880, 4320 x 2432, 3648 x 2736, 3648 x 2432,  3648 x 2056, 3232 x 3232,3072 x 2048, 3072 x 2304, 3072 x 1728,  2736 x 2736, 2560 x 1920, 2560 x 1712, 2560 x 1440, 2304 x 2304, 2048 x 1536, 2048 x 1360,  1920 x 1920, 1920 x 1080, 1536 x 1536, 640 x 480, 640 x 424, 640 x 360, 480 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps), 320 x 240 (220 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Sports
+        - Night Portrait
+        - Night Scenery
+        - Hand Held Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Underwater
+        - High Speed Video
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 12MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

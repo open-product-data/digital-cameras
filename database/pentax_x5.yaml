@@ -1,0 +1,160 @@
+ProductCode: pentax_x5
+Award: ""
+ImageURL: /files/p/products/pentax_x5/f20b42c4ab014984b64a4d3c35715c0c.png
+Name: Pentax X-5
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 22 – 580 mm (26×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_x5
+ReviewData:
+    ExecutiveSummary: The Pentax X-5 is a 26x superzoom built around a 16MP backlit CMOS sensor. It is designed to closely resemble the company's K-5 DSLR, despite being based around a 1/2.3"-type sensor. The lens offers a 22.3-580mm equivalent range, backed up with sensor-shift image stabilization. It can capture 1080p30 movies and features a selection of the multi-shot and image processing modes that have become common on CMOS-based cameras. It features a tilting 460k dot rear LCD and 230k dot electronic viewfinder. It is powered by AA batteries, giving around 500 shots per charge when used with NiMh rechargeable cells.
+    ProductPhotos:
+        - /files/p/products/pentax_x5/shots/0474fae6f299474ab1db59ed12c653fe.png
+        - /files/p/products/pentax_x5/shots/9ff4d1593298424ab9beefe61fb11c13.png
+        - /files/p/products/pentax_x5/shots/23f512a8ca7e4f80a8095bc398083518.png
+        - /files/p/products/pentax_x5/shots/1797932b82234bc19340f33e9c719108.png
+        - /files/p/products/pentax_x5/shots/adb4de740e19404b9dcc87e8c5d9a8f4.png
+    ReviewSummary: null
+    ASIN:
+        - B0091TC3OC
+        - B0091T97J6
+Specs:
+    AEBracketing: ""
+    Announced: Aug 22, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: 4 x AA batteries (Alkaline, Lithium, Nickel and Rechargeable Ni-MH)
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (7.2x)
+    Dimensions: 119 x 86 x 107 mm (4.69 x 3.39 x 4.21″)
+    DriveModes:
+        - One shot
+        - Continuous Shooting
+        - Burst Shooting (L/H)
+        - Self-timer
+        - Remote Control
+        - Auto Bracketing
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Movie
+        - Scene
+        - Custom
+    ExternalFlash: "No"
+    FileFormat:
+        - JPG (EXIF 2.2)
+        - DCF 2.0, DPOF
+    FlashModes: ""
+    FlashRange: 9.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 22.3–580 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, Better, Good
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 26×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3456 x 3456, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional Remote O-RC1)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Flower
+        - Blue Sky
+        - Sunset
+        - Night Scene
+        - Night Scene Portrait
+        - Fireworks
+        - HDR
+        - Surf & Snow
+        - Baby
+        - Kids
+        - Pet
+        - Food
+        - Digital SR
+        - Stage Lighting
+        - Text
+        - Museum
+        - Digital Wide
+        - Digital Panorama
+        - Frame Composite
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 75. 3 MB Internal
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 230,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 595 g (1.31 lb / 20.99 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

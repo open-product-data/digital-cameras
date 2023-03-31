@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412005450/https://www.dpreview.com/reviews/sony-cybershot-dsc-qx100
+ProductCode: sony_dscqx100
+Award: ""
+ImageURL: /files/p/products/sony_dscqx100/65cca5a409ed431ebdfe61e649fc791b.png
+Name: Sony Cyber-shot DSC-QX100
+ShortSpecs:
+    - 20 megapixels
+    - 28 – 100 mm (3.6×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscqx100
+ReviewData:
+    ExecutiveSummary: The Cyber-shot DSC-QX100 is a portable 'camera unit' that clips onto your smartphone. By using Sony's PlayMemories Mobile app you have complete control over the camera, and photos you take are automatically transferred to your mobile device. The QX100 has the same 'guts' as the Sony RX100 II premium compact, complete with a 20.2 megapixel, 1-inch sensor and F1.8-4.9, 28-100mm lens, but you don't get much exposure control and you can't shoot RAW.
+    ProductPhotos:
+        - /files/p/products/sony_dscqx100/shots/ba31aa31d73c42199e7ea7740d2fafc4.png
+        - /files/p/products/sony_dscqx100/shots/c9e888a2887e4e45951c71150f6367da.png
+        - /files/p/products/sony_dscqx100/shots/44b5c5c94a15429280cebcfb967f23e7.png
+    ReviewSummary: null
+    ASIN:
+        - B00SUEJPZY
+Specs:
+    AEBracketing: ""
+    Announced: Sep 4, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: NP-BN, NP-BN1
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 63 x 63 x 56 mm (2.46 x 2.46 x 2.19″)
+    DriveModes:
+        - Single
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF)
+    FlashModes: None
+    FlashRange: ""
+    FocalLengthEquiv: 28–100 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 160-6400
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Normal
+    LiveView: Yes (via smartphone)
+    MSRP: $500/£399/€449
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: '3:2: 2736 x 1824; 4:3: 4864 x 3648, 2592 x 1944; 16:9: 5472 x 3080, 2720 x 1528; 1:1: 3648 x 3648, 1920 x 1920'
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1440 x 1080 (30 fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Sep 5, 2013"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: Depends on connected smartphone
+    SelfTimer: Yes (2, 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: microSD, microSDHC, microSDXC, Memory Stick Micro
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (via smartphone)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 179 g (0.39 lb / 6.31 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

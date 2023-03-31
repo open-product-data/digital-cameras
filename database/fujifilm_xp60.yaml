@@ -1,0 +1,125 @@
+ProductCode: fujifilm_xp60
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp60/02c15622ff4b481a9592e3d875f1af79.png
+Name: Fujifilm FinePix XP60
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp60
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The 16MP Fujifilm Finepix XP60 is waterproof down to 6m (20 feet), has a 5x optical zoom lens, image stabilization and can record 1080i60 video. A dedicated ''burst mode'' button offers up to 10fps at full resolution. The camera also comes with a sweep panorama mode as well as several effects filters.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp60/shots/67712d7faed147c48f44b591698a3c14.png
+        - /files/p/products/fujifilm_xp60/shots/03f038e9ef1841d2b3888844c3fc5a94.png
+        - /files/p/products/fujifilm_xp60/shots/3c958b1babeb4106b20c176fc046b500.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1MF6
+        - B00ATM1NBO
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: ""
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof)
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: "199.95"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: ""
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60fps), 320 x 240 (240 fps), 640 x 480 (120 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/ SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

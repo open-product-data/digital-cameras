@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175848/https://www.dpreview.com/reviews/pentax-mx-1
+ProductCode: pentax_mx1
+Award: silver
+ImageURL: /files/p/products/pentax_mx1/903755906a824be8b4fa24921e9dea5b.png
+Name: Pentax MX-1
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 74
+URL: /products/pentax/compacts/pentax_mx1
+ReviewData:
+    ExecutiveSummary: The Pentax MX-1 enthusiast compact camera features classic styling and construction, with brass top and base plates. It's based around a stabilized 12MP BSI CMOS sensor and a familiar-sounding 28-112mm equivalent F1.8-2.5 lens. In addition the MX-1 features a flip-out 920k dot rear screen. It includes a top-plate exposure compensation dial and rear thumb wheel to control a UI very much like those in the company's DSLRs.
+    ProductPhotos:
+        - /files/p/products/pentax_mx1/shots/11a1a87ff42c47ab888f2623d792cfe2.png
+    ReviewSummary:
+        GoodFor: Those looking for a high quality camera with a great sensor and sharp lens, who also like a little style and heft for extra stability.
+        NotSoGoodFor: Enthusiasts looking for more rapid control over exposure and other settings. Anyone looking for a camera that slips easily into a pocket.
+        Conclusion: Pentax's first entry into the premium pocket camera category is big on image quality but also a bit big for the pocket, which narrows its niche a little more than its competitors. Still, it's a very capable camera with a good set of features, a handsome finish, and an impressive sensor and lens combination.
+    ASIN:
+        - B00B46A1AS
+        - B00B46A1A8
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-Li-106 rechargeable battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: Brass and composite
+    BodyType: Compact
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 122 x 61 x 51 mm (4.8 x 2.4 x 2.01″)
+    DriveModes:
+        - One shot
+        - Continuous Shooting
+        - Burst Shooting (L/H)
+        - Self-timer (2 or 10 sec.)
+        - Remote Control (immediately or 3 sec.)
+        - Auto Bracketing
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Scene select  AE
+        - Green
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG 2.3
+        - RAW
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Speed sync, Trailing Curtain sync
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Mini HDMI type-D)
+    HeadphonePort: ""
+    ISO: Auto (100 -1600), 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $499
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F1.8–2.5
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 3984 x 2656, 3968 x 2232, 3072 x 2304, 3072 x 2048, 3072 x 1728, 2592 x 1728, 2560 x 1440, 2048 x 1152
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "74%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 1, 2013"
+    SceneModes:
+        - Landscape
+        - Portrait
+        - Night Scene
+        - Night Scene Portrait
+        - Standard
+        - Flower
+        - Sport
+        - Candlelight
+        - Blue Sky
+        - Sunset
+        - Text
+        - Group Photo
+        - Pet
+        - Portrait x Blue Sky
+        - Portrait x Sunset
+        - Portrait x Backlight
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD with AR coating
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 75.3 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 391 g (0.86 lb / 13.79 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

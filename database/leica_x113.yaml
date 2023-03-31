@@ -1,0 +1,126 @@
+ProductCode: leica_x113
+Award: ""
+ImageURL: /files/p/products/leica_x113/95125d01472c489eacd4de147e4530da.png
+Name: Leica X (Typ 113)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/leica/compacts/leica_x113
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: To create optimum image quality, the Leica X pairs an APS-C-Format CMOS Sensor with 16.5 megapixels (effective 16.2 megapixels) with a Summilux 23 mm f/1.7 ASPH lens. Delivering clear, sharp photos from infinity to a close focusing distance of .2 meters, the improved lens design minimizes flare and ghosting effects. Equivalent to the focal length of a 35mm lens on a full frame, 35mm sensor, the 23mm lens on an APS-C sensor allows for classic wide-angle photography. When using the Leica Digiscoping Adapter on the Leica APO-Televid 82 and APO-Televid 65 spotting scopes, the X camera enables wildlife watchers and photographers to create stunning images with a variable focal length from 850 to 3100 mm.The simplified functionality and new menu layout permits intuitive camera handling and ease in switching from automatic to manual modes. A faster, more precise auto focus ensures the perfect photo is never missed. Capable of capturing full-HD quality video at a resolution of 1920 x 1080 pixels and 30 full frames per second in MP4 format, the new Leica X provides everything an amateur or professional photographer needs for commercial, small business or family use.A fusion of highest-quality magnesium and aluminum with premium leather trim, the Leica X body comes in a discreet black version with matching leather trim or in an elegant silver with brown leather trim. An extensive range of technical accessories, bags and cases are available for the Leica X wherever the camera is sold'
+    ProductPhotos:
+        - /files/p/products/leica_x113/shots/5cdfe10d918f4e9ca3cc2a9c591d2f40.png
+        - /files/p/products/leica_x113/shots/8eed54393162490cb7674d66d5d88e10.png
+        - /files/p/products/leica_x113/shots/af73e3e30708419cb2ab02c399f61112.png
+        - /files/p/products/leica_x113/shots/56211679b64b47548f451e3aeab85d4d.png
+        - /files/p/products/leica_x113/shots/c53983ec7767476cbdca93f5da113b22.png
+        - /files/p/products/leica_x113/shots/4366b1b9e86a4e5c9f23e6391319a5ad.png
+    ReviewSummary: null
+    ASIN:
+        - B07T9NT4NV
+        - B08W8TN582
+        - B08BBHBPXT
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 16, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-DC8
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium Alloy and Aluminium
+    BodyType: Large sensor compact
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 133 x 73 x 78 mm (5.24 x 2.87 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-12,500
+    ImageRatioWh: "3:2"
+    ImageStabilization: Unknown
+    JPEGQualityLevels: Super fine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: £1550, $2,295
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4928 x 3264
+    MaximumAperture: F1.7–32
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 20 cm (7.87″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: 4272 x 2856, 3264 x 2160, 2144 x 1424, 1632 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: LCD
+    SelfTimer: ""
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23 x 15.5 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD, SDHC, SDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 486 g (1.07 lb / 17.14 oz)
+    WhiteBalancePresets: "2"
+    Wireless: ""
+    WirelessNotes: ""

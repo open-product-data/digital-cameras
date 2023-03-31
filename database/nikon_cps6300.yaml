@@ -1,0 +1,104 @@
+ProductCode: nikon_cps6300
+Award: ""
+ImageURL: /files/p/products/nikon_cps6300/d500aaecce0441a580c062748586387c.png
+Name: Nikon Coolpix S6300
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps6300
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/nikon_cps6300/shots/28a8e6827da04dc4b9bfb02c909b653c.png
+        - /files/p/products/nikon_cps6300/shots/7c4f28b83a9943b686b3c5a9b46fe457.png
+    ReviewSummary: null
+    ASIN:
+        - B0073HSHZI
+        - B0073HSI6Q
+        - B0073HSHVM
+Specs:
+    Announced: Feb 1, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "230"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 58 x 26 mm (3.7 x 2.28 x 1.02″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow-sync
+    FlashRange: ""
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Mini Connector)
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–5.8
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3264 x 2448 , 1600 X 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30fps), 1280 x 720p (30 fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 26 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

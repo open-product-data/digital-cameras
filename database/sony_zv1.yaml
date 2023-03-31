@@ -1,0 +1,187 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211209160434/https://www.dpreview.com/reviews/sony-zv-1-review
+ProductCode: sony_zv1
+Award: gold
+ImageURL: /files/p/products/sony_zv1/1524d0716bc74e9c910d49ecb54f0674.png
+Name: Sony ZV-1
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 70 mm (2.9×)
+ReviewScore: 85
+URL: /products/sony/compacts/sony_zv1
+ReviewData:
+    ExecutiveSummary: The Sony Z-V1 is a variation of the RX100 VA that is squarely targeted toward vloggers. While it uses the same 24-70mm equiv. lens and 20MP 1" sensor as that camera, the Z-V1 eschews the RX100 VA's pop-up viewfinder for a directional 3-capsule microphone. The mode dial is now a giant record button, and a tally lamp can be found on the front. The camera has Sony's latest autofocus system, including real-time eye AF. A background defocus function lets you quickly switch between two levels of background blur at the push of a button, even while recording.The Z-V1 has oversampled 4K video and Full HD to 120 fps. It supports HLG and S-Log2/3 for easier color grading. While it has a mic socket, a headphone jack is missing. Unlike the RX100 VA, this camera has a vlogger-friendly fully articulating touchscreen display.
+    ProductPhotos:
+        - /files/p/products/sony_zv1/shots/58b0985404714117bfb591789fd76e41.png
+        - /files/p/products/sony_zv1/shots/88960877145d4e10a479b93f61109841.png
+        - /files/p/products/sony_zv1/shots/c0026af03d114785b41f75eb1b84725d.png
+        - /files/p/products/sony_zv1/shots/48f529959402494d93af8c5be449eade.png
+        - /files/p/products/sony_zv1/shots/611d6b4b700b4a56aaca8d24cb496bb9.png
+        - /files/p/products/sony_zv1/shots/51dca5687e824d9c879537cc40dec078.png
+        - /files/p/products/sony_zv1/shots/c718d35c415c4bf1b9a0d44a6d424af5.png
+    ReviewSummary:
+        GoodFor: Vlogging and video capture, travel photo and video, family photography.
+        NotSoGoodFor: Users that need a longer zoom range and users that have no need for video or the video-focused features of this camera.
+        Conclusion: The ZV-1 is a solid option for vloggers and photographers looking for a compact camera with a fast lens and great video and still image quality. Its novel microphone and video-friendly ergonomics are big plusses, but we want to see Sony introduce a more modern touch interface and update their menus to appeal to a wider audience. Overall, whether you're a dedicated video maker or just want an easy-to-use camera for good quality clips, the ZV-1 is worth a look.
+    ASIN:
+        - B08LG16D1X
+        - B08965JV8D
+        - B0BFV2N1ZK
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: May 26, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: Aluminum/composite
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $748.00 - $1,025.57
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 24.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3.8x)
+    Dimensions: 105 x 60 x 44 mm (4.13 x 2.36 x 1.73″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual Exposure
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+        - Raw (Sony ARW v2.3)
+    FlashModes: Auto, Flash On, Slow Synchro, Rear Sync, Flash Off
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–70 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $800/£700/€800
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 6 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 25p / 6 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "315"
+    OpticalZoom: 2.9×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 23, 2020"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Fireworks
+        - High Sensitivity
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 294 g (0.65 lb / 10.37 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

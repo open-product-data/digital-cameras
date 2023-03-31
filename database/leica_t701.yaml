@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023180439/https://www.dpreview.com/reviews/leica-t-typ701
+ProductCode: leica_t701
+Award: ""
+ImageURL: /files/p/products/leica_t701/11267acd0b4e4fceb83cf89854a9bbde.png
+Name: Leica T
+ShortSpecs:
+    - 16 megapixels
+    - 3.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_t701
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Leica T features a large, APS-C-format, CMOS image sensor with over 16.5 megapixels (effective 16.2 MP) that, due to its size, performance and imaging characteristics, represents the ideal solution in the compact class of the Leica T. Complementing the purist design of the camera, the operating concept of the Leica T is equally clear, simple and concentrated on relevant functions. At the heart of the concept is the clear design of the touchscreen display. It is generously dimensioned and generates a bright and clear image that allows precise and reliable assessment during image composition and in playback mode. The Leica T is the first system camera from Leica to feature an integrated Wi-Fi module. Pictures and videos can be wirelessly transmitted straight from the camera to a smartphone, tablet or computer, and can then be shared by email, or on Facebook or other social media.'
+    ProductPhotos:
+        - /files/p/products/leica_t701/shots/fd6cf102e7874d9a94d3a3aa81ec5e7e.png
+        - /files/p/products/leica_t701/shots/68098fc8ac8449dc86e879090804bf64.png
+        - /files/p/products/leica_t701/shots/c70c6edcd77e471b9ff3888d2c0ec12c.png
+        - /files/p/products/leica_t701/shots/f9a2f5fa2e3d43dca29e0110a95a7d24.png
+        - /files/p/products/leica_t701/shots/c780dc416b7c41b9baa79b6609ba8e41.png
+        - /files/p/products/leica_t701/shots/01129887ac4e4fdc9c7e3a9121250c82.png
+    ReviewSummary: null
+    ASIN:
+        - B00K0R53PU
+        - B00K0PJV3M
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Apr 24, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC13 lithium-ion battery and USB charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Aluminum
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 69 x 33 mm (5.28 x 2.72 x 1.3″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Scene
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: Auto, auto w/redeye reduction, flash on, flash on w/redeye reduction, slow sync, slow sync w/redeye reduction
+    FlashRange: 4.50 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4
+    GPS: Optional
+    GPSNotes: Built into optional EVF
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 125-12500
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Superfine, fine
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $1850/£1350
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4944 x 3278
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4928 x 3264 (max JPEG), 4272 x 2856, 3264 x 2160, 2144 x 1424, 1632 x 1080
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Apr 24, 2014"
+    SceneModes:
+        - Sport, portrait, landscape, night portrait, snow/beach, fireworks, candlelight, sunset
+    ScreenDots: 1,300,000
+    ScreenSize: 3.7″
+    ScreenType: TFT
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.7 mm)
+    SensorSizeNotes: No anti-aliasing filter
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7× (0.47× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 384 g (0.85 lb / 13.55 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone control

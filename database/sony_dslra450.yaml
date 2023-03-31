@@ -1,0 +1,120 @@
+ProductCode: sony_dslra450
+Award: ""
+ImageURL: /files/p/products/sony_dslra450/6de557985a114891bb5d56f5282f5110.png
+Name: Sony Alpha DSLR-A450
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_dslra450
+ReviewData:
+    ExecutiveSummary: Released in early 2010, the Sony Alpha 450 slots in below the A500, offering the same 14.2 megapixel CMOS sensor as the more expensive A550 but losing the company's clever fast-AF live view system. It also loses the tilt and flip LCD screen, instead receiveing the same rather small 6.7cm (2.6") display as the A230. This stripped-down, lower-cost model plays the same role as the A230 does to the A3XX range, but with the improved ergonomics and larger battery of the A5XX series. The reduced feature set helps boost the battery life to over 1000 shots, using standard test methods. However, by adding a sixth sub-$1000 DSLR, Sony made its range that bit more confusing.
+    ProductPhotos:
+        - /files/p/products/sony_dslra450/shots/d1b36842901c4727a1e075ec537aa1cc.png
+        - /files/p/products/sony_dslra450/shots/6c498a8b92ec4f52aced56af1c9e960b.png
+        - /files/p/products/sony_dslra450/shots/61c8251d85484537950f0299a367489a.png
+        - /files/p/products/sony_dslra450/shots/4af9699202cc4a6a97fff84da5caac6f.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: (3 frames at 1/7 EV, 1/3 EV steps)
+    Announced: Jan 5, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FM500H rechargeable battery & charger
+    BatteryLifeCIPA: "1050"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 137 x 104 x 81 mm (5.39 x 4.09 x 3.19″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, Fill, Rear Sync, Slow Sync, Wireless/ High Speed Sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 3056, 4592 x 2576, 3344 x 2224, 3344 x 1872, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (Wired or wirelss (optional))
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: TFT Clear Photo Color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 560 g (1.23 lb / 19.75 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

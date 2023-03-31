@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210903012043/https://www.dpreview.com/reviews/2014-15-waterproof-camera-roundup
+ProductCode: oly_tg3
+Award: silver
+ImageURL: /files/p/products/oly_tg3/d3dd6b8aa9584f79b20a8aaf1bb1db68.png
+Name: Olympus Tough TG-3
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 75
+URL: /products/olympus/compacts/oly_tg3
+ReviewData:
+    ExecutiveSummary: The Olympus TG-series of waterproof cameras remains a popular choice for enthusiasts looking for a rugged compact camera. The TG-3 retains lens specifications of the TG-2 with a bright 25-100mm F2.0-4.9 lens, but improves on its predecessor with the addition of built-in Wi-Fi that syncs with Android and iOS devices. The Wi-Fi connectivity allows data transfer, social media connectivity, and full camera control. The TG-3 also features a microscope mode that can capture images as close as 10mm away from the subject and magnify up to 6.9x and up to 13.8x with Super Resolution Zoom.A lineup of optional system accessories are available for the TG-3, including waterproof fisheye and tele converter lenses, an LED right light, an underwater protector, float straps and multipurpose camera cases are sold separately.
+    ProductPhotos:
+        - /files/p/products/oly_tg3/shots/805d3911e23944aba152c7a363ba8113.png
+        - /files/p/products/oly_tg3/shots/0ec3a708e7e74d569edcb3943e4c4f16.png
+        - /files/p/products/oly_tg3/shots/ed6755c107ef481083bffebb8f891558.png
+        - /files/p/products/oly_tg3/shots/a17fa35a8b0f44df9eb898da356b962a.png
+    ReviewSummary:
+        GoodFor: Skiers, climbers, and divers looking for a responsive and very rugged camera that can shoot for a full day (and more)
+        NotSoGoodFor: Video enthusiasts and those seeking manual exposure controls.
+        Conclusion: The Olympus TG-3 is a very solid and capable rugged camera that offers a fast lens (at wide-angle), an excellent LCD, fast performance, and top notch battery life. Image quality isn't great when viewed at 100%  - and exposure needs to be watched underwater - but most people will be happy with the results.
+    ASIN:
+        - B00IZDKTMI
+        - B00IZDKTIC
+        - B00J8IV70W
+Specs:
+    Announced: Mar 31, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (LED lamp)
+    Battery: Battery Pack
+    BatteryDescription: LI-92B lithium-ion battery & USB power adapter
+    BatteryLifeCIPA: "330"
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 112 x 66 x 31 mm (4.41 x 2.6 x 1.22″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (waterproof to 15m, shockproof to 2.1m, crushproof to 100kgf, freezeproof to -10C)
+    ExposureCompensation: ""
+    ExposureModes:
+        - iAuto
+        - Program Auto
+        - Aperture Priority
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, redeye reduction, fill-in, off, LED
+    FlashRange: ""
+    FocalLengthEquiv: 25–100 mm
+    Format: H.264, Motion JPEG
+    GPS: Built-in
+    GPSNotes: with GLONASS, e-compass, landmarks
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $349
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 10 cm (3.94″)
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2014"
+    SceneModes:
+        - Portrait, ePortrait, Landscape, Interval Shooting, Hand-held Starlight,
+        - Night Scene, Night + Portrait, Sport, Indoor, Self Portrait, Sunset, Fireworks, Cuisine,  Documents, Beach & Snow, Under Water Snapshot, Under Water Wide1, Under Water Wide2, Under Water Macro, Snow, Panorama, Backlight HDR
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 36MB
+    StorageTypes: SD, SDHC, SDXC, Internal Memory
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 247 g (0.54 lb / 8.71 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with remote control

@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220202014822/https://www.dpreview.com/reviews/canon-eos-750d-rebel-t6i
+ProductCode: canon_eos750d
+Award: ""
+ImageURL: /files/p/products/canon_eos750d/1a040c42f4c24223a9a8e2a268ddee73.png
+Name: Canon EOS Rebel T6i (EOS 750D / Kiss X8i)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 75
+URL: /products/canon/slrs/canon_eos750d
+ReviewData:
+    ExecutiveSummary: For users looking to purchase their first DSLR camera, the EOS Rebel T6i (750D outside of the US) camera prioritizes affordability, without sacrificing basic SLR performance attributes like quick shutter response, and compatibility with Canon’s impressive line of interchangeable lenses and accessories. It features a new 24MP CMOS sensor which features Canon's Hybrid CMOS AF III system for use in live view and movie recording. The sensor, along with a DIGIC 6 processor, offers an ISO range of 100-12800 (expandable to 25600). The autofocus system has 19 points, all of which are cross-type.Photos can be composed via an optical viewfinder or a fully articulating 3" touchscreen LCD. The T6i can shoot continuously at 5 fps. Video can be recorded at 1080/30p with manual exposure control and an external mic jack. It, along with its cheaper sibling (T6i/750D) are also the first Rebels to have built-in Wi-Fi (with NFC as well).
+    ProductPhotos:
+        - /files/p/products/canon_eos750d/shots/7d184cc2f9b448d09f5aecdb432adcdc.png
+        - /files/p/products/canon_eos750d/shots/35fcf868855d46c7966e732866867dc0.png
+        - /files/p/products/canon_eos750d/shots/9903a040da04417085d84a59999b05c3.png
+        - /files/p/products/canon_eos750d/shots/03407735b5e3438095874fc141af081a.png
+    ReviewSummary:
+        GoodFor: Those looking for an inexpensive, well-built body to pair with Canon glass. Users wanting to take more control of their camera.
+        NotSoGoodFor: Those wanting top-notch AF performance in viewfinder shooting of moving subjects. Those looking for extensive customization of camera buttons and functions.
+        Conclusion: The Rebel T6i brings resolution and low-light performance in line with its 2015 peers. The 19-point, all cross-type AF system is a welcome upgrade to the line, but is limited in its coverage and isn't good at following subjects moving around the frame. Live view shooting includes effective subject tracking, however lack of continuous AF limits the usefulness of live view shooting. The body is almost identical to previous Rebel models, offering a good shooting experience.
+    ASIN:
+        - B0125ULM40
+        - B00T3ERC0K
+        - B00T3ERFFW
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 6, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (via flash)
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery @ charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Aluminum alloy chassis, composite exterior
+    BodyType: Compact SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 132 x 101 x 78 mm (5.2 x 3.98 x 3.07″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Silent single shot
+        - Silent continuous
+        - Self-timer
+        - Continuous after self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Scene Intelligent Auto
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF v2.0)
+        - Raw (Canon CR2)
+    FlashModes: ""
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800 (expandable to 25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $749/£599/€799 (body only), $899/£689/€899 (with 18-55 STM lens), $1099 (with 18-135 STM lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "19"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 6
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (30p, 25p, 24p), 1280 x 720 (60p, 50p), 640 x 480 (30p, 25p)
+    ReviewPreview: "75%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 23, 2015"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+        - Kids
+        - Food
+        - Candlelight
+        - Night portrait
+        - Handheld night scene
+        - HDR backlight control
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Choice of compression (standard, lightweight)
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.82× (0.51× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 555 g (1.22 lb / 19.58 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

@@ -1,0 +1,125 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211024070510/https://www.dpreview.com/reviews/samsungnx200
+ProductCode: samsung_nx200
+Award: silver
+ImageURL: /files/p/products/samsung_nx200/3927f7f59f0f471792e1277a4024c2f3.png
+Name: Samsung NX200
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/samsung/slrs/samsung_nx200
+ReviewData:
+    ExecutiveSummary: The Samsung NX200 rangefinder-style 20.3MP mirrorless interchangeable-lens camera is the latest in the NX series featuring a sleek new metal body wrapped around the latest APS-C CMOS sensor from the Korean manufacturer. It can shoot at 7 frames per second and capture 1080p30 HD video.
+    ProductPhotos:
+        - /files/p/products/samsung_nx200/shots/df14a2304e7b400baf049e05b0c55a5c.png
+        - /files/p/products/samsung_nx200/shots/9138f3d42c9440fa8f94e2fa8617a89e.png
+        - /files/p/products/samsung_nx200/shots/9a758f40c28646b1907e16788252268b.png
+        - /files/p/products/samsung_nx200/shots/0585c5a200074f27b61d37a3ebc9f704.png
+    ReviewSummary:
+        GoodFor: Photographers who want to capture a lot of low ISO detail in a compact package
+        NotSoGoodFor: High-ISO photography in JPEG mode, action photography
+        Conclusion: The Samsung NX200 is an obvious choice for anyone who wants lots of pixels in a small package. The camera is slightly let down by long buffering times in raw mode and the JPEG engine's noise treatment at high sensitivities, but overall the NX200 is a powerful photographic tool with a good feature set for its class, and it's enjoyable to use.
+    ASIN:
+        - B005IQGUIM
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 1, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BC1030 battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (1.2x, 1.4, 1.7, 2.0 Intelli-Zoom)
+    Dimensions: 117 x 63 x 36 mm (4.61 x 2.48 x 1.42″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, 1st/2nd Curtain, Smart Flash, Manual
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GPS10
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "15"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Optional SR9NX01 )
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 28, 2012"
+    SceneModes: ""
+    ScreenDots: 614,000
+    ScreenSize: 3″
+    ScreenType: Active Matrix OLED screen
+    SelfTimer: Yes (2 sec to 30 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (3 frames from +/-1 to +/-3 in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 223 g (0.49 lb / 7.87 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

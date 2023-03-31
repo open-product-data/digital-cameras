@@ -1,0 +1,181 @@
+ProductCode: sony_dscrx100m5a
+Award: ""
+ImageURL: /files/p/products/sony_dscrx100m5a/e3223c5efac24644b6ca51f5144183c4.png
+Name: Sony RX100 VA
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 70 mm (2.9×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscrx100m5a
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX100 Mark VA is an updated version of the fifth camera in Sony's popular lineup of 1" enthusiast compacts. The ' VA' model gains a deeper buffer, new white balance, metering and autofocus options, and the ability to save 720p proxy footage along with 4K video. Support for Sony's PlayMemories Apps has been removed.Features that carryover include on-sensor phase detection AF and a burst rate of 24 fps with full-time focusing. The AF system has the same 25-pt contrast-detect system with 315 PDAF points that cover 65% of the frame. 4K video is oversampled without pixel binning and saved using the XAVC S codec. The RX100 V(A) continues to offer a 20.1MP 1"-type stacked CMOS sensor, 24-70mm F1.8-2.8 lens, pop-up EVF and built-in Wi-Fi w/NFC.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx100m5a/shots/c8c29a58fdae48099d164968da36da37.png
+    ReviewSummary: null
+    ASIN:
+        - B07FKXZ4PT
+        - B01MCRBY4X
+        - B07K8DL5RY
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Jul 13, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Aluminum
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $899.00 - $1,061.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 24.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3.8x)
+    Dimensions: 102 x 58 x 41 mm (4.02 x 2.28 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer (single, continuous)
+        - Single/continuous bracketing
+        - WB bracketing
+        - DRO bracketing
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual Exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+        - Raw (Sony ARW v2.3)
+    FlashModes: Auto, Flash On, Slow Synchro, Rear Sync, Flash Off
+    FlashRange: 10.20 m (at Auto ISO)
+    FocalLengthEquiv: 24–70 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI with uncompressed 4K/30p output)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Extra fine, fine, standard
+    LiveView: "Yes"
+    MSRP: $999
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 6 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 25p / 6 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "315"
+    OpticalZoom: 2.9×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Fireworks
+        - High Sensitivity
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.59×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 299 g (0.66 lb / 10.55 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

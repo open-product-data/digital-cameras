@@ -1,0 +1,104 @@
+ProductCode: nikon_cps630
+Award: ""
+ImageURL: /files/p/products/nikon_cps630/713809f2bb9847b593fed8ff17f006f9.png
+Name: Nikon Coolpix S630
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 37 – 260 mm (7×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps630
+ReviewData:
+    ExecutiveSummary: Compact, stylish Coolpix with a big 7x optical zoom (though the 37-260mm range is a bit lacking in real wide angle for our liking) and CCD shift image stabilization. Big selling point is, apparently, the 'Sure Grip' (a larger than normal indentation for your thumb) - it might not be deserving of its own brand name but it should help keep the small body a little steadier at longer zoom settings.
+    ProductPhotos:
+        - /files/p/products/nikon_cps630/shots/79d0fe3fbd7048ec936153ccc4b5eae2.png
+        - /files/p/products/nikon_cps630/shots/1d8f100ced7e4c7fabe4a6da212a9363.png
+        - /files/p/products/nikon_cps630/shots/b562517ccd1d4080a3b9622cee7f9a77.png
+        - /files/p/products/nikon_cps630/shots/e368f8a63c764ac5b1b1751ed257ed0b.png
+        - /files/p/products/nikon_cps630/shots/a7d025c67c6047b6bab9c73df56e5421.png
+    ReviewSummary: null
+    ASIN:
+        - B001PKCK16
+        - B001PKAG0I
+        - B001PKCJYE
+Specs:
+    Announced: Feb 3, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable Li-Ion battery EN-L12
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 58 x 97 x 26 mm (2.28 x 3.82 x 1.02″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Red-Eye reduction, Off, On, Slow sync
+    FlashRange: ""
+    FocalLengthEquiv: 37–260 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto (64 - 6400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: High, Normal
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.3
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3984 x 2656, 3968 x 2232, 2992 x 2992, 2592 x 1944, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 52 MB
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 140 g (0.31 lb / 4.94 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

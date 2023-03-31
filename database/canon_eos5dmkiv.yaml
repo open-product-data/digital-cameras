@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220117221033/https://www.dpreview.com/reviews/canon-eos-5d-mark-iv
+ProductCode: canon_eos5dmkiv
+Award: gold
+ImageURL: /files/p/products/canon_eos5dmkiv/40335aa32aa7433083d4de6f26a402d2.png
+Name: Canon EOS 5D Mark IV
+ShortSpecs:
+    - 30 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 87
+URL: /products/canon/slrs/canon_eos5dmkiv
+ReviewData:
+    ExecutiveSummary: As of 2016, the EOS 5D Mark IV is Canon's enthusiast full-frame DSLR. Featuring an all-new 30MP CMOS sensor, DIGIC 6+ processor, Dual Pixel AF system and 4K video capture, the Mark IV is easily the more advanced 5D to-date. The new sensor offers a fully expanded ISO range of 50-102400 and has 'Dual Pixel' AF onboard, allowing for responsive face detection and focusing in live view and movie mode. When shooting with the viewfinder you can take advantage of a 61-point AF system (41 of which are cross-type) with expanded vertical coverage. The camera can shoot continuously at up to 7 fps. DCI 4K video can be captured at 30p or 24p, and users can extract 8.8MP stills from clips. A unique Dual Pixel Raw feature lets users correct minor differences in focus using Canon's Digital Photo Professional software. Also featured is Wi-Fi with NFC and GPS with auto type syncing.
+    ProductPhotos:
+        - /files/p/products/canon_eos5dmkiv/shots/9388de7865504e0195a4b325236462a1.png
+        - /files/p/products/canon_eos5dmkiv/shots/463174768331470ba5306081e0a8213d.png
+        - /files/p/products/canon_eos5dmkiv/shots/89e9cbae942247b7a34fda4c458317be.png
+        - /files/p/products/canon_eos5dmkiv/shots/8bfc45fd424c4fe2bd02806d80511001.png
+        - /files/p/products/canon_eos5dmkiv/shots/f36666966f074736b71bea339719949f.png
+        - /files/p/products/canon_eos5dmkiv/shots/43b9ce003f0c4a0cb778b88e3370c611.png
+    ReviewSummary:
+        GoodFor: Professionals and enthusiasts looking for a durable, no-nonsense camera for portraits, events, studio work, landscapes, photojournalism, quick video grabs and some sports.
+        NotSoGoodFor: Those that need the ultimate in durability and speed for harsh environments and fast action photography, as well as those that need a more robust video toolkit.
+        Conclusion: With the EOS 5D Mark IV, Canon has further refined its semi-professional full frame all-rounder. With a solid build and improved weather sealing, faster burst speed, increased resolution, increased dynamic range, updated autofocus system and Dual Pixel live view functionality, the Mark IV will be as much camera as many people need, even if it doesn't revolutionize the 5D-line the way its predecessors have.
+    ASIN:
+        - B01KURGS9Y
+        - B01KURGSEE
+        - B01KURGS9E
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Aug 25, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: "900"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 151 x 116 x 76 mm (5.94 x 4.57 x 2.99″)
+    DriveModes:
+        - Single shooting
+        - Continuous hi/lo
+        - Silent single shooting
+        - Silent continuous
+        - 2/10 sec self-timer / remote control
+    EffectivePixels: 30 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Bulb
+        - Scene Intelligent Auto
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v.2.3)
+        - Raw (Canon CRW, 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, Motion JPEG
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-32000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: $3499 (body only), $4399 (w/24-70 F4L lens), $4599 (w/24-105 F4L IS USM lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6720 x 4480
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "61"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 6+
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: 4096 x 2160 (29.97p, 24p, 23.98p), 1920 x 1080 (59.94p, 29.97p, 24p, 23.98p), 1280 x 720 (119.9p)
+    ReviewPreview: "87%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 14, 2016"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 32 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: sRaw suppoorted in all aspect ratio. Size between 5 and 7.5 megapixel.
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CompactFlash + SD/SDHC/SDXC card (UHS-I enabled)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 8.8MP stills can be grabbed from 4K video; camera supports ALL-I, IPB and IPB Light compression.
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 890 g (1.96 lb / 31.39 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC

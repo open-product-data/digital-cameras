@@ -1,0 +1,94 @@
+ProductCode: samsung_hz15w
+Award: ""
+ImageURL: /files/p/products/samsung_hz15w/f3ff21106b374967ab7fcc538eca83da.png
+Name: Samsung HZ15W (WB550)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_hz15w
+ReviewData:
+    ExecutiveSummary: Second 'compact super zoom' camera from Samsung is a slightly higher-spec version of the HZ10W (WB500). Like its sister model it offers an incredibly versatile 24-240mm zoom lens, whilst upping the screen size to 3.0 inches and the sensor resolution to 12.2 megapixels. Packed with features (including 720p HD video) and sporting an attractive design and excellent user interface the TL-HZ15W looks like a strong condender in this increasingly crowded sector of the market, though (as we saw when we reviewed the H510W) there are still question marks over Samsung's image quality for more demanding users. (April 2009).
+    ProductPhotos:
+        - /files/p/products/samsung_hz15w/shots/9ae0102842394c3ab216d4ebf3c58e72.png
+        - /files/p/products/samsung_hz15w/shots/2dffc28c8c564d9b9ca5c9e6eb350ba4.png
+        - /files/p/products/samsung_hz15w/shots/312aec4677d141ca811c24eea486666d.png
+        - /files/p/products/samsung_hz15w/shots/3afa4992b4d04dcb8db9c7891113f42c.png
+    ReviewSummary: null
+    ASIN:
+        - B001PKTR76
+Specs:
+    Announced: Feb 23, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 105 x 61 x 37 mm (4.13 x 2.4 x 1.46″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash off, Red eye fix
+    FlashRange: 4.70 m
+    FocalLengthEquiv: 24–240 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200 (Up to 3M)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2654, 4000 x 2248, 3264 x 2592 x 1944, 2048 x 1536, 1920 x 1080, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    SelfTimer: Yes (10 sec, 2 sec, Double, Motion Timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 30 MB
+    StorageTypes: SC/SDHC/MMC/MMCplus, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 249 g (0.55 lb / 8.78 oz)
+    WhiteBalancePresets: "5"

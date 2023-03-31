@@ -1,0 +1,145 @@
+ProductCode: sony_dscwx150
+Award: ""
+ImageURL: /files/p/products/sony_dscwx150/63cc5af95c81444a8cb1972b8e45d049.png
+Name: Sony Cyber-shot DSC-WX150
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscwx150
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_dscwx150/shots/7e8bdcb0a19040a0bc5fb35a1b0f8392.png
+        - /files/p/products/sony_dscwx150/shots/010cd327c78b443b80a00e8db09dcfe8.png
+        - /files/p/products/sony_dscwx150/shots/e95d423cf11348518f9d97603da2c0e5.png
+    ReviewSummary: null
+    ASIN:
+        - B006K553XI
+        - B006K553QA
+        - B006K553LU
+Specs:
+    AEBracketing: ""
+    Announced: Feb 28, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (40x)
+    Dimensions: 95 x 56 x 22 mm (3.74 x 2.2 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Superior Auto
+        - Intelligent Auto
+        - Easy Shooting
+        - Program Auto
+        - Movie Mode
+        - Panorama
+        - Scene Selection
+        - Picture Effect
+        - 3D
+        - Background Defocus
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.70 m
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: Approx. $250
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 1080, 4896 x 2752, 3648 x 2736, 3424 x 1920, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Anti Motion Blur
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Underwater
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: ClearPhoto TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 19 MB
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 133 g (0.29 lb / 4.69 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

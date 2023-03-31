@@ -1,0 +1,104 @@
+ProductCode: casio_exs5
+Award: ""
+ImageURL: /files/p/products/casio_exs5/701261b07ce542828e3685b695bdcd8c.png
+Name: Casio Exilim EX-S5
+ShortSpecs:
+    - 9 megapixels
+    - 2.7″ screen
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exs5
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/casio_exs5/shots/91894dc768704561827119816a118223.png
+        - /files/p/products/casio_exs5/shots/6f6da8dbdccc416e92548a2bb9d5f325.png
+        - /files/p/products/casio_exs5/shots/12b67ef2f3f9405a98404467c12d550c.png
+        - /files/p/products/casio_exs5/shots/aec39d991819464da0f0804463a10c3a.png
+        - /files/p/products/casio_exs5/shots/fcd85cb0700d48e89d99cadefc8a7600.png
+    ReviewSummary: null
+    ASIN:
+        - B001OTZQWS
+        - B001OTZR04
+        - B001OTZQXM
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-80)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 102 x 35 x 22 mm (4.02 x 1.38 x 0.87″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2432, 3648 x 2048, 3072 x 2304, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 114,960
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SDHC Memory Card, SD Memory Card, Eye-Fi Wireless Card compatible
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 100 g (0.22 lb / 3.53 oz)
+    WhiteBalancePresets: ""
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220131200641/https://www.dpreview.com/reviews/fujifilm-x-e3-review
+ProductCode: fujifilm_xe3
+Award: gold
+ImageURL: /files/p/products/fujifilm_xe3/1ad4690aea364d79a473d0ed7c99ac79.png
+Name: Fujifilm X-E3
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/fujifilm/slrs/fujifilm_xe3
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-E3 borrows much of its hardware from the X-T20, including a 325-point AF system with a new AF Area All option that activates various modes as the AF point size is changed. The camera also uses and updated subject tracking algorithm that claims better success tracking smaller and faster objects. Video recording at 4K/30p is offered, taken by the full width of the sensor. Full 1080 HD can be had at up to 60p. The X-E3 continues to offer Wi-Fi, and adds the option for a constant Bluetooth low energy connection to a smartphone.The X-E2S's 3" 1.04M-dot LCD has been upgraded to a touchscreen in the X-E3, and a new feature called Touch Function puts additional customizable touch controls at the user's fingertips. The camera's rear control panel loses the directional navigation buttons in favor of touch control, but gains an AF joystick.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe3/shots/a7f3a1b5b685436a994e9c203ba92562.png
+        - /files/p/products/fujifilm_xe3/shots/1cca868a51784b78a08e81b6217e74fa.png
+        - /files/p/products/fujifilm_xe3/shots/3be55f6d641041919e783a33cd129612.png
+        - /files/p/products/fujifilm_xe3/shots/3b7acc905ef54417869854a6fab3ce24.png
+        - /files/p/products/fujifilm_xe3/shots/91851607429b4af98c63775c7baf1246.png
+    ReviewSummary:
+        GoodFor: Photographers seeking a stylish camera with direct controls, excellent image quality and a great selection of lenses.
+        NotSoGoodFor: Action photographers and those requiring ultra-high-quality 4K video.
+        Conclusion: The Fujifilm X-E3 has the looks of a classic rangefinder, but don't let that fool you, it's got the guts of a modern camera. Handling is excellent thanks to ample direct controls, a super-responsive touchscreen, AF-point selection joystick and high-resolution electronic viewfinder. For the novice, there's an auto switch that makes the camera simple to use. Image quality, especially JPEG, is top-notch and the 15 'Film Simulations' are fun to try. Performance is snappy and autofocus is reliable in good light. 4K video quality is average and subject tracking is a tad unreliable. Still, the X-E3 is a super capable, great-handling camera.
+    ASIN:
+        - B0759G5XRK
+        - B0759GN2WL
+        - B0759HGV78
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV steps)
+    Announced: Sep 7, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy / plastic
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (Small external flash included)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 121 x 74 x 43 mm (4.78 x 2.91 x 1.68″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Interval
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Fujifilm RAF, 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200 - 12800 (expandable to 100-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $899/£849 body-only, $1299/£1249  with 18-55mm F2.8-4, $1150 with 23mm F2
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 25p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 24p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 23.98p / 18 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "325"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4240 x 2832, 6000 x 3376, 4000, x 4000, 4240 x 2832, 4240 x 2384, 2832 x 2832, 3008 x 2000, 3008 x 1688, 2000 x 2000
+    Processor: X-Processor Pro
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 24, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD / SDHC / SDXC (UHS-I compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: Yes (Four-way controller functions replaced by 'swiping' on display)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 337 g (0.74 lb / 11.89 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth LE

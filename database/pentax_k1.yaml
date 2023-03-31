@@ -1,0 +1,152 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211117024354/https://www.dpreview.com/reviews/pentax-k-1
+ProductCode: pentax_k1
+Award: silver
+ImageURL: /files/p/products/pentax_k1/9fb72773f0e04f239c3796a35e4d7d1c.png
+Name: Pentax K-1
+ShortSpecs:
+    - 36 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 84
+URL: /products/pentax/slrs/pentax_k1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Pentax K-1 is Ricoh''s first full-frame DSLR. The camera''s full-frame CMOS sensor features 36.4 effective megapixels and no AA filter and is stabilized using Ricoh''s SRII Shake Reduction system. This five-axis shake reduction system is capable of reducing camera shake with a compensation range of up to five shutter steps. SRII also allows the PENTAX K-1 to incorporate other features such as Pixel Shift Resolution, which effectively eliminates moiré without the need for an anti-aliasing filter, increasing sharpness and overall image quality. Also new is the SAFOX 12 autofocus mechanism with 33 autofocus points, and a  Flexible tilt LCD monitor which can be adjusted to the desired angle horizontally and vertically without deviating from the lens’s optical axis, making it easy to shoot at challenging angles. Other significant ''firsts'' are the K-1’s Operation Assist Lights – compact white LEDs that facilitate camera operation in low-light environments, making it easy to change lenses, swap memory cards and adjust back-of-camera controls, and a Smart Function dial that allows photographers to easy select frequently-used functions without going into the LCD menu.'
+    ProductPhotos:
+        - /files/p/products/pentax_k1/shots/2231d93b083e4beaacd1dd1f3d02bdba.png
+        - /files/p/products/pentax_k1/shots/2bababc15dac4a24a7af76a31076a621.png
+        - /files/p/products/pentax_k1/shots/90393ce7327c4fe381fdf901d7954a5f.png
+        - /files/p/products/pentax_k1/shots/27385c1ed1a84952ad4472fcdc50f8b8.png
+        - /files/p/products/pentax_k1/shots/952867eec5a8465b8b685dd70cbeeb88.png
+        - /files/p/products/pentax_k1/shots/c3d00a3bca68420682424213c8cae1b1.png
+        - /files/p/products/pentax_k1/shots/6a975deb5b214c6380929de47c607eeb.png
+    ReviewSummary:
+        GoodFor: |-
+            Landscape photography,
+            Full Frame DSLR buyers on a budget,
+            still life and macro photographers,
+            existing Pentax shooters
+        NotSoGoodFor: |-
+            Sporting event photography,
+            photographing moving subjects (e.g. children),
+            wildlife photography,
+            those with specialized lens needs
+        Conclusion: The Pentax K-1 is a 36MP fully weather sealed, image stabilized full-frame DSLR that offers an enormous amount of features at a bargain price. Although the autofocus system fails to catch up with some of its peers the image quality that the K-1 offers is some of the best on the market and users will enjoy the ability to utilize the K-1's clever sensor shift technology.
+    ASIN:
+        - B01BL6L3G6
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 17, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI90 lithium-ion battery & charger
+    BatteryLifeCIPA: "760"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.4 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 137 x 110 x 86 mm (5.39 x 4.33 x 3.39″)
+    DriveModes:
+        - Single Frame, Continuous, Self-timer, Remote Control, Bracketing, Mirror- up, Multi-Exposure, Interval Shooting, Interval Composite, Interval Movie Record, Star Stream
+    Durability: ""
+    EffectivePixels: 36 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Aperture and shutter priority
+        - Sensitivity priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (PEF/DNG)
+    FlashModes: Auto Flash Discharge, Auto Flash + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow-speed Sync, Slow-speed Sync + Red-eye, P-TTL, Trailing Curtain Sync, Contrast-control-sync, High-speed sync, Wireless sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-204800
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF4
+    LiveView: "Yes"
+    MSRP: $1799/£1599 (body only)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7360 x 4912
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "33"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: PRIME IV
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: "84%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 5, 2016"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 37 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC (UHS-I)
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (Still or video)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1010 g (2.23 lb / 35.63 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

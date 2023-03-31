@@ -1,0 +1,77 @@
+ProductCode: oly_d395
+Award: ""
+ImageURL: /files/p/products/oly_d395/27b180769a9845c38578c861848d6f34.png
+Name: Olympus D-395 (C-160)
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 33 mm
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d395
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001DKR0Y
+Specs:
+    Announced: Mar 18, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2.5x)
+    Dimensions: 110 x 62 x 38 mm (4.33 x 2.44 x 1.5″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow-sync, Slow-sync red-eye
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 33 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (50 - 100)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super High, High Quality
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "No"
+    MaxResolution: 2048 x 1536
+    MaximumAperture: F2.8–6
+    MaximumShutterSpeed: 1/800 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240 / 160 x 120, 15 fps
+    ReviewPreview: ""
+    ScreenDots: 120,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: "5"

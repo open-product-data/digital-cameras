@@ -1,0 +1,101 @@
+ProductCode: sony_dscw510
+Award: ""
+ImageURL: /files/p/products/sony_dscw510/b3950be68a574a7ba3022f56b1817288.png
+Name: Sony Cyber-shot DSC-W510
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 26 – 104 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw510
+ReviewData:
+    ExecutiveSummary: One of a range of very similar W series compacts announced in 2011, the DSC-W510 is a basic 12.1 megapixel camera with a useful 26-104mm equiv. zoom and 2.7" screen. For an entry level compact you can get image stabilization, a Sweep Panorama mode and in-camera editing features. Although you would miss out in standard HD video recording which have become very common even in entry-level cameras today, you can still shoot VGA videos. With both Intelligent Auto and Easy Shooting modes the camera can be an ideal option for users who want to buy or gift a simple point-and-shoot camera.
+    ProductPhotos:
+        - /files/p/products/sony_dscw510/shots/13ff9d4262d74904b1ab94eb00ee1710.png
+        - /files/p/products/sony_dscw510/shots/d3915e1982f5407f8a4941da9203b8d7.png
+        - /files/p/products/sony_dscw510/shots/001780a6d283434190ae18c889346b9d.png
+    ReviewSummary: null
+    ASIN:
+        - B004H8FNP8
+        - B004H8FNOE
+Specs:
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4.9x)
+    Dimensions: 96 x 54 x 20 mm (3.78 x 2.13 x 0.79″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 2.30 m
+    FocalLengthEquiv: 26–104 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2592 x 1944, 2048 x 1536, 640 x 480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: Clear Photo LCD
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 119 g (0.26 lb / 4.20 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

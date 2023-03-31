@@ -1,0 +1,99 @@
+ProductCode: kodak_z980
+Award: ""
+ImageURL: /files/p/products/kodak_z980/94b89e1dabe5408d9e6afbd9de30ab68.png
+Name: Kodak EasyShare Z980
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 26 – 624 mm (24×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_z980
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/kodak_z980/shots/6eeed21b0b3f4274a917125cfdd6e584.png
+        - /files/p/products/kodak_z980/shots/905446c7dcda49c6a33a2b1c1e91d82c.png
+        - /files/p/products/kodak_z980/shots/b397693b8ea042b28ac1992ade260720.png
+        - /files/p/products/kodak_z980/shots/4c83e0217419417c890cf956c2d04f4d.png
+    ReviewSummary: null
+    ASIN:
+        - B001OC7IXU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH Rechargeable batteries)
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes ((Pop-Up))
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 124 x 91 x 105 mm (4.88 x 3.58 x 4.13″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes ((Optional Kodak P90 Flash))
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 6.30 m
+    FocalLengthEquiv: 26–624 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto (64-1600), 80, 100, 200, 400, 800, 1600, (3200 and 6400 at 3.1 MP)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Standard, Basic
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 70 cm (27.56″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 24×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2264, 4000 x 2256, 2832 x 2128, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 201,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 64 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "5"

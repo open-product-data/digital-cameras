@@ -1,0 +1,104 @@
+ProductCode: sony_dsctx100v
+Award: ""
+ImageURL: /files/p/products/sony_dsctx100v/3c9c332dac5a43c99c1fda3b19748617.png
+Name: Sony Cyber-shot DSC-TX100V
+ShortSpecs:
+    - 16 megapixels
+    - 3.5″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsctx100v
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-TX100V has a 16MP CMOS sensor which is capable of outputting 60fps 1080p movies. It also boasts an OLED display with touch-screen controls, and Sweep Multi-Angle - a simulated 3D shooting mode sweep that lets you view images moving in simulated 3D right on the TX100V's display by tilting the camera back and forth. The DSC-TX100V model also has an HDR feature that compiles the highlights, mid-tones and shadows from three separate shots to create a single image with a wide dynamic range.
+    ProductPhotos:
+        - /files/p/products/sony_dsctx100v/shots/2a3619b75f6748349c9428457058f2d0.png
+        - /files/p/products/sony_dsctx100v/shots/28720b8263fc425e92eb301c9a1ea27e.png
+        - /files/p/products/sony_dsctx100v/shots/766831fc76f742589b1b6a926a082fa6.png
+        - /files/p/products/sony_dsctx100v/shots/ecc0517f72c44b9e806846b5fc692cdd.png
+    ReviewSummary: null
+    ASIN:
+        - B004H8FNFI
+Specs:
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.1x)
+    Dimensions: 97 x 59 x 18 mm (3.82 x 2.32 x 0.71″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 25–100 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    HDMI: "Yes"
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–4.6
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,229,000
+    ScreenSize: 3.5″
+    ScreenType: XtraFine OLED display with TruBlack technology
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 147 g (0.32 lb / 5.19 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected

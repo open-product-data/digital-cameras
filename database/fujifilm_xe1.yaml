@@ -1,0 +1,134 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104174720/https://www.dpreview.com/reviews/fujifilm-x-e1
+ProductCode: fujifilm_xe1
+Award: gold
+ImageURL: /files/p/products/fujifilm_xe1/11d9c6b2b3e44760baec04c474459ee3.png
+Name: Fujifilm X-E1
+ShortSpecs:
+    - 16 megapixels
+    - 2.8″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/fujifilm/slrs/fujifilm_xe1
+ReviewData:
+    ExecutiveSummary: The X-E1 is in essence a slimmed-down X-Pro1, with the large, complex and expensive hybrid finder replaced by a purely-electronic viewfinder. Not any old EVF though - it uses a 2.36M dot OLED unit, out-speccing the X-Pro1's 1.44M dot LCD finder. In return its rear screen is slightly downgraded in terms of both size and resolution, to a still-respectable 2.8" 460k dot LCD - according to Fujifilm this is necessary to keep the camera's size down. The result is a compact body that's broadly similar in size to both the much-loved FinePix X100, and its most obvious competitors like the E-M5 and NEX-7.The X-E1 gets a few new features relative to the X-Pro1, commensurate with its class. Notably, there's a little built-in pop-up flash, a 2.5mm stereo microphone socket for movie recording, and the ability to use an electronic shutter release cable.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe1/shots/69b37ca393f445849f4bc1f6e7f14382.png
+        - /files/p/products/fujifilm_xe1/shots/63f7afd383424b54add6fb39e070174d.png
+        - /files/p/products/fujifilm_xe1/shots/8ffec18949bc460f81ebe8b4dc330888.png
+        - /files/p/products/fujifilm_xe1/shots/a7069999e6144bbaa970391d7c9f9e36.png
+    ReviewSummary:
+        GoodFor: Any application requiring critical image quality - the X-E1 turns out excellent pictures.
+        NotSoGoodFor: Movie mode and fast action shooting, where the camera's limitations do get in the way of results.
+        Conclusion: The Fujifilm X-E1 is a fine camera, and a pleasure to use. Fujifilm's recent improvements to focusing, both manual and automatic, make a real difference to performance, the built-in EVF is excellent, and the enthusiast-friendly ergonomics are addictive. The only serious issue is the camera's video mode, which is sub-par, compared to the competition.
+    ASIN:
+        - B0092MD6QW
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 6, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-W126 rechargeable battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,299.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary colour filter
+    ColorSpace: ""
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 129 x 75 x 38 mm (5.08 x 2.95 x 1.5″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (via hot-shoe EF-X20, EF-20, EF-42)
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear-curtain
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: None
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: Auto (400), Auto (800), Auto (1600), Auto (3200), 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400 (100, 12800, 25600 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1,399.95 with 18-55mm lens, $999.95 body only
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896 x 2760,3264 x 3264, 3456 x 2304, 3456 x 1944, 2304 × 230, 2496 x 1664, 2496 x 1408 , 1664 × 1664
+    Processor: EXR Pro
+    RemoteControl: Yes ( Optional RR-80)
+    Resolutions: 1920 x 1080 (24 fps), 1280 x 720 (24 fps)
+    ReviewPreview: "79%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 1, 2013"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

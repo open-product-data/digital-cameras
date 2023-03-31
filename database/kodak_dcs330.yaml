@@ -1,0 +1,88 @@
+ProductCode: kodak_dcs330
+Award: ""
+ImageURL: /files/p/products/kodak_dcs330/605207e5cc324a649681f4fabb5af5e0.png
+Name: Kodak DCS330
+ShortSpecs:
+    - 3 megapixels
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs330
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jul 27, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: AA
+    BatteryDescription: AA (6) batteries (Lithium / NiMH)
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 137 x 76 x 174 mm (5.39 x 2.99 x 6.85″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Normal, Red-Eye, Rear-curtain synch, Slow synch
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 125, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: n/a
+    LensMount: Nikon F
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2008 x 1504
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: PCMCIA (type II or III)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (??)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1080 g (2.38 lb / 38.10 oz)
+    WhiteBalancePresets: "8"

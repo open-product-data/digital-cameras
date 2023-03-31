@@ -1,0 +1,140 @@
+ProductCode: pentax_optiovs20
+Award: ""
+ImageURL: /files/p/products/pentax_optiovs20/59e4dc829b01400d988d5cb6d25e8df8.png
+Name: Pentax Optio VS20
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 560 mm (20×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optiovs20
+ReviewData:
+    ExecutiveSummary: The Pentax Optio VS20 is possibly the first compact camera with a second shutter button and zoom lever for portrait-orientation shooting. Beyond that it's a pretty well-specified 20x compact superzoom, featuring a 28-560mm equivalent zoom lens with sensor-shift image stabilization for its 16MP CCD. It's not the smallest 20x zoom camera we've seen but it manages to include a anti-glare-coated 460k dot 3.0" LCD with a reasonable price tag.
+    ProductPhotos:
+        - /files/p/products/pentax_optiovs20/shots/d3d05894a8a34ea59a875b98a4345f48.png
+        - /files/p/products/pentax_optiovs20/shots/0b904e49f22144afbc3e8610f4f1276d.png
+        - /files/p/products/pentax_optiovs20/shots/d682836420454c97914733dcbfc27300.png
+        - /files/p/products/pentax_optiovs20/shots/91068d8c3f6e434390d892adc5c450ab.png
+        - /files/p/products/pentax_optiovs20/shots/45b560b9f52b4749937eb898fc64d922.png
+    ReviewSummary: null
+    ASIN:
+        - B00746PQRA
+Specs:
+    Announced: Jan 25, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI122 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (7.2x)
+    Dimensions: 111 x 61 x 38 mm (4.37 x 2.4 x 1.5″)
+    DriveModes:
+        - One Shot
+        - Self-Timer (10s, 2s, Remote 3s)
+        - Continuous
+        - Burst (5M, H/L)
+        - Multi-Burst (5M, 16 VGA frames)
+        - Remote Control
+        - Auto Bracketing
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF 2.3)
+        - DCF 2.0
+        - DPOF
+        - PIM III
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 28–560 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto (100-1600), 100, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.1–4.8
+    MaximumShutterSpeed: 1/2500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "3"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 3456, 4608 x 2592, 3072 x 2304, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional O-RC1)
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Natural Skin Tone
+        - Handheld Night Snap (5M)
+        - Night Scene Portrait
+        - Night Scene
+        - Digital Panorama (2M per frame)
+        - Landscape
+        - Blue Sky
+        - Sunset
+        - Flower
+        - Digital SR (ISO 3200-6400 5M)
+        - Kids
+        - Pet
+        - Portrait
+        - Food
+        - Fireworks
+        - Surf & Snow
+        - Sport
+        - Fisheye
+        - Sketch
+        - Miniature Filter
+        - Text
+        - Frame Composite (3M)
+        - Green
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD with Anti-reflective coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 235 g (0.52 lb / 8.29 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected

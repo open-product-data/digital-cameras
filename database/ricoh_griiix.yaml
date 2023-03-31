@@ -1,0 +1,139 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211015180731/https://www.dpreview.com/videos/5024840309/dpreview-tv-ricoh-gr-iiix-review
+ProductCode: ricoh_griiix
+Award: ""
+ImageURL: /files/p/products/ricoh_griiix/9fbbc130bbfc4b7db2d1983296469b4a.png
+Name: Ricoh GR IIIx
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_griiix
+ReviewData:
+    ExecutiveSummary: The Ricoh GR IIIx is an ultra-compact camera with a 24MP APS-C sensor and 26.1mm (40mm equivalent) F2.8 lens. It has in-body image stabilization, a hybrid autofocus system, built-in neutral density filter, and a fixed touchscreen display (optical and electronic viewfinders are optional). It's capable of capturing Full HD video at 60 fps. Wi-Fi and Bluetooth are also built-in.
+    ProductPhotos:
+        - /files/p/products/ricoh_griiix/shots/54ffe1a7c6e64a53b3226362d4d54292.png
+        - /files/p/products/ricoh_griiix/shots/c2f8cd3f74c946a3a3d331b44952a424.png
+        - /files/p/products/ricoh_griiix/shots/d41af29a560d4c5f85b14f7b13ccf75c.png
+        - /files/p/products/ricoh_griiix/shots/dfcced05750b495a806f554318971c17.png
+        - /files/p/products/ricoh_griiix/shots/5542e5bec04c4ac1b6f002c34e6ef606.png
+    ReviewSummary: null
+    ASIN:
+        - B0B5WSKBTW
+        - B08LM9BLN2
+        - B0BVC76D4K
+Specs:
+    AEBracketing: ""
+    Announced: Sep 9, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-110 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 4 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 109 x 62 x 35 mm (4.29 x 2.44 x 1.38″)
+    DriveModes:
+        - Single-frame
+        - Continuous
+        - Bracketing
+        - Multi-exposure
+        - Interval
+        - Interval composite
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat: ""
+    FlashModes: Flash On, Flash On+Red-eye, Slow-speed Sync, Slow Sync+Red- eye
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 40 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-102400
+    ImageRatioWh: 1:1, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $999
+    MacroFocusRange: 12 cm (4.72″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MP4, H.264, Linear PCM
+        - 8192 x 4320 @ 24p, MOV, H.264, Linear PCM
+    NormalFocusRange: 20 cm (7.87″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: GR Engine 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Oct 2, 2021"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 2GB
+    StorageTypes: Internal, SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic and Optical (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 262 g (0.58 lb / 9.24 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth v4.2

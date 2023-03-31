@@ -1,0 +1,143 @@
+ProductCode: sony_slta68
+Award: ""
+ImageURL: /files/p/products/sony_slta68/dfd2a119b7274389b07d7f07ef3df7fb.png
+Name: Sony SLT-A68
+ShortSpecs:
+    - 24 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_slta68
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Inheriting many pro-style features from the acclaimed A77 II, the A68 features Sony’s unique ''4D FOCUS system'' that delivers extraordinary AF performance under any shooting conditions – even in lighting as low as EV-2 where other cameras struggle. This phase detection system uses no less than 79 autofocus detection points including 15 cross points, plus a dedicated F2.8 AF sensor point for dimly-lit scenes. It all adds up to fast, wide area AF with predictive tracking that locks faithfully onto fast-moving subjects.And thanks to Sony’s unique Translucent Mirror Technology, the A68 delivers constant AF tracking at up to 8 fps continuous shooting.Full HD movies use the efficient XAVC S format for high bit rate recordings at up to 50Mbps with outstanding detail and low noise. And thanks to Sony’s unique Translucent Mirror Technology, you can enjoy non-stop continuous autofocus that effortlessly tracks moving subjects for crisp, professional looking footage, whichever format you choose to record in.'
+    ProductPhotos:
+        - /files/p/products/sony_slta68/shots/3748871088914563b17f09cdbf7fb2a6.png
+        - /files/p/products/sony_slta68/shots/128aa8f28adb4b119c8e5419b6032495.png
+        - /files/p/products/sony_slta68/shots/893c426cdc51457e992d58812973e85d.png
+        - /files/p/products/sony_slta68/shots/7e25a92d6f104dec903dbe3caf856965.png
+        - /files/p/products/sony_slta68/shots/bc9011c05b364028a336510446e4e8f6.png
+        - /files/p/products/sony_slta68/shots/8a88f0868a04465fb30c80913402a42f.png
+    ReviewSummary: null
+    ASIN:
+        - B08V226T8Q
+        - B08DP4NKGN
+        - B07X43B6FD
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Nov 5, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FM500H lithium-ion battery and charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: Yes (1.4x - 8x)
+    Dimensions: 143 x 104 x 81 mm (5.63 x 4.09 x 3.19″)
+    DriveModes:
+        - Single-frame
+        - Continuous high/low
+        - Continuous advance priority AE
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture Priority
+        - Shutter speed priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG  (DCF v2.0, EXIF v2.3)
+        - Raw (ARW 2.3)
+    FlashModes: Flash off, Auto, Fill-flash, Slow sync, Red-eye reduction, Rear sync, Wireless, High Speed sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: €600 (body only), €700 (with 18-55mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "79"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (4240 x 2832, 3008 x 2000), 16:9 (6000 x 3376, 4240 x 2400, 3008 x 1688)
+    Processor: Bionz X
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: 1920 x 1080 (60i, 30p, 24p), 1440 x 1080, 640 x 480
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,800
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (Yes (2 or 12 sec))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports XAVC S with 50Mbps bit rate (30p, 24p)
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.88× (0.59× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 shots, low/high selectable)
+    WeightIncBatteries: 610 g (1.34 lb / 21.52 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

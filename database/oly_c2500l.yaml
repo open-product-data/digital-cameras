@@ -1,0 +1,79 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529085415/https://www.dpreview.com/reviews/olympusc2500l
+ProductCode: oly_c2500l
+Award: aboveAverage
+ImageURL: /files/p/products/oly_c2500l/c10ae682ebbf4da98bdfea3dc12468ab.png
+Name: Olympus C-2500 L
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 36 – 110 mm (3.1×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_c2500l
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000035YC2
+Specs:
+    Announced: Mar 18, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 109 x 80 x 128 mm (4.29 x 3.15 x 5.04″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow 1&2, External
+    FlashRange: ""
+    FocalLengthEquiv: 36–110 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "5:4"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 2 cm (0.79″)
+    ManualFocus: Yes (but 16 steps)
+    MaxResolution: 1712 x 1368
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/10000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3.1×
+    OrientationSensor: "No"
+    OtherResolutions: 1280 x 1024 & 640 x 512
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Dec 6, 1999"
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (& remote)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB SmartMedia
+    StorageTypes: SmartMedia, Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 530 g (1.17 lb / 18.70 oz)
+    WhiteBalancePresets: "6"

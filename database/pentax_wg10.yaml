@@ -1,0 +1,109 @@
+ProductCode: pentax_wg10
+Award: ""
+ImageURL: /files/p/products/pentax_wg10/14745eb17f404efda30d661fb1e1718d.png
+Name: Pentax WG-10
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_wg10
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: With the WG-10 Pentax has created a more affordable waterproof digital camera, one that still withstands depths of 33 feet, as well as the usual drops, dust, cold, and pressure. With a 14MP CCD sensor, Pentax says the camera can produce "poster size" images thanks to its new imaging engine, and can also capture 720p videos. Its 5x lens zooms from 28-140mm equivalent.'
+    ProductPhotos:
+        - /files/p/products/pentax_wg10/shots/1c84f3554099402984acae1f797c311c.png
+    ReviewSummary: null
+    ASIN:
+        - B00B7SHBMY
+Specs:
+    Announced: Jan 29, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI92 rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: ""
+    DriveModes:
+        - One Shot
+        - Self-Timer (10s, 2s, Remote 3s)
+        - Continuous
+        - Burst
+        - Remote Control (3s, 0s)
+        - Auto Bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: Yes (Crushproof, Waterproof, Shockproof, Dustproof, Freezeproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPG (EXIF 2.3)
+        - DCF 2.0
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 1.20 m
+    FocalLengthEquiv: 28–140 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Micro, Type-D)
+    ISO: Auto 125-6400, 125, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4224 x 2376, 3216 x 3216, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1280 x 720 (60, 30 fps), 640 x 480 (30fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: Widescreen TFT color LCD with anti-reflective coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 97 MB Internal
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Interval shot mode for stills and movie)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected

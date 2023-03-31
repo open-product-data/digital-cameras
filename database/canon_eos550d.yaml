@@ -1,0 +1,128 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220325015503/https://www.dpreview.com/reviews/canoneos550d
+ProductCode: canon_eos550d
+Award: gold
+ImageURL: /files/p/products/canon_eos550d/bcc742cb473e4bd08d3f5487788a3160.png
+Name: Canon EOS 550D (EOS Rebel T2i / EOS Kiss X4)
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/canon/slrs/canon_eos550d
+ReviewData:
+    ExecutiveSummary: The 550D uses a new, 18.7 (total) megapixel sensor that's similar, but not exactly the same as the one featured in the EOS 7D. Also central to the impressive specification of the EOS 550D is a high-spec movie mode which offers full HD capture at up to 30 fps, manual control over exposure, and the option to use an external stereo microphone. The new camera also inherits the EOS 7D's sophisticated metering system. Canon has pulled out all the stops with the EOS 550D and produced the most highly-specced Rebel we've ever seen.
+    ProductPhotos:
+        - /files/p/products/canon_eos550d/shots/b837c3559863441fb908e0f8d8a70a26.png
+        - /files/p/products/canon_eos550d/shots/8bda4627070440d2806008a2681401e9.png
+        - /files/p/products/canon_eos550d/shots/ef341297d9494141b333610b7787e734.png
+        - /files/p/products/canon_eos550d/shots/52d15d0634fd4e438a652ff94959269a.png
+        - /files/p/products/canon_eos550d/shots/62c0117117bc4bb1877474382a6498fa.png
+        - /files/p/products/canon_eos550d/shots/6073cb21eeb64f6198934462fb177e53.png
+    ReviewSummary:
+        GoodFor: All-round use, enthusiasts looking for a bargain second body, or beginners that don't want to outgrow their camera anytime soon.
+        NotSoGoodFor: Entry-level ergonomics won't suit all photographers, and the frame rate and AF system isn't up to sports and action work.
+        Conclusion: All in all, the EOS 550D is the most compelling DSLR of its class that we've ever tested. It is hard to imagine how much more we might realistically expect from a product of this type, and although the improvements that Canon has made over the EOS 500D aren't revolutionary, the 550D is a better camera than its predecessor. In terms of both still and video capture, the 550D is currently the best camera of its type on the market.
+    ASIN:
+        - B005Z3DWHK
+        - B0035FZJI0
+        - B005Z3DWCU
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 8, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E8 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 129 x 98 x 62 mm (5.08 x 3.86 x 2.44″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, E-TTL II)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 13.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 2592 x 1728
+    Processor: Digic 4
+    RemoteControl: Yes (E3 connector, InfraRed)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 480 (60, 50 fps)
+    ReviewPreview: "77%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 4, 2010"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT color liquid-crystal LCD
+    SelfTimer: Yes (2 sec or 10 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.87× (0.54× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 530 g (1.17 lb / 18.70 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

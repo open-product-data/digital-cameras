@@ -1,0 +1,78 @@
+ProductCode: oly_d300l
+Award: ""
+ImageURL: /files/p/products/oly_d300l/f01bd8ab237c4e1995861cd53d1a8d70.png
+Name: Olympus D-300L
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d300l
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 5, 1996
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 145 x 71 x 45 mm (5.71 x 2.8 x 1.77″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±1 (at 1 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Fill-in, Auto, Auto red-eye, Off
+    FlashRange: ""
+    FocalLengthEquiv: 36 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "No"
+    MaxResolution: 1024 x 768
+    MaximumAperture: F2.8–11
+    MaximumShutterSpeed: 1/500 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 512 x 384
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 6 MB Internal
+    StorageTypes: Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: ""

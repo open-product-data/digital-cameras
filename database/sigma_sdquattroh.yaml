@@ -1,0 +1,134 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210923092215/https://www.dpreview.com/reviews/sigma-sd-quattro-h/
+ProductCode: sigma_sdquattroh
+Award: noAward
+ImageURL: /files/p/products/sigma_sdquattroh/2835ebb50e07412bab313af7dc29795f.png
+Name: Sigma sd Quattro H
+ShortSpecs:
+    - 45 megapixels
+    - 3″ screen
+    - APS-H sensor
+ReviewScore: 77
+URL: /products/sigma/slrs/sigma_sdquattroh
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Both the sd Quattro and sd Quattro H feature similar design aspects with a compact form consistent with the dp Quattro line, making them highly portable and utilizing the Foveon Quattro sensor for exceptional imaging quality and fast processing. A magnesium alloy body makes the sd Quattro and sd Quattro H durable and rugged, while a dust- and splash-proof design makes it ideal for photographers facing harsh conditions. In addition to the new body design, both cameras boast a list of useful advancements. These include a two-mode Autofocus detection that combines Phase Detection for focus speed and Contrast Detection for focus accuracy. The sd Quattro H boasts a large APS-H sensor (26.6x17.9mm) and can produce images equivalent to that of a 51-megapixel Bayer-pattern sensor camera on resolution testing. The sensor structure is similar to that of the sd Quattro but uses a 25.5 megapixels on the top layer of the sensor that captures the detail information.The new 2.3 megapixel viewfinder displays close to 100% of the field of view and when placed in “Auto” will toggle between the viewfinder when the user has the camera to their eye and then to the LCD when the user lowers the camera. A new “Super-Fine Detail” mode brings out the full potential of the Quattro sensor by capturing seven different exposures with one shot and merging them for exceptional dynamic range (images can be extracted individually as well). Meanwhile an updated algorithm for the Auto White Balance allows for greater accuracy, even with multiple light sources.'
+    ProductPhotos:
+        - /files/p/products/sigma_sdquattroh/shots/e6363b8881464ed78368600ec55bdab2.png
+        - /files/p/products/sigma_sdquattroh/shots/81bb5d1cf088453dbbf6f9f97d3201a4.png
+        - /files/p/products/sigma_sdquattroh/shots/3891681f7c94437fb2d9983fe34db6fb.png
+        - /files/p/products/sigma_sdquattroh/shots/6b71f666ebb6421e8ded9a4097cf595d.png
+        - /files/p/products/sigma_sdquattroh/shots/1bb2cf8bf6504234ab38a8049c8fef87.png
+    ReviewSummary:
+        GoodFor: Landscape shooting or anything that requires the ultimate detail.
+        NotSoGoodFor: Anyone looking for a fast, flexible, do-anything camera.
+        Conclusion: The SD Quattro H is Sigma's best ever camera, offering the impressive detail levels its Foveon sensors are known for in a well-built, well-polished body. The sensor has significant noise and dynamic range restrictions but if you want what it offers, the SD Quattro H may be the highly specialized tool for the job.
+    ASIN:
+        - B01N5C96X3
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV steps)
+    Announced: Feb 23, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-61 lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Foveon X3
+    ColorSpace: sRGB
+    ContinuousDrive: 3.8 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 147 x 95 x 91 mm (5.79 x 3.74 x 3.58″)
+    DriveModes: ""
+    EffectivePixels: 45 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Sigma X3F, 14-bit / DNG, 12-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.3×
+    Format: ""
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: 100-6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Sigma SA Bayonet
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6200 x 4152
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Dual TRUE III
+    RemoteControl: Yes (wired)
+    Resolutions: ""
+    ReviewPreview: "77%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 31, 2017"
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 45 megapixels
+    SensorSize: APS-H (26.6 x 17.9 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.09× (0.84× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: ""

@@ -1,0 +1,131 @@
+ProductCode: canon_elph190is
+Award: ""
+ImageURL: /files/p/products/canon_elph190is/a9d04ed60f0a4cffafd3e51b3f87e51d.png
+Name: Canon PowerShot ELPH 190 IS
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_elph190is
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot ELPH 190 IS digital camera delivers high-quality imaging capabilities with a 10x optical zoom lens with optical image stabilizer and 20-Megapixel CCD sensor. A dedicated Wi-Fi button allows for easy sharing and transferring of images over Wi-Fi and NFC technology. The PowerShot ELPH 190 IS digital camera features smooth 720p HD video capabilities with Smart Auto mode, Scene modes and Eco mode to preserve battery life.'
+    ProductPhotos:
+        - /files/p/products/canon_elph190is/shots/0b2ad6a1f0794bb5a20235c568411cbb.png
+        - /files/p/products/canon_elph190is/shots/f4126fbd22e94fd7972baf78e4cd649e.png
+        - /files/p/products/canon_elph190is/shots/df2a0ccf299e405a9a035c9541ccd603.png
+    ReviewSummary: null
+    ASIN:
+        - B019UDHZ50
+        - B019UDHV6S
+        - B019UDHX7A
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-11LH lithium-ion battery & charger
+    BatteryLifeCIPA: "190"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 95 x 57 x 24 mm (3.74 x 2.24 x 0.94″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer (2 or 10 secs, custom)
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 4.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–240 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine
+    LiveView: "Yes"
+    MSRP: $159.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 4+
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1280 x 720 (25p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Wink Self-Timer
+        - Face Self-Timer
+        - Low Light
+        - Fireworks
+        - Long Shutter
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 138 g (0.30 lb / 4.87 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n with NFC

@@ -1,0 +1,140 @@
+ProductCode: canon_eos2000d
+Award: ""
+ImageURL: /files/p/products/canon_eos2000d/e482b9ae226741c5a1d0bbcdcdaaa54a.png
+Name: Canon EOS Rebel T7 (EOS 2000D)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos2000d
+ReviewData:
+    ExecutiveSummary: The Canon EOS Rebel T7 (also known as the EOS 2000D) is a budget-friendly DSLR with an 24MP APS-C-size sensor. It uses Canon's DIGIC 4+ image processor which offers an ISO range of 100-6400, expandable to 12800, as well as 3p fps burst shooting. It features a 9-point AF system with a cross-type sensor at the center. The EOS T7 is also features with a 3-inch, 920,000-dot LCD and, of course, an optical viewfinder. It also offers a host of scene modes, including a Scene Intelligent Auto mode, plus numerous creative filters. Full HD can be captured at 30p or 24p. The Rebel T7 also has Wi-Fi with NFC for easy sharing via Canon's Camera Connect app.
+    ProductPhotos:
+        - /files/p/products/canon_eos2000d/shots/a8a31d83a9304205a46f7b3bde6438a6.png
+        - /files/p/products/canon_eos2000d/shots/1cef441a3d2d45539127181166f8de61.png
+        - /files/p/products/canon_eos2000d/shots/73833d3912104c71b7d8bb23a15a3826.png
+    ReviewSummary: null
+    ASIN:
+        - B07C2Z21X5
+        - B0101RW3QK
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 26, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (flash)
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E10 rechargeable battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $549.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 129 x 101 x 78 mm (5.08 x 3.98 x 3.07″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Continuous w/self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - RAW (Canon CR2, 14-bit)
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 9.20 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 100-6400, expandable to 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $549.99 (with 18-55mm F3.5-5.6 IS II lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 30p / 46 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 46 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 46 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 4+
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Landscape
+        - Close-up
+        - Sports
+        - Food
+        - Night Portrait
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.5× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 475 g (1.05 lb / 16.76 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

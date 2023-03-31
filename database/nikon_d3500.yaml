@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220127001309/https://www.dpreview.com/reviews/nikon-d3500-review
+ProductCode: nikon_d3500
+Award: noAward
+ImageURL: /files/p/products/nikon_d3500/61a1f8f140764807a7e184f75ebb9877.png
+Name: Nikon D3500
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 75
+URL: /products/nikon/slrs/nikon_d3500
+ReviewData:
+    ExecutiveSummary: The Nikon D3500 is the company's entry-level DSLR camera. It's essentially the same as its predecessor, the D3400, except that it now uses the same body as the D5600. It continues to have a 24MP APS-C CMOS sensor, EXPEED 4 image processor, Full HD video capture and an easy-to-use interface. The camera has an ISO range of 100-25600, an 11-point autofocus system and can shoot continuously at 5 fps. The camera's Guide Mode makes it easy to learn how to shoot in various situations. While it doesn't have Wi-Fi, the D3400 has Bluetooth connectivity for transferring images from the camera to a smartphone, albeit slowly.
+    ProductPhotos:
+        - /files/p/products/nikon_d3500/shots/c3cae82e65274800a9ef3bf82f97bfa2.png
+        - /files/p/products/nikon_d3500/shots/0fa0a608a7be4774aa91eba6381c4e11.png
+        - /files/p/products/nikon_d3500/shots/bdc49f510b7f44c099bc449980d269cc.png
+        - /files/p/products/nikon_d3500/shots/b2a8b7684bd54dfc98a190d6629bf23c.png
+        - /files/p/products/nikon_d3500/shots/f0bf82f50acb401c99c50771518fbf56.png
+        - /files/p/products/nikon_d3500/shots/0ecbf08e63a84b64adb468106ccd2516.png
+    ReviewSummary:
+        GoodFor: Beginners who want the DSLR experience
+        NotSoGoodFor: Video shooters or anyone expecting a phone-like 'WYSIWYG' shooting experience.
+        Conclusion: |-
+            The D3500 is a compact and likeable DSLR for beginners. It's not great for video and its image transfer is slow. But for stills it's a solid choice
+            and its Guide Mode makes it easy to learn.
+    ASIN:
+        - B07GW23M7T
+        - B07GWKDLGT
+        - B07TXMGKP7
+Specs:
+    AEBracketing: ""
+    Announced: Aug 30, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL14a lithium-ion battery and charger
+    BatteryLifeCIPA: "1550"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 124 x 97 x 70 mm (4.88 x 3.82 x 2.76″)
+    DriveModes:
+        - Single-frame
+        - Self-timer
+        - Quiet shutter-release
+        - Quick response remote
+        - Delayed remote
+        - Continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or wireless)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - NEF (RAW, 12-bit)
+    FlashModes: Auto, Auto slow sync, Auto slow sync with red-eye reduction, Auto with red-eye reduction, Fill-flash, Off, Rear-curtain sync, Rear-curtain with slow sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync
+    FlashRange: 7.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: Body w/AF-P 18-55mm VR lens ($499), body w/AF-P 18-55mm VR and 70-300 F4.5-6.3 non-VR lenses ($849)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot AF-area
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4496 x 3000, 2992 x 2000
+    Processor: Expeed 4
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: "75%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 14, 2020"
+    SceneModes:
+        - Auto
+        - Auto [Flash Off]
+        - Child
+        - Close-up
+        - Landscape
+        - Night Portrait
+        - Portrait
+        - Sports
+        - Special effects
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10, 20 secs (1-9 exposures))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.85× (0.57× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 365 g (0.80 lb / 12.87 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: SnapBridge (Bluetooth only)

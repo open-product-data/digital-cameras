@@ -1,0 +1,78 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220309111622/https://www.dpreview.com/reviews/olympusc2100uz
+ProductCode: oly_c2100uz
+Award: recommended
+ImageURL: /files/p/products/oly_c2100uz/ad6267886dc94019be179c10211098d5.png
+Name: Olympus C-2100 UZ
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 38 – 380 mm (10×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_c2100uz
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jun 15, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (1.1x - 2.7x)
+    Dimensions: 113 x 78 x 141 mm (4.45 x 3.07 x 5.55″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (Olympus sync)
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow 1&2, External
+    FlashRange: ""
+    FocalLengthEquiv: 38–380 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "Yes"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.8–3.5
+    MaximumShutterSpeed: 1/800 sec
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 10×
+    OrientationSensor: "No"
+    OtherResolutions: 1280 x 960, 1024 x 768, 640 x 480
+    RemoteControl: "Yes"
+    Resolutions: 35 sec 320 x 240
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Dec 4, 2000"
+    ScreenDots: 114,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (& remote)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Electronic
+    WeightIncBatteries: 540 g (1.19 lb / 19.05 oz)
+    WhiteBalancePresets: "5"

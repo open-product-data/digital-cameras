@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220702145605/https://www.dpreview.com/reviews/panasonic-lumix-dmc-gh4
+ProductCode: panasonic_dmcgh4
+Award: gold
+ImageURL: /files/p/products/panasonic_dmcgh4/913fa2a87df04a82945f8d2c7df263cd.png
+Name: Panasonic Lumix DMC-GH4
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 85
+URL: /products/panasonic/slrs/panasonic_dmcgh4
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Panasonic LUMIX DMC-GH4 (GH4) is the world’s first DSLM with 4K cinematic recording capability. The newly developed 16.05-megapixel Digital Live MOS Sensor for the GH4 excels both in sensitivity and response and suppresses rolling shutter effect even when using the electronic shutter. The Venus Engine image processor has been newly developed dramatically boosting its performance with a new quad-core CPU that allows high speed signal processing that is required for rich 4K video recording. Integrating superior noise reduction systems, the GH4 enables shooting at maximum ISO 25,600. Sensitivity, gradation performance, resolution and color reproduction are dramatically improved to achieve even higher picture quality. The GH4 boasts high speed burst shooting at 12 frames per second (AFS) up to approx.40 (including RAW) / approx.100 (excluding RAW) and 7.0 fps(AFC) to capture fast moving subjects.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcgh4/shots/f5155719ed1f4fd982e94c10fe7f9f5a.png
+        - /files/p/products/panasonic_dmcgh4/shots/82705e9c371f4d2fa8af52ee47ae075e.png
+        - /files/p/products/panasonic_dmcgh4/shots/5432aced9ba34b5aaaa36f8200c19ba0.png
+        - /files/p/products/panasonic_dmcgh4/shots/115ba882d78849be93608c35c2502efc.png
+        - /files/p/products/panasonic_dmcgh4/shots/5991a10f39494b6492ec6c4574ac1317.png
+        - /files/p/products/panasonic_dmcgh4/shots/490da3b0e03a42509c707351dddd3e30.png
+    ReviewSummary:
+        GoodFor: Enthusiast film makers and anyone who cares as much about their movie footage as their still images.
+        NotSoGoodFor: Sports photographers or landscape shooters looking for the pinnacle of image quality.
+        Conclusion: Despite increased competition, the GH4 remains the most complete stills/video camera on the market. It's a competitive stills camera in its own right but the attention to detail when it comes to the provision of movie-shooting tools and capabilities makes it a stand-out camera.
+    ASIN:
+        - B00I9GYG8O
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLF19 lithium-ion battery and charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 spots)
+    DigitalZoom: Yes (2x, 4x)
+    Dimensions: 133 x 93 x 84 mm (5.24 x 3.66 x 3.31″)
+    DriveModes:
+        - Single-shot, continuous, bracketing, self-timer, interval
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe or PC sync)
+    FileFormat:
+        - JPEG (DCF, Exif 2.3)
+        - RAW (RW2)
+        - MPO
+    FlashModes: Auto, auto/redeye reduction, forced on, forced on/redeye reduction, slow sync, slow sync/redeye reduction, forced off
+    FlashRange: 17.00 m (at ISO 200)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "49"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 2176, 2448 x 2448, 2336 x 1752, 2356 x 1560, 1920 x 1080, 1744 x 1744, 1824 x 1368, 1824 x 1216, 1824 x 1024, 1712 x 1712
+    Processor: Venus Engine IX
+    RemoteControl: Yes (via DMW-RSL1 wired remote)
+    Resolutions: 4096 x 2160 (24p), 3840 x 2160 (24p, 25p, 30p), 1920 x 1080 (24p, 25p, 30p, 50p, 60p), 1280 x 720 (24p, 25p, 30p), 640 x 480 (25p, 30p)
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 16, 2014"
+    SceneModes: ""
+    ScreenDots: 1,036,000
+    ScreenSize: 3″
+    ScreenType: OLED
+    SelfTimer: Yes (2 or 10 secs (single or three-shot))
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports IBP and ALL-Intra codecs; 1080p data rates up to 200 Mbps
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.34× (0.67× 35mm equiv.)
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 exposures in blue/amber or magenta/green axis)
+    WeightIncBatteries: 560 g (1.23 lb / 19.75 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n, WPA/WPA2, WPS, Wi-Fi Direct

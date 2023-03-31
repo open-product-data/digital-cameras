@@ -1,0 +1,97 @@
+ProductCode: samsung_st100
+Award: ""
+ImageURL: /files/p/products/samsung_st100/09324ac543fc4389b24d5e378ac9dedb.png
+Name: Samsung ST100
+ShortSpecs:
+    - 14 megapixels
+    - 3.5″ screen
+    - 35 – 175 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st100
+ReviewData:
+    ExecutiveSummary: The 14.2MP Samsung ST100 is a dual LCD compact camera with a large 3.5" rear LCD and a 1.8" front LCD. Featuring larger displays and higher resolution compared its DualView predecessor; it comes with a 35-175mm equiv. lens. It is Samsung's first DualView that is built around a card-styled body design and incorporates a periscope lens. The touchscreen compact is ideal for party-goers and casual snappers who want to properly frame themselves in their photos and videos and be part of the action by stepping out from behind the camera and joining friends and family in front.
+    ProductPhotos:
+        - /files/p/products/samsung_st100/shots/9fb38a334ef949188bbfffa7bef4eecb.png
+        - /files/p/products/samsung_st100/shots/bc13b7f83ea74284a974922108647a50.png
+        - /files/p/products/samsung_st100/shots/8fcd3362d98e47ee9057ce7529b1c18e.png
+        - /files/p/products/samsung_st100/shots/8a35168b608d492db8abc86702b0e9bc.png
+        - /files/p/products/samsung_st100/shots/8059a5a0b2024e38b5dd41f467e07331.png
+    ReviewSummary: null
+    ASIN:
+        - B00412U738
+Specs:
+    Announced: Jan 6, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Face Detection
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 100 x 60 x 20 mm (3.94 x 2.36 x 0.79″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync
+    FlashRange: 3.10 m
+    FocalLengthEquiv: 35–175 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.6–4.8
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 3000, 4320 x 2880, 4272 x 2848, 4224 x 2376, 3648 x 2432, 3264 x 2448, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ScreenDots: 1,152,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Double)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 30 MB Internal
+    StorageTypes: MicroSD/ MicroSDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

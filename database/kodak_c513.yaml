@@ -1,0 +1,85 @@
+ProductCode: kodak_c513
+Award: ""
+ImageURL: /files/p/products/kodak_c513/3d6d7ebb4abf49bca9d1789f0da0172f.png
+Name: Kodak EasyShare C513
+ShortSpecs:
+    - 5 megapixels
+    - 2.4″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c513
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000VAEPPU
+        - B000UEH9G4
+Specs:
+    Announced: Jul 25, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 91 x 62 x 25 mm (3.58 x 2.44 x 0.98″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 36–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (80 - 160 / 200)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2572 x 1928
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 15 fps, 320 x 240 24 fps
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.4″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 188 g (0.41 lb / 6.63 oz)
+    WhiteBalancePresets: "4"

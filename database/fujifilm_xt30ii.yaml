@@ -1,0 +1,172 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127135831/https://www.dpreview.com/videos/9594893790/dpreview-tv-fujifilm-x-s10-vs-x-t30-ii-shootout
+ProductCode: fujifilm_xt30ii
+Award: ""
+ImageURL: /files/p/products/fujifilm_xt30ii/a7eb01ed1b974e57816a54ef60a9b7fc.png
+Name: Fujifilm X-T30 II
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_xt30ii
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T30 II is an update to the original model that boosts performance and provides a higher resolution LCD. It sports a 26.1MP X-Trans sensor and X-Processor 4 Quad Core-CPU. It offers a hybrid AF system with 425 points across the entire frame, with both face and eye detection. It offers a 3" 1.62M-dot tilting LCD and a 2.36M-dot OLED electronic viewfinder. The camera can capture both DCI and UHD 4K video and high-speed 1080 footage at up to 240 fps.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt30ii/shots/a6138923c06c482ebaca070f0c6eb644.png
+        - /files/p/products/fujifilm_xt30ii/shots/3f29f307a56543929c7ade3a5270dc9f.png
+        - /files/p/products/fujifilm_xt30ii/shots/cc2de7abaafa4e7c91dbb452ef0ef853.png
+        - /files/p/products/fujifilm_xt30ii/shots/10921937d18e4408b340bc51fb146b24.png
+        - /files/p/products/fujifilm_xt30ii/shots/42e8b181bc3146bc863e6f9c2b27896d.png
+    ReviewSummary: null
+    ASIN:
+        - B09DTGGN34
+        - B09DTK6KMH
+        - B09DTJTTBQ
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 2, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & Charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,299.00 - $1,399.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 118 x 83 x 47 mm (4.65 x 3.27 x 1.85″)
+    DriveModes:
+        - Single
+        - Continuous H
+        - Continuous L
+        - Bracket
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v.2.3)
+        - Raw (Fujifilm 14-bit RAF)
+    FlashModes: Auto, on, slow sync, manual, commander
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $899 (body only), $999 (w/15-45mm lens), $1299 (w/18-55mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 4096 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Nov 6, 2021"
+    SceneModes:
+        - SR Auto
+        - Portrait
+        - Portrait Enhancer
+        - Landscape
+        - Sport
+        - Night
+        - Night (tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Underwater
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

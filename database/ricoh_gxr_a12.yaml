@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220106193925/https://www.dpreview.com/reviews/ricohgxra12
+ProductCode: ricoh_gxr_a12
+Award: noAward
+ImageURL: /files/p/products/ricoh_gxr_a12/6e38dfea07244542b55ab471b47c671a.png
+Name: Ricoh GXR A12 50mm F2.5 Macro
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 67
+URL: /products/ricoh/slrs/ricoh_gxr_a12
+ReviewData:
+    ExecutiveSummary: The A12 50mm F2.5 Macro is a lens unit that slides into Ricoh's GXR body. The GXR system takes a novel approach by offering interchangeable slide mount 'lens units' - sealed modules containing both optics and sensor, meaning it can switch from a large (APS-C) sensor with a fast prime lens to a tiny one (as in compact cameras) with zoom lenses. The Ricoh GXR/A12 50mm F2.5 Macro combines a 12MP APS-C sensor with a 50mm macro lens. This package offers very good image quality, robust build quality and a flexible user interface which make it a very interesting option for those who want (semi-) professional image output and handling in a very portable package. The camera's only real negative is its sometimes slow and/or unreliable contrast detect AF.
+    ProductPhotos:
+        - /files/p/products/ricoh_gxr_a12/shots/0ee59a7b32e14e4c946f5432e24c76a3.png
+        - /files/p/products/ricoh_gxr_a12/shots/1d4035eb47bb4da682c896d20f5b9063.png
+        - /files/p/products/ricoh_gxr_a12/shots/3c1fefbb69a84f6c9415d24c099f0178.png
+        - /files/p/products/ricoh_gxr_a12/shots/b136995900ff453b82634a37b9ad6eed.png
+        - /files/p/products/ricoh_gxr_a12/shots/ee425bfcf5764fe0b15b3e0d349dcfdc.png
+    ReviewSummary:
+        GoodFor: Anyone wanting SLR image and build quality in a compact package
+        NotSoGoodFor: Anything needing fast focusing, especially in low light
+        Conclusion: The Ricoh GXR/A12 50mm F2.5 Macro offers excellent, DSLR-like image and build quality in a fairly compact package. However, the camera is slightly let down by its sometimes slow and/or unreliable contrast detect AF.
+    ASIN:
+        - B002W5UJXE
+Specs:
+    AEBracketing: ""
+    Announced: Nov 10, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $534.24
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 114 x 70 x 77 mm (4.49 x 2.76 x 3.03″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±4 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Manual
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 50 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Auto-Hi, 200, 400, 800,1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Unknown
+    JPEGQualityLevels: Normal, Fine
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 2848
+    MaximumAperture: F2.5
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 180 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2416, 3776 x 2832, 3456 x 1944, 3072 x 2304, 2848 x 2848, 2592 x 1944,  2304 x 2304, 2048 x 1536, 1280 x 960, 640 x 480
+    Processor: GR engine III
+    RemoteControl: "Yes"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (24 fps), 320 x 240 (24 fps)
+    ReviewPreview: "67%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 2, 2010"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images) )
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: APS-C (23.6 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 86 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 453 g (1.00 lb / 15.98 oz)
+    WhiteBalancePresets: "5"
+    WirelessNotes: ""

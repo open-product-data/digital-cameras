@@ -1,0 +1,74 @@
+ProductCode: minolta_dimagee201
+Award: ""
+ImageURL: /files/p/products/minolta_dimagee201/53e92e28ca3947ee932ff0525d6984aa.png
+Name: Minolta DiMAGE E201
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 38 mm
+ReviewScore: 0
+URL: /products/konicaminolta/compacts/minolta_dimagee201
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: May 22, 2001
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (1.4 x, 2 x)
+    Dimensions: 114 x 65 x 45 mm (4.49 x 2.56 x 1.77″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Red-eye-fill-in, Off
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38 mm
+    HDMI: "No"
+    ISO: 85, 340
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Economy
+    LiveView: "Yes"
+    MacroFocusRange: 30 cm (11.81″)
+    ManualFocus: "No"
+    MaxResolution: 1792 x 1200
+    MaximumAperture: F3–13
+    MaximumShutterSpeed: 1/500 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 800 x 600
+    RemoteControl: Yes (IR (Optional))
+    Resolutions: 15 fps 320 x 240
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/1.75" (7.36 x 5.52 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: "3"

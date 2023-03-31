@@ -1,0 +1,105 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529090713/https://www.dpreview.com/reviews/panasonicfh7
+ProductCode: panasonic_dmcfh7
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfh7/f715254d393e458180b1254e4c1e2648.png
+Name: Panasonic Lumix DMC-FH7 (Lumix DMC-FS22 / Lumix DMC-FS22)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 62
+URL: /products/panasonic/compacts/panasonic_dmcfh7
+ReviewData:
+    ExecutiveSummary: Panasonic's Lumix DMC-FH7 digital compact camera features a Leica 4x zoom lens starting at 28mm and 720p HD video recording. The 16MP FH7 comes with a similar feature set to the previously released DMC-FH5 but boasts a 3" touch-sensitive LCD screen. In out tests, we found that the FH7 is a perfectly capable camera, which combines impressively hassle-free handling with impressively reliable metering and white balance systems. You shouldn't expect to make large prints but if you're just looking for a capable point-and-shoot the FH7 is definitely worth considering.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfh7/shots/f5df82a6a1de490a93a2691da446838b.png
+        - /files/p/products/panasonic_dmcfh7/shots/f1ac70bfea884ab486bab68d2d17fd7e.png
+        - /files/p/products/panasonic_dmcfh7/shots/e8b2e89405ee4190b9448ba521524ce8.png
+    ReviewSummary:
+        GoodFor: Grab and social shots, and carry-everywhere photography, where a long zoom or manual control aren't necessary.
+        NotSoGoodFor: Anything more critical, where the FH7's relatively low detail resolution at high ISOs, or restricted manual control, might be problematic.
+        Conclusion: The Panasonic Lumix DMC-FH7 is a well-made, easy to use camera which is capable of delivering great pictures with a minimum of fuss. Image quality is very good in optimal conditions, but even when the light gets low, the FH7 can deliver acceptable results.
+    ASIN: []
+Specs:
+    Announced: May 12, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 4.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 95 x 56 x 19 mm (3.74 x 2.2 x 0.75″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 28–112 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.1–6.5
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "62%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 7, 2011"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 126 g (0.28 lb / 4.44 oz)
+    WhiteBalancePresets: "4"

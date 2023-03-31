@@ -1,0 +1,79 @@
+ProductCode: hp_c912
+Award: ""
+ImageURL: /files/p/products/hp_c912/31d9ffebf4ec488c80aa580abafc0941.png
+Name: HP Photosmart C912
+ShortSpecs:
+    - 2 megapixels
+    - 2″ screen
+    - 34 – 108 mm (3.2×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_c912
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 3, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 144 x 91 x 105 mm (5.67 x 3.58 x 4.13″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/2 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Off, Red-eye reduction, Ext
+    FlashRange: ""
+    FocalLengthEquiv: 34–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 25, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "Yes"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.5–11
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: None
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3.2×
+    OrientationSensor: "No"
+    OtherResolutions: 800 x 600
+    RemoteControl: Yes (InfraRed included)
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 630 g (1.39 lb / 22.22 oz)
+    WhiteBalancePresets: "5"

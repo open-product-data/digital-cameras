@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128231813/https://www.dpreview.com/reviews/canoneos1100d
+ProductCode: canon_eos1100d
+Award: noAward
+ImageURL: /files/p/products/canon_eos1100d/b9fc7b6b2f1c4af78905ad8f5857b278.png
+Name: Canon EOS 1100D (EOS Rebel T3 / EOS Kiss X50)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 69
+URL: /products/canon/slrs/canon_eos1100d
+ReviewData:
+    ExecutiveSummary: The Rebel T3 / EOS 1100D is the second in Canon's line of budget-concious entry-level DSLRs, aimed more at first-time DSLR users, rather than the keen enthusiasts it attracts with the bigger Rebels. It features a solid specification based on well-known technologies with an easy-to-use interface that offers a lot of capability without the risk of it out-shining its more expensive siblings. It offers a 12MP sensor along with the 9-point AF system that's trickled down from the company's higher-end cameras. There's also 720p movie recording at 25 or 30 fps that uses the efficient H.264 compression method. It features a smaller viewfinder and relatively simple rear screen (2.7" LCD with 230,00 dots), but all the key features for a first-time DSLR user. Available with both stabilized (IS) and unstabilized versions of the kit lens, we'd recommend paying the extra for the IS version.
+    ProductPhotos:
+        - /files/p/products/canon_eos1100d/shots/c760f2d518a04c58a62992a0f2858543.png
+        - /files/p/products/canon_eos1100d/shots/554448827bc2473f8bccd88334743676.png
+        - /files/p/products/canon_eos1100d/shots/4875f4b07e784738b4216db448ea6c93.png
+        - /files/p/products/canon_eos1100d/shots/a9ae4d8cbe8840748aa9f9716145d9b6.png
+        - /files/p/products/canon_eos1100d/shots/bab1083726ed4be5a1e56302806fff69.png
+        - /files/p/products/canon_eos1100d/shots/6cbf87fc344e4d099efecbdd5875bdf9.png
+    ReviewSummary:
+        GoodFor: Beginners who want a solid entry-level camera for general photography
+        NotSoGoodFor: Photographers who focus on video, extreme low light photography or anything that requires fast continuous shooting
+        Conclusion: The Canon EOS 1100D is a solid entry-level performer, but doesn't offer anything out of the ordinary. The image quality is decent, it's easy to use and beginners will find their way around the user interface pretty quickly. However, competition in the entry-level market is fierce and it is worth having a closer look at other options as well.
+    ASIN:
+        - B005LW580O
+        - B004J3Y9U6
+        - B005Z3DWIY
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 7, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E10 rechargeable battery & charger
+    BatteryLifeCIPA: "700"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $549.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 130 x 100 x 78 mm (5.12 x 3.94 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, E-TTL II)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 9.20 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200,  400, 800, 1600, 3200, 6400
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4272 x 2848
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3088 x 2056, 2256 x 1504, 1920 x 1280, 720 x 480
+    Processor: Digic 4
+    RemoteControl: Yes (E3 connector)
+    Resolutions: 1280 x 720 (29.97, 25 fps)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 14, 2011"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD, liquid-crystal monitor
+    SelfTimer: Yes (10 sec (2 sec with mirror lock-up))
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: APS-C (22.2 x 14.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.5× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 images at -/+ 3 steps)
+    WeightIncBatteries: 495 g (1.09 lb / 17.46 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

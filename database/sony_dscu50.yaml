@@ -1,0 +1,83 @@
+ProductCode: sony_dscu50
+Award: ""
+ImageURL: /files/p/products/sony_dscu50/6ba0959e9b064972b836fa8191756f73.png
+Name: Sony Cyber-shot DSC-U50
+ShortSpecs:
+    - 2 megapixels
+    - 1″ screen
+    - 33 mm
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscu50
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0006UD8JE
+Specs:
+    Announced: Aug 15, 2003
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AAA
+    BatteryDescription: AAA (2) batteries NiMH supplied
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 100 x 41 x 25 mm (3.94 x 1.61 x 0.98″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye reduction, On, Off
+    FlashRange: 1.80 m
+    FocalLengthEquiv: 33 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (4 step)
+    MaxResolution: 1632 x 1224
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: MPEG EX (only storage limited - no audio
+    ReviewPreview: ""
+    ScreenDots: 64,000
+    ScreenSize: 1″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB Memory Stick Duo
+    StorageTypes: Memory Stick Duo / Pro Duo
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 132 g (0.29 lb / 4.66 oz)
+    WhiteBalancePresets: "4"

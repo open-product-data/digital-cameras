@@ -1,0 +1,233 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220307000444/https://www.dpreview.com/reviews/panasonic-lumix-dc-gh5s-review
+ProductCode: panasonic_dcgh5s
+Award: gold
+ImageURL: /files/p/products/panasonic_dcgh5s/9b7d5c546d034ba3a59a00105e00ce92.png
+Name: Panasonic GH5S
+ShortSpecs:
+    - 10 megapixels
+    - 3.2″ screen
+    - Four Thirds sensor
+ReviewScore: 84
+URL: /products/panasonic/slrs/panasonic_dcgh5s
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Panasonic Lumix DC-GH5S is a video-centered Micro Four Thirds mirrorless camera. It uses a multi-aspect 10.2MP Live MOS that maintains the same field-of-view at 4:3, 3:2, 1:1 and 16:9 aspect ratios. Its ''Dual Native ISO Technology'' and Venus Engine 10 processor allow for a native ISO range of 160-51,200, expandable to 80-204,800. Being designed for video, the GH5S has an anti-aliasing filter (to reduce moiré) and lacks in-body image stabilization.The camera is capable of capturing both DCI (Cinema) and UHD 4K at 60p and 24/23.98p video at up to 400Mbps. It supports HDR video with a Hybrid Log Gamma mode and also has V-LogL and the Rec.709 LUT built-in (users can load up to four LUTs into the camera, as well). The camera can be used as a time code generator by using an adapter that connects a BNC cable to its flash sync port. Other video features include a vectorscope/waveform monitor, knee control, luminance level adjustment, zebra patterns and more.The GH5S uses Panasonic''s Depth from Defocus contrast detect AF system which is capable of focusing in light levels as low as -5EV. The camera can take bursts of up to 12 fps (or 11 fps if using 14-bit Raw) with AF locked and 7 fps with continuous AF. It also has a fully articulating 3.2" touchscreen display, ultra-high-res 3.68M-dot EVF and 802.11ac Wi-Fi with Bluetooth. The GH5S has a rugged, weather-sealed body with twin SD card slots, both of which support UHS-II / V90 media. It has a full-size HDMI port as well as a USB 3.1 Type C connector.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgh5s/shots/ed37acece75e4af8a53d176885e47947.png
+        - /files/p/products/panasonic_dcgh5s/shots/c02f1c9ccae24f65a446b18513b26f15.png
+        - /files/p/products/panasonic_dcgh5s/shots/dbc4344527664374a53785599d75cdf3.png
+    ReviewSummary:
+        GoodFor: Dedicated film makers
+        NotSoGoodFor: Run-and-gun shooting, stills photography
+        Conclusion: The GH5S is a highly specialized filmmakers' camera that makes few concessions to anything but this core purpose. An excellent sensor combined with high bitrate, 10-bit 4:2:2 capture means the results are hugely impressive. Add an external recorder and these benefits remain, even for both UHD and DCI 60p capture. The loss of stabilization means it's limited to gimbal or tripod work but in those circumstances, it shines.
+    ASIN:
+        - B078J119BC
+        - B07D535Y26
+        - B07D54KBG9
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 8, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLF19 lithium-ion battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,699.99 - $2,697.98
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 139 x 98 x 87 mm (5.47 x 3.86 x 3.43″)
+    DriveModes:
+        - Single
+        - Continuous
+        - 4K Photo
+        - Focus Stacking
+        - Self-timer
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic ARW, 12/14-bit)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (Up to 4:2:2 10-bit output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 160-51200 (expands to 80-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2499
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3680 x 2760
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 72 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 72 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 72 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 23.98p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3840 x 2560), 16:9 (4016 x 2256), 1:1 (2752 x 2752)
+    Processor: Venus Engine 10
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 5, 2018"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 10 secs w/3 images)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: Four Thirds (19.2 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC cards (UHS-II V60 cards supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.52× (0.76× 35mm equiv.)
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

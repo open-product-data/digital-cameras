@@ -1,0 +1,123 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220113140641/https://www.dpreview.com/reviews/leica-m11-initial-review
+ProductCode: leica_m11
+Award: ""
+ImageURL: /files/p/products/leica_m11/047bccd4c9654abeaf497c6e3c94c661.png
+Name: Leica M11
+ShortSpecs:
+    - 60 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m11
+ReviewData:
+    ExecutiveSummary: 'The Leica M11 is a digital rangefinder camera built around a 60MP BSI CMOS sensor. It''s the latest in Leica''s ''M'' series of rangefinders that dates back to the M3 from 1954. With this unrivaled depth of heritage behind it, it''s no surprise that the M11 looks a lot like its predecessors. Despite the visual similarities, there''s a lot that''s changed in the latest model, with a more refined body design as well as completely new internals. The M11 will be available in two variants: a classic silver version with black leatherette band around the center and a brass top-plate, and a black version that uses aluminum instead, making it around 100g lighter. The recommended retail price for both is $8995.'
+    ProductPhotos:
+        - /files/p/products/leica_m11/shots/874cf69a2f5a4fac9a0a209a464c0664.png
+        - /files/p/products/leica_m11/shots/4010017ab9c345db9c67fe5298c3f6a4.png
+        - /files/p/products/leica_m11/shots/c4032ef2c38f4ea4860603077816c4b2.png
+        - /files/p/products/leica_m11/shots/1f0def22ad6e463bbca6660a1f2dc6ce.png
+    ReviewSummary: null
+    ASIN:
+        - B08DKD577Z
+        - B08W8TN582
+        - B09QF4TSZF
+Specs:
+    AEBracketing: ""
+    Announced: Jan 13, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BC-SCL7 lithium-ion battery & charger
+    BatteryLifeCIPA: "700"
+    BodyMaterial: Magnesium alloy / brass
+    BodyType: Large SLR
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 39 x 80 mm (5.47 x 1.54 x 3.15″)
+    DriveModes: ""
+    EffectivePixels: 60 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - DNG (14-bit)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 64-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $8995
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9528 x 6328
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 3600 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: (M) 7413 x 4928, (S) 5272 x 3498
+    Processor: Maestro III
+    RemoteControl: Yes (cable release)
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 13, 2022"
+    SceneModes: ""
+    ScreenDots: 2,332,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12s)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 64GB
+    StorageTypes: UHS II type SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 640 g (1.41 lb / 22.58 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

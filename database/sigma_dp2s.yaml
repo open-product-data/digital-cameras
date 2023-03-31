@@ -1,0 +1,116 @@
+ProductCode: sigma_dp2s
+Award: ""
+ImageURL: /files/p/products/sigma_dp2s/cd2dbcd49c674b4d945b1ffb059d36d8.png
+Name: Sigma DP2s
+ShortSpecs:
+    - 5 megapixels
+    - 2.5″ screen
+    - 41 mm
+ReviewScore: 0
+URL: /products/sigma/compacts/sigma_dp2s
+ReviewData:
+    ExecutiveSummary: The Sigma DP2s compact camera is built around a 14MP FOVEON  X3 CMOS sensor. With almost identical specifications to its predecessor, the DP2, it offers a new AF algorithm for faster autofocus, a Power Save mode and a slightly revised rear design with more visible labeling of the buttons. The camera will ship with the company's latest Photo Pro 4.0 raw processing software.
+    ProductPhotos:
+        - /files/p/products/sigma_dp2s/shots/5fd9be7946a54a7e9eb8aa8f00c76ce7.png
+        - /files/p/products/sigma_dp2s/shots/9165e8669cf7455a901907067aece515.png
+        - /files/p/products/sigma_dp2s/shots/09d03ed80c674d77a9b6aeefd0176558.png
+        - /files/p/products/sigma_dp2s/shots/9a2480d856d9446ab28657997b0c8dcc.png
+    ReviewSummary: null
+    ASIN:
+        - B003AMMZRG
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 113 x 60 x 56 mm (4.45 x 2.36 x 2.2″)
+    DriveModes: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Forced Flash, Red-Eye Reduction, Slow Synchro
+    FlashRange: 4.30 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 41 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 50, 100, 200, 400, 800 (1600 and 3200 in RAW)
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 2640 x 1760
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 28 cm (11.02″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 2640 x 1485, 1872 x 1248, 1312 x 880
+    Processor: True II
+    RemoteControl: Yes (Wired (Optional))
+    Resolutions: 320 x 240
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: APS-C (20.7 x 13.8 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/MMC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 280 g (0.62 lb / 9.88 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

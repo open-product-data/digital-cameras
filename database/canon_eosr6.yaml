@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211208150836/https://www.dpreview.com/reviews/canon-eos-r6-review
+ProductCode: canon_eosr6
+Award: gold
+ImageURL: /files/p/products/canon_eosr6/67e1c2b6435a4a7292c0b1fe0a2e02dc.png
+Name: Canon EOS R6
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/canon/slrs/canon_eosr6
+ReviewData:
+    ExecutiveSummary: The Canon EOS R6 is an enthusiast-grade full-frame mirrorless camera. It's essentially a stripped-down version of the EOS R5, but appears to be very capable.The camera uses a 20MP CMOS sensor - the same as in the EOS 1D X Mark III -  with in-body image stabilization that can reduce shake by up to 8 stops. The camera uses the Dual Pixel AF II system, which has 1053 AF points across the entire frame. The R6 is capable of shooting bursts at 20 fps with its electronic shutter and 12 fps with the mechanical shutter, both with continuous AF.The R6 can shoot UHD and DCI 4K video at up to 60p, saved as either Raw or H.265 footage. 10-bit 4:2:2 internal regarding using C-Log and HDR PQ are supported. The SLR-styled R6 has a solid build and is weather-sealed. Its OLED electronic viewfinder has 3.69 million dots and a magnification of 0.76x. Its 3" fully articulating LCD has 1.62 million dots and its touch-sensitive. The camera also features dual SD memory card slots and Wi-Fi with Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eosr6/shots/2b93c97b6f5242ebb655051d8a443fc0.png
+        - /files/p/products/canon_eosr6/shots/61285ae97e854e6db999506dc3ee8131.png
+        - /files/p/products/canon_eosr6/shots/da4173cb91584efa9a1094cb396306b4.png
+        - /files/p/products/canon_eosr6/shots/f46507abc7a74719ae28256c4ac93257.png
+        - /files/p/products/canon_eosr6/shots/1934085b568448189d837a2e31c166a9.png
+    ReviewSummary:
+        GoodFor: A wide range of photographers, anyone looking to adopt the RF mount.
+        NotSoGoodFor: Stills + Video shooters needing utter dependability.
+        Conclusion: The Canon EOS R6 offers much of the capability of the EOS-1D X III in an enthusiast-level mirrorless body. It's only a 20MP camera but one that can produce great results across a huge range of photographic challenges. The tendency to overheat if used before shooting video undermines its appeal for people shooting video and stills together, but the footage is best-in-class if you can work around this limitation. A superb photographers' camera, even if it's not quite the perfect hybrid model.
+    ASIN:
+        - B08BW8H44J
+        - B08BVT9CK2
+        - B08BVXBG6J
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Jul 9, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E6NH lithium-ion battery & charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 138 x 98 x 88 mm (5.43 x 3.84 x 3.48″)
+    DriveModes:
+        - Single Shooting
+        - High-speed continuous
+        - Low-speed continuous
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3)
+        - HEIF (10-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Yes, 100-102400 (expands to 204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Works with lens-based IS systems for maximum shake reduction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $2499 (body only), $2899 (w/24-105mm F4-7.1 lens), $3500 (w/24-105mm F4 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 230 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "1053"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 26, 2020"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD slots (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 680 g (1.50 lb / 23.99 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

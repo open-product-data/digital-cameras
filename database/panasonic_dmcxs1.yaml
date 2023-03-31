@@ -1,0 +1,140 @@
+ProductCode: panasonic_dmcxs1
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcxs1/fa8ec8fece6f403086730bd60a3cc86b.png
+Name: Panasonic Lumix DMC-XS1
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcxs1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The 16MP Panasonic Lumix DMC-XS1 is only 14mm thick, sports a 24mm (equiv.) 5x optical zoom lens and includes the company''s MEGA O.I.S image stabilization system.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcxs1/shots/6977874444534c6c88479f9650ff6950.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATE7W0I
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 54 x 14 mm (3.7 x 2.13 x 0.55″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Intelligent Auto
+        - Normal Picture
+        - Creative Control
+        - Panorama Shot
+        - SCN
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 24–120 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–6.9
+    MaximumShutterSpeed: 1/1600 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Photo Frame
+        - Starry Sky
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 90 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: Unknown
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 103 g (0.23 lb / 3.63 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

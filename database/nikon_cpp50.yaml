@@ -1,0 +1,108 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211025012646/https://www.dpreview.com/reviews/nikonp50
+ProductCode: nikon_cpp50
+Award: aboveAverage
+ImageURL: /files/p/products/nikon_cpp50/b12537d27a064a9faf3e587a7a4df5ee.png
+Name: Nikon Coolpix P50
+ShortSpecs:
+    - 8 megapixels
+    - 2.4″ screen
+    - 28 – 102 mm (3.6×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp50
+ReviewData:
+    ExecutiveSummary: No-nonsense mid-range compact that struggles to stand out in a crowded market and is best summed up by the words 'nothing special'. The serious styling and nice use of materials - plus wide angle (28-102mm) zoom look appealing but the sluggish performance and less than impressive image quality make the P50 look like an 'also ran' in the face of such stiff competition. Recently replaced by the P60.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000VKSRUY?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000VKSRUY
+Specs:
+    AEBracketing: ""
+    Announced: Aug 30, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3x)
+    Dimensions: 95 x 66 x 44 mm (3.74 x 2.6 x 1.73″)
+    DriveModes: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: 6.90 m
+    FocalLengthEquiv: 28–102 mm
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (64 - 1000), 64, 100, 200, 400, 800, 1600, 2000
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3.6×
+    OrientationSensor: "No"
+    OtherResolutions: 3200 x 1800, 2592 x 1944, 2048 x 1536, 1024 x 768, 340 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 15/30 fps, 320 x 240, 15 fps, 160 x 120, 15 fps
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Feb 13, 2008"
+    SceneModes: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.4″
+    ScreenType: ""
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 52 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

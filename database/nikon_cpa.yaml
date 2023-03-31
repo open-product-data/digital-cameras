@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211203163456/https://www.dpreview.com/reviews/nikon-coolpix-a
+ProductCode: nikon_cpa
+Award: silver
+ImageURL: /files/p/products/nikon_cpa/477db5d0db1c4cf9bafe22ff4a7fa611.png
+Name: Nikon Coolpix A
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 75
+URL: /products/nikon/compacts/nikon_cpa
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix A is a high-end compact camera with a DX (APS-C) format sensor, and a fixed 28mm (equivalent) lens. Ergonomically, the A is a cross between Nikon's previous high-end compacts like the P7700, and its recent mid-range DSLRs. Offering full manual control and solid build quality, this camera is designed to appeal to enthusiasts. Its large 16MP CMOS sensor is undoubtedly the camera's major selling point, and it lacks an optical low-pass filter for maximum resolution.The Coolpix A offers DSLR-standard image quality and an excellent 28mm equivalent lens in a well-polished, pocketable camera. Its user interface will be immediately familiar to Nikon shooters and its results are dependably good. It's not the only game in town, though, and while solid in most respects, it's not class-leading in any single regard.
+    ProductPhotos:
+        - /files/p/products/nikon_cpa/shots/0ff778db4c614a8d85e80d7ee77cf46c.png
+        - /files/p/products/nikon_cpa/shots/9339fcb663204154aa982a2ab9de18f4.png
+        - /files/p/products/nikon_cpa/shots/0550f30644f4423b85a16b7f0cf0a856.png
+        - /files/p/products/nikon_cpa/shots/c93cc965224f4fa8b4f0dc9fb16448f0.png
+        - /files/p/products/nikon_cpa/shots/71704be90c8f435586c6442107211660.png
+    ReviewSummary:
+        GoodFor: Nikon users looking for a pocketable alternative to their DSLR (particularly those who own Nikon Speedlights).
+        NotSoGoodFor: Photographers shooting fast-moving subjects.
+        Conclusion: The Coolpix A offers DSLR-standard image quality and an excellent 28mm-equivalent lens in a well-polished, pocketable camera. Compared to the competition, the Coolpix A is solid, if not class leading in any particular respect, but its user interface will be immediately familiar to Nikon shooters and the results it produces are dependably good.
+    ASIN:
+        - B00BOZ1XA6
+        - B00BOZ1XOM
+Specs:
+    AEBracketing: (at 1/3 EV steps)
+    Announced: Mar 5, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL20 Lithium-Ion battery
+    BatteryLifeCIPA: "230"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "25600"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $750.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 111 x 64 x 40 mm (4.37 x 2.52 x 1.57″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Best Shot Selector
+        - Multi-shot 16
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed auto (with flexible program)
+        - Shutter priority
+        - Aperture-priority
+        - Manual
+    ExternalFlash: Yes (via ISO 518 hot-shoe with sync and data contacts and safety lock)
+    FileFormat:
+        - JPEG
+        - RAW (NEF)
+    FlashModes: Auto, On, Off, Red-Eye, Slow-sync
+    FlashRange: 11.50 m
+    FocalLengthEquiv: 28 mm
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 2000, 3200 6400, (12800, 25600 with boost)
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: $1100/£1000/€1100
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30, 25, 24fps), 1280 x 720p (30 fps), 640 x 480 (30, 25, 24 fps)
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 6, 2013"
+    SceneModes:
+        - Beach/Snow
+        - Blossom
+        - Candlelight
+        - Child
+        - Close-up
+        - Dusk/Dawn
+        - Food
+        - High Key
+        - Landscape
+        - Low Key
+        - Autumn colors
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Silhouette
+        - Sports
+        - Sunset
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 299 g (0.66 lb / 10.55 oz)
+    WhiteBalancePresets: ""
+    Wireless: Optional
+    WirelessNotes: via optional WU-1a Wireless Mobile Adapter

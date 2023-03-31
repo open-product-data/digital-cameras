@@ -1,0 +1,142 @@
+ProductCode: nikon_d6
+Award: ""
+ImageURL: /files/p/products/nikon_d6/738b258d231f489ebab7b723ded95e89.png
+Name: Nikon D6
+ShortSpecs:
+    - 21 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d6
+ReviewData:
+    ExecutiveSummary: The Nikon D6 is a professional DSLR designed for sports and action photography. It features a full-frame 20 Megapixel CMOS sensor and Nikon's most advanced autofocus system, as of February 2020. The AF system has 105 points, all of which are cross-type and use a 'triple-sensor arrangement'. Nikon claims that the D6 can focus down to -4.5EV. The camera can shoot bursts at up to 14 frames per second with continuous autofocus.As one would expect, the D6 has an incredibly durable, weather-sealed body. It has two XQD/CFexpress card slots along with Gigabit Ethernet, USB 3.2 and Wi-Fi + Bluetooth.
+    ProductPhotos:
+        - /files/p/products/nikon_d6/shots/760a7b4539614397aff6c055d9c5323a.png
+        - /files/p/products/nikon_d6/shots/8b7dee166f1a42519f13882b31b03bf9.png
+        - /files/p/products/nikon_d6/shots/0da99b6ee2ea44d280773bd74bd3c957.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Sep 4, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL18c lithium-ion battery & charager
+    BatteryLifeCIPA: "3580"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large SLR
+    BoostedISOMaximum: "3280000"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 160 x 163 x 92 mm (6.3 x 6.42 x 3.62″)
+    DriveModes:
+        - Single frame
+        - Self-timer
+        - Quiet shutter
+        - Mirror-up
+        - Continuous high
+        - Continuous low
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync socket)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, 12 or 14 bit)
+    FlashModes: Normal, redeye reduction, slow sync, slow sync w/redeye reduction, rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-102400 (expands to 50-3280000)
+    ImageRatioWh: 1:1, 5:4, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $6499
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5568 x 3712
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: "105"
+    NumberOfFocusPoints: "105"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432 (DX format)
+    Processor: Expeed 6
+    RemoteControl: Yes (Wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,359,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual XQD/CFexpress slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.72×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1450 g (3.20 lb / 51.15 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

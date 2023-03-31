@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211203184545/https://www.dpreview.com/reviews/sony-cybershot-dsc-rx100-m3
+ProductCode: sony_dscrx100m3
+Award: gold
+ImageURL: /files/p/products/sony_dscrx100m3/4d6c8c1a766b4efc918ff2c48dcc5d0b.png
+Name: Sony RX100 III
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 70 mm (2.9×)
+ReviewScore: 82
+URL: /products/sony/compacts/sony_dscrx100m3
+ReviewData:
+    ExecutiveSummary: The RX100 III is the most premium of pocketable premium enthusiasts compacts from Sony. Built around a 1" CMOS sensor and a 24-70mm equivalent F1.8-2.8 Zeiss lens, it promises sharp images even in low light. Other than the redesigned lens, the Mark III differs from its other RX100 siblings by including a built-in and retractable OLED viewfinder with the same T* coating as the camera's lens to reduce flare and ghosting. The RX100 III also features built-in Wi-Fi and NFC connectivity for both wireless image sharing and camera control via smartphone, and a multi-angle WhiteMagic LCD display.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx100m3/shots/f719108a6d004e9ebb097f4b9d12ef33.png
+        - /files/p/products/sony_dscrx100m3/shots/6c80c658714e42b18fb25472007f9ae9.png
+        - /files/p/products/sony_dscrx100m3/shots/507267c4cc794ff194554577904a5583.png
+        - /files/p/products/sony_dscrx100m3/shots/492bc79a93254cac9c463fbae707afcb.png
+        - /files/p/products/sony_dscrx100m3/shots/06182eb685384054a2d4f993e77eb099.png
+        - /files/p/products/sony_dscrx100m3/shots/6fa1b15deb804d36ababcd865c39331d.png
+    ReviewSummary:
+        GoodFor: Getting excellent quality images and video, on the go.
+        NotSoGoodFor: Low light shooters and those who want the camera to always be ready for the next shot.
+        Conclusion: The RX100 III is the most capable compact camera we've ever seen. With its built-in viewfinder and consistently fast lens, there's nothing that can provide better image quality in such a small package. It's not the perfect camera to take shot-to-shot control over, but its capability means it justifies its high price tag.
+    ASIN:
+        - B00K7O2DJU
+        - B00QMVRP5Y
+        - B00U1W5LF6
+Specs:
+    AEBracketing: ±3
+    Announced: May 16, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: Aluminum
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $748.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.8x)
+    Dimensions: 102 x 58 x 41 mm (4.02 x 2.28 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Speed priority
+        - Self-timer
+        - Single bracket
+        - Continuous bracket
+        - WB bracket
+        - DRO bracket
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Superior Auto
+        - Intelligent Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual Exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+        - Raw (Sony ARW v2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–70 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+        - Creative Style
+        - Color space
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Extra fine, fine, standard
+    LiveView: "Yes"
+    MSRP: $799
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 2.9×
+    OrientationSensor: "Yes"
+    OtherResolutions: '3:2 mode: 3888x2592, 2736x1824; 4:3 mode: 4864x3648, 3648x2736, 2592x1944, 640x480; 16:9 mode: 5472x3080, 2720x1528; 1:1 mode: 3648x3648, 2544x2544, 1920x1920'
+    Processor: Bionz X
+    RemoteControl: Yes (with RM-VPR1 wired remote)
+    Resolutions: 1920 x 1080 (60p/60i/24p), 1280 x 720 (60p/30p/24p/120p), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "82%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 23, 2014"
+    SceneModes:
+        - Portrait, sports action, macro, landscape, sunset, night scene, handheld twilight, night portrait, anti motion blur, pet, gourmet, fireworks, high sensitivity
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT-LCD
+    SelfTimer: Yes (2 or 10 sec, self-portrait, continuous)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports XAVC S with 50MBps bit rate
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.59×
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 290 g (0.64 lb / 10.23 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

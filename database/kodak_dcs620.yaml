@@ -1,0 +1,93 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220522023116/https://www.dpreview.com/reviews/kodakdcs620
+ProductCode: kodak_dcs620
+Award: highlyRecommended
+ImageURL: /files/p/products/kodak_dcs620/365f0f93c3114e2a9575affdd1671025.png
+Name: Kodak DCS620
+ShortSpecs:
+    - 2 megapixels
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs620
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0B8PD8TTP
+        - B09ZRN1N3Z
+        - B07BB5FDS2
+Specs:
+    AEBracketing: ""
+    Announced: Feb 3, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Kodak NiCD / NiMH
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 194 x 158 x 88 mm (7.64 x 6.22 x 3.46″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExternalFlash: Yes (hot-shoe & sync)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: 200, 400, 800, 1600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 3 JPEG & Uncompressed
+    LensMount: Nikon F
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1728 x 1152
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 24, 1999"
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: APS-C (22.5 x 15 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: PCMCIA (2 x type II / 1 x type III)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (new firmware)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1580 g (3.48 lb / 55.73 oz)
+    WhiteBalancePresets: ""

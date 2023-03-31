@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211209134515/https://www.dpreview.com/reviews/fujifilm-x10
+ProductCode: fujifilm_x10
+Award: silver
+ImageURL: /files/p/products/fujifilm_x10/74492a9d8b41400286a5a5c3df03504e.png
+Name: Fujifilm X10
+ShortSpecs:
+    - 12 megapixels
+    - 2.8″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 76
+URL: /products/fujifilm/compacts/fujifilm_x10
+ReviewData:
+    ExecutiveSummary: The Fujifilm X10 is an enthusiast compact with a F2.0-2.8, 28-112mm-equivalent lens. It's built around a 2/3" (6.6 x 8.8mm) CMOS sensor that uses Fujifilm's unique EXR pixel arrangement. The 12MP sensor can produce either 12MP images in high resolution mode, under-expose half its pixels to provide 6MP images with greater dynamic range, or combine neighboring pixels for a 6MP high sensitivity mode. The X10 borrows extensively from the styling of the X100 (though its zooming viewfinder means you lose the X100's hybrid viewfinder), to give a camera that sits conceptually between the Olympus XZ-2 and the Canon Powershot G15. Now superseded by the X20, the X10 remains a great choice for anyone interested in a high-quality compact camera, and don't need lots of pixels.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x10/shots/06cb3d3d04564224af8da150d6b13e70.png
+        - /files/p/products/fujifilm_x10/shots/d270ce5bf6844680a3b8ddf296a4c6ee.png
+        - /files/p/products/fujifilm_x10/shots/ccc575ef459742de8f1cb59b29ce3668.png
+    ReviewSummary:
+        GoodFor: Users who want external controls. Those who often shoot in high contrast conditions.
+        NotSoGoodFor: Users who want a pocketable camera. Those who plan to regularly shoot video.
+        Conclusion: The Fujifilm X10 combines retro-styled attractiveness with excellent build quality, a fast zoom lens and all the external controls you could want in a compact camera. The camera's EXR sensor technology allows for impressive dynamic range and in combination with the X10's relatively large sensor allows for very good high ISO performance.
+    ASIN:
+        - B005KBB79C
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 1, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-50 rechargeable battery
+    BatteryLifeCIPA: "270"
+    BodyMaterial: Magnesium alloy
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 117 x 70 x 57 mm (4.61 x 2.76 x 2.24″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Best Frame Capture
+        - AE Bracketing
+        - Self-timer
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - EXR
+        - Advanced
+        - Scene
+        - Movie
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat:
+        - JPEG Exif 2.3
+        - RAW (.RAF)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 9.00 m
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: 3.94×
+    Format: H.264
+    GPS: None
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, (4000, 5000, 6400, 12800 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: 'US: $599.95/ EU: €633.19/ UK: £499.99'
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2–2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: EXR
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (70, 30 fps), 320 x 240 (120 fps), 320 x 112 (200 fps)
+    ReviewPreview: "76%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 11, 2012"
+    SceneModes:
+        - Natural
+        - Natural Light
+        - Portrait
+        - Portrait Enhancer
+        - Landscape
+        - Sport
+        - Night
+        - Night (tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Underwater
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 85%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

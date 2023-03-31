@@ -1,0 +1,93 @@
+ProductCode: agfa_1680
+Award: ""
+ImageURL: /files/p/products/agfa_1680/147d8518df154afeb59641bfffe2281c.png
+Name: Agfa ePhoto 1680
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/agfa/compacts/agfa_1680
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: May 10, 1998
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries (supplied)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 158 x 92 x 52 mm (6.22 x 3.62 x 2.05″)
+    DriveModes: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 1680 mode, 1280 mode, 1280 b&w, 640 mode
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: Yes (but only 1m, 2m, 5m and Infinity)
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–3.5
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 110,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (5 or 10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 4 MB SmartMedia
+    StorageTypes: SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 420 g (0.93 lb / 14.82 oz)
+    WhiteBalancePresets: ""

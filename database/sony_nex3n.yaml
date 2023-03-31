@@ -1,0 +1,124 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210926013533/https://www.dpreview.com/reviews/entry-level-mirrorless-camera-roundup-2013
+ProductCode: sony_nex3n
+Award: ""
+ImageURL: /files/p/products/sony_nex3n/d435698f61fd49e9b869ed1e3a6d85a9.png
+Name: Sony Alpha NEX-3N
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_nex3n
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Sony NEX-3N is Sony''s entry-level NEX camera, replacing the NEX-F3. The 3N is, as before, aimed at users stepping up from compact cameras and gains a compact-style zoom lever around its shutter button. It features a smaller body than the F3, and Sony says it is the smallest, lightest mirrorless camera to feature an APS-C sensor, despite featuring a built-in flash.'
+    ProductPhotos:
+        - /files/p/products/sony_nex3n/shots/91d9608200bd4c24b805bbffab3138b9.png
+        - /files/p/products/sony_nex3n/shots/dd0039109e514bd7a747c87c275ddc01.png
+        - /files/p/products/sony_nex3n/shots/4a8614c137ba43cc8d26173660a8afbb.png
+        - /files/p/products/sony_nex3n/shots/0e5f3b95bc8349378596e8ad42a77f8a.png
+        - /files/p/products/sony_nex3n/shots/c3d6cbb721a44ce99355124befe87037.png
+    ReviewSummary: null
+    ASIN:
+        - B00BF9MUBM
+        - B00BF9MUAS
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & USB charger
+    BatteryLifeCIPA: "480"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (2500-9900k )
+    DigitalZoom: "No"
+    Dimensions: 110 x 62 x 35 mm (4.33 x 2.44 x 1.38″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: No (Accessory Port)
+    FileFormat:
+        - JPEG
+        - RAW (ARW 2.2 Format)
+        - RAW+JPEG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600, 3200, 6400, 12800, 16000
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: ""
+    Resolutions: 1920 x 1080
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 30, 2013"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 269 g (0.59 lb / 9.49 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

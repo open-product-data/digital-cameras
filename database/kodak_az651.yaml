@@ -1,0 +1,99 @@
+ProductCode: kodak_az651
+Award: ""
+ImageURL: /files/p/products/kodak_az651/b96840f192e64dbdb1eabdaa242e4793.png
+Name: Kodak Pixpro AZ651
+ShortSpecs:
+    - 21 megapixels
+    - 24 – 1560 mm (65×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_az651
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The KODAK PIXPRO AZ651 Astro Zoom bridge camera offers an astounding 65x optical zoom and so much more. With a top-notch 20 megapixels BSI CMOS sensor, 9fps multi-burst, 24mm wide angle lens and large 3” articulating LCD, photos and videos are crystal clear with amazing, razor sharp detail. Share your moments instantly with your friends and family via Wi-Fi connectivity for even more flexibility.'
+    ProductPhotos:
+        - /files/p/products/kodak_az651/shots/a1c2b7aa1b484c388982a0b2ac0c5bfb.png
+        - /files/p/products/kodak_az651/shots/fdc1f904757b4ae8b853c0b8024575b5.png
+        - /files/p/products/kodak_az651/shots/dd32dff0ef954be4b8312688b2d76529.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 7, 2014
+    AperturePriority: ""
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyMaterial: Composite
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: ""
+    Durability: ""
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–1560 mm
+    Format: ""
+    GPS: None
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: $349
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 65×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

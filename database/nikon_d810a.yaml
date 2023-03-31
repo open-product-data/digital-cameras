@@ -1,0 +1,141 @@
+ProductCode: nikon_d810a
+Award: ""
+ImageURL: /files/p/products/nikon_d810a/4982a58ac06748c2988fb682bbd198c7.png
+Name: Nikon D810A
+ShortSpecs:
+    - 36 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d810a
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Nikon D810A is a specialized version of the regular D810 that has been modified for specific types of astrophotography. The infrared (IR) cut filter has been optimized to allow transmission of the hydrogen alpha spectral line, resulting in four times greater sensitivity of the 656nm wavelength. The resulting images capture the brilliant red hues of diffuse nebulae and constellations in striking detail and fidelity. While not recommended for general photography, the D810A is an excellent option for photographing the universe with either NIKKOR lenses or third-party adaptors for telescopes. A new Long Exposure Manual Mode is implemented, giving users the ability to set shutter speeds from 4, 5, 8, 10, 15, 20, 30, 60, 120, 180, 240, 300, 600 or 900 seconds (15 minutes), as well as Bulb and Time settings. Building upon the D810’s excellent low-light capabilities, the ISO range has been optimized from 200 to 12,800 (Hi-2 51,200), for maximum sensitivity with the optimal signal to noise ratio.The D810A also adds a new Virtual Exposure Preview Mode, which displays an estimated preview image and is available when shooting at shutter speeds longer than 30 seconds when in Live View. The brightened preview image represents a 30 second exposure, simplifying focusing and composition.'
+    ProductPhotos:
+        - /files/p/products/nikon_d810a/shots/0ad08b2c502e4ce6b8e85cd94579182f.png
+        - /files/p/products/nikon_d810a/shots/84743504eede486184c39da0abb68c1b.png
+        - /files/p/products/nikon_d810a/shots/9c30dbc3630d419cb3150c51a073109a.png
+        - /files/p/products/nikon_d810a/shots/111442ebf39c43b6bac117449ddf1129.png
+    ReviewSummary: null
+    ASIN:
+        - B00TE4YL6C
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15 lithium-ion battery & charger
+    BatteryLifeCIPA: "1200"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 146 x 123 x 82 mm (5.75 x 4.84 x 3.23″)
+    DriveModes:
+        - Single-frame
+        - Continuous low-speed [CL]
+        - Continuous high-speed [CH]
+        - Quiet Shutter Release
+        - Quiet Continuous Release
+        - Self-timer
+        - Mirror-up
+    EffectivePixels: 36 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Long exposure
+    ExternalFlash: Yes (via hot shoe, flash sync terminal, wireless)
+    FileFormat:
+        - JPEG (Exif 2.3, DCF 2.0)
+        - RAW (NEF)
+        - TIFF (RGB)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, redeye reduction, redeye reduction w/slow sync, slow rear-curtain sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: via GP-1 or GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-12800 (expandable to 100-51200)
+    ImageRatioWh: 5:4, 3:2
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $3799
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7360 x 4912
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: ""
+    OtherResolutions: 'FX: 5520 x 3680, 3680 x 2456; 1.2: 6144 x 4080, 4608 x 3056, 3072 x 2040; 5:4: 6144 x 4912, 4608 x 3680, 3072 x 2456; DX: 4800 x 3200, 3600 x 2400,  2400 x 1600'
+    Processor: EXPEED 4
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,229,000
+    ScreenSize: 3.2″
+    ScreenType: TFT-LCD (RGBW)
+    SelfTimer: Yes (2, 5, 10, 20 secs for up to 9 shots)
+    SensorPhotoDetectors: 37 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: RAW (NEF) available at 12 or 14-bits, lossless compressed, compressed, uncompressed, large or small size.
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, CompactFlash (UDMA compliant)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: Uncompressed output over HDMI with simultaneous writing to memory card
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: Yes (2-9 exposures in 1-3 increments)
+    WeightIncBatteries: 880 g (1.94 lb / 31.04 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: via WT-5A or Eye-Fi

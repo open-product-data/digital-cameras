@@ -1,0 +1,112 @@
+ProductCode: leica_digiluxzoom
+Award: ""
+ImageURL: /files/p/products/leica_digiluxzoom/d7b89382899240a1825dab791f57652b.png
+Name: Leica Digilux Zoom
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_digiluxzoom
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B09RMWFQL1
+        - B07T9NT4NV
+        - B08W8TN582
+Specs:
+    AEBracketing: ""
+    Announced: Feb 4, 2000
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-80)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 79 x 98 x 33 mm (3.11 x 3.84 x 1.3″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -0.9–1.5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: ""
+    FocalLengthEquiv: 38–114 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: "125"
+    ImageParameters: ""
+    ImageRatioWh: "5:4"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 1024
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/4 sec
+    Modes: ""
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 130,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 270 g (0.60 lb / 9.52 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

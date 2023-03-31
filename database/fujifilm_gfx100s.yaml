@@ -1,0 +1,159 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211111102808/https://www.dpreview.com/reviews/fujifilm-gfx-100s-review
+ProductCode: fujifilm_gfx100s
+Award: gold
+ImageURL: /files/p/products/fujifilm_gfx100s/cb852acf9dec43f2a148e0584c91ad58.png
+Name: Fujifilm GFX 100S
+ShortSpecs:
+    - 102 megapixels
+    - 3.2″ screen
+    - Medium format sensor
+ReviewScore: 90
+URL: /products/fujifilm/slrs/fujifilm_gfx100s
+ReviewData:
+    ExecutiveSummary: The Fujifilm GFX 100S is a 102MP medium format camera with an image stabilized BSI-CMOS sensor. This image stabilization is rated at up to 6.0 stops, and can work in sync with in-lens stabilization to maintain this performance. It has a hybrid autofocus system with nearly 100% coverage and a multi-shot mode for capturing 400MP images of static subjects. It shoot a DCI or UHD 4K video with internal capture at up to 400Mbps or a choice of 10-bit 4:2:2 or 12-bit Raw output over HDMI. The compact body is weather-sealed, has an OLED info displays on the top, and a fixed 3.69M-dot OLED viewfinder. Its dual-hinged 3.2" LCD can tilt for both landscape and portrait photography. The camera has two SD card slots and ports for a mic, headphones and remote control.
+    ProductPhotos:
+        - /files/p/products/fujifilm_gfx100s/shots/68a5bfcff5d748818c28c1bf623d12c0.png
+        - /files/p/products/fujifilm_gfx100s/shots/e849cab43f124131a9c3bbaf01ecbab9.png
+        - /files/p/products/fujifilm_gfx100s/shots/f1d465dbf9a741678e4dd2a3d227b451.png
+        - /files/p/products/fujifilm_gfx100s/shots/ebd5cbb196ef479b901317c0c8afe273.png
+        - /files/p/products/fujifilm_gfx100s/shots/b4e3abeb56d14cc7a644174511ddeb5b.png
+        - /files/p/products/fujifilm_gfx100s/shots/a3f0697ad6d74c5fa87f4a242e477ae6.png
+    ReviewSummary:
+        GoodFor: Landscapes, portraiture, studio work
+        NotSoGoodFor: Fast-paced action and scenarios that require rapid responses
+        Conclusion: The Fujifilm GFX 100S is the smallest, least expensive way to achieve image quality beyond what full-frame can currently offer. You lose some responsiveness and flexibility in return for that, but as an image-making tool the GFX is excellent. It's also a surprisingly capable video camera but its smaller battery risks being more limiting than it is for stills shooting. Impressive in the studio and beyond.
+    ASIN:
+        - B08TLRKRKK
+        - B08VXZYC8Z
+        - B08VY22SQ3
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jan 27, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "460"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $6,139.49
+    CIPAImageStabilizationRating: 6 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 150 x 104 x 87 mm (5.91 x 4.09 x 3.43″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 102 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14/16-bit RAF)
+        - TIFF (8/16-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/125 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 0.79×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800 (expands to 50-102400)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Fujifilm G
+    LiveView: "Yes"
+    MSRP: $5999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 11648 x 8736
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 400 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "425"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 28, 2021"
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC cards (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW + TIFF
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.61× (0.77× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 900 g (1.98 lb / 31.75 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

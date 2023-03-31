@@ -1,0 +1,84 @@
+ProductCode: samsung_s630
+Award: ""
+ImageURL: /files/p/products/samsung_s630/0f6a4c3589f74f6ca20f4eb162d2e325.png
+Name: Samsung S630
+ShortSpecs:
+    - 6 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_s630
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000MAF0X0
+        - B000MAF0XU
+        - B000MAJ5VI
+Specs:
+    Announced: Jan 7, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 100 x 63 x 26 mm (3.94 x 2.48 x 1.02″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2816 x 2112
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 640 x 480, 320 x 240, 30/15 fps
+    ReviewPreview: ""
+    ScreenDots: 150,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 186 g (0.41 lb / 6.56 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

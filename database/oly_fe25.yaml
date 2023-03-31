@@ -1,0 +1,86 @@
+ProductCode: oly_fe25
+Award: ""
+ImageURL: /files/p/products/oly_fe25/aa54467053904a23bd3b9609f36c84dd.png
+Name: Olympus FE-25
+ShortSpecs:
+    - 10 megapixels
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe25
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/oly_fe25/shots/779aa9f4a0fe4c359ac508d4b4890c07.png
+        - /files/p/products/oly_fe25/shots/e17f5ff705744beda387dd36d653466c.png
+        - /files/p/products/oly_fe25/shots/2a007166ac4f42078ee7d97737f59776.png
+    ReviewSummary: null
+    ASIN:
+        - B001P06K3K
+        - B001P06JEK
+Specs:
+    Announced: Jan 7, 2009
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 93 x 62 x 24 mm (3.66 x 2.44 x 0.94″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2768
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

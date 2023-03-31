@@ -1,0 +1,86 @@
+ProductCode: canon_s500
+Award: ""
+ImageURL: /files/p/products/canon_s500/d03157e7f12448069e2fc4a3e8c4a4c6.png
+Name: Canon PowerShot S500 (Digital IXUS 500 / IXY Digital 500)
+ShortSpecs:
+    - 5 megapixels
+    - 1.5″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_s500
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001G6U5W
+Specs:
+    Announced: Feb 9, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-1LH Battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.1 x)
+    Dimensions: 87 x 57 x 28 mm (3.43 x 2.24 x 1.1″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Manual (Red Eye On/Off)
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 36–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2048 x 1536, 1600 x 1200, 1240 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 30 sec, 320 x 240, max 3 mins with audio
+    ReviewPreview: ""
+    ScreenDots: 118,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB CompactFlash
+    StorageTypes: Compact Flash (Type I)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 215 g (0.47 lb / 7.58 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

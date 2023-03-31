@@ -1,0 +1,134 @@
+ProductCode: panasonic_dmcts6
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcts6/5ba811334de3453988266d4acecc8702.png
+Name: Panasonic Lumix DMC-TS6 (Lumix DMC-FT6)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 128 mm (4.6×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcts6
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-TS6 (FT6 in some regions) is an ultra-rugged tough camera with a 16MP CMOS sensor and 4.6x (28-128mm equivalent) lens. The camera is waterproof to 13m/43ft, shockproof to 2m/6.6ft, freezeproof to -10C/+14F, crushproof to 100 kgf/220 lbf, and dustproof. It can record Full HD video at 60p and can also shoot continuously at 10 fps. The TS6 also has built-in Wi-Fi with NFC as well as a GPS receiver.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcts6/shots/164a72a3ac83498cba573cf3f2d472ef.png
+        - /files/p/products/panasonic_dmcts6/shots/ae746828b98c46e09cf3a30a56e63553.png
+        - /files/p/products/panasonic_dmcts6/shots/db5259551c2a49a18acff7d43adbf1b1.png
+    ReviewSummary: null
+    ASIN:
+        - B00RBG68N4
+Specs:
+    AEBracketing: ±1 (3 frames at 1/3 EV steps)
+    Announced: Jan 5, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium ion battery & charger
+    BatteryLifeCIPA: "370"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (2X-4X)
+    Dimensions: 110 x 67 x 29 mm (4.33 x 2.64 x 1.14″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof (12m), shockproof (2m), crushproof (100kgf), freezeproof (-10C), dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF, Exif v2.3)
+        - MPO (3D)
+    FlashModes: Auto, auto w/redeye reduction, on, slow sync w/redeye reduction, off
+    FlashRange: 5.60 m
+    FocalLengthEquiv: 28–128 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: with GLONASS
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: 'Auto, 100-3200 (high sensitivity mode: 100-6400)'
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: $299
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1300 sec
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 4.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Night Portrait
+        - Night Scenery
+        - Hand Held Night Shot
+        - HDR
+        - Food
+        - Baby 1/2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - 3D photo
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 18 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 10MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 214 g (0.47 lb / 7.55 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: with NFC

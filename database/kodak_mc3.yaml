@@ -1,0 +1,83 @@
+ProductCode: kodak_mc3
+Award: ""
+ImageURL: /files/p/products/kodak_mc3/3bbd5b11eb2e4dce885632de6d3766ff.png
+Name: Kodak mc3
+ShortSpecs:
+    - 0 megapixels
+    - 1.5″ screen
+    - 37 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_mc3
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 12, 2001
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AAA
+    BatteryDescription: AAA (3) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 105 x 65 x 37 mm (4.13 x 2.56 x 1.46″)
+    Durability: ""
+    EffectivePixels: 0 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 37 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "120"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 640 x 480
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "No"
+    Resolutions: 10/20 fps, 320 x 240
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 0 megapixels
+    SensorSize: ""
+    SensorType: CMOS
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 198 g (0.44 lb / 6.98 oz)
+    WhiteBalancePresets: ""

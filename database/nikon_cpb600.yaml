@@ -1,0 +1,126 @@
+ProductCode: nikon_cpb600
+Award: ""
+ImageURL: /files/p/products/nikon_cpb600/8c2dbfae895040b9af0ff349c22b0faa.png
+Name: Nikon Coolpix B600
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1440 mm (60×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpb600
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix B600 is a superzoom camera with an optically stabilized 60x lens that is equivalent to 24-1440mm. It uses a 16MP BSI-CMOS sensor (1/2.3") and has a 3" fixed LCD (but no electronic viewfinder). Video can be captured at 1080/30p. Wi-Fi and Bluetooth are built-in.
+    ProductPhotos:
+        - /files/p/products/nikon_cpb600/shots/ef29b38bbd714acaa4a9961fa23e79c8.png
+        - /files/p/products/nikon_cpb600/shots/2ba3a391d0d244d889ada4d4aa78efdd.png
+        - /files/p/products/nikon_cpb600/shots/9f24513823184b9a94b998c2cbc5a7ee.png
+        - /files/p/products/nikon_cpb600/shots/06b83248e4cd42c59f2f5732f5814206.png
+        - /files/p/products/nikon_cpb600/shots/c3cc7085fb0e45dab7e9fd7e4d6fcf9f.png
+        - /files/p/products/nikon_cpb600/shots/7573efdfa6d9415a9c684838df5aef62.png
+    ReviewSummary: null
+    ASIN:
+        - B07P3FQ21B
+Specs:
+    Announced: Jan 18, 2019
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL12 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "280"
+    BodyMaterial: Composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 3 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: 122 x 82 x 99 mm (4.8 x 3.23 x 3.9″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: 6.80 m (with Auto ISO)
+    FocalLengthEquiv: 24–1440 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $329 / £329 / €359
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1 sec
+    Modes:
+        - 1920 x 1080 @ 60i, MP4, H.264, AAC
+        - 1920 x 1080 @ 50i, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p, MP4, H.264, AAC
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 60×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone or wireless remote)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 83MB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 500 g (1.10 lb / 17.64 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g

@@ -1,0 +1,109 @@
+ProductCode: oly_sz30mr
+Award: ""
+ImageURL: /files/p/products/oly_sz30mr/b74c3a2a5afc44a18d8d7b275e45fab8.png
+Name: Olympus SZ-30MR
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sz30mr
+ReviewData:
+    ExecutiveSummary: The Olympus SZ-30MR compact allows simultaneous capture of 1080p HD videos and full resolution stills. The 24x superzoom is built around a 16MP CMOS sensor and is capable of 9 fps full-resolution continuous shooting and can generate 3D images. It features a 3.0" LCD and zoom lens stretching from 25 to 600mm equivalent. The spec is rounded out with the company's Magic Filters for both stills and videos, AF tracking and image stabilization.
+    ProductPhotos:
+        - /files/p/products/oly_sz30mr/shots/863fbe1e73a540f8bee615350a527107.png
+        - /files/p/products/oly_sz30mr/shots/37f47c07818b46da9ffbdce77aca1e5a.png
+        - /files/p/products/oly_sz30mr/shots/3361d2159b604d9fa4a17c71d6c34499.png
+    ReviewSummary: null
+    ASIN:
+        - B004S7QKDC
+Specs:
+    Announced: Mar 2, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion rechargeable LI-50B battery & charger
+    BatteryLifeCIPA: "220"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.7 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 106 x 69 x 40 mm (4.17 x 2.72 x 1.57″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 25–600 mm
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, High Auto, 80, 100, 200, 400, 800, 1600,3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–6.9
+    MaximumShutterSpeed: 1/1700 sec
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3264 x 2448, 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III+
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps)1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 180 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Hypercrystal III Color LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 226 g (0.50 lb / 7.97 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

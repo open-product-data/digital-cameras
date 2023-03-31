@@ -1,0 +1,149 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220413173247/https://www.dpreview.com/reviews/canon-eos-m5-review
+ProductCode: canon_eosm5
+Award: silver
+ImageURL: /files/p/products/canon_eosm5/c82e6664d5674e84b8d6c6ff62625394.png
+Name: Canon EOS M5
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/canon/slrs/canon_eosm5
+ReviewData:
+    ExecutiveSummary: The Canon EOS M5 is an enthusiast-friendly model in the company's mirrorless lineup. Like the other M-series models, it uses EF-M lenses with support for EF and EF-S via an optional adapter. It features a 24.2MP APS-C CMOS sensor with the company's Dual Pixel AF, which allows for fast autofocus in live view and movie mode. In a first for Canon, the M5 has digital 5-axis image stabilization when recording video. It has an SLR-style design with three control dials as well as a direct control for exposure compensation. It features a tilting 3.2" LCD that can flip all the way down 180 degrees - perfect for selfies. In addition there is an electronic viewfinder with 2.36 million dots. The M5 can shoot continuously at up to 9 frames/second (7 fps with continuous AF) and can capture 1080/60p video. Photos can be shared via Wi-Fi, with the camera using Bluetooth for quick pairing with your smartphone.
+    ProductPhotos:
+        - /files/p/products/canon_eosm5/shots/32cc733b6cb04c5fa9045930a3a130cc.png
+        - /files/p/products/canon_eosm5/shots/9b3debc5a62244529fe3d8c69ee07b47.png
+        - /files/p/products/canon_eosm5/shots/f13e9e027e08448e8d4453c3c1ddd276.png
+        - /files/p/products/canon_eosm5/shots/54799ab8499b4e63a7ecc57427cebb4b.png
+        - /files/p/products/canon_eosm5/shots/bd742987894b48ff83a0adae7630ca35.png
+        - /files/p/products/canon_eosm5/shots/f61f816b28d045a4b59da6ebc5d778da.png
+    ReviewSummary:
+        GoodFor: Users looking for solid, dependable performance for general photography and casual video capture in a compact package with a highly polished user interface.
+        NotSoGoodFor: Action and sports shooters, video shooters needing 4K capture, users concerned with availability of suitably sized lenses.
+        Conclusion: The EOS M5 has plenty going for it. Shooting smooth, properly focused video is incredibly easy, and the new 24MP sensor has made great strides in overall image quality. Dual Pixel autofocus makes for faster, more precise focusing and really makes the M5 shine with adapted lenses. Unfortunately, it sits in a crowded market and its excellent usability can't quite make up for the fact that you can arguably get more camera for less money elsewhere.
+    ASIN:
+        - B01LWUQCED
+        - B01LWUQDHJ
+        - B01LXTX4HC
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Sep 15, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "295"
+    BodyMaterial: Metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $599.00 - $1,499.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 116 x 89 x 61 mm (4.57 x 3.5 x 2.4″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Canon CR2, 14-bit)
+    FlashModes: ""
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: ""
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: 5-axis for video only
+    JPEGQualityLevels: Fine, standard
+    LensMount: Canon EF-M
+    LiveView: "Yes"
+    MSRP: $979 (body), $1099 (w/15-45mm lens), $1479 (w/18-150mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 35 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 24 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 60p / 16 Mbps, MP4, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (6000 x 4000, 3984 x 2656, 2976 x 1984, 2400 x 1600), 16:9 (6000 x 3368, 3984 x 2240, 2976 x 1680, 2400 x 1344), 4:3 (5328 x 4000, 3552 x 2664, 2656 x 1992, 2112 x 1600), 1:1 (4000 x 4000, 2656 x 2656, 1984 x 1984, 1600 x 1600)
+    Processor: Digic 7
+    RemoteControl: Yes (Wired, wireless, or smartphone)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 20, 2016"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom, remote)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 427 g (0.94 lb / 15.06 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n with Bluetooth and NFC

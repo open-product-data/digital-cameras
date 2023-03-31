@@ -1,0 +1,107 @@
+ProductCode: nikon_cpl16
+Award: ""
+ImageURL: /files/p/products/nikon_cpl16/dd0b981decaa461ab035b92078ceca3a.png
+Name: Nikon Coolpix L16
+ShortSpecs:
+    - 7 megapixels
+    - 2.8″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpl16
+ReviewData:
+    ExecutiveSummary: Nonedescript entry-level plastic-bodied 7 megapixel compact with a limited feature set and a price to match. We tested the L16's near identical twin (the 8MP Coolpix L18) and were pleasantly surprised by the image quality, solid construction and easy handling, but found the lack of key controls (such as manual ISO control) frustrating.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001HKHKNW
+Specs:
+    Announced: Jan 29, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (up to 4x)
+    Dimensions: 95 x 61 x 30 mm (3.74 x 2.4 x 1.16″)
+    DriveModes: ""
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (64-1600)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 15 cm (5.91″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F2.8–4.7
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 30 fps, 320 x 240, 30/15 fps, 160 x 120, 15 fps
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.8″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 21 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

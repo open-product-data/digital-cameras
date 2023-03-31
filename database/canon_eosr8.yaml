@@ -1,0 +1,185 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20230208041301/https://www.dpreview.com/reviews/canon-eos-r8-initial-review
+ProductCode: canon_eosr8
+Award: ""
+ImageURL: /files/p/products/canon_eosr8/c170bac50baf4f1cbdd9834276e7457a.png
+Name: Canon EOS R8
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eosr8
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/canon_eosr8/shots/40d16e55ebb24f74bbd92cd1023bac9e.png
+        - /files/p/products/canon_eosr8/shots/4083644af1bd41769712381621757491.png
+    ReviewSummary: null
+    ASIN:
+        - B0BTTRXL3F
+        - B0BTTW292G
+        - B0BL7X3KLV
+Specs:
+    AEBracketing: ""
+    Announced: Feb 8, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: RGB primary color filters
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 133 x 86 x 70 mm (5.24 x 3.39 x 2.76″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto, Hybrid Auto, Special Scenes, Creative Filters, Flexible-priority AE, Program AE, Shutter-priority AE, Aperture-priority AE, Manual Exposure, Bulb Exposure, Custom Shooting Modes C1, C2, C3
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG, HEIF, CR3, C-Raw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: ""
+    HDMI: Yes (Micro)
+    HeadphonePort: "Yes"
+    ISO: 100-102400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $1499 body only ($1699 with 24-50mm F4.5-6.3 IS)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: ""
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 340 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 340 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 230 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 50p / 230 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 60p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 50p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 30p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 25p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 30p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 25p / 60 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 23.98p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 180p / 270 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 180p / 180 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 180p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 180p / 105 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 180 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p / 180 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 100p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 70 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 70 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 90 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 90 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 50p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 50 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 35 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 50p / 35 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 25p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 25p / 12 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 12 Mbps, MOV, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "1053"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Feb 8, 2023"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 461 g (1.02 lb / 16.26 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

@@ -1,0 +1,96 @@
+ProductCode: fujifilm_av200
+Award: ""
+ImageURL: /files/p/products/fujifilm_av200/b483d741bc2e4fd8847da68527145fbe.png
+Name: FujiFilm FinePix AV200 (FinePix AV205)
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 32 – 96 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_av200
+ReviewData:
+    ExecutiveSummary: Sitting in the middle of Fujifilm's budget A-series range the AV200 is built around a 14MP CCD sensor, and features a 3x optical zoom range that covers and equivalent span of 32-96mm. The AV200 has a 2.7in LCD screen and as well as several scene modes, it also offers Auto Scene Recognition, Face detection and a Panorama mode. The AV200 accepts AA batteries, including rechargeables.
+    ProductPhotos:
+        - /files/p/products/fujifilm_av200/shots/2e06e937159144e69bdad02ec6a1a7b9.png
+        - /files/p/products/fujifilm_av200/shots/c9b5e0b6feec413d8af09fc332aa28b0.png
+        - /files/p/products/fujifilm_av200/shots/71cf1073b83a49a7bfd55c0abb6a1c7e.png
+    ReviewSummary: null
+    ASIN:
+        - B007KB6AOW
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    Battery: AA
+    BatteryDescription: 2 x Alkaline batteries
+    BatteryLifeCIPA: "180"
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 93 x 60 x 28 mm (3.66 x 2.36 x 1.1″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 32–96 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.9–5.2
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2864, 4288 x 2416, 3072 x 2304, 3072 x 1728, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 168 g (0.37 lb / 5.93 oz)
+    WhiteBalancePresets: "6"

@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206081203/https://www.dpreview.com/reviews/bang-for-the-buck-olympus-om-d-e-m10-ii-review
+ProductCode: oly_em10ii
+Award: silver
+ImageURL: /files/p/products/oly_em10ii/861580a16f6b4bcd8060b0d2df42a8a5.png
+Name: Olympus OM-D E-M10 II
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 80
+URL: /products/olympus/slrs/oly_em10ii
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D EM-10 II is the follow-up to the company's E-M10 from 2014. It features the same 16MP Live MOS sensor but adds 5-axis stabilization, which reduces shake by up to 4 stops. Its design is reminiscent of the E-M5 II except that it's not weather-sealed. The mode and twin control dials on the top plate are tiered, making them easy to operate. Photos can be composed on a 2.36M-dot OLED EVF or a tilting 3" touchscreen display. The camera has numerous scene and special effect modes, full manual controls, and in-camera Raw processing. Full HD video can be recorded at 24p and 60p, at bit rates up to 77Mbps. The camera also supports Wi-Fi connectivity.
+    ProductPhotos:
+        - /files/p/products/oly_em10ii/shots/cebc9436b7eb4a0ebd0e5d192331eb5e.png
+        - /files/p/products/oly_em10ii/shots/a00c6bdfa6b944aeb8a5e4ce7b29c543.png
+        - /files/p/products/oly_em10ii/shots/aca39e8ad40e4465a1959adaef719afe.png
+        - /files/p/products/oly_em10ii/shots/0abea26a21d1425bba9936b3c07b7783.png
+    ReviewSummary:
+        GoodFor: Budget-minded photographers who don't want to skimp on features. Those seeking a compact 'second camera'.
+        NotSoGoodFor: Video enthusiasts and those who wish to keep moving subjects in focus.
+        Conclusion: The Olympus OM-D E-M10 II is an inexpensive yet well-specified mirrorless camera whose design, image quality, performance and feature set make it a compelling choice. That said, the E-M10 II's menus can be confusing, the lack of 4K video is disappointing, and subject tracking needs improvement.
+    ASIN:
+        - B01CIXJK16
+        - B01CIXJIHW
+        - B01CIXJSOK
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Aug 25, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery & charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Olympus Wireless RC Flash system compatible)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 120 x 83 x 47 mm (4.72 x 3.27 x 1.85″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or wirelessly)
+    FileFormat:
+        - JPEG
+        - RAW
+        - MPO
+    FlashModes: Auto, redeye reduction, fill flash, flash off, 1st-curtain slow sync w/redeye, 1st-curtain slow sync, 2nd-curtain slow sync, manual
+    FlashRange: 5.80 m (ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: via smartphone
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200 - 25600, expands to 100-25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis image stabilization (yaw/pitch/roll/vertical/horizontal)
+    JPEGQualityLevels: Super fine, fine, normal, basic
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $799
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "81"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VII
+    RemoteControl: Yes (Optional Remote cable RM-UC1)
+    Resolutions: 1920 x 1080 (60p/30p/24p),  1280 x 720 (60p/30p/24p), 640 x 480 (30 fps)
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 25, 2015"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport
+        - Hand-held Starlight
+        - Night scene
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv.
+        - Wide Conv.
+        - Macro Conv.
+        - Panning
+        - 3D
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (12 sec., 2 sec, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Up to 999 shots. Can create 4K / 5 fps video)
+    TouchScreen: Yes (Focus, shutter release, AF point selection, menus, image playback)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.23× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 390 g (0.86 lb / 13.76 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone app

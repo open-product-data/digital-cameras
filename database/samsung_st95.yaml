@@ -1,0 +1,89 @@
+ProductCode: samsung_st95
+Award: ""
+ImageURL: /files/p/products/samsung_st95/69d0404ca9f54207b83fdc640ce56464.png
+Name: Samsung ST95
+ShortSpecs:
+    - 16 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st95
+ReviewData:
+    ExecutiveSummary: The Samsung ST95 is a 16MP stylish compact featuring 5x optical zoom lens starting at 26mm and 3.0 inch touchscreen  LCD. It features the company's Smart Album automatically organizes photos by type, date and face recognition and 720p HD video recording in H.264 format.
+    ProductPhotos:
+        - /files/p/products/samsung_st95/shots/67bb565e72d243108e4a21f87227f061.png
+        - /files/p/products/samsung_st95/shots/ec2c33bf05444f1aa8e76a767dee8399.png
+        - /files/p/products/samsung_st95/shots/f27f7ef5600b4a428c7fa12b982f0716.png
+        - /files/p/products/samsung_st95/shots/870a7d3ee9014d2e8c8c973a08dc8c31.png
+    ReviewSummary: null
+    ASIN:
+        - B004MJCBXY
+        - B004Z50AII
+        - B004OZJO8G
+Specs:
+    Announced: Jan 19, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 92 x 53 x 17 mm (3.62 x 2.09 x 0.67″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

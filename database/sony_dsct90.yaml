@@ -1,0 +1,105 @@
+ProductCode: sony_dsct90
+Award: ""
+ImageURL: /files/p/products/sony_dsct90/916e2fc412af4b42a65d00cff6bb5464.png
+Name: Sony Cyber-shot DSC-T90
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsct90
+ReviewData:
+    ExecutiveSummary: One of a pair of near identical twins (the other being the DSC-T900), the DSC-T90 has the usual T series attributes; ultra slim styling, sliding lens cover and simple point-and-shoot operation. The 12 megapixel sensor can also deliver 720p HD movies (MPEG4 format) and Sony's latest intelligent automatic systems. The whole thing is finished off with a large 3.0" screen and useful 35-140mm (equiv.) 5x zoom with optical image stabilization. The T-900 adds a larger, much higher resolution screen. April 2009
+    ProductPhotos:
+        - /files/p/products/sony_dsct90/shots/1751b2f92565400187c5d1a134712661.png
+        - /files/p/products/sony_dsct90/shots/b53652e794de4fd2a65686fc0b797f56.png
+        - /files/p/products/sony_dsct90/shots/950bd4227a11421e8a64f38877573a7b.png
+        - /files/p/products/sony_dsct90/shots/22e04c1ddf354d24ad9019f3b916a0a1.png
+    ReviewSummary: null
+    ASIN:
+        - B001SEQPHY
+        - B001SEQPHO
+        - B001SEQPI8
+Specs:
+    Announced: Feb 17, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Battery & Charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (up to 8x)
+    Dimensions: 94 x 57 x 15 mm (3.7 x 2.24 x 0.59″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 2.90 m (Auto ISO)
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–10
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2592 x 1944, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 11 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 148 g (0.33 lb / 5.22 oz)
+    WhiteBalancePresets: "10"
+    Wireless: ""

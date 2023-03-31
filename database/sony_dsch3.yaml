@@ -1,0 +1,97 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220222145219/https://www.dpreview.com/reviews/sonydsch3
+ProductCode: sony_dsch3
+Award: recommended
+ImageURL: /files/p/products/sony_dsch3/f986a281e43e47e6b7f76b018c6e1e2b.png
+Name: Sony Cyber-shot DSC-H3
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 38 – 380 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsch3
+ReviewData:
+    ExecutiveSummary: First generation of Sony's unusually styled 10x zoom compact cameras is equipped with an 8MP sensor and a 38-380mm equiv. zoom, and features such as Face Detection, Optical Image Stabilization and HDTV output (albeit using an optional composite video cable or Cyber-shot Station dock). Compared to most recent cameras in this class the H20's lens is biased far more towards the tele end, which is either a good thing or a bad thing depending on the type of thing you want to shoot. Image quality is pretty good but the lack of wideangle is disappointing. Since replaced by the H10 and H20. (April 2009)
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000TEYOOK
+Specs:
+    Announced: Aug 21, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (20 x)
+    Dimensions: 106 x 69 x 48 mm (4.17 x 2.72 x 1.89″)
+    DriveModes: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 7.00 m
+    FocalLengthEquiv: 38–380 mm
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (5 presets)
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.5–4.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 10×
+    OrientationSensor: "No"
+    OtherResolutions: 3264 x 2176, 2592 x 1944, 1920 x 1080, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: MPEG VX (640 x 480, 8/16/30 fps, unlimited) with audio
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 15, 2008"
+    SceneModes: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 31 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 264 g (0.58 lb / 9.31 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

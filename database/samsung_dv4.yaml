@@ -1,0 +1,101 @@
+ProductCode: samsung_dv4
+Award: ""
+ImageURL: /files/p/products/samsung_dv4/e270d290aade4a86bbad5e5789e9f685.png
+Name: Samsung Digimax V4
+ShortSpecs:
+    - 4 megapixels
+    - 1.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_dv4
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 10, 2003
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 106 x 55 x 38 mm (4.17 x 2.17 x 1.5″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2272 x 1704
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1120 x 840, 544 x 408
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 288 x 208
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 118,000
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: Unknown
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

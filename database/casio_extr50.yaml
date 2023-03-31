@@ -1,0 +1,105 @@
+ProductCode: casio_extr50
+Award: ""
+ImageURL: /files/p/products/casio_extr50/2bbef4e656554b61ac72e4a8cfefc9eb.png
+Name: Casio Exilim EX-TR50
+ShortSpecs:
+    - 11 megapixels
+    - 3″ screen
+    - 21 mm
+ReviewScore: 0
+URL: /products/casio/compacts/casio_extr50
+ReviewData:
+    ExecutiveSummary: 'The Casio Exilim EX-TR50 is the follow-up to the unique "TRYX" camera, which had a hinged body that allowed the camera unit to swivel inside a frame. This allows for interesting ways of composing photos, whether setting the camera on a table or hanging it from a door knob. The TR50 features a 1/1.7" BSI-CMOS sensor (up from 1/2.3" on the original model) and an F2.8, 21mm equivalent lens. Beauty is a big part of the TR50: it has several ''make-up modes'', as well as promotion movies and posing shot features. It can also serve as a mirror. Other features include a 3" 921k touchscreen display, 1080p video, and built-in Wi-Fi. The EX-TR50 will be sold only in certain markets.'
+    ProductPhotos:
+        - /files/p/products/casio_extr50/shots/425b37c7990c455d82bb6311e9c1a4e3.png
+        - /files/p/products/casio_extr50/shots/3f0bd088d0f346f0abbd6d45b7c4a88d.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 24, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-150 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 126 x 64 x 15 mm (4.96 x 2.52 x 0.59″)
+    EffectivePixels: 11 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Premium Auto Pro
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 21 mm
+    Format: H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80 - 3200
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/16000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 8 cm (3.15″)
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: 2048 x 1536
+    Processor: Exilim Engine HS v.3
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080, 1280 x 720, 512 x 384 (HS)
+    ReviewPreview: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2-10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 49.9MB
+    StorageTypes: Internal, microSD/SDHC/SDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 167 g (0.37 lb / 5.89 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with photo sharing via smartphone

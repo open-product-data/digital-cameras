@@ -1,0 +1,139 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220117133904/https://www.dpreview.com/reviews/fujifilm-x-pro2
+ProductCode: fujifilm_xpro2
+Award: silver
+ImageURL: /files/p/products/fujifilm_xpro2/05100ead0e934761a57ebf6485bb3500.png
+Name: Fujifilm X-Pro2
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 83
+URL: /products/fujifilm/slrs/fujifilm_xpro2
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Fujifilm X-Pro2 is the long-awaited update to the X-Pro1 and offers a new 24.3MP APS-C X-Trans CMOS III sensor and an ''advanced hybrid multi viewfinder'' that can be an optical or electronic viewfinder, or a combination of the two. Its new image processor is 4x faster than that of its predecessor and offers a top ISO of 51,200. The autofocus system has been updated substantially, now offering 273 total AF points, of which 77 are phase detection (covering 40% of the frame), and much faster performance.The X-Pro2''s body is made from four pieces of magnesium alloy with 61 seals, making it splash and dust proof, and functional down to temperatures of +14F. It has dedicated dials for exposure compensation, shutter speed and ISO. It has a maximum shutter speed of 1/8000 sec and an x-sync speed of 1/250 sec. Other features of note include a 3", 1.62M-dot LCD, twin SD card slots, interval shooting and a new ACROS film simulation mode. The X-Pro2 can record 1080/60p video at 36MBps and offers a 2.5mm mic input jack. As one would expect, the camera also supports Wi-Fi with remote camera control.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xpro2/shots/4f3a147f59db4166b4caa6e86c77af18.png
+        - /files/p/products/fujifilm_xpro2/shots/9d388361dcb2403abcc38987af103e85.png
+        - /files/p/products/fujifilm_xpro2/shots/f31db1318630409a954bbe499d6f2b07.png
+        - /files/p/products/fujifilm_xpro2/shots/754bf7a7e82448829679b1e2878c7673.png
+        - /files/p/products/fujifilm_xpro2/shots/d722208a1ab748bab965136eaa397b83.png
+    ReviewSummary:
+        GoodFor: Photographers looking for an involved, traditional shooting experience. Anyone who wants a camera with a little style and character.
+        NotSoGoodFor: Sports shooters, dedicated videographers or anyone expecting a DSLR-like shooting experience.
+        Conclusion: The X-Pro2 is a 24MP high-end X-mount camera whose appeal is inextricably linked to its innovative optical/electronic hybrid viewfinder. It offers excellent image quality and some of the best out-of-camera JPEGs on the market, and comes in a well built, elegant body with plenty of direct control. Video is good but not cutting-edge either in terms of quality or supporting features. When it comes to still image quality the X-Pro2 can deliver. Whether or not this is the camera for you depends on whether you find its styling (and predisposition towards prime-lens shooting) appealing, or unnecessarily idiosyncratic.
+    ASIN:
+        - B01A8DUR74
+        - B01NASNDDN
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jan 15, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 141 x 83 x 56 mm (5.55 x 3.27 x 2.2″)
+    DriveModes:
+        - Single
+        - Continuous (hi/low)
+        - Self-timer
+        - Interval
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (water and dust resistent)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit RAF, lossless compressed or uncompressed)
+    FlashModes: Auto, forced flash, slow synchro, suppressed flash, rear-curtain synchro, commander)
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-12800 (expandable to 100-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1699/£1349 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "273"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (4240 x 2832, 3008 x 2000), 16:9 (6000 x 3376, 4240 x 2384, 3008 x 1688), 1:1 (4000 x 4000, 2832 x 2832, 2000 x 2000)
+    Processor: X Processor Pro
+    RemoteControl: Yes (Wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p, 30p, 25,p, 24p)
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 14, 2016"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (Dual slots, UHS-II support in slot 1)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 92%
+    ViewfinderMagnification: 0.89× (0.59× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 495 g (1.09 lb / 17.46 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

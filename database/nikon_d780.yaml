@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220525003116/https://www.dpreview.com/reviews/nikon-d780-review
+ProductCode: nikon_d780
+Award: silver
+ImageURL: /files/p/products/nikon_d780/0a105829caca44d49ae662da07b1e882.png
+Name: Nikon D780
+ShortSpecs:
+    - 25 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 87
+URL: /products/nikon/slrs/nikon_d780
+ReviewData:
+    ExecutiveSummary: The Nikon D780 is an enthusiast-level full-frame DSLR that inherits features from the company's professional D5 and D810 models. It features a 24MP BSI-CMOS sensor paired with an Expeed 6 processor, with a top (expanded) ISO of 204,800. It can shoot bursts at 7 fps with continuous autofocus.When shooting through the viewfinder there's a 51-point AF system, similar to the one on its predecessor (the D750), but with improved algorithms borrowed from the D5.  In live view the camera uses a hybrid (contrast + phase detection) system for dramatically faster focusing performance than on previous models. The D780 can capture UHD 4K video at 30p and high speed Full HD video at 120p.As one would expect, the camera has solid build quality. It offers a tilting 3.2" touchscreen display, USB Type C port (that can be used to charge the battery) and a pair of UHS-II SD card slots. Wireless options include Wi-Fi and Bluetooth. The D780 can take over 2200 photos on a single charge of its battery.
+    ProductPhotos:
+        - /files/p/products/nikon_d780/shots/87f34468664941a6b87b866560ff8918.png
+        - /files/p/products/nikon_d780/shots/6a298d16fb0d4f328b598b4cc5a4e86d.png
+        - /files/p/products/nikon_d780/shots/9f8c9ade59d742768b2ac85584fed3ba.png
+        - /files/p/products/nikon_d780/shots/bf337e4421c44e5eb69716741c80ab15.png
+        - /files/p/products/nikon_d780/shots/a2bb1cc4864b41a28d34b937e5f1d543.png
+        - /files/p/products/nikon_d780/shots/af104e890e9f455bb82be6cf57934fd7.png
+        - /files/p/products/nikon_d780/shots/e92c0ee8c1e64ff682b7a4edcd9120cf.png
+    ReviewSummary:
+        GoodFor: Stills and video shooters looking for a DSLR-style camera that can do it all.
+        NotSoGoodFor: Anyone requiring in-body image stabilization or folks seeking a small/light package.
+        Conclusion: The Nikon D780 is a fabulous all-around stills and video camera for folks who prefer the DSLR-format. It's well-built, comfortable to shoot with and highly customizable. Autofocus performance is, for the most part, excellent. But inconsistencies between live view autofocus and through the finder autofocus may cause some confusion. Still, battery life is great and a dedicated smartphone app offers good connectivity.
+    ASIN:
+        - B083K2XW88
+        - B083K41K2S
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Jan 7, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15b lithium-ion battery & harger
+    BatteryLifeCIPA: "2260"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,196.95 - $2,796.95
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 144 x 116 x 76 mm (5.67 x 4.57 x 2.99″)
+    DriveModes:
+        - Single
+        - Continuous low
+        - Continuous high
+        - Mirror-up
+        - Quiet shutter
+        - Quiet continuous
+        - Self-timer
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (NRW, 12 or 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $2299 (body only), $2799 (w/24-120mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4024
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MP4, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: "15"
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3936 x 2624 (DX crop)
+    Processor: Expeed 6
+    RemoteControl: Yes (via wired, wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: "87%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 18, 2020"
+    SceneModes: ""
+    ScreenDots: 2,359,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 840 g (1.85 lb / 29.63 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.1

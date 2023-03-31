@@ -1,0 +1,78 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220221063625/https://www.dpreview.com/reviews/nikoncp5400/
+ProductCode: nikon_cp5400
+Award: recommended
+ImageURL: /files/p/products/nikon_cp5400/c9f60ff1c8ef4599953ef42a701e79ea.png
+Name: Nikon Coolpix 5400
+ShortSpecs:
+    - 5 megapixels
+    - 1.5″ screen
+    - 28 – 116 mm (4.1×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cp5400
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00009VT1T
+Specs:
+    Announced: May 28, 2003
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL1 Lithium-Ion & charger included
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 108 x 73 x 69 mm (4.25 x 2.87 x 2.72″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (ISO 518 hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow (front/rear), Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–116 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Hi, Fine, Normal, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualFocus: "Yes"
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/4000 sec
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 4.1×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    RemoteControl: Yes (USB wired (Optional))
+    Resolutions: 640 x 480 up to 70 sec, 320 x 240 up to 180 sec (both 15 fps with audio)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 1, 2003"
+    ScreenDots: 134,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash (Type I or II)
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 400 g (0.88 lb / 14.11 oz)
+    WhiteBalancePresets: "5"

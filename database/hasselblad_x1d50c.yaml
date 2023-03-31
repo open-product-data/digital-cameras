@@ -1,0 +1,137 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220710072751/https://www.dpreview.com/reviews/hasselblad-x1d-50c
+ProductCode: hasselblad_x1d50c
+Award: noAward
+ImageURL: /files/p/products/hasselblad_x1d50c/35c38dbc31464c2f8ee262b26710abf4.png
+Name: Hasselblad X1D
+ShortSpecs:
+    - 51 megapixels
+    - 3″ screen
+    - Medium format sensor
+ReviewScore: 81
+URL: /products/hasselblad/slrs/hasselblad_x1d50c
+ReviewData:
+    ExecutiveSummary: The Hasselblad X1D is a compact mirrorless medium-format camera. It uses a 50MP CMOS sensor (43.8 x 32.9mm), which the company says captures 14 stops of dynamic range. The camera offers a top ISO of 25600, an x-sync speed of 1/2000 sec and burst shooting at around 2 fps. Photos can be composed on a 3" touchscreen LCD or an electronic viewfinder with 2.36M dots. The X1D has dual SD memory card slots, audio in/out jacks, Wi-Fi and GPS, and USB 3.0. Video can be captured at 1080/25p. The camera supports Hasselblad's new XCD lenses and can use H-mount lenses via an adapter.
+    ProductPhotos:
+        - /files/p/products/hasselblad_x1d50c/shots/1967664248f848819e0f964453787acc.png
+        - /files/p/products/hasselblad_x1d50c/shots/88b1174bf12244d7b6030f8fa189fafa.png
+        - /files/p/products/hasselblad_x1d50c/shots/627fafbea42445108ada1309a43d81fa.png
+        - /files/p/products/hasselblad_x1d50c/shots/9331241852014bf1bd607ea734392fd0.png
+        - /files/p/products/hasselblad_x1d50c/shots/bf062c5af32c471795458407bf1cdf8c.png
+    ReviewSummary:
+        GoodFor: High resolution work, especially with strobes.
+        NotSoGoodFor: Moving subjects.
+        Conclusion: The X1D is capable of some very impressive image quality but any advantage over its rivals isn't commensurate with the price premium it demands. It's a small and powerful system but its autofocus, while precise, is slow enough to limit its range of applications.
+    ASIN:
+        - B09PQCTC29
+        - B082HDYR35
+        - B08TZRRCQX
+Specs:
+    Announced: Jun 22, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: 3200 mAh li-ion battery
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 2.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 150 x 98 x 71 mm (5.92 x 3.86 x 2.81″)
+    Durability: ""
+    EffectivePixels: 51 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Nikon compatible)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (3FR format)
+        - TIFF
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 0.79×
+    Format: H.264
+    GPS: Built-in
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Hasselblad X
+    LiveView: "Yes"
+    MSRP: $8995/£5990/€7900
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8272 x 6200
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 68 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (25p)
+    ReviewPreview: "81%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 1, 2018"
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 53 megapixels
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WeightIncBatteries: 725 g (1.60 lb / 25.57 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/ac

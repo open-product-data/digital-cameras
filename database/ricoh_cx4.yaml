@@ -1,0 +1,113 @@
+ProductCode: ricoh_cx4
+Award: ""
+ImageURL: /files/p/products/ricoh_cx4/f50f2ecdb37e4a129de5155e25c7e404.png
+Name: Ricoh CX4
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 300 mm (10.7×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_cx4
+ReviewData:
+    ExecutiveSummary: The Ricoh CX4 CX4 is a compact superzoom with a 10 megapixel back-illuminated CMOS sensor. It offers the same 10.7x (28-300mm equiv.) zoom lens, 920k dot 3 inch LCD and 720p HD video recording as the company's CX3, but with enhanced image stabilization. The company says its latest version reduces blur to a degree equivalent to using a shutter speed 3.7 EV faster than actually being used. Other features include subject-tracking AF and additional shooting modes.
+    ProductPhotos:
+        - /files/p/products/ricoh_cx4/shots/5c4f9eb1262540b3a3ad98904969802c.png
+        - /files/p/products/ricoh_cx4/shots/e2825c4deec842a08a1490cf8b23b2ab.png
+    ReviewSummary: null
+    ASIN:
+        - B003ZYEW1Q
+Specs:
+    AEBracketing: ""
+    Announced: Aug 19, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-100 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.8x)
+    Dimensions: 102 x 59 x 29 mm (4.02 x 2.32 x 1.14″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 4.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–300 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600,3200
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10.7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 2736 x 2736, 3648 x 2048, 2592 x 1944, 2048 x 1536, 1728 x 1296, 1280 x 9601, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 86 MB Internal
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,82 @@
+ProductCode: fuji_finepixj20
+Award: ""
+ImageURL: /files/p/products/fuji_finepixj20/9a223fd82f17492f8c945e787bc71266.png
+Name: Fujifilm FinePix J20
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 36 – 107 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixj20
+ReviewData:
+    ExecutiveSummary: Another budget compact from Fujifilm's expanding 'J' range. Fairly well specified for its price, it comes with a 14MP sensor, 3x optical zoom and can record 720p HD movies.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001QEJPOG
+Specs:
+    Announced: Aug 12, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-45 Li Ion battery
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 91 x 56 x 17 mm (3.58 x 2.2 x 0.67″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 35.5–106.5 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–7.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 2592 x 1944, 2048 x 1944, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 @ 30 fps, 320 x 240 @ 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 20 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 117 g (0.26 lb / 4.13 oz)
+    WhiteBalancePresets: "6"

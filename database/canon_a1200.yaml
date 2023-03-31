@@ -1,0 +1,105 @@
+ProductCode: canon_a1200
+Award: ""
+ImageURL: /files/p/products/canon_a1200/7881f01e0e48410ba70351c014e03079.png
+Name: Canon PowerShot A1200
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a1200
+ReviewData:
+    ExecutiveSummary: One of a pair of refreshed A series compacts (the other, the A2200 IS, is slimmer and features a rechargeable battery). The 12.1MP A1200 is powered by a pair of AA batteries and features a 2.7" LCD, 4x optical zoom lens starting at 28mm and the ability to record 720p HD movies.
+    ProductPhotos:
+        - /files/p/products/canon_a1200/shots/d3bf46ff63f8416cb2054ed56a4b4924.png
+        - /files/p/products/canon_a1200/shots/d4b779be63ce41ec8c60a6ffef33e9ed.png
+        - /files/p/products/canon_a1200/shots/f833395631994d3a83411ca66176c18b.png
+    ReviewSummary: null
+    ASIN:
+        - B004HW73S4
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 2 x AA batteries
+    BatteryLifeCIPA: "200"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 63 x 31 mm (3.86 x 2.48 x 1.22″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 28–112 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2248, 2816 x 2112, 1600 x 1200, 640 x 480
+    Processor: DIGIC 4 with iSAPS technology
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/HCMMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "4"

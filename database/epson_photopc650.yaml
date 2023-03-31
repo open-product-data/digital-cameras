@@ -1,0 +1,80 @@
+ProductCode: epson_photopc650
+Award: ""
+ImageURL: /files/p/products/epson_photopc650/a0fd90b7158d454381f5e8f47e9314ac.png
+Name: Epson PhotoPC 650
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 39 mm
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopc650
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 12, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "Yes"
+    Dimensions: 135 x 82 x 57 mm (5.31 x 3.23 x 2.24″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Forced, Off, Red-Eye reduction
+    FlashRange: 3.00 m (F2.0)
+    FocalLengthEquiv: 39 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: "140"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, Fine, Super
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 15 cm (5.91″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1152 x 864
+    MaximumAperture: F2–4
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash Type I
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 400 g (0.88 lb / 14.11 oz)
+    WhiteBalancePresets: ""

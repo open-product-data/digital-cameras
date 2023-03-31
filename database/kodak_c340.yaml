@@ -1,0 +1,96 @@
+ProductCode: kodak_c340
+Award: ""
+ImageURL: /files/p/products/kodak_c340/accf8ae3a0d14385be492878af779705.png
+Name: Kodak EasyShare C340
+ShortSpecs:
+    - 5 megapixels
+    - 1.6″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c340
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0007RALGY
+Specs:
+    Announced: Feb 20, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 92 x 65 x 35 mm (3.62 x 2.56 x 1.38″)
+    Durability: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 34–102 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (80 - 200), 80, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2576 x 1932
+    MaximumAperture: F2.7–5.2
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 72,000
+    ScreenSize: 1.6″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 198 g (0.44 lb / 6.98 oz)
+    WhiteBalancePresets: "4"

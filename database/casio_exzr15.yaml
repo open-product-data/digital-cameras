@@ -1,0 +1,107 @@
+ProductCode: casio_exzr15
+Award: ""
+ImageURL: /files/p/products/casio_exzr15/a3bcba8c2abd4d569c2c6e81d8b73da0.png
+Name: Casio Exilim EX-ZR15
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 196 mm (7×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exzr15
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-ZR15 high-speed compact features a a 7x, 28-196mm equivalent, F3.0-5.9 stabilized zoom lens and a 16MP CMOS sensor. Casio promises a responsive experience, quoting 0.99 sec startup, 0.13 sec autofocus and shot-to-shot times as low as 0.29 seconds. The camera also makes use of the fast readout from its CMOS chip to offer a range of multi-shot features, such as in-camera HDR, a blurred background effect and stitched-image wideangle function.
+    ProductPhotos:
+        - /files/p/products/casio_exzr15/shots/3f74079a7acd4ebebfabaa0c1c503ac0.png
+        - /files/p/products/casio_exzr15/shots/b15f1fe9f4594726833fdbed622f9dcb.png
+        - /files/p/products/casio_exzr15/shots/52d8fbef3f4343d7b44fb6a20a84eabf.png
+    ReviewSummary: null
+    ASIN:
+        - B005MV1NL2
+Specs:
+    Announced: Jan 9, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-110 rechargeable battery & charger
+    BatteryLifeCIPA: "325"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 102 x 59 x 27 mm (4.02 x 2.32 x 1.06″)
+    DriveModes:
+        - Single
+        - Continuous shooting
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG 2.3
+    FlashModes: Auto, On, Off, Red-Eye
+    FlashRange: 5.20 m
+    FocalLengthEquiv: 28–196 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini)
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: $329.99
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: Yes (Approx. 2cm to infinity (W))
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736 x 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: Exilim Engine 5.0
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (15 fps), 640 x 480 (30, 120 fps), 512 x 384 (30, 240 fps), 224 x 160 (480 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: Super Clear TFT color LCD
+    SelfTimer: Yes (2 or 10 seconds, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 52.2MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 176 g (0.39 lb / 6.21 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

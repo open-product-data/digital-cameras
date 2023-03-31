@@ -1,0 +1,150 @@
+ProductCode: nikon_cpb700
+Award: ""
+ImageURL: /files/p/products/nikon_cpb700/eaefe4ae200147079b800fa12bfa4c84.png
+Name: Nikon Coolpix B700
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 1440 mm (60×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpb700
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The COOLPIX B700 is a compact superzoom camera that offers incredible range and outstanding image quality. Whether trying to capture birds in-flight or the star player from the sidelines, images captured will be rendered in amazing quality thanks to the camera’s impressive 20.3-megapixel BSI CMOS sensor, even when shooting in low-light. The B700 can capture impressive portraits or landscapes with a phenomenal 60x optical zoom NIKKOR ED glass lens (120x with Dynamic Fine Zoom) that expands from wide-angle to telephoto zoom for accuracy and precision in every shot. Capable of shooting at 5 frames per second (fps), fast motion is captured with ease, while a 3-inch Vari-angle LCD display helps compose unique perspectives at any angle. Other user-friendly features include a myriad of Creative Modes, RAW (NRW) shooting support, new 4K UHD video capability (30p) and Nikon SnapBridge for seamless sharing of amazing images with friends and family.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpb700/shots/8138797b61584f79ae508fb1aecf6d5c.png
+        - /files/p/products/nikon_cpb700/shots/a49983bd187f46b48fb81c836713c486.png
+        - /files/p/products/nikon_cpb700/shots/c25ff5b0680e4715a56913d470caabbf.png
+        - /files/p/products/nikon_cpb700/shots/27c7e1f85966420e9bca45ee7d557892.png
+        - /files/p/products/nikon_cpb700/shots/20515712c51a4302a4e78613bd999dff.png
+    ReviewSummary: null
+    ASIN:
+        - B01C3LE44G
+Specs:
+    Announced: Feb 23, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL23 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 125 x 85 x 107 mm (4.92 x 3.35 x 4.21″)
+    DriveModes:
+        - Single
+        - Continuous H
+        - Continuous L
+        - Continuous H (120/60)
+        - Pre-shooting cache
+        - Interval timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: 7.50 m (at Auto ISO)
+    FocalLengthEquiv: 24–1440 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $499
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.3–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 60×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p), 1920 x 1080 (60p, 50p, 30p, 25p), 1280 x 720 (60p, 30p, 25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Multiple Exposure Lighten
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+        - Superlapse Movie
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: 'High speed modes: 1080/15p and 12.5p, 720/60p and 50p, 480/120p and 100p'
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 921,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 565 g (1.25 lb / 19.93 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: Has 'always on' Bluetooth to maintain connection

@@ -1,0 +1,94 @@
+ProductCode: canon_sd3500is
+Award: ""
+ImageURL: /files/p/products/canon_sd3500is/bfabad244c3c4c7189341e08469f19c5.png
+Name: Canon PowerShot SD3500 IS / IXUS 210 / IXY 10S
+ShortSpecs:
+    - 14 megapixels
+    - 3.5″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd3500is
+ReviewData:
+    ExecutiveSummary: The SD3500 IS (Digital IXUS 210 in Europe) ultra-compact features a 3.5 inch touchscreen LCD with 460k dot resolution. It also offers a 5x optical zoom lens starting at a useful 24mm and a 14MP sensor. The interface recognizes gestures for some commonly used features.
+    ProductPhotos:
+        - /files/p/products/canon_sd3500is/shots/f6b3d29b3aee43169c926bf778c4d56d.png
+        - /files/p/products/canon_sd3500is/shots/6e2e5376bf7741ba8b99fb312e447215.png
+        - /files/p/products/canon_sd3500is/shots/e4714ffef5604f08b8d3835094fd0490.png
+        - /files/p/products/canon_sd3500is/shots/34b7a36bd164415a8c97723c28f4d320.png
+    ReviewSummary: null
+    ASIN:
+        - B003BFV3BQ
+        - B0035FZJIA
+Specs:
+    Announced: Feb 8, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 56 x 22 mm (3.9 x 2.2 x 0.87″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow Syncro
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 24–120 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/3000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2432, 3456 x 2592, 2592 x 1944, 2144 x 1608, 1600 x 1200, 640 x 480
+    Processor: Digic 4
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3.5″
+    SelfTimer: Yes (2 sec or 10 sec, Custom)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/MMCplus HC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Eye-Fi Connected

@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206175401/https://www.dpreview.com/reviews/olympus-om-d-e-m1x-review
+ProductCode: olympus_em1x
+Award: silver
+ImageURL: /files/p/products/olympus_em1x/bfcc8e36cdfc4dffaaac5a5b3f7e7f52.png
+Name: Olympus OM-D E-M1X
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 85
+URL: /products/olympus/slrs/olympus_em1x
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M1X is the company's sports-oriented Micro Four Thirds camera that's all about speed. It has a 20.4MP Four Thirds sensor, Dual TruePic VIII processors, a 121-point hybrid autofocus system with intelligent subject detection for trains, race cars and planes/helicopters. The camera can shoot continuously at 60 fps with AF/AE lock and 18 fps with continuous AF/AE. The E-M1X offers a High Res Shot mode for both handheld and tripod use, a Live ND filter (using multiple exposures) and a Pro Capture mode that lets you save images taken before the shutter release button.The camera has a built-in battery grip (which holds two batteries), 5-axis image stabilization rated to 7 stops, a large electronic viewfinder, fully articulating touchscreen LCD, dual SD card slots and a built-in GPS with temperature, pressure and acceleration sensors. The body is weather-sealed to IPX1 standards.The OM-D E-M1X can capture both DCI (24p) and UHD 4K (30p) video at bit rates of 237 and 102 Mbps, respectively. High speed video capture at 1080/120p and OM-Log400 for easier color grading are also available.
+    ProductPhotos:
+        - /files/p/products/olympus_em1x/shots/9b290cb6be4b47dda4a1758087f949d3.png
+        - /files/p/products/olympus_em1x/shots/d6904a0ab4984ea0bf7c55849539c296.png
+        - /files/p/products/olympus_em1x/shots/2bff7027ce254eb78d923ec425e7f230.png
+        - /files/p/products/olympus_em1x/shots/8b11df77bb5749aaaf1a676366b7cacb.png
+        - /files/p/products/olympus_em1x/shots/04df621dae0c432a9745123d5156f271.png
+        - /files/p/products/olympus_em1x/shots/289fcf38333b45068af4bd58b9d70ff0.png
+    ReviewSummary:
+        GoodFor: Current Micro Four Thirds shooters who want a twin grip camera to photograph fast-moving subjects.
+        NotSoGoodFor: Anyone not already heavily-invested in Micro Four Thirds glass. Those seeking a small, light camera.
+        Conclusion: The E-M1X is the only twin-grip Four Thirds camera on the market squarely aimed at pros - it's large, fast and tough-built. But its price tag puts it in a tricky position, as plenty of other larger-sensor cameras can be had for considerably-less coinage - many even offer more reliable AF.
+    ASIN:
+        - B07MKPNS7D
+        - B08DVJZYYG
+        - B07MZRKVNM
+Specs:
+    AEBracketing: ±5 (5, 7 frames at 1/3 EV, 1 EV steps)
+    Announced: Jan 24, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Built-in
+    BatteryDescription: Two BLH-1 lithium-ion batteries
+    BatteryLifeCIPA: "870"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,799.00
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 144 x 147 x 75 mm (5.67 x 5.79 x 2.95″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Bracketing
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (to IPX1 standards)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (12-bit ORF)
+    FlashModes: Redeye, Fill-in, Flash Off, Red-eye Slow sync (1st curtain), Slow sync.(1st curtain), Slow sync (2nd curtain), manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: Also captures direction, temperature, pressure and acceleration
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands down to 64)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 7 stops body only. 7.5 stops with 12-100mm lens.
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 237 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 202 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Dual TruePic VIII
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: ""
+    ReviewPreview: "85%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 7, 2019"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC cards (UHS-II supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB-PD allows charging by laptop or external power bank)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.65× (0.82× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 997 g (2.20 lb / 35.17 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

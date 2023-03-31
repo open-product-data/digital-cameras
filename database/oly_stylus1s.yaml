@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220305004849/https://www.dpreview.com/reviews/2015-roundup-long-zoom-compacts
+ProductCode: oly_stylus1s
+Award: ""
+ImageURL: /files/p/products/oly_stylus1s/4eb9cac1abb14f6d844deafd868ae876png
+Name: Olympus Stylus 1s
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 300 mm (10.7×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_stylus1s
+ReviewData:
+    ExecutiveSummary: The Olympus Stylus 1s  pairs a larger-than-average 1/1.7" BSI-CMOS sensor with an F2.8, 28-300mm zoom lens, high resolution electronic viewfinder, 'hybrid' control ring, and Wi-Fi. The control ring can be toggled between digital or analog mode. In digital mode, the ring adjusts zooming or manual focusing; in analog, it adjusts settings such as aperture, shutter speed and more. The camera is also equipped with a hot shoe for accessories, built-in flash, a side zoom lever with variable speeds and a step-zoom function, and two customizable function buttons for easy access to commonly used settings.  Other notable features include a built-in ND filter, tilting touchscreen LCD, built-in Wi-Fi, and 1080p movie recording. All of these features are packed into a compact body that resembles the popular Olympus OM-D EM-5 even more than the original Stylus 1.
+    ProductPhotos:
+        - /files/p/products/oly_stylus1s/shots/85edcded5c4a44dc845e4e19e9755990png
+        - /files/p/products/oly_stylus1s/shots/ad63cb65c5b34059a5eba54ecb71c823png
+        - /files/p/products/oly_stylus1s/shots/a523d1deef33413c839c899b20dab0adpng
+        - /files/p/products/oly_stylus1s/shots/4815403c3e74498f8dfe1c1c9e3a9e26png
+        - /files/p/products/oly_stylus1s/shots/eda760c007814b37aa41b2d9082b9ad3png
+        - /files/p/products/oly_stylus1s/shots/e9b4f2498eab46c499efd1c04bd365f9png
+    ReviewSummary: null
+    ASIN:
+        - B00V3RJETC
+Specs:
+    AEBracketing: ±3 (2, 3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Apr 13, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery pack and charger
+    BatteryLifeCIPA: "450"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (2X)
+    Dimensions: 116 x 87 x 57 mm (4.57 x 3.43 x 2.24″)
+    DriveModes:
+        - Single
+        - Sequential
+        - Bracketing
+        - Self-timer
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Custom 1/2
+        - Scene
+        - Art Filter
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (DCF)
+        - RAW (12-bit, ORF)
+    FlashModes: Auto, redeye reduction, fill-on, off, redeye reduction slow sync, full, manual
+    FlashRange: 10.30 m (at ISO 1600)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–300 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine, normal, basic
+    LiveView: "Yes"
+    MSRP: $699
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3968 x 2976
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "35"
+    OpticalZoom: 10.7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2560 x 1920, 1280 x 960
+    Processor: ""
+    RemoteControl: Yes (via RM-UC1 or smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 5, 2015"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Interval Shooting
+        - Sport
+        - Night
+        - Night + Portrait
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Multiplex exposure
+        - Beach & Snow
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (Touch focus, touch shutter, menus)
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed: 640 x 480 (120p), 320 x 240 (240p)'
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.15×
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 7 steps along A-B/G-M axis)
+    WeightIncBatteries: 402 g (0.89 lb / 14.18 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: with smartphone control

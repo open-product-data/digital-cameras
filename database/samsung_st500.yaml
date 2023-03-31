@@ -1,0 +1,98 @@
+ProductCode: samsung_st500
+Award: ""
+ImageURL: /files/p/products/samsung_st500/bc2e75cda2304f0c893a4ac680b3fa21.png
+Name: Samsung TL220 (ST500)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 27 – 124 mm (4.6×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st500
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/samsung_st500/shots/4a5762a7b1e84fd1996c066506a83d91.png
+        - /files/p/products/samsung_st500/shots/384831393f0148599f88705b6052c082.png
+        - /files/p/products/samsung_st500/shots/8f0f18c95620436fa849b1ff34733184.png
+        - /files/p/products/samsung_st500/shots/43773017797741088c95c11bbfb1bb59.png
+        - /files/p/products/samsung_st500/shots/10824973caaa450ab31ea6a458b1b23c.png
+        - /files/p/products/samsung_st500/shots/ad5445d4f7804f1cad16760428866f51.png
+        - /files/p/products/samsung_st500/shots/9300c9c242d342a48f7e28b70734d438.png
+    ReviewSummary: null
+    ASIN:
+        - B002NEQOE2
+Specs:
+    Announced: Aug 13, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion SLB-07A rechargeable battery & charger
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 100 x 60 x 19 mm (3.94 x 2.36 x 0.75″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow sync, Manual
+    FlashRange: 3.40 m
+    FocalLengthEquiv: 27–124.2 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 4.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3984 x 2656, 3840 x 2160, 3264 x 2448, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30, 15 fps)
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec, Double, Motion Timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 55 MB
+    StorageTypes: MicroSD/ MicroSDHC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 169 g (0.37 lb / 5.96 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

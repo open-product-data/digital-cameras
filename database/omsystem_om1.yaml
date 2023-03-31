@@ -1,0 +1,179 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220516152837/https://www.dpreview.com/reviews/om-system-om-1-review
+ProductCode: omsystem_om1
+Award: silver
+ImageURL: /files/p/products/omsystem_om1/4cbb7ee61dc841418978131c33f22bcd.png
+Name: OM-1
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 87
+URL: /products/olympus/slrs/omsystem_om1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The OM-1 is a new flagship camera released by OM Digital Solutions under its new OM System brand. The OM-1, whose name page homage to the original OM-1 released 50 years ago, features 20.4MP Micro Four Thirds stacked CMOS sensor with 5-axis in-body image stabilization and two high-resolution modes capable of outputting 50MP and 80MP images in a special Tripod High Res mode. It''s also quite capable on the video front, with support for 4K video (UHD or DCI) at up to 60 fps and Full HD (1080p) video at up to 240 fps, both internally in H.264 (8-bit) or H.265 (10-bit) codecs. Olympus has also doubled down on its weatherproofing expertise by adding enough weather-sealing to qualify this camera for IP53 dust- and splash-resistance.'
+    ProductPhotos:
+        - /files/p/products/omsystem_om1/shots/ab5bac59d0e747d38a135e3314e1afea.png
+        - /files/p/products/omsystem_om1/shots/ce3631787c534704bda12b6e62999caf.png
+        - /files/p/products/omsystem_om1/shots/7c198efdfe2348ef9a0ede58bcd18600.png
+    ReviewSummary:
+        GoodFor: Wildlife, hand-held video, some sports shooting
+        NotSoGoodFor: Family photos where simplicity is essential
+        Conclusion: The OM-1 brings speed, improved AF and more detailed video to a system that already offered great image stabilization and small and light camera/lens combinations. This makes it a powerful all-rounder with particular strengths for wildlife. That compactness comes as a trade-off for absolute image quality but a series of computational multi-shot modes can help close the gap in certain circumstances. It's a lot of capability for the money.
+    ASIN:
+        - B0BHKJKH1F
+        - B09S5G7JSL
+        - B0BSMP7CRB
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/7 EV, 1/3 EV, 1 EV steps)
+    Announced: Feb 15, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: 'Standard mode: 520 Quick sleep mode: 1100'
+    BatteryLifeCIPA: "520"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 135 x 92 x 73 mm (5.31 x 3.62 x 2.87″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (IP53)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (ORF, 12-bit lossless compression)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 80-25600 (expands to 80-102400)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2199
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 60p / 152 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 152 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 77 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 77 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 77 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 77 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 152 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 152 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 77 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 77 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 77 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 77 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 202 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 202 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 202 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 202 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 27 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 27 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 27 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: "1053"
+    NumberOfFocusPoints: "1053"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic X Dual Quad Core Processor
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "87%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 16, 2022"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 secs, Custom)
+    SensorPhotoDetectors: 23 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD, SDHC (UHS-I/II), SDXC (UHS-I/II)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (electrostatic capacitance touch panel)
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.65× (0.82× 35mm equiv.)
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 599 g (1.32 lb / 21.13 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

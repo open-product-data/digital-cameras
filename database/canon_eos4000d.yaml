@@ -1,0 +1,140 @@
+ProductCode: canon_eos4000d
+Award: ""
+ImageURL: /files/p/products/canon_eos4000d/83e9b732be144cec83d089f6aa299369.png
+Name: Canon EOS 4000D
+ShortSpecs:
+    - 18 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos4000d
+ReviewData:
+    ExecutiveSummary: The Canon EOS 4000D is the most budget-friendly Canon DSLR and features an 18MP APS-C-size sensor. It uses Canon's DIGIC 4+ image processor which offers an ISO range of 100-6400, expandable to 12800, as well as 3 fps burst shooting. It features a 9-point AF system with a cross-type sensor at the center. The 4000d uses a 2.7-inch, 230,000-dot LCD or, of course, an optical viewfinder. It features a host of scene modes, including a Scene Intelligent Auto mode, plus numerous creative filters. Full HD can be captured at 30p, 25 or 24p. The 4000D also has Wi-Fi  for sharing images via Canon's Camera Connect app.
+    ProductPhotos:
+        - /files/p/products/canon_eos4000d/shots/b0b2a583a53549b8a725be7123117e6b.png
+        - /files/p/products/canon_eos4000d/shots/96ab0fa34aa64efcbd3ac0f215249687.png
+    ReviewSummary: null
+    ASIN:
+        - B07WGQVT1X
+        - B0B64F777H
+        - B0BMY8BP8R
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 26, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (flash)
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E10 rechargeable battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 129 x 102 x 77 mm (5.08 x 4.02 x 3.03″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Continuous w/self-timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - RAW (Canon CR2, 14-bit)
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 9.20 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 100-6400, expandable to 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: £329.99 body only, €400/£369.99 with 18-55mm F3.5-5.6 IS II lens
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 30p / 46 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 46 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 46 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 4+
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Landscape
+        - Close-up
+        - Sports
+        - Food
+        - Night Portrait
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.5× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 436 g (0.96 lb / 15.38 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

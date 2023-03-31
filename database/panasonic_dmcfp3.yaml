@@ -1,0 +1,102 @@
+ProductCode: panasonic_dmcfp3
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfp3/2a90f287b97a4ad884d9f442d3708e78.png
+Name: Panasonic Lumix DMC-FP3
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfp3
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-FP3 features a 4X non-extending image-stabilized zoom lens (35-140mm equivalent range) and the Venus Engine IV processor. It uses a 3" touch-screen with Touch AF and metering area selection, and comes in a generous range of pretty colors - no fewer than 12.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfp3/shots/a2d7281c9b9842edaa3dd2d4bb0615f9.png
+        - /files/p/products/panasonic_dmcfp3/shots/4516af21621c4a81ae4105fb7b33267b.png
+        - /files/p/products/panasonic_dmcfp3/shots/396b3de851254acba52b6036ea9491c7.png
+    ReviewSummary: null
+    ASIN:
+        - B003962ED8
+        - B003962EBU
+Specs:
+    Announced: Jan 6, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 4.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 59 x 19 mm (3.9 x 2.32 x 0.75″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.90 m
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648 x 2736,2560 x 1920,2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "4"

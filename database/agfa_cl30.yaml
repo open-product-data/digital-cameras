@@ -1,0 +1,94 @@
+ProductCode: agfa_cl30
+Award: ""
+ImageURL: /files/p/products/agfa_cl30/0afdd03b92fd451d85accae173d07f52.png
+Name: Agfa ePhoto CL30
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/agfa/compacts/agfa_cl30
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00000JBIO
+Specs:
+    Announced: Feb 26, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: ""
+    DriveModes: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1152 x 864
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 4 MB CompactFlash
+    StorageTypes: Compact Flash
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

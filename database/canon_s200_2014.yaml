@@ -1,0 +1,126 @@
+ProductCode: canon_s200_2014
+Award: ""
+ImageURL: /files/p/products/canon_s200_2014/a131742c029b46439299e707a408cabd.png
+Name: Canon PowerShot S200
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_s200_2014
+ReviewData:
+    ExecutiveSummary: The PowerShot S200 is a cheaper version of the S110, utilizing a 10.1 megapixel CCD instead of a 12MP CMOS sensor. It does, however, retain the same F2.0-5.9, 24-120mm lens as the S110 with lens-shift image stabilization. The S200 also features a 3" LCD with 461k dots, manual exposure controls, and built-in Wi-Fi. Keeping with the 'step down' theme from the S110, the S200 only records 720p video and lacks Raw support. The S200 is available in black and white.
+    ProductPhotos:
+        - /files/p/products/canon_s200_2014/shots/cb8148e03b4048858d22faa617e16776.png
+        - /files/p/products/canon_s200_2014/shots/fb9b4786d8df489a97d6876e6ef80e74.png
+        - /files/p/products/canon_s200_2014/shots/a2cd05f78d524b49a73f00cef5e6775d.png
+        - /files/p/products/canon_s200_2014/shots/651bb892b5964fac9ab5a00d00d8ec51.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Feb 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-6LH lithium-ion battery and charger
+    BatteryLifeCIPA: "200"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.9 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 59 x 26 mm (3.94 x 2.32 x 1.02″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Continuous with AF
+        - Self-Timer
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program AE
+        - Shutter priority AE
+        - Aperture priority AE
+        - Manual
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Second Curtain
+    FlashRange: 7.00 m
+    FocalLengthEquiv: 24–120 mm
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via mobile (linked to compatible smartphone)
+    HDMI: Yes (Mini)
+    ISO: Auto, 80-6400
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: €280
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 5
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, Smooth Skin, Smart Shutter, High-speed Burst (2.5 MP), Stitch Assist, Snow, Fireworks
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    ScreenType: TFT PureColor II G Touch screen LCD
+    SelfTimer: Yes (2 or 10 sec, custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 'Miniature effect: HD (4.8, 2.4, 1.2 fps), L (6, 3, 1.5 fps)'
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 181 g (0.40 lb / 6.38 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi (802.11b/g/n)

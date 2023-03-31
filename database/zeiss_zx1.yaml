@@ -1,0 +1,115 @@
+ProductCode: zeiss_zx1
+Award: noAward
+ImageURL: /files/p/products/zeiss_zx1/473dad6c90414b81b49899cc237200cb.png
+Name: Zeiss ZX1
+ShortSpecs:
+    - 37 megapixels
+    - 4.34″ screen
+ReviewScore: 83
+URL: /products/zeiss/compacts/zeiss_zx1
+ReviewData:
+    ExecutiveSummary: The Zeiss ZX1 is a compact full-frame camera with a 37.4MP image sensor, fixed 35mm Distagon F2 lens and a huge 4.3" touchscreen with a resolution of 1280x720 pixels to augment its physical controls. Zeiss has also teamed up with Adobe to offer full Adobe Photoshop Lightroom CC capability in the camera itself. The ZX1 is capable of capturing UHD 4K at up to 30 fps, and Full HD video at up to 60 fps.The ZX1 does not have a memory card slot, but does come with 512GB of internal memory, which the company claims is enough to store approximately 6,800 Raw files in DNG format (or up to 50,000 JPEG files). It will offer Wi-Fi, Bluetooth and USB-C connectivity. The company will also offer over-the-air software updates.
+    ProductPhotos:
+        - /files/p/products/zeiss_zx1/shots/28331e53b66f4d86a5e2ca45c11acd71.png
+        - /files/p/products/zeiss_zx1/shots/ec33be44c6f5407992f0854984e11f55.png
+        - /files/p/products/zeiss_zx1/shots/256e0cd291a041408a902bbec5f0bfcb.png
+    ReviewSummary:
+        GoodFor: Travel, documentary and lifestyle photography as well as high-speed flash work.
+        NotSoGoodFor: Photographers that already have an established editing workflow, those that need longer focal lengths or a more robust video feature set.
+        Conclusion: The Zeiss ZX1 is an attractively designed camera with a lot to like in terms of image quality and the inclusion of Adobe Lightroom Mobile gives you an impressive amount of flexibility when editing your files on the camera. Lackluster autofocus and video capabilities, along with some occasional interface quirks and sluggishness detract from the overall experience.
+    ASIN:
+        - B08QN89JJB
+Specs:
+    AEBracketing: ""
+    Announced: Sep 27, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: Contrast Detect (sensor)Multi-areaCenterSelective single-pointTrackingSingleContinuousTouchFace DetectionLive View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 142 x 93 x 46 mm (5.59 x 3.66 x 1.81″)
+    DriveModes: SingleContinuousSelf-timerIntervalAE bracketing
+    Durability: ""
+    EffectivePixels: 37 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ProgramAperture priorityShutter priorityManual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: JPEGDNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80-51200
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7488 x 4992
+    MaximumAperture: F2–22
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: 3840 x 2160 @ 30p, MOV, H.264, Linear PCM1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "255"
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "83%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 21, 2021"
+    SceneModes: ""
+    ScreenDots: 2,764,800
+    ScreenSize: 4.34″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 412GB
+    StorageTypes: 512GB internal
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74×
+    ViewfinderResolution: 6,220,800
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 800 g (1.76 lb / 28.22 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

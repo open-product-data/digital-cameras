@@ -1,0 +1,109 @@
+ProductCode: casio_exg1
+Award: ""
+ImageURL: /files/p/products/casio_exg1/9bf23650ae6d4e9ab29c786e2b93f09e.png
+Name: Casio Exilim EX-G1
+ShortSpecs:
+    - 12 megapixels
+    - 2.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exg1
+ReviewData:
+    ExecutiveSummary: Casio's Exilim EX-G1 is what the company claims to be the world's slimmest rugged'compact in November 2009- its thinnest side measures just 20mm (0.78"). It is the first in Casio's Exilim G series of weatherproof cameras, named in reference to the company's well-known G-Shock series of watches. It is designed to be dustproof, waterproof up to 3 meters for an hour, coldproof down to -10°C (14°F) and shock-resistant for drops of up to 2.13 meters. It incorporates a 38-114mm equivalent lens, 2.5" LCD, 12.1MP sensor and includes features such as Intelligent AF, Best Shot shooting mode and Interval shooting.
+    ProductPhotos:
+        - /files/p/products/casio_exg1/shots/567f82aba6f849f58aa6d75d6e503c23.png
+        - /files/p/products/casio_exg1/shots/c6db8774941447bcbf3dd8352a05fca7.png
+        - /files/p/products/casio_exg1/shots/f5157dbf2cd04be2959f8ee936f6b895.png
+        - /files/p/products/casio_exg1/shots/477495d72dbc49899cb4115d5c811bfe.png
+        - /files/p/products/casio_exg1/shots/503ef7c613344e3a97f07c78269bf69a.png
+        - /files/p/products/casio_exg1/shots/c88424e0087444de895c5c22ed044639.png
+    ReviewSummary: null
+    ASIN:
+        - B002WC8PKQ
+        - B002WC8PK6
+Specs:
+    AEBracketing: ""
+    Announced: Nov 18, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-800 rechargeable battery & charger
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 64 x 20 mm (4.09 x 2.52 x 0.79″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Soft
+    FlashRange: 2.40 m
+    FocalLengthEquiv: 38–114 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.9–5.4
+    MaximumShutterSpeed: 1/1250 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Triple Self-timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 35.7 MB Internal
+    StorageTypes: microSD/microSDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 154 g (0.34 lb / 5.43 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

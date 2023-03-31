@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220414045243/https://www.dpreview.com/reviews/panasonic-dc-lx100-ii
+ProductCode: panasonic_dclx100ii
+Award: silver
+ImageURL: /files/p/products/panasonic_dclx100ii/3ef2ebf431d347718065faf519cb9058.png
+Name: Panasonic LX100 II
+ShortSpecs:
+    - 17 megapixels
+    - 3″ screen
+    - 24 – 75 mm (3.1×)
+ReviewScore: 82
+URL: /products/panasonic/compacts/panasonic_dclx100ii
+ReviewData:
+    ExecutiveSummary: The Panasonic DC-LX100 II is an enthusiast compact with a 17MP Four Thirds sensor that allows the camera to maintain the same field-of-view at 16:9, 3:2 and 4:3 aspect ratios. The LX100 II uses the same 24-75mm equivalent F1.7-2.8 Leica DC lens and shares the same design, including dials for shutter speed and exposure compensation, plus a ring for adjusting the aperture. A custom control ring can also be found around the lens. The LX100 II has a 1.24M-dot touchscreen LCD and 2.76M-dot equivalent electronic viewfinder. The camera can shoot continuously at 5.5 fps with continuous autofocus or 11 fps with AE/AF lock. As before, the LX100 II can capture UHD 4K video, which also allows for 4K Photo, Post Focus and Sequence Composition features. It has Panasonic's latest Picture Styles, including the high-contrast L.Monochrome D mode, to which a random grain effect can be added.The LX100 II has built-in Wi-Fi and Bluetooth, with the latter maintaining a constant connection that allows for quick remote control and auto image transfer.
+    ProductPhotos:
+        - /files/p/products/panasonic_dclx100ii/shots/83a775867db64c35aa12ad750ce722bb.png
+        - /files/p/products/panasonic_dclx100ii/shots/2e0b565be7484000983bd4a26981c6ab.png
+        - /files/p/products/panasonic_dclx100ii/shots/4a6e10095f1747f99981656e2f215229.png
+        - /files/p/products/panasonic_dclx100ii/shots/8616f7f57486457f93feb7f7c9aab919.png
+    ReviewSummary:
+        GoodFor: Enthusiasts looking for an enjoyable always-with-them tool
+        NotSoGoodFor: Anyone needing something truly pocketable
+        Conclusion: The LX100 II is a small, engaging enthusiast compact. Its bright 24-75mm equivalent lens and multi-aspect design make it highly flexible. Only the cropped video and slightly basic viewfinder stop this lightly-refreshed camera reasserting itself as a clear leader in this class.
+    ASIN:
+        - B07GQP8M3G
+        - B07H4MGTCR
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Aug 22, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLE9 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: $997.99 - $1,095.98
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4.3x - 6.2x)
+    Dimensions: 115 x 66 x 64 mm (4.53 x 2.6 x 2.52″)
+    DriveModes:
+        - Single
+        - Continuous (H/M/L)
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 17 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v.2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: 24–75 mm
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $999
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4736 x 3552
+    MaximumAperture: F1.7–2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1800 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 10 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 3.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4928 x 3288 (3:2), 5152 x 2904 (16:9), 3552 x 3552 (1:1)
+    Processor: Venus Engine
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 19, 2018"
+    SceneModes: ""
+    ScreenDots: 1,240,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.39× (0.7× 35mm equiv.)
+    ViewfinderResolution: 2,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 392 g (0.86 lb / 13.83 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

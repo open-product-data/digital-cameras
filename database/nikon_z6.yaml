@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211206005225/https://www.dpreview.com/reviews/nikon-z6
+ProductCode: nikon_z6
+Award: silver
+ImageURL: /files/p/products/nikon_z6/661f954891bd49e0afb74d97220308e7.png
+Name: Nikon Z6
+ShortSpecs:
+    - 25 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_z6
+ReviewData:
+    ExecutiveSummary: The Nikon Z6 is the company's midrange full-frame mirrorless camera. It features a 24.5MP BSI-CMOS sensor, a hybrid AF system with 273 points and 90% coverage and 5-axis in-body image stabilization. The rugged body is similar in design to the D750/D850 DSLRs and is fully sealed against dust and moisture. It features a 3.68M-dot electronic viewfinder and tilting 3.2", 2.1M-dot touchscreen LCD. An OLED panel on the top plate displays current shooting settings. Photos are stored on an XQD card.The Z6 can shoot continuously at 12 fps with AE locked and 5.5 fps with continuous AF/AE. It can capture oversampled 4K video for maximum resolution. You can use the same features for videos as you can for stills, including 5-axis IS and the hybrid AF system (with 435 points here). The Z6 supports focus peaking, zebra patterns, time code and 10-bit Log output over HDMI. The camera can record 8-bit video internally and externally at the same time. Connectivity options include Wi-Fi (802.11ac) with Bluetooth as well as the ability to connect directly to a PC.
+    ProductPhotos:
+        - /files/p/products/nikon_z6/shots/020a382ce8a84f5497a7238c2a653438.png
+        - /files/p/products/nikon_z6/shots/8859fda8adad471d96b1a17167857ccd.png
+        - /files/p/products/nikon_z6/shots/9ffd9bb274cf49b6aff78fdef4e3f19d.png
+        - /files/p/products/nikon_z6/shots/d8b18b1e04aa4862b3f0a23c14f75290.png
+        - /files/p/products/nikon_z6/shots/18e4885e15ca4ccbbe6541a6eddcd7e7.png
+        - /files/p/products/nikon_z6/shots/ace897347df242f598c619cd99610d32.png
+    ReviewSummary:
+        GoodFor: Everyday shooting, video
+        NotSoGoodFor: Sports and action
+        Conclusion: The Nikon Z6 is a well-built full-frame mirrorless camera that produces excellent stills and 4K video. Autofocus is reliable most of the time, including during burst shooting, though selecting a subject on which to track is clumsy. The camera's built-in image stabilization works well on native and 'classic' Nikon glass. Battery life isn't class-leading, and some improvements related to manual focus in video should be addressed, but overall Nikon has a winner in the Z6.
+    ASIN:
+        - B07GPRSYG8
+        - B07GPH7M5X
+        - B07GSL93P2
+Specs:
+    AEBracketing: ""
+    Announced: Aug 23, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15b lithium-ion battery & charger
+    BatteryLifeCIPA: "310"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,696.95
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 101 x 68 mm (5.28 x 3.98 x 2.68″)
+    DriveModes: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, 12 or 14-bit)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $1995 (body only), $2599 (w/24-70 F4 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4024
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 28 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "273"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3936 x 2624 (DX crop), 4016 x 4016 (1:1), 6048 x 3400 (16:9)
+    Processor: Expeed 6
+    RemoteControl: Yes (via MC-DC2 or smartphone)
+    Resolutions: ""
+    ReviewPreview: "89%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 14, 2019"
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 or 20 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: XQD card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 675 g (1.49 lb / 23.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

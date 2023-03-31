@@ -1,0 +1,93 @@
+ProductCode: hp_r927
+Award: ""
+ImageURL: /files/p/products/hp_r927/dbc9fdf72c884f3592f27047aa6df628.png
+Name: HP Photosmart R927
+ShortSpecs:
+    - 8 megapixels
+    - 3″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_r927
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000DZDPJA
+Specs:
+    Announced: Jan 4, 2006
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: HP Lithium-Ion rechargeable supplied
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 96 x 26 x 62 mm (3.78 x 1.02 x 2.44″)
+    Durability: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 4.70 m
+    FocalLengthEquiv: 35–105 mm
+    Format: MPEG-1
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 4 star, 3 star, 2 star, 1 star
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 12 cm (4.72″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3296 x 2480
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1936
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 24 fps, MPEG-1
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: "5"

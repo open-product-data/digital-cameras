@@ -1,0 +1,107 @@
+ProductCode: panasonic_dmcts1
+Award: highlyRecommended
+ImageURL: /files/p/products/panasonic_dmcts1/cf822a647e014a718575aabb2061854f.png
+Name: Panasonic Lumix DMC-TS1 (Lumix DMC-FT1)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 128 mm (4.6×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcts1
+ReviewData:
+    ExecutiveSummary: Panasonic's first rugged digital compact and the world's first to feature AVCHD lite HD video recording. The TS1 (FT1 in Europe) is designed to be dustproof, waterproof up to 3 meters and shockproof up to 1.3 meters. It incorporates AVCHD Lite video compression in 3 quality levels to allow longer HD video recording. Sporting a 12.1MP sensor, 28-129mm equivalent lens and 2.7" LCD, the camera also includes features such as Intelligent Auto Mode, Optical Image Stabilizer and Face recognition. April 2009
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001QFZMB0
+Specs:
+    AEBracketing: ""
+    Announced: Jan 27, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 63 x 23 mm (3.86 x 2.48 x 0.91″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: ""
+    FocalLengthEquiv: 28–128 mm
+    Format: AVCHD Lite
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1300 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2560 x 1920, 2560 x 1712, 2560 x 1440, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/MMC/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 189 g (0.42 lb / 6.67 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

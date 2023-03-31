@@ -1,0 +1,95 @@
+ProductCode: sony_dsct110
+Award: ""
+ImageURL: /files/p/products/sony_dsct110/058b92a1316b499e81b51e08dccad794.png
+Name: Sony Cyber-shot DSC-T110
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 27 – 108 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsct110
+ReviewData:
+    ExecutiveSummary: This T-series compact offers a 3.0" touch screen LCD, 16MP CCD sensor and 25-100mm image stabilized periscopic lens. Aimed at casual snapshot users, it is slim enough to slip into a purse or a pocket and a offers wide selection of scene/subject modes. It can also shoot 720p HD videos and can shoot panoramic images. Features such as Anti-blink, Smile shutter and Self-Portrait timer functions along with In-camera Guide assist users getting better shots from everyday photography.
+    ProductPhotos:
+        - /files/p/products/sony_dsct110/shots/c398caef699445139166f16241ad10c7.png
+        - /files/p/products/sony_dsct110/shots/454f12350fff4a9788ea818890fb772b.png
+        - /files/p/products/sony_dsct110/shots/858fe5b4cb3748e7899a7e4a4775fb1a.png
+        - /files/p/products/sony_dsct110/shots/d4b6812f91fb46b8bf17360e65c229cf.png
+    ReviewSummary: null
+    ASIN:
+        - B004H8FNI0
+Specs:
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Touch
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery and charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $265.00 - $280.00
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.1x)
+    Dimensions: 93 x 56 x 17 mm (3.66 x 2.2 x 0.67″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 27–108 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: Yes (Type 3)
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–4.6
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: Clear Photo LCD Plus with touchscreen interface
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected

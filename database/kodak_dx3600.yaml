@@ -1,0 +1,76 @@
+ProductCode: kodak_dx3600
+Award: ""
+ImageURL: /files/p/products/kodak_dx3600/0f744ad912c445aead134547474b40b5.png
+Name: Kodak DX3600
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 35 – 70 mm (2×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dx3600
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00005LVWB
+Specs:
+    Announced: Apr 23, 2001
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3 x)
+    Dimensions: 120 x 74 x 50 mm (4.72 x 2.91 x 1.97″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 35–70 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: 28 cm (11.02″)
+    ManualFocus: "No"
+    MaxResolution: 1800 x 1200
+    MaximumAperture: F3.3–4.5
+    MaximumShutterSpeed: 1/1200 sec
+    Microphone: Mono
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 2×
+    OrientationSensor: "No"
+    OtherResolutions: 900 x 600
+    RemoteControl: "No"
+    Resolutions: 20 fps, 320 x 240/160x120, audio
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB Internal
+    StorageTypes: Compact Flash Type I, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 250 g (0.55 lb / 8.82 oz)
+    WhiteBalancePresets: ""

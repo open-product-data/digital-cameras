@@ -1,0 +1,90 @@
+ProductCode: panasonic_dmcfs7
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfs7/b32c59a619be4366a37c7d905ee3f065.png
+Name: Panasonic Lumix DMC-FS7
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 33 – 132 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfs7
+ReviewData:
+    ExecutiveSummary: One of a pair of budget-level digital compact cameras (the other being the 8.1 MP FS6). Both feature 4x zoom lenses, starting at the slightly wide-angle 33mm equivalent. The 10.1 megapixel FS7 features Panasonic's Mega O.I.S image stabilization system, a decent 2.5" screen and the latest, fourth generation of the company's Venus Engine image processor in a slim stylish all-metal body. April 2009
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfs7/shots/0de99cc71f5246eeb5917359dec838ca.png
+        - /files/p/products/panasonic_dmcfs7/shots/0183b5ca233e4b47a027934cc99092ef.png
+        - /files/p/products/panasonic_dmcfs7/shots/ecc45652e8544142a62e2c544c26af81.png
+        - /files/p/products/panasonic_dmcfs7/shots/4b34e9a653df4e4ebb6dae1e91a971d5.png
+    ReviewSummary: null
+    ASIN:
+        - B001QFZM9C
+        - B001QFZM8I
+        - B001QFZM9M
+Specs:
+    Announced: Jan 16, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: ID-Security Li-ion Battery Pack
+    BodyType: Ultracompact
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 54 x 22 mm (3.82 x 2.13 x 0.87″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Auto Red-eye Reduction, Forced On, Forced Off
+    FlashRange: ""
+    FocalLengthEquiv: 33–132 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600 (1600-6400 with boost)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2736, 3648 x 2432, 3648 x 2056,   2560 x 1920, 2560 x 1712, 2560 x 1440, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 50 MB
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 139 g (0.31 lb / 4.90 oz)
+    WhiteBalancePresets: "5"

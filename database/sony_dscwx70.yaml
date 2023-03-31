@@ -1,0 +1,136 @@
+ProductCode: sony_dscwx70
+Award: ""
+ImageURL: /files/p/products/sony_dscwx70/2362e0469d764d059b3713046d7629d8.png
+Name: Sony Cyber-shot DSC-WX70
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 125 mm (5×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscwx70
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_dscwx70/shots/1fa747f0707842fdb4229d711cfb81d8.png
+        - /files/p/products/sony_dscwx70/shots/f938c5bb334b4d8cadec1938a63a5057.png
+        - /files/p/products/sony_dscwx70/shots/a357d2d6869a4f718e6692169425fcad.png
+    ReviewSummary: null
+    ASIN:
+        - B006K55432
+        - B0073CWBA0
+        - B006K5546Y
+Specs:
+    AEBracketing: ""
+    Announced: Jan 30, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (20x)
+    Dimensions: 92 x 52 x 19 mm (3.62 x 2.05 x 0.75″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 5.30 m
+    FocalLengthEquiv: 25–125 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.6–6.3
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Anti Motion Blur
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: XtraFine TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 19 MB
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 114 g (0.25 lb / 4.02 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

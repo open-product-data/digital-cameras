@@ -1,0 +1,111 @@
+ProductCode: oly_vg120
+Award: ""
+ImageURL: /files/p/products/oly_vg120/be51741d0e7846c99589ba820e8fa6a6.png
+Name: Olympus VG-120
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_vg120
+ReviewData:
+    ExecutiveSummary: The first in Olympus' V series line-up of budget compacts offers useful features that were earlier reserved for higher priced models. The 14MP camera comes with a 26-130mm equiv. wide angle zoom lens and 3.0 inch LCD and can record 720p standard HD video recording. Those looking for photo effects, it also comes with the company's creative 'Magic' filters to add effects such Pop Art, Pin-hole camera and some rather adventurous ones like Punk and Sparkle while shooting.
+    ProductPhotos:
+        - /files/p/products/oly_vg120/shots/dc7d3bee43154e3e84c2c5e3e055348b.png
+        - /files/p/products/oly_vg120/shots/7c1e24687787486588e49bb1073048a5.png
+        - /files/p/products/oly_vg120/shots/9fa0c9583705405b9cfe0a82c2da74aa.png
+        - /files/p/products/oly_vg120/shots/fce51332cf4b4ffa86b13a794e88b6b4.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO59W4
+        - B005TTAUWU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion rechargeable LI-70B battery & charger
+    BatteryLifeCIPA: "160"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 96 x 57 x 19 mm (3.78 x 2.24 x 0.75″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, High Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.8–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Spot AF-area
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 3264 x 2448, 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30, 15fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 120 g (0.26 lb / 4.23 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

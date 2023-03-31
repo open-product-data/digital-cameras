@@ -1,0 +1,128 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210903012043/https://www.dpreview.com/reviews/2014-15-waterproof-camera-roundup
+ProductCode: ricoh_wg4gps
+Award: ""
+ImageURL: /files/p/products/ricoh_wg4gps/f56ca4d585db4ff68c0f085b3d796da5.png
+Name: Ricoh WG-4 GPS
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 73
+URL: /products/ricoh/compacts/ricoh_wg4gps
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Continuing the rugged heritage of the WG series of cameras, the WG-4 GPS is waterproof to 45 feet, shockproof from drops of up to 6.6 feet, cold proof to 14 degrees Fahrenheit and crushproof, withstanding up to 220 foot-pounds of force. In addition, the Ricoh WG-4 series features a 16-megapixel CMOS sensor and a thoughtfully designed folded optical 4X zoom lens, enabling its pocketability while also ensuring its optics are not exposed dust and moisture like those of a protruding lens barrel. Finally, the adventure-prone explorer need not worry about blurry images. Thanks to the WG-4’s fast F2.0 maximum aperture and dual shake reduction system, which combines an image-sensor-shift-type SR (Shake Reduction) mechanism with a Digital SR mode, to guarantee clear, sharp images even in shake-prone conditions.'
+    ProductPhotos:
+        - /files/p/products/ricoh_wg4gps/shots/b5d9a6c438414ca19bdf9d96e4933c7e.png
+        - /files/p/products/ricoh_wg4gps/shots/2a847abb6f8246c78f9d1d1443fd89b3.png
+        - /files/p/products/ricoh_wg4gps/shots/27b077688fdc4673abf60f4893aa68c9.png
+    ReviewSummary:
+        GoodFor: Those seeking a rugged camera where underwater photos aren't the highest priority. GPS data enthusiasts.
+        NotSoGoodFor: Serious underwater shooters, connected photographers, and those who need the battery to last a full day.
+        Conclusion: Adventurous photographers who want a camera that can survive the elements AND be stepped on will like what the WG-4 has to offer. Image quality is among the best in the rugged camera class and GPS system works well. The WG-4 is marred by mediocre underwater photo quality, lousy battery life, and the lack of Wi-Fi.
+    ASIN:
+        - B00I9XZMKS
+Specs:
+    AEBracketing: ±2
+    Announced: Feb 5, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI92 lithium-ion battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (7.2x)
+    Dimensions: 124 x 64 x 33 mm (4.88 x 2.52 x 1.3″)
+    DriveModes:
+        - One-shot, self-timer, continuous, burst, remote control, auto bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (waterproof to 14m, shockproof from 2m, crushproof to 220 lbf, freezeproof to -10C/+14F)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto Picture
+        - Program
+        - Shutter Priority
+        - User
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, flash off, flash on, auto + redeye, on + redeye
+    FlashRange: 10.00 m (Auto ISO)
+    FocalLengthEquiv: 25–100 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, normal, basic
+    LiveView: "Yes"
+    MSRP: $379.95 / £329.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3456 x 3456, 3072 x 2304, 3072 x 1728, 2592 x 1464, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "73%DPReview score\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2014"
+    SceneModes:
+        - Landscape, Portrait, Night Scene, Night Scene Portrait, Standard, Flower, Sport, Candlelight, Blue Sky, Sunset, Text, Group Photo, Pet, Portrait x Blue Sky, Portrait x Sunset, Portrait x Backlight
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70MB
+    StorageTypes: SD/SDHC/SDXC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 235 g (0.52 lb / 8.29 oz)
+    WhiteBalancePresets: "6"
+    WirelessNotes: ""

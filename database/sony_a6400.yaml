@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211022085828/https://www.dpreview.com/reviews/sony-a6400-review
+ProductCode: sony_a6400
+Award: gold
+ImageURL: /files/p/products/sony_a6400/a5f7411ab9274740b8720408d7d6d41c.png
+Name: Sony a6400
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/sony/slrs/sony_a6400
+ReviewData:
+    ExecutiveSummary: 'The Sony a6400 is a midrange mirrorless camera with a 24.2MP APS-C sensor. The biggest feature is undoubtedly its autofocus system, which offers 425 phase-detect points, ''Real-time Eye AF'' (that work on animals too, via a Summer firmware update) and ''Real-time tracking'' for moving subjects. The a6400 can shoot bursts at 11 fps with continuous AF.The design is largely unchanged from the a6300, with Sony claiming improved build quality. The a6400 has the same OLED EVF as the a6300 as well as a touch-enabled tilting LCD. The camera can shoot 4K/30p video with full pixel readout and no pixel-binning, so we expect quality to be excellent. Three log profiles are supported: S-Log2, S-Log3 and HLG, and the a6400 also offers zebra functionality, gamma display assist and proxy recording.'
+    ProductPhotos:
+        - /files/p/products/sony_a6400/shots/9595d7e5ff694d8c8bc99f8f1a33a9b2.png
+        - /files/p/products/sony_a6400/shots/eb06fb92a55d4a20a5db533173dfd124.png
+        - /files/p/products/sony_a6400/shots/8af75b50acd040bbbde340fc13100c46.png
+        - /files/p/products/sony_a6400/shots/a59a9cd736484662af8b576570d44755.png
+        - /files/p/products/sony_a6400/shots/af67c37d297f4ead90b912aa4b57964a.png
+        - /files/p/products/sony_a6400/shots/1c94c2fc491745c597b7e89009841ac4.png
+        - /files/p/products/sony_a6400/shots/8b91d650e0374b25b81175b47689c89e.png
+    ReviewSummary:
+        GoodFor: Family and social photography, fast action and sports, world travelers and anyone looking for the best autofocus bang-for-your-buck.
+        NotSoGoodFor: Those photographers seeking a more engaging or more fun shooting experience, those with larger hands and shooters that need consistently pleasing auto white balance in their JPEG shooting.
+        Conclusion: The Sony a6400 is a near-universally capable midrange camera that offers some of the best autofocus performance we've ever seen, backed up by solid image and video quality in most situations. We'd really like to see some further refinement on ergonomics, as Sony has done with its full-frame models over the years, but the a6400 remains an excellent option for a variety of types of photography.
+    ASIN:
+        - B07MV3P74D
+        - B07MTWVN3M
+        - B07MV3P7M8
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jan 15, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50
+    BatteryLifeCIPA: "410"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "102800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $898.00 - $1,546.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 120 x 67 x 60 mm (4.72 x 2.64 x 2.36″)
+    DriveModes:
+        - Single shooting
+        - Continuous
+        - Self-timer
+        - Bracketing (AE, WB, DRO)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Sony ARW)
+    FlashModes: Off, auto, on, slow sync, rear sync, redeye reduction, wireless, hi-speed sync
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-32000 (expands to 102800)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $900 (body only), $1000 (w/16-50mm lens), $1300 (w/18-135 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 30p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 30, 2019"
+    SceneModes:
+        - Portrait, Sports Action, Macro, Landscape, Sunset, Night Scene, handheld Twilight, Night Portrait, Anti-Motion Blur
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC/Memory Stick DUO (UHS-I compliant)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.07× (0.71× 35mm equiv.)
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 403 g (0.89 lb / 14.22 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth 4.1

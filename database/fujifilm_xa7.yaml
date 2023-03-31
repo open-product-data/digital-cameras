@@ -1,0 +1,169 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210904155413/https://www.dpreview.com/reviews/fujifilm-x-a7-review
+ProductCode: fujifilm_xa7
+Award: silver
+ImageURL: /files/p/products/fujifilm_xa7/5f8f6e58d8ef47b09d374e6e1fe40d1f.png
+Name: Fujifilm X-A7
+ShortSpecs:
+    - 24 megapixels
+    - 3.5″ screen
+    - APS-C sensor
+ReviewScore: 81
+URL: /products/fujifilm/slrs/fujifilm_xa7
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-A7 is an entry-level but well spec'd APS-C mirrorless camera. It features a 24MP CMOS sensor, hybrid autofocus system with nearly 100% coverage, a fully articulating LCD and 4K/30p video capture. The camera is compact and lightweight, and puts most of its controls onto its gigantic 3.5", 2.76M-dot touchscreen. The X-A7 is capable of shooting bursts at 6 fps with continuous autofocus, though its buffer fills quickly. UHD 4K video does not have a crop, though there is a 10 minute time limit. The camera offers a mic input, but there's no headphone jack. Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xa7/shots/3d3627eb82994279bd3c7c727e4d4ed2.png
+        - /files/p/products/fujifilm_xa7/shots/04dad2fefd244e2c992e0e33d500f3d9.png
+        - /files/p/products/fujifilm_xa7/shots/65931a5b99ea456fb83ff25ca0efe539.png
+        - /files/p/products/fujifilm_xa7/shots/21e704801531469e924d4eda4a20d7e7.png
+        - /files/p/products/fujifilm_xa7/shots/6e074975ca50429191052cdead29d43e.png
+    ReviewSummary:
+        GoodFor: Selfies, video and learning photography
+        NotSoGoodFor: Composing shots in bright light (where a viewfinder helps)
+        Conclusion: The X-A7 is a small, affordable mirrorless camera whose interface makes it easy and enjoyable to use.
+    ASIN:
+        - B07XPDX1X5
+        - B07XPLGVDK
+Specs:
+    AEBracketing: ±5 (3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 12, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "270"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "25600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 119 x 38 x 41 mm (4.69 x 1.5 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - AE bracketing
+        - ISO bracketing
+        - Film Simulation bracketing
+        - WB bracketing
+        - Dynamic range bracketing
+        - HDR
+        - Movie
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (Fujifilm RAF format)
+    FlashModes: Auto, forced, slow synchro, 2nd curtain, commander, suppressed)
+    FlashRange: 4.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800 (expands to 25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $699 (w/15-45mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 1, 2020"
+    SceneModes:
+        - Portrait
+        - Night (tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Underwater
+        - Party
+        - Flower
+        - Text
+        - Multiple exposure
+        - Light trail
+    ScreenDots: 2,760,000
+    ScreenSize: 3.5″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

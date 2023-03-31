@@ -1,0 +1,126 @@
+ProductCode: canon_sx600
+Award: ""
+ImageURL: /files/p/products/canon_sx600/a4d514a4cb304f9794c1227481325b95.png
+Name: PowerShot SX600
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 450 mm (18×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx600
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: In addition to enhanced connectivity and artistic options, the PowerShot SX600 HS camera features a long-zoom range in a compact point-and-shoot camera body.  Equivalent to 25-450mm, the SX600 HS camera’s powerful 18x optical zoom provides users with the high-quality optics the pocket-sized Canon PowerShot SX camera series is known for. The SX600 HS camera combines a 16-Megapixel CMOS sensor and Canon’s DIGIG 4+ Image Processor to create the Canon HS SYSTEM allowing for excellent low-light performance.'
+    ProductPhotos:
+        - /files/p/products/canon_sx600/shots/70602d770cc34e6b832728a54929bfa0.png
+        - /files/p/products/canon_sx600/shots/6eb532da2f504cd089157e80bcd59dab.png
+        - /files/p/products/canon_sx600/shots/da3eefc56ade483395c20d0c5e2bf09f.png
+    ReviewSummary: null
+    ASIN:
+        - B00HLDFRBQ
+        - B00HLDFRTI
+        - B00HLDFQU8
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable Li-ion Battery NB-6LH
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 3.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 104 x 61 x 26 mm (4.09 x 2.4 x 1.02″)
+    DriveModes:
+        - Single, Continuous, Self-Timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Hybrid Auto, Creative Shot, SCN
+    ExternalFlash: Yes (Canon High Power Flash HF-DC2)
+    FileFormat:
+        - JPEG, Exif 2.3 compliant / DPOF Version 1.1 compliant
+    FlashModes: Auto, Manual Flash On / Off, Slow Synchro
+    FlashRange: 3.50 m (50 cm – 3.5 m (W) / 1.0 m – 2.0 m (T))
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 25–450 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: via mobile (linked to compatible smartphone)
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, Fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $249.99
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.8–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 18×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3264 x 2448, 2048 x 1536, 640 x 480, 4608 x 2592, 3264 x 1832, 1920 x 1080, 640 x 360, 4608 x 3072, 3264 x 2176, 2048 x 1368, 640 x 424, 3456 x 3456, 2448 x 2448, 1536 x 1536, 480 x 480
+    Processor: DIGIC 4+
+    RemoteControl: ""
+    Resolutions: 1920 x 1280  (30fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Auto, Hybrid Auto, P, Creative Shot1, Portrait, Smart Shutter2, High-Speed Burst, Handheld Night Scene, Low Light, Fisheye Effect, Miniature Effect, Toy Camera Effect, Monochrome, Super Vivid, Poster Effect, Snow, Fireworks, Long Shutter
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    ScreenType: PureColor II G (TFT)
+    SelfTimer: Yes (2 or 10 sec, custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 188 g (0.41 lb / 6.63 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n with NFC

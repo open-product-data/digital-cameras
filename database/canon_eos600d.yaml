@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220123081041/https://www.dpreview.com/reviews/canoneos600d/
+ProductCode: canon_eos600d
+Award: silver
+ImageURL: /files/p/products/canon_eos600d/d917b9fe47cc4729b39ff1fcb6758626.png
+Name: Canon EOS 600D (EOS Rebel T3i / EOS Kiss X5)
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/canon/slrs/canon_eos600d
+ReviewData:
+    ExecutiveSummary: The Rebel T3i / EOS 600D takes the highly capable T2i / EOS 550D and adds a multi-angle LCD screen, plus a host of beginner-friendly features designed to make it easier for novices to get good results. These include 'Basic +', that offers more user control in the automatic scene modes, a new 'Feature Guide' that gives brief on-screen explanations for camera functions, and an updated fully automatic mode that's now called 'Scene Intelligent Auto'. It also gains the ability to control external flashes wirelessly off-camera, and a very welcome larger, more comfortable handgrip.
+    ProductPhotos:
+        - /files/p/products/canon_eos600d/shots/7a72b227f0d24bc6b85b23c403b92c18.png
+        - /files/p/products/canon_eos600d/shots/fb24f28998df48f08fab5c40daede7ee.png
+        - /files/p/products/canon_eos600d/shots/19272038564a4448bcfcd616c44f1db1.png
+        - /files/p/products/canon_eos600d/shots/5c2df237fb904bf9b0c150ed09d886e6.png
+        - /files/p/products/canon_eos600d/shots/f79a68cb592a4dca834efaff65b91b0c.png
+        - /files/p/products/canon_eos600d/shots/edb566868e0a46b38b9a30c4232e21c2.png
+    ReviewSummary:
+        GoodFor: Enthusiast shooters looking for some of the latest technology in a well-designed, well-priced package. Movie shooters on a budget.
+        NotSoGoodFor: Upgraders looking for a compact-camera-like user experience. Users for whom small size is paramount (who might want to consider a mirrorless alternative)
+        Conclusion: 'The latest model in Canon''s popular Rebel series is very much the camera that the range''s history leads us to expect: well featured, well-designed and competitively priced. It''s a very conventional camera in a part of the market that is seeing some interesting innovations, but the conventional DSLR design still best suits many people''s needs, especially when it''s done this convincingly.'
+    ASIN:
+        - B004M170YC
+        - B004MN00C4
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 7, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E8 rechargeable battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3-10x )
+    Dimensions: 133 x 100 x 80 mm (5.24 x 3.94 x 3.15″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus Sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 13.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 5184 x 2912, 4608 x 3456,3456 x 3456, 3456 x 2304, 3456 x 1944, 3072 x 2304, 2592 x 1728, 2592 x 1456, 2304 x 1728, 2304 x 2304, 1920 x 1280, 1920 x 1080, 1728 x 1728, 1696 x 1280, 1280 x 1280, 720 x 480, 720 x 400, 640 x 480, 480 x 480
+    Processor: Digic 4
+    RemoteControl: Yes (E3 connector, InfraRed)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 480 (60, 50 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 31, 2011"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD, liquid-crystal monitor
+    SelfTimer: Yes (2 sec or 10 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.85× (0.53× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 570 g (1.26 lb / 20.11 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

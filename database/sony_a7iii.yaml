@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127003250/https://www.dpreview.com/reviews/sony-a7-iii-review
+ProductCode: sony_a7iii
+Award: gold
+ImageURL: /files/p/products/sony_a7iii/a74828e46925495989e49bb98938432e.png
+Name: Sony a7 III
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/sony/slrs/sony_a7iii
+ReviewData:
+    ExecutiveSummary: The Sony a7 III is a 24MP full frame mirrorless camera that incorporates many of the features and improvements found in the a7R III. Primary among these are a BSI sensor, along with the larger capacity 'Z' battery, AF joystick and the company's impressive EyeAF feature. Its 693-point AF system offers 93% frame coverage. Continuous shooting is offered at up to 10 fps with mechanical shutter, and 5-axis in-body stabilization claims a 5.0 stop shutter speed advantage.Video recorded at 4K/24p is taken from a 6K region of the sensor, while 30p shooting comes from a roughly 5K region with a 1.2x crop. The camera offers both S-Log2 and S-Log3 gamma curves for shooting wide dynamic range scenes or Hybrid Log Gamma for playing back directly on high dynamic range displays. The new larger-capacity battery boasts 710 shots per charge. The a7 III uses the same 2.36m dot OLED viewfinder as its predecessor, giving a 1024 x 768 pixel view, rather than the higher-res version in the a7R III. The viewfinder is complemented by an articulated 3" 921k-dot LCD.
+    ProductPhotos:
+        - /files/p/products/sony_a7iii/shots/5094cc5910ba43c0858bb61f10dbe8ba.png
+        - /files/p/products/sony_a7iii/shots/171c4762c4c24041b90b3930926ed456.png
+        - /files/p/products/sony_a7iii/shots/dd3956f1b7874ddbad1fadffdc6ddbc5.png
+    ReviewSummary:
+        GoodFor: Generalist photographers, wedding, event and action shooters and those that need high quality video.
+        NotSoGoodFor: Those that need more resolution for detailed scenes or large prints, those that need ultimate build quality for harsh shooting conditions.
+        Conclusion: The Sony a7 III is a well-priced, well-rounded camera suitable for all kinds of photography. Twenty-four megapixels of resolution is more than sufficient for most tasks, and the 693-point autofocus system and 10 frames-per-second burst speed help the a7 III keep up with fast action. Video quality and feature set is another strong point, though some operational lag, a slightly low-resolution viewfinder and unintuitive video autofocus may turn off some users.
+    ASIN:
+        - B07B43WPVK
+        - B07B45D8WV
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 27, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery and charger
+    BatteryLifeCIPA: "710"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,998.00 - $4,796.00
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4)
+    Dimensions: 127 x 96 x 74 mm (5 x 3.78 x 2.91″)
+    DriveModes:
+        - Single, continuous, speed priority continuous, self-timer, bracketing (AE, white balance, DRO)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Scene Selection
+        - Slow & Quick Motion
+        - Movie
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - RAW (ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4K still, uncompressed video output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200
+    ImageParameters:
+        - Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn Leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $2000
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Linear PCM
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Linear PCM
+    NumberOfFocusPoints: "693"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 3936 x 2624, 3936 x 2216, 3008 x 1688, 3008 x 2000
+    Processor: Bionz X
+    RemoteControl: Yes (wired)
+    Resolutions: 3840 x 2160 (30p, 24p) 1920 x 1080 (120p, 60p, 60i, 24p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "89%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 23, 2018"
+    SceneModes:
+        - Portrait, Landscape, Macro, Sports Action, Sunset, Night Portrait, Night Scene
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.8 x 23.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports XAVC S codec (100Mbps), S-Log2 and S-Log3, and HLG
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 650 g (1.43 lb / 22.93 oz)
+    WhiteBalancePresets: "11"
+    Wireless: Built-In
+    WirelessNotes: with NFC and wireless control via PlayMemories Mobile app

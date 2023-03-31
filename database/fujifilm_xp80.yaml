@@ -1,0 +1,143 @@
+ProductCode: fujifilm_xp80
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp80/f86e104789844e23974ef790e183ac5e.png
+Name: Fujifilm XP80
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp80
+ReviewData:
+    ExecutiveSummary: The FinePix XP80 is a rugged camera with a 16MP CMOS sensor and image stabilized 28-140mm lens. The camera can travel down to 15m/50ft underwater, be dropped from 1.8m/5.8ft, and still function at temperatures as low as -10C/+14F. Other features include a 2.7" LCD, an "action camera mode", 1080/60p video, and built-in Wi-Fi.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp80/shots/01f79eb7e6d54638a1b2e65e9db60357.png
+        - /files/p/products/fujifilm_xp80/shots/6dc515f0784246b1989cfc873013c577.png
+    ReviewSummary: null
+    ASIN:
+        - B00S4KXH3K
+        - B00S4KXOI8
+        - B00S4KXNSO
+Specs:
+    AEBracketing: ""
+    Announced: Jan 15, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-45S lithium-ion battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Metal, composite
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2X)
+    Dimensions: 104 x 67 x 26 mm (4.09 x 2.64 x 1.02″)
+    DriveModes:
+        - Single
+        - Continuous Top
+        - Continuous Last
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (waterproof to 15m, shockproof to 1.8m, freezeproof to -10C, dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, flash on, flash off, slow synchro
+    FlashRange: 4.40 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 100-3200, ISO 6400 at M/S resolution
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $229
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3264 x 2448, 2048 x 1536), 3:2 (4608 x 3072, 3264 x 2176, 2304 x 1536), 16:9 (4608 x 2592, 3264 x 1840, 1920 x 1080), 1:1 (3456 x 3546, 2432 x 2432, 1728 x 1728)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Sunset
+        - Snow
+        - Beach
+        - Under water
+        - Under water (Macro)
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 460,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, group)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 96MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 179 g (0.39 lb / 6.31 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n

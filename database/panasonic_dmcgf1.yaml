@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211202215218/https://www.dpreview.com/reviews/panasonicgf1
+ProductCode: panasonic_dmcgf1
+Award: highlyRecommended
+ImageURL: /files/p/products/panasonic_dmcgf1/b9df4d320b5949e6ade59e8a242a6db3.png
+Name: Panasonic Lumix DMC-GF1
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 69
+URL: /products/panasonic/slrs/panasonic_dmcgf1
+ReviewData:
+    ExecutiveSummary: When it was released in 2009, Panasonic billed the Lumix DMC-GF1 as 'the world's smallest and lightest digital interchangeable lens system camera with a built-in flash'. Sporting a new 'artistic flat' body design similar to that of the (then) recently released Olympus E-P1, the GF1 is 35% smaller than earlier G models like the G1 and GH1. Headline features include the same 12.1Mp sensor as the DMC-G1, 1280 x 720 HD recording in AVCHD Lite format, an optional hot-shoe mounted electronic viewfinder, and a 3 inch LCD with 460k dots. As far as image quality is concerned, JPEGs are good, though (at its default settings) the GF1 produces relatively muted and subtle output that's better suited to post processing than immediate printing. At a pixel level it's good, but not great, and you'll need to switch to raw to really appreciate what the GF1 is capable of. Overall, the GF1 was one of our favourite digital cameras when it was released, and it still is, even after the arrival of the GF2.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcgf1/shots/1142fcb713e24624ad0c86a16462263e.png
+        - /files/p/products/panasonic_dmcgf1/shots/03101324cc13407eb2a9cf1d1ae25a57.png
+        - /files/p/products/panasonic_dmcgf1/shots/789090529e00420ca8b28c28e2f9d426.png
+        - /files/p/products/panasonic_dmcgf1/shots/f3d675b923cb415db901de905da5d176.png
+        - /files/p/products/panasonic_dmcgf1/shots/1c8dd435da90483a8dab611a5aced2c2.png
+        - /files/p/products/panasonic_dmcgf1/shots/64f94d38a20645d0b186406be62e53ca.png
+        - /files/p/products/panasonic_dmcgf1/shots/5af934f01978434c91e6387bfff14832.png
+        - /files/p/products/panasonic_dmcgf1/shots/e33479f3df904805bb0193d1eef07b3e.png
+    ReviewSummary:
+        GoodFor: '''Carry anywhere'' camera for SLR users wanting something pocketable with excellent image quality'
+        NotSoGoodFor: Action/sports/wildlife photography
+        Conclusion: The compact design means inevitable compromises when compared to a 'full size' SLR, but the GF1 gets so much right that it's a real winner in our eyes. Great image quality, a well-rounded feature set and surprisingly zippy performance put it a little ahead of the Olympus E-P1, and it's much more versatile.
+    ASIN:
+        - B002IKLJUK
+Specs:
+    AEBracketing: ±2 (3, 5, 7 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Sep 2, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (2x, 4x)
+    Dimensions: 119 x 71 x 36 mm (4.69 x 2.8 x 1.43″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 6.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: AVCHD Lite
+    GPS: None
+    HDMI: Yes (mini HDMI TypeC)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "23"
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 3000, 4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1504 x 1504
+    Processor: Venus Engine HD
+    RemoteControl: Yes (Optional DMW-RSL1)
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "69%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 14, 2009"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images))
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/MMC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 385 g (0.85 lb / 13.58 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,74 @@
+ProductCode: minolta_1500wide
+Award: ""
+ImageURL: /files/p/products/minolta_1500wide/d599de2110d14e92959123c99b8c2c35.png
+Name: Minolta DiMAGE EX 1500 Wide
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/konicaminolta/compacts/minolta_1500wide
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 31, 1998
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 128 x 68 x 63 mm (5.04 x 2.68 x 2.48″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Red-eye-fill-in, Off
+    FlashRange: 11.00 m (F3.5 ISO 125)
+    FocalLengthEquiv: 28 mm
+    HDMI: "No"
+    ISO: "125"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Standard, Economy
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 1344 x 1008
+    MaximumAperture: F1.9
+    MaximumShutterSpeed: 1/4000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 30 cm (11.81″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 110,000
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: Yes (- 1s - 9hours)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "3"

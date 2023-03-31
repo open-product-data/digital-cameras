@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210904164710/https://www.dpreview.com/reviews/sony-a6100-review
+ProductCode: sony_a6100
+Award: silver
+ImageURL: /files/p/products/sony_a6100/f77734db8f724f21ae1916e785ea9df5.png
+Name: Sony a6100
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/sony/slrs/sony_a6100
+ReviewData:
+    ExecutiveSummary: The a6100 is a lower-priced APS-C mirrorless camera that uses Sony's E-mount. It features a 24MP CMOS sensor, 425-pt Hybrid AF system, 3" tilting touchscreen LCD, 1.44M-dot EVF and 4K video capture. Its Real-time Tracking can keep objects, faces and eyes in focus, even at 11 fps. It has a microphone input which, along with the upward tilting LCD and oversampled 4K video, makes it ideal for vlogging. Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/sony_a6100/shots/fe81af1f50f640ffad46b26e956d2863.png
+        - /files/p/products/sony_a6100/shots/a1f3ccd9056841cb98bcd87d2740eaf9.png
+        - /files/p/products/sony_a6100/shots/b5c959c6ae1d45cab710fb2c9159bd13.png
+        - /files/p/products/sony_a6100/shots/3a04d9a0eef24c3bb73a68b6ecd69c54.png
+        - /files/p/products/sony_a6100/shots/2318112164fc474ca34a41d4c9d6523a.png
+    ReviewSummary:
+        GoodFor: Travel and family photography
+        NotSoGoodFor: Someone that wants to take full creative control over their camera
+        Conclusion: The a6100 is an entry-level mirrorless camera built around one of the best autofocus systems we've encountered (as of late 2019). With a couple of settings changes it can be one of the most powerful point-and-shoot cameras available, capable of taking good photos in a wide range of situations.
+    ASIN:
+        - B07X71JK4L
+        - B07X63W2KH
+        - B07X43CK3W
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Aug 28, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery & charger
+    BatteryLifeCIPA: "420"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $748.00 - $1,396.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 120 x 67 x 59 mm (4.72 x 2.64 x 2.32″)
+    DriveModes:
+        - Single shooting
+        - Continuous
+        - Self-timer
+        - Bracketing (AE, DRO, WB)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Sony ARW)
+    FlashModes: Flash off, auto, fill flash, slow sync, rear sync, wireless, hi-speed
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, XAVC S, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-32000 (expands to 51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $750 (body only), $850 (w/16-50 lens), $1100 (w/16-50 and 55-210 lenses)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 29, 2019"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Hand-held Twilight
+        - Night Portrait
+        - Anti Motion Blur
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC + Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.07× (0.71× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 396 g (0.87 lb / 13.97 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth

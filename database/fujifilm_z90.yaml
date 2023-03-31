@@ -1,0 +1,126 @@
+ProductCode: fujifilm_z90
+Award: ""
+ImageURL: /files/p/products/fujifilm_z90/a5c74919beff41bfb82e13556b0f3381.png
+Name: FujiFilm Finepix Z90 (Finepix Z91)
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_z90
+ReviewData:
+    ExecutiveSummary: Successor to the the Z70, the Fujifilm FinePix Z90 features a 14Mp sensor, 3.0" touch screen LCD, and 5x (28-140mm equiv.) zoom lens as opposed to Z70's 12Mp sensor, 2.7" LCD and 36-180mm zoom lens. It inherits the one-touch direct upload button, AF tracking and 720p HD video recording functions from its predecessor.
+    ProductPhotos:
+        - /files/p/products/fujifilm_z90/shots/442504662f234c8b92b04e664db1027b.png
+        - /files/p/products/fujifilm_z90/shots/5be45eac5f534aedb1c862d2a9bc4914.png
+        - /files/p/products/fujifilm_z90/shots/8036136fb7b140bdba0cf022d4822989.png
+        - /files/p/products/fujifilm_z90/shots/2cd4755f51fc460c9675152b16b9da1f.png
+        - /files/p/products/fujifilm_z90/shots/03b889bcdf254862919b8cdc5e95d681.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO58L6
+        - B004YD2638
+        - B004HO58LG
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-45A rechargeable battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.8x)
+    Dimensions: 95 x 57 x 20 mm (3.74 x 2.24 x 0.79″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, 3200
+    ImageRatioWh: ""
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4320 x 2432, 3072 x 2304, 3072 x 1728, 2048 x 1532, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: TFT touchdscreen color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 38 MB
+    StorageTypes: SD / SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 133 g (0.29 lb / 4.69 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

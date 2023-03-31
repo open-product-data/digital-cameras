@@ -1,0 +1,131 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220305004849/https://www.dpreview.com/reviews/2015-roundup-long-zoom-compacts
+ProductCode: fujifilm_s1
+Award: ""
+ImageURL: /files/p/products/fujifilm_s1/9ebc5ef2657945949f073c6f3b786031.png
+Name: FinePix S1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1200 mm (50×)
+ReviewScore: 71
+URL: /products/fujifilm/compacts/fujifilm_s1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The FinePix S1 is the world’s first “weather resistant” super zoom bridge camera and provides protection against rain and dust. The S1 features a 16MP CMOS sensor, and a bright 50x super zoom 24-1200mm F2.8-5.6 lens with ultra-fast zoom speed and 2x Intelligent Digital Zoom up to 100x. The high resolution and contrast Vari-Angle 3” LCD (920K dot) makes it easy to frame shots from any angle, and the 0.2” EVF (920K dot) is great for difficult shooting conditions. One-touch WiFi connectivity lets you easily share images to your smartphone or tablet – pictures that these devices cannot capture - and remote shooting via smartphone or tablet using the Fujifilm Camera Remote app for unique capture opportunities.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_s1/shots/467e4706d5404fc8b7c5e31510cd6e04.png
+        - /files/p/products/fujifilm_s1/shots/119986bbb67f4c3ab17bc4dc93362e61.png
+    ReviewSummary:
+        GoodFor: Outdoorsy people and those who want to maximize image quality via Raw.
+        NotSoGoodFor: Video shooters and those who desire best image quality straight out of the camera.
+        Conclusion: 'The FinePix S1 is the only weather-sealed superzoom on the market, and it indeed feels better than its competitors. For the more enthusiast crowd it offers Raw support as well as a hot shoe. The camera performs well in most respects, most notably when focusing,  and the lens is better-than-average. Unfortunately there are quite a few negatives: image quality is sub-par, video recording is fully automatic, and the electronic viewfinder is not great.'
+    ASIN:
+        - B00HGE3C5I
+Specs:
+    AEBracketing: ±2 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 6, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-85 lithium-ion battery and charger
+    BatteryLifeCIPA: "350"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2)
+    Dimensions: 133 x 91 x 110 mm (5.24 x 3.58 x 4.33″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Dust and weather-resistent)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+        - Panorama
+        - Scene
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG (Exif Ver 2.3)
+        - RAW (RAF)
+    FlashModes: Auto, forced flash, suppressed flash, slow sync
+    FlashRange: 8.00 m
+    FocalLengthEquiv: 24–1200 mm
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: Yes (Mini HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $499.95 / £399.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 50×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2432 x 2432, 2304 x 1728, 2304 x 1536, 1920 x 1080, 1728 x 1728
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p), 1280 x 720 (60p), 640 x 480 (30p)
+    ReviewPreview: "71%DPReview score\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        Nov 5, 2015"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 25MB
+    StorageTypes: SC/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (up to 6 hrs)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed movie: 120/240/480 fps'
+    ViewfinderCoverage: 97%
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 680 g (1.50 lb / 23.99 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n

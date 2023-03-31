@@ -1,0 +1,97 @@
+ProductCode: kodak_m580
+Award: ""
+ImageURL: /files/p/products/kodak_m580/60e83c6dcf6249a9ac93441acdc91d81.png
+Name: Kodak EasyShare M580
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 28 – 224 mm (8×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m580
+ReviewData:
+    ExecutiveSummary: The Kodak Easyshare M580 is an M series camera available in pink, purple and blue. It comes with a 14MP sensor, 3.0inch LCD and a 8x optical zoom lens starting at 28mm equivalent. It also includes 720p HD recording, image stabilization and a panorama feature. A Perfect Touch mode enables you to quickly retouch captured images within the camera. Its one-button upload option allows you to upload images easily to YouTube, Facebook, Flickr and Kodak's Gallery site.
+    ProductPhotos:
+        - /files/p/products/kodak_m580/shots/a67f8f4b120649e79da6b535975b5a71.png
+        - /files/p/products/kodak_m580/shots/40af7cf98fa84ee0a352b444058d60e1.png
+        - /files/p/products/kodak_m580/shots/71dc169692d04cd5b0e39df540ca5b37.png
+    ReviewSummary: null
+    ASIN:
+        - B0031RGGBG
+        - B0031RGGBQ
+        - B0031RGGC0
+Specs:
+    Announced: Jul 29, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion KLIC-7006 rechargeable battery & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (8x)
+    Dimensions: 101 x 59 x 56 mm (3.98 x 2.32 x 2.2″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–224 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2848, 4288 x 2416, 2832 x 2128, 2048 x 1536, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps)
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 150 g (0.33 lb / 5.29 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

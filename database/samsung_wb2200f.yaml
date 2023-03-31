@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016005130/https://www.dpreview.com/reviews/2015-superzoom-camera-roundup
+ProductCode: samsung_wb2200f
+Award: ""
+ImageURL: /files/p/products/samsung_wb2200f/0d4e0169f44440b48f0d48a0d9384d70.png
+Name: Samsung WB2200F
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 20 – 1200 mm (60×)
+ReviewScore: 72
+URL: /products/samsung/compacts/samsung_wb2200f
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Samsung''s WB2200F is a unique "super-bridge" compact camera with a 60x optical zoom and a dual grip "battery grip" performance and handling usually found on DSLRs. The camera is also equipped with built-in wi-fi and NFC capabilities, promis to make sharing photos, snapping photos remotely, and backing up photos through your smartphone fast and easy. The i-Function technology found in NX cameras and lenses is also included on the WB2200F, allowing the photographer to have a live preview of the output image as exposure settings are changed.'
+    ProductPhotos:
+        - /files/p/products/samsung_wb2200f/shots/cf4c11d823a04043b3609fe65cc7dcef.png
+        - /files/p/products/samsung_wb2200f/shots/1f1365fe2aaa42e48454c4b349148d69.png
+        - /files/p/products/samsung_wb2200f/shots/e651626061154b3cb55041f55bed0211.png
+    ReviewSummary:
+        GoodFor: Those who want more than day of shooting on a single battery charge. Frequent portrait photographers. Those on a budget.
+        NotSoGoodFor: Those demanding a high quality LCD and viewfinder, video shooters.
+        Conclusion: The Samsung WB2200F is one of the most interesting superzooms in that it has a built-in battery grip which, in addition to making portrait shooting more comfortable, pays dividends when it comes to battery life. The camera has the widest lens in the group, starting at 20mm, and above-average image stabilization. That said, we were disappointed with both the washed out LCD and low resolution EVF, as well as the limited controls in movie mode (which does not support 1080/60p recording, either).
+    ASIN:
+        - B00HV6KIEY
+Specs:
+    Announced: Jan 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-1410 lithium-ion battery & charger
+    BatteryLifeCIPA: "600"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 119 x 122 x 105 mm (4.69 x 4.8 x 4.13″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Bracket (WB, AE)
+        - Pre-capture
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - A/S/M
+        - Smart
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash Off, Red-eye fix
+    FlashRange: 6.00 m (ISO Auto)
+    FocalLengthEquiv: 20–1200 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine, normal
+    LiveView: "Yes"
+    MSRP: $449
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 60×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30P)
+    ReviewPreview: "72%DPReview score\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2015"
+    SceneModes:
+        - Beauty Face
+        - Continuous Shot
+        - Landscape
+        - Macro
+        - Action Freeze
+        - Rich Tones (HDR)
+        - Panorama
+        - Silhouette
+        - Sunset
+        - Night
+        - Fireworks
+        - Light Trace
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 17 MB
+    StorageTypes: Internal, SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 201,600
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 708 g (1.56 lb / 24.97 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

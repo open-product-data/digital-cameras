@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211103184708/https://www.dpreview.com/reviews/sony-a6300
+ProductCode: sony_a6300
+Award: gold
+ImageURL: /files/p/products/sony_a6300/a4fdff454447470391368625adb85823.png
+Name: Sony a6300
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/sony/slrs/sony_a6300
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Sony α6300 is equipped with a newly developed 24.2MP (approx.. effective) APS-C sized Exmor CMOS sensor that works together with a BIONZ X image processing engine to produce outstanding image quality throughout the entire ISO sensitivity range ISO 100 – 51200.  It can also shoot and record high resolution 4K video with full pixel readout and no pixel binning in the popular Super 35mm format. The camera boasts a ''4D FOCUS'' system with 425 phase detection AF points that are densely positioned over the entire image area, and can shoot images at up to 11 frames per second with continuous autofocus and exposure tracking.The body is made of a magnesium-alloy and is sealed against dust and moisture. As with most Sony cameras these days, the a6300 has onboard Wi-Fi with NFC.'
+    ProductPhotos:
+        - /files/p/products/sony_a6300/shots/57da8c1f82ce4748af7060152791aa75.png
+        - /files/p/products/sony_a6300/shots/9685fd96756145069d99d9e8790ad584.png
+        - /files/p/products/sony_a6300/shots/298c14cadf8d41a498a52042f50975e7.png
+        - /files/p/products/sony_a6300/shots/5ab2f006f8824bc19bba3047cd0b0598.png
+        - /files/p/products/sony_a6300/shots/78745c42e64748f18f321996607fc188.png
+        - /files/p/products/sony_a6300/shots/c7a28371d02f4c37a6bbb9800fd0f49c.png
+    ReviewSummary:
+        GoodFor: Anyone wanting a tool that will let them take excellent images or 4K footage in a wide variety of circumstances.
+        NotSoGoodFor: Photographers wanting to effortlessly access all the camera's capabilities.
+        Conclusion: The a6300 is a tremendously capable camera, whether you're looking to shoot stills or video. Getting the best out of the camera requires a bit of work on the user's part but its sheer capability makes this worthwhile. Its image quality is at least match for anything in its class, its autofocus is very impressive and its 4K video is peerless.
+    ASIN:
+        - B07BQHLWTB
+        - B078T3M224
+        - B078T1R61B
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 3, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $854.95 - $1,398.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x-8x)
+    Dimensions: 120 x 67 x 49 mm (4.72 x 2.64 x 1.93″)
+    DriveModes:
+        - Single
+        - Continuous (Hi+ / Hi / Mid / Low)
+        - Self-timer
+        - Bracketing
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Sony ARW v2.3, 14-bit)
+    FlashModes: Flash off, Autoflash, Fill-flash, Rear Sync., Slow Sync., Red-eye reduction, Hi-speed sync, Wireless
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, XAVC S, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600, expandable to 51200
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1000/£1000/€1250 (body only), $1150/£1100/€1400 (w/16-50mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (4240 x 2832, 3008 x 2000), 16:9 (6000 x 3376, 4240 x 2400, 3008 x 1688)
+    Processor: BIONZ X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 4K (3840 x 2160 @ 30p/24p), 1920 x 1080 (120p, 60p, 60i,  30p, 24p), 1280 x 720 (24p)
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 6, 2016"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night Scene
+        - Handheld Twilight
+        - Anti Motion Blur
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (downloadable app)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports X-AVC S up to 100 Mbps, AVCHD to 28Mbps
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.07× (0.71× 35mm equiv.)
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 404 g (0.89 lb / 14.25 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

@@ -1,0 +1,126 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211204230119/https://www.dpreview.com/reviews/leica-m-monochrom
+ProductCode: leica_mmono
+Award: ""
+ImageURL: /files/p/products/leica_mmono/36ee06b459a64ddb96c7487654a74c1b.png
+Name: Leica M-Monochrom
+ShortSpecs:
+    - 18 megapixels
+    - 2.5″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_mmono
+ReviewData:
+    ExecutiveSummary: The Leica M-Monochrom is a black-and-white version of its M9 full-frame rangefinder. The M-Monochrom has no color filter array in front of the sensor, meaning it captures more of the available light but cannot perceive color. It also means there is no need for demosaicing (the process of combining color information from adjacent pixels), so higher levels of detail are retained. In most other respects, the M-Monochrom shares its hardware with the M9. The camera can add three toning colors to its monchrome output or its uncompressed DNG files can be edited using the included copy of Photoshop Lightroom. A full version of the mono processing software Silver Efex 2 is also included.
+    ProductPhotos:
+        - /files/p/products/leica_mmono/shots/2b45f896945e4b1e894a0b15147d2533.png
+        - /files/p/products/leica_mmono/shots/14987652e8924a55a778484ad2c15c75.png
+        - /files/p/products/leica_mmono/shots/1bda1c96bb4445718deb49439089a037.png
+        - /files/p/products/leica_mmono/shots/dd0a9822e3ba430aa0c1bc22787c2201.png
+        - /files/p/products/leica_mmono/shots/ce5cab9afd994605bae2a6ea9e09155b.png
+    ReviewSummary: null
+    ASIN:
+        - B0082ES6HA
+Specs:
+    AEBracketing: ±2 (3, 5, 7 frames )
+    Announced: May 10, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy with synthetic leather trim. Top deck and baseplate in brass with black chrome finish
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "160"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: sRGB hardwired
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 37 mm (5.47 x 3.15 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - DNG (RAW) 14-bit uncompressed (36 MB)
+        - JPEG (Fine / Basic)
+        - DNG + JPEG
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Pull 160, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400, 8000, 10000
+    ImageParameters:
+        - 'Sharpening (5): Off, Low, Standard, Medium High, High'
+        - 'Contrast : Low, Medium Low, Standard, Medium High, High'
+        - 'Toning: Hue (Sepia, Cool, Selenium), Strength (Off, Weak Strong)'
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "No"
+    MSRP: $7,950.00 / £6,120 (inc VAT)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5212 x 3472
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 32 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3840 x 2592, 2592 x 1728, 1728 x 1152, 1280 x 846
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        May 10, 2012"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: TFT color LCD with a sapphire glass LCD cover
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: "No"
+    WeightIncBatteries: 600 g (1.32 lb / 21.16 oz)
+    WhiteBalancePresets: "0"
+    Wireless: ""
+    WirelessNotes: ""

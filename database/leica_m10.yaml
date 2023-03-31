@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211224061649/https://www.dpreview.com/reviews/leica-m10-first-impressions-sample-images
+ProductCode: leica_m10
+Award: ""
+ImageURL: /files/p/products/leica_m10/ead09f38864544ac94f1ca63fe32792c.png
+Name: Leica M10
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m10
+ReviewData:
+    ExecutiveSummary: Leica's M10 is the slimmest digital M-series camera yet. As thin as a film-era M4, it is also 20 grams lighter than the M Typ 262. The big upgrades are under the hood, as the M10 comes with a newly designed 24MP sensor that offers improved dynamic range and high ISO performance, the latter of which now goes to an expanded value of ISO 50000. There's also a new, speedier Maestro II processor with 2GB of buffer to provide 30 Raw images or 100 JPEG images to be captured at 5fps. Leica has added some degree of environmental sealing and though they've eliminated any I/O ports, the M10 gains Wi-Fi capability. The addition of a bigger viewfinder, improved Live View performance and a dedicated ISO dial round out a refreshingly intuitive, back-to-basics experience.
+    ProductPhotos:
+        - /files/p/products/leica_m10/shots/88a6dbee35f2459eac46ed4ba3cc1d60.png
+        - /files/p/products/leica_m10/shots/713dd70b685e4e50b2ee52f79d495ae9.png
+        - /files/p/products/leica_m10/shots/884beae7ce804dbdba1f163e40af17fe.png
+        - /files/p/products/leica_m10/shots/9a867bbfb77a47b0815bcc9e28696462.png
+        - /files/p/products/leica_m10/shots/91ac3d2fd84440ea93ccd094b51cb985.png
+        - /files/p/products/leica_m10/shots/82e1246847794863a1c55e877a111a57.png
+    ReviewSummary: null
+    ASIN:
+        - B01N7TNFKZ
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jan 18, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL5 lithium-ion battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 39 x 80 mm (5.47 x 1.54 x 3.15″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Interval
+        - Exposure bracketing
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: via optional Visoflex EVF
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $6595
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5952 x 3992
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5952 x 3968 (JPEG, 24MP), 4256 x 2932 (12MP), 2976 x 1984 (6MP)
+    Processor: Maestro II
+    RemoteControl: Yes (via cable trigger)
+    Resolutions: ""
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Jan 18, 2017"
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

@@ -1,0 +1,82 @@
+ProductCode: samsung_s850
+Award: ""
+ImageURL: /files/p/products/samsung_s850/5aa5cb7c7caf44e898c076295a985acb.png
+Name: Samsung S850
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 38 – 190 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_s850
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000MAL46C
+Specs:
+    Announced: Jan 7, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 104 x 64 x 25 mm (4.09 x 2.52 x 0.98″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 38–190 mm
+    Format: MPEG-4
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–4.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 800 x 592, 720 x 480, @ 20/15 fps, 640 x 480, 320 x 240 @ 30/20/15 fps MPEG-4
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 20 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 222 g (0.49 lb / 7.83 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

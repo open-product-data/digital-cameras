@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220520052348/https://www.dpreview.com/reviews/olympuse5
+ProductCode: oly_e5
+Award: noAward
+ImageURL: /files/p/products/oly_e5/cf6de42ec19644808c4a5387df87557a.png
+Name: Olympus E-5
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 75
+URL: /products/olympus/slrs/oly_e5
+ReviewData:
+    ExecutiveSummary: The Olympus E-5 replaces the E-3 at the top of its DSLR line. Almost three years after launching its predecessor, the company has refreshed its professional flagship to reflect the features of its latest E-series and Micro Four Thirds cameras. The E-5 is built around the weather-sealed body of the E-3 and offers a 12Mp Live MOS sensor, 3.0" 920k LCD, Live View with Contrast AF, HD video recording and shutter speeds of up to 1/8000th sec.
+    ProductPhotos:
+        - /files/p/products/oly_e5/shots/b23a60c2579145d7a6c97df2a7c8c82c.png
+        - /files/p/products/oly_e5/shots/d035765bc91d4bb9a273d016eda4821e.png
+        - /files/p/products/oly_e5/shots/7352d51782cd4eb3ac38a40e5c8a131d.png
+        - /files/p/products/oly_e5/shots/18318a14e868410689bec2690d402b95.png
+    ReviewSummary:
+        GoodFor: Low ISO, bright light shooting, and working in tough conditions
+        NotSoGoodFor: Anything where speed, dynamic range or high ISO image quality are critical
+        Conclusion: The E-5 isn't meant to appeal to the mass market, and we suspect that it won't. However, as a flagship for the established Four Thirds system, it succeeds brilliantly. The E-5 is capable of excellent results, and its tank-like body should take years of abuse. Unfortunately, comparably poor image quality at high ISO settings, and restricted dynamic range make it less competitive than it could be.
+    ASIN:
+        - B0042X9MNM
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/7 EV, 1/5 EV, 1/3 EV, 1 EV steps)
+    Announced: Sep 14, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BLM-5 Lithium-Ion rechargeable battery
+    BatteryLifeCIPA: "870"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (4)
+    DigitalZoom: "No"
+    Dimensions: 143 x 117 x 75 mm (5.63 x 4.61 x 2.95″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Weather and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Fill-in
+    FlashRange: 18.00 m (at ISO 200)
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-C)
+    HeadphonePort: ""
+    ISO: Auto (200-6400), 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1600, 2000, 2500, 3200, 6400
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, Fine, Normal, Basic
+    LensMount: Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4032 x 3024
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 2400, 2560 x 1920, 1600 x 1200, 1280 x 960, 1024 x 960, 640 x 480
+    Processor: TruePic V+
+    RemoteControl: Yes (Optional RM-1)
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "75%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 4, 2011"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: HyperCrystal transmissive LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II)/SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.15× (0.57× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps)
+    WeightIncBatteries: 800 g (1.76 lb / 28.22 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

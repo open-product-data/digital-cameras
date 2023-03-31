@@ -1,0 +1,125 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211020111720/https://www.dpreview.com/reviews/nikond3000
+ProductCode: nikon_d3000
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d3000/b271ffc06bf74d5c98241f8c9e17cf7f.png
+Name: Nikon D3000
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 72
+URL: /products/nikon/slrs/nikon_d3000
+ReviewData:
+    ExecutiveSummary: The Nikon D3000 succeeds the D60, but if anything, is even easier to get to grips with thanks to the introduction of a new 'guide' mode. The D3000 shares the same 10 million pixel CCD sensor as its predecessor, and almost exactly the same body and design, but this camera is more than a cosmetic revamp of the older model. Crucially, the D60's adequate but uninspiring 3-point AF system is gone, replaced by the same 11-point system as found in the D90. As far as image quality is concerned, the D3000 is a thoroughly satisfying camera, without being exceptional. The white balance system doesn't cope all that well with artificial lighting, but it isn’t significantly worse than anything else in the entry-level sector. Like a lot of recent Nikon DSLRs the D3000 has a tendency to deliver rather bright mid tones, which can threaten highlight detail, especially in JPEGs, but on the plus side, images are nice and bright and look great when printed straight from the camera.
+    ProductPhotos: []
+    ReviewSummary:
+        GoodFor: First timers wanting an easy to use SLR
+        NotSoGoodFor: More demanding users, working in low light
+        Conclusion: The D3000 may not have all the latest bells and whistles feature-wise, but what it does it does extremely well. If you can live without live view and movie modes it's the perfect beginner's camera.
+    ASIN:
+        - B009TETZJ0
+        - B002JCSV5I
+Specs:
+    AEBracketing: ""
+    Announced: Jul 30, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL9a rechargeable battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: $699.95
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 126 x 97 x 64 mm (4.96 x 3.82 x 2.52″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, (plus 3200 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 2896 x 1944, 1936 x 1296
+    Processor: Expeed
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: ""
+    ReviewPreview: "72%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 11, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 536 g (1.18 lb / 18.91 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

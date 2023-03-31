@@ -1,0 +1,122 @@
+ProductCode: sony_dscs2000
+Award: ""
+ImageURL: /files/p/products/sony_dscs2000/13ffe4fa4f1a476799c3322bafeb91e1.png
+Name: Sony Cyber-shot DSC-S2000
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 33 – 105 mm (3.2×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscs2000
+ReviewData:
+    ExecutiveSummary: This budget compact features a 10.1 megapixels sensor, 3x optical zoom lens and a 2.5inch LCD. It comes with an Easy Shooting mode, Face Detection and image stabilization.
+    ProductPhotos:
+        - /files/p/products/sony_dscs2000/shots/2106a0d7519244eabbe65b8b513e8620.png
+        - /files/p/products/sony_dscs2000/shots/048746a91395433492a38491255b2d99.png
+        - /files/p/products/sony_dscs2000/shots/04c54b708faa43729b86ca45815a897d.png
+        - /files/p/products/sony_dscs2000/shots/7f333363e50d4fe68167603c2e5e967f.png
+    ReviewSummary: null
+    ASIN:
+        - B0036WMKNE
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 2 x AA Alkaline batteries
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3.7x)
+    Dimensions: 98 x 61 x 27 mm (3.86 x 2.4 x 1.06″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.30 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 33–105 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/1200 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1 sec
+    Modes: ""
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3.2×
+    OrientationSensor: "No"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 6 MB Internal
+    StorageTypes: Memory Stick Duo/Pro Duo, optional SD, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 167 g (0.37 lb / 5.89 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

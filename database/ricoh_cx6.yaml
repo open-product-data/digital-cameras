@@ -1,0 +1,114 @@
+ProductCode: ricoh_cx6
+Award: ""
+ImageURL: /files/p/products/ricoh_cx6/67d2c6d819bb4094b14f9a2e63280f3e.png
+Name: Ricoh CX6
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 300 mm (10.7×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_cx6
+ReviewData:
+    ExecutiveSummary: The Ricoh CX6 superzoom features a 10MP back-lit CMOS sensor and the familiar 10.7x 28-300mm equivalent image stabilized zoom lens. It offers improved processing and hardware to offer faster focusing (with claimed AF times as fast as 0.1 sec), as well as a dedicated movie shooting button. It also includes Aperture and Shutter Priority exposure modes and the Sony WhiteMagic 1.23M dot VGA LCD screen.
+    ProductPhotos:
+        - /files/p/products/ricoh_cx6/shots/fbe97d8b63e34a058388f646d8b03d30.png
+        - /files/p/products/ricoh_cx6/shots/eed1d7889b6f455eafe3f2337c40ad9e.png
+        - /files/p/products/ricoh_cx6/shots/39b83d08623547df8755679cd148c737.png
+    ReviewSummary: null
+    ASIN:
+        - B0067OHT20
+Specs:
+    AEBracketing: ±0.5 (3 frames at 1/2 EV steps)
+    Announced: Nov 15, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-100 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $805.46
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.8x)
+    Dimensions: 104 x 59 x 29 mm (4.09 x 2.32 x 1.14″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 4.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–300 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600,3200
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10.7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 2736 x 2736, 3648 x 2048, 2592 x 1944, 2048 x 1536, 1728 x 1296, 1280 x 9601, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: Sony WhiteMagic VGA LCD
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 86 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 201 g (0.44 lb / 7.09 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

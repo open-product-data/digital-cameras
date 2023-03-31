@@ -1,0 +1,99 @@
+ProductCode: canon_a310
+Award: ""
+ImageURL: /files/p/products/canon_a310/5bafba5ff29f455f81faffd69e398c9e.png
+Name: Canon PowerShot A310
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 33 mm
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a310
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001G6U4I
+Specs:
+    Announced: Feb 9, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 2.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.1 x)
+    Dimensions: 110 x 58 x 37 mm (4.33 x 2.28 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Manual (Red Eye On/Off)
+    FlashRange: 2.00 m
+    FocalLengthEquiv: 33 mm
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2048 x 1536
+    MaximumAperture: F3.6–8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 1600 x 1200, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 15 fps, max 3 mins
+    SceneModes: ""
+    ScreenDots: 78,000
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: Unknown
+    StorageTypes: Compact Flash (Type I)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

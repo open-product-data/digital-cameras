@@ -1,0 +1,135 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211108051402/https://www.dpreview.com/reviews/canon-eos-70d
+ProductCode: canon_eos70d
+Award: gold
+ImageURL: /files/p/products/canon_eos70d/0da758a5152c495f811b33b6c01a0f47.png
+Name: Canon EOS 70D
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 83
+URL: /products/canon/slrs/canon_eos70d
+ReviewData:
+    ExecutiveSummary: The EOS 70D is a mid-range SLR aimed squarely at enthusiast photographers. On the outside it looks little different to its predecessor the 60D, but on the inside it's a completely different camera. The 70D has an innovative 20.2MP 'Dual Pixel CMOS AF' sensor, promising hugely improved autofocus in live view and during movie recording. For shooting with the optical viewfinder it has a 19-point AF module borrowed from the EOS 7D. It's also packed full of Canon's latest technology, including full touchscreen control, built-in Wi-Fi for image sharing and remote camera control from your smartphone , 7 fps continuous shooting, and an ISO range of 100-12800 (25600 expanded).
+    ProductPhotos:
+        - /files/p/products/canon_eos70d/shots/9948ec97cb3441acb762a30dd681ea74.png
+        - /files/p/products/canon_eos70d/shots/42e025a685d9495dace7ca10bd55d17a.png
+        - /files/p/products/canon_eos70d/shots/285b659b2d31428a8148c087816ed958.png
+        - /files/p/products/canon_eos70d/shots/3790241a7ecd42a7a6dfd10ba3b398a8.png
+    ReviewSummary:
+        GoodFor: Almost any semi-pro shooting situation, from sports action to portraits, as well as video.
+        NotSoGoodFor: Casual snapshooters on a budget; those who shoot neither live view nor video; photographers looking to travel light.
+        Conclusion: Offering most of what an enthusiast looks for in a digital SLR, the Canon 70D takes it a step further with excellent live view and movie mode autofocus. Good continuous shooting performance and Wi-Fi simply serve to sweeten the deal.
+    ASIN:
+        - B0125ULYWU
+        - B00DMS0LCO
+        - B00DMS0GTC
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Jul 2, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Intermittent firing of built-in flash
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E6 rechargeable battery & charger
+    BatteryLifeCIPA: "920"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $898.55
+    ColorFilterArray: ""
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 104 x 79 mm (5.47 x 4.11 x 3.09″)
+    DriveModes:
+        - Single, Continuous L, Continuous H, Self timer (2s+remote, 10s +remote), Silent single shooting, Silent continuous shooting
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (Water and Dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Built-in flash works as wireless commander)
+    FileFormat:
+        - 'JPEG: Fine, Normal.'
+        - 'RAW: RAW, M-RAW, S-RAW (14bit)'
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (25600 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: £1079.99 / $1199 / €1099 body only. £1199.99 / $1340 / €1249 with EF-S 18-55mm f/3.5-5.6 IS STM. £1399.99 $1549 / €1499 with EF-S 18-135mm f/3.5-5.6 IS STM
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "19"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3468x2432, 2736x1824, 1920x1280, 720x480, 4864x3648, 3248x2432, 2432x1824, 1696x1280, 640x480,5472x3072, 3468x2048, 2736x1536, 1920x1080, 720x408, 3648x3648, 2432x2432, 1824x1824, 1280x1280, 480x480
+    Processor: Digic 5+
+    RemoteControl: Yes (RS-60E3 cable release, RC-6 wireless remote, or using smartphone over Wi-Fi)
+    Resolutions: 1920 x 1080 (29.97, 25, 23.976 fps), 1280 x 720 (59.94, 50 fps), 640 x 480 (59.94, 50 fps)
+    ReviewPreview: "83%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 31, 2013"
+    SceneModes:
+        - Portrait, Landscape, Close-up, Sports, Night Portrait, Handheld Night Scene, HDR Backlight Control
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: Clear View II TFT color LCD
+    SelfTimer: Yes (2 or 10 sec, remote)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: APS-C (22.5 x 15 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 98%
+    ViewfinderMagnification: 0.95× (0.59× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 755 g (1.66 lb / 26.63 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

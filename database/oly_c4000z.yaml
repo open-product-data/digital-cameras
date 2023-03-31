@@ -1,0 +1,77 @@
+ProductCode: oly_c4000z
+Award: ""
+ImageURL: /files/p/products/oly_c4000z/a80314bde512432caf609ab4d48b44dd.png
+Name: Olympus C-4000 Zoom
+ShortSpecs:
+    - 4 megapixels
+    - 1.8″ screen
+    - 32 – 96 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_c4000z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jun 25, 2002
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3.5 x)
+    Dimensions: 110 x 76 x 70 mm (4.33 x 2.99 x 2.76″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (Olympus sync)
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow 1&2, External
+    FlashRange: ""
+    FocalLengthEquiv: 32–96 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 2 cm (0.79″)
+    ManualFocus: "Yes"
+    MaxResolution: 2288 x 1712
+    MaximumAperture: F2.8–11
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 15 fps @ 320 x 240/160x120
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 16 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 400 g (0.88 lb / 14.11 oz)
+    WhiteBalancePresets: "5"

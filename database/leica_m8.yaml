@@ -1,0 +1,111 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220406125620/https://www.dpreview.com/reviews/leicam8/
+ProductCode: leica_m8
+Award: recommended
+ImageURL: /files/p/products/leica_m8/132c0302cc6c4e62948a264c810c8baf.png
+Name: Leica M8
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - APS-H sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m8
+ReviewData:
+    ExecutiveSummary: Leica's first digital variant of its 'M' series rangefinder design that dates back to 1954. The M8 is unashamedly traditional in many aspects of its design (it is, after all, a manual focus rangefinder) but incorporates relatively advanced technologies, such as off-set sensor microlenses to gain optimal performance from the system's close-mounted lenses. Its 10MP CCD sensor is an unusual 27x18mm, creating a 1.33x crop compared to its 35mm film cousins. The lack of effective IR/UV filters on the sensor requires the use of screw-on filters on the lenses, taking the gloss off what aims to be a no-compromise 'classic' camera.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001IM3W0E
+        - B001KVNRC6
+Specs:
+    AEBracketing: ""
+    Announced: Sep 14, 2006
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 37 mm (5.47 x 3.15 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.3×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 160, 320, 640, 1250, 2500
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3936 x 2630
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: 2952 x 1972, 1968 x 1315, 1312 x 876
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 31, 2007"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: APS-H (27 x 18 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 591 g (1.30 lb / 20.85 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

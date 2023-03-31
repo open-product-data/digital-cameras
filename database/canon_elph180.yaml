@@ -1,0 +1,130 @@
+ProductCode: canon_elph180
+Award: ""
+ImageURL: /files/p/products/canon_elph180/ea737f1ecbf44c16832efb63c66539cf.png
+Name: Canon PowerShot ELPH 180
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 28 – 224 mm (8×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_elph180
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot ELPH 180 digital camera delivers high-quality imaging capabilities with an 8x optical zoom lens and 20-Megapixel CCD sensor. The PowerShot ELPH 180 digital camera features smooth 720p HD video capabilities with Smart Auto mode, Scene modes and Eco mode to preserve battery life. It also includes the Auto Zoom feature that automatically zooms in to frame subjects and keep them in focus.'
+    ProductPhotos:
+        - /files/p/products/canon_elph180/shots/8a6d49b39bb645049c7037bc8669c714.png
+        - /files/p/products/canon_elph180/shots/2077b5b7bf6d4b698d689cbeb6aba14b.png
+        - /files/p/products/canon_elph180/shots/04345f41ba2e4a65b4f5098f66d6bc75.png
+    ReviewSummary: null
+    ASIN:
+        - B019UDHOMO
+        - B019UDHT6U
+        - B077817S6N
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-11LH lithium-ion battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 95 x 54 x 22 mm (3.74 x 2.13 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer (2 or 10 secs, custom)
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 3.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–224 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine
+    LiveView: "Yes"
+    MSRP: $119.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.2–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 4+
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (25p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Face Self-Timer
+        - Low Light
+        - Fireworks
+        - Long Shutter
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 126 g (0.28 lb / 4.44 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

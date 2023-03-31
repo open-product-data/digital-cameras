@@ -1,0 +1,91 @@
+ProductCode: samsung_st6500
+Award: ""
+ImageURL: /files/p/products/samsung_st6500/4f7a09ca504e4af9a3864fb50eb08f36.png
+Name: Samsung ST6500
+ShortSpecs:
+    - 16 megapixels
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st6500
+ReviewData:
+    ExecutiveSummary: Samsung targets the style crowd with ST6500, a high-end style compact with touch-screen control. The 16MP camera features a 5x zoom starting at a very respectable 26mm equivalent (extending out to 130mm equiv). Beyond the inclusion of 720p HD movie recording and the fact that the body tilts at 7 degrees, specification for the camera is rather thin-on-the-ground
+    ProductPhotos:
+        - /files/p/products/samsung_st6500/shots/927625629c6a41f583f4e1daddcf1873.png
+        - /files/p/products/samsung_st6500/shots/aa34e4d76e4d49f2a957362a06af769b.png
+        - /files/p/products/samsung_st6500/shots/b6940fa45ed94066beb54bcaa038b40c.png
+        - /files/p/products/samsung_st6500/shots/67b5320b38694f719047abf06fbda6fa.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 19, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (5x)
+    Dimensions: 102 x 57 x 19 mm (4.02 x 2.24 x 0.75″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 26–130 mm
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 2592 x 1944, 1984 x 1488, 1920 x 1080, 1024 x 768
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

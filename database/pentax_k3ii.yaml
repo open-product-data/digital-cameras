@@ -1,0 +1,147 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206165456/https://www.dpreview.com/reviews/2017-roundup-interchangeable-lens-cameras-900-1200
+ProductCode: pentax_k3ii
+Award: ""
+ImageURL: /files/p/products/pentax_k3ii/14aa89b4bd284c1e97fe3862dbd98dccpng
+Name: Pentax K-3 II
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_k3ii
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Developed as the successor to the award winning Pentax K-3, the new K-3 II shares its predecessor’s magnesium alloy casing, metal chassis, 24.35 effective megapixel resolution, 27-point AF system and approximately 8.3 frames per second shooting while adding an improved 4.5EV stop shake reduction system, new high-speed AF algorithm, GPS, gyro sensor panning detection and automatic horizon correction.The K-3 II is the first camera in the PENTAX line to incorporate Pixel Shift Resolution for capturing still life subjects with ultra-high resolving power. Pixel shift technology uses the camera’s in-body Shake Reduction mechanism to move the image sensor at single pixel increments, capture 4 separate images, which are subsequently combined into a single high definition image.  Benefits include higher resolving power, reduced false color and improved overall image quality of non-moving subjects.'
+    ProductPhotos:
+        - /files/p/products/pentax_k3ii/shots/c7bab2bcac06498b990a355c7ef54a30png
+        - /files/p/products/pentax_k3ii/shots/5ad1e1063477456dab35247e11d954d4png
+        - /files/p/products/pentax_k3ii/shots/7bd5ee7f1ea848868f4a4468a91d7693png
+        - /files/p/products/pentax_k3ii/shots/60576ffe83754560a095dbc56bf6a88apng
+        - /files/p/products/pentax_k3ii/shots/3f12014f9c9a4f2c998f84038f89f20cpng
+        - /files/p/products/pentax_k3ii/shots/9df9b14ea9464f04b626c980fbf52626png
+    ReviewSummary: null
+    ASIN:
+        - B00WBIYADC
+Specs:
+    AEBracketing: ±2 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 22, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI90 rechargeable battery & charger
+    BatteryLifeCIPA: "720"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.3 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: "No"
+    Dimensions: 131 x 100 x 77 mm (5.16 x 3.94 x 3.03″)
+    DriveModes:
+        - Single frame
+        - Continuous (H, M, L)
+        - Self-timer (2, 12 sec)
+        - Remote control (immediate, 3 sec)
+        - Mirror-up
+        - Interval shooting
+        - Interval composite
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Weather and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Green
+        - Hyper Program (P)
+        - Sensitivity Priority (Sv)
+        - Shutter Priority (Tv)
+        - Aperture Priority (Av)
+        - Shutter and Aperture Priority (TAv)
+        - Metered Manual (M)
+        - Bulb
+        - X-Speed
+        - User (3)
+    ExternalFlash: Yes (Hot shoe, flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (PEF/DNG)
+    FlashModes: Auto Flash Discharge, Auto Flash + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow-speed Sync, Slow-speed Sync + Red-eye, P-TTL, Trailing Curtain Sync, Contrast-control-sync, High-speed sync, Wireless sync (available with dedicated external flash)
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: Records lat/long, altitude, time, and direction
+    HDMI: Yes (mini)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100 - 51200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 4.5 stops of shake reduction
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $1099/£769 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "27"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 3072 x 2048, 1920 x 1080
+    Processor: Prime III
+    RemoteControl: Yes (optional, wired or wireless)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p, 24p), 1280 x 720 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Jun 2, 2017"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes ( 2 or 12 seconds)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (up to 9999 pictures)
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "No"
+    WeightIncBatteries: 800 g (1.76 lb / 28.22 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Optional
+    WirelessNotes: Special version of Flu Card available

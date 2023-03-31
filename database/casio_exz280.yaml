@@ -1,0 +1,92 @@
+ProductCode: casio_exz280
+Award: ""
+ImageURL: /files/p/products/casio_exz280/c6c0888ed5f74f4f8e58348ca2117724.png
+Name: Casio Exilim EX-Z280
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 26 – 104 mm (4×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz280
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/casio_exz280/shots/d8a160a0d7a647a4964e3e875a93c31e.png
+        - /files/p/products/casio_exz280/shots/7f28c46a124c4b5ab29ce8cfa5b446fc.png
+        - /files/p/products/casio_exz280/shots/ccebf6ab197d4998b64a512825191061.png
+        - /files/p/products/casio_exz280/shots/ee7579e3162e465c969056920e735ad2.png
+    ReviewSummary: null
+    ASIN:
+        - B002MXY4HI
+Specs:
+    Announced: Aug 31, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-80 rechargeable battery & charger
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 53 x 20 mm (3.82 x 2.09 x 0.79″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 26–104 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.6–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 114,960
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec, Triple)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 35.7 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 133 g (0.29 lb / 4.69 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

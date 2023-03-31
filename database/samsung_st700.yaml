@@ -1,0 +1,86 @@
+ProductCode: samsung_st700
+Award: ""
+ImageURL: /files/p/products/samsung_sT700/db354759ab414619a1a550453095ec3c.png
+Name: Samsung ST700
+ShortSpecs:
+    - 16 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st700
+ReviewData:
+    ExecutiveSummary: The Samsung ST700 DualView camera comes with a 5x optical zoom lens starting at 26mm equivalent and is designed around a touch-screen interface. It incorporates a 16MP sensor come with 1.8 inch front LCD and and a 3 inch rear LCD. A Magic Frame feature allows  instantly create formatted postcards or posters to share with your friends and family. It can also record 720p HD videos.
+    ProductPhotos:
+        - /files/p/products/samsung_sT700/shots/c83c3a6e17224ac28d3b40ad49777186.png
+        - /files/p/products/samsung_sT700/shots/4a81900b602046de9670c6533ce277e9.png
+        - /files/p/products/samsung_sT700/shots/54400c981491463b99f02bc64500110d.png
+    ReviewSummary: null
+    ASIN:
+        - B004L3R2EY
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 99 x 55 x 20 mm (3.9 x 2.17 x 0.79″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

@@ -1,0 +1,91 @@
+ProductCode: kodak_dcs560
+Award: ""
+ImageURL: /files/p/products/kodak_dcs560/bd3286664be44ef58919323f06ad444c.png
+Name: Kodak DCS560 / Canon D6000
+ShortSpecs:
+    - 6 megapixels
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs560
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0B8PD8TTP
+        - B09ZRN1N3Z
+        - B07BB5FDS2
+Specs:
+    AEBracketing: ""
+    Announced: Sep 11, 1998
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Kodak NiCD
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 161 x 92 x 174 mm (6.34 x 3.62 x 6.85″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.3×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 80, 200
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 3 JPEG & Uncompressed
+    LensMount: Canon EF
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3040 x 2008
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: PCMCIA (2 x type II / 1 x type III)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1650 g (3.64 lb / 58.20 oz)
+    WhiteBalancePresets: ""

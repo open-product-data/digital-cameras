@@ -1,0 +1,77 @@
+ProductCode: kodak_dx4530
+Award: ""
+ImageURL: /files/p/products/kodak_dx4530/7152be585d664131b1bec67b1a792782.png
+Name: Kodak DX4530
+ShortSpecs:
+    - 5 megapixels
+    - 1.8″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dx4530
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0000APONO
+        - B000A76ZJS
+Specs:
+    Announced: Aug 5, 2003
+    AperturePriority: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3.3 x)
+    Dimensions: 111 x 66 x 39 mm (4.37 x 2.6 x 1.54″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.40 m
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (130 - 200)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualFocus: "No"
+    MaxResolution: 2580 x 1932
+    MaximumAperture: F2.8–5.1
+    MaximumShutterSpeed: 1/1700 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: ""

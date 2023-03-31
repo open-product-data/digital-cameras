@@ -1,0 +1,145 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220121060640/https://www.dpreview.com/reviews/leica-q2-monochrom-initial-review
+ProductCode: leica_q2m
+Award: ""
+ImageURL: /files/p/products/leica_q2m/f9b1bf456a3845c2b975decf00401bfa.png
+Name: Leica Q2 Monochrom
+ShortSpecs:
+    - 47 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/leica/compacts/leica_q2m
+ReviewData:
+    ExecutiveSummary: The Leica Q2 Monochrom is a dedicated black and white camera with a full-frame 47MP sensor and stabilized 28mm F1.7 lens. It offers a super-high-res electronic viewfinder and touchscreen-based interface in lieu of physical controls. The Q2 Monochrom can capture both UHD and DCI 4K video at up to 30 fps. Wi-Fi and Bluetooth are built in.
+    ProductPhotos:
+        - /files/p/products/leica_q2m/shots/0a45391aee09485b8fdee7b4e1238395.png
+        - /files/p/products/leica_q2m/shots/adc24c7d142641fd880dba276af1b22a.png
+        - /files/p/products/leica_q2m/shots/913c7b84d66c4deab7f8a7f8887a1aaf.png
+        - /files/p/products/leica_q2m/shots/065422af0b7d48bc852980718e95b234.png
+        - /files/p/products/leica_q2m/shots/fb7627cdb9d845c592d3a3a3f287fb7d.png
+    ReviewSummary: null
+    ASIN:
+        - B0BTTT7GQ2
+        - B09RMWFQL1
+        - B07T9NT4NV
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Nov 10, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL4
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: None
+    ColorSpace: ""
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (1.2x (35mm equiv), 1.5x (50mm equiv), 2x (75mm))
+    Dimensions: 130 x 80 x 92 mm (5.12 x 3.15 x 3.62″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 47 megapixels
+    EnvironmentallySealed: Yes (IP52 rated)
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/500 sec
+    FocalLengthEquiv: 28 mm
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-100000
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $5995
+    MacroFocusRange: 17 cm (6.69″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8368 x 5584
+    MaximumAperture: F1.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/40000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 30p, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p, MP4, H.264, AAC
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Nov 10, 2020"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 50 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 3,686,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 734 g (1.62 lb / 25.89 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

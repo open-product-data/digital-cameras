@@ -1,0 +1,85 @@
+ProductCode: konicaminolta_5d
+Award: ""
+ImageURL: /files/p/products/konicaminolta_5d/ef0364f89c0943a289aa03470741dcdd.png
+Name: Konica Minolta Maxxum 5D (Dynax 5D)
+ShortSpecs:
+    - 6 megapixels
+    - 2.5″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/konicaminolta/slrs/konicaminolta_5d
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000A7JKTA
+        - B000A7JKMW
+Specs:
+    Announced: Jul 15, 2005
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-400)
+    BodyType: Mid-size SLR
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 131 x 93 x 67 mm (5.16 x 3.66 x 2.64″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe (Minolta))
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Extra Fine, Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3008 x 2000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 2256 x 1496, 1504 x 1000
+    RemoteControl: Yes (Wire (Optional))
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II)
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.83× (0.55× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WeightIncBatteries: 670 g (1.48 lb / 23.63 oz)
+    WhiteBalancePresets: "7"

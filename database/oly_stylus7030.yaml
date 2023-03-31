@@ -1,0 +1,96 @@
+ProductCode: oly_stylus7030
+Award: ""
+ImageURL: /files/p/products/oly_stylus7030/b2fa21a2d3b3465fa6be37c72a3bffd9.png
+Name: Olympus Stylus 7030 (mju 7030)
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 196 mm (7×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_stylus7030
+ReviewData:
+    ExecutiveSummary: The Stylus 7030 compact features a 7x optical zoom starting at 28mm equivalent and 2.7 inch screen. The 14MP camera offers features such as image stabilization, AF tracking, shadow adjustment and includes the company's Magic filters. It also offers 1GB internal memory.
+    ProductPhotos:
+        - /files/p/products/oly_stylus7030/shots/1ad1581036524170a1cc1d9516dbff59.png
+        - /files/p/products/oly_stylus7030/shots/7909b10dead241a4b6c2c27f7807f9a6.png
+        - /files/p/products/oly_stylus7030/shots/a10154680d2444c99f58d59e7ade3186.png
+        - /files/p/products/oly_stylus7030/shots/04361f3241814ba98dcdf535aeccad1c.png
+        - /files/p/products/oly_stylus7030/shots/e55fd72baf6c413e9710379f34b5c882.png
+    ReviewSummary: null
+    ASIN:
+        - B0031RGEQS
+        - B0031RGERC
+        - B0031RGEQI
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (7x)
+    Dimensions: 93 x 56 x 26 mm (3.66 x 2.2 x 1.02″)
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Fill-in
+    FlashRange: 5.70 m
+    FocalLengthEquiv: 28–196 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, High Auto
+    ImageRatioWh: 16:9, 4:3
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2416, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 12 seconds)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 1 GB Internal
+    StorageTypes: SC/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 140 g (0.31 lb / 4.94 oz)
+    WhiteBalancePresets: ""

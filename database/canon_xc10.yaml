@@ -1,0 +1,161 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211206004041/https://www.dpreview.com/reviews/crossing-the-bridge-canon-xc10-review
+ProductCode: canon_xc10
+Award: ""
+ImageURL: /files/p/products/canon_xc10/2a21c5f1b063477da931efae38df407b.png
+Name: Canon XC10
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 241 mm (10×)
+ReviewScore: 80
+URL: /products/canon/compacts/canon_xc10
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Compact, lightweight and versatile, the Canon XC10 is designed to deliver stunning 4K and Full HD video as well as compelling 12-Megapixel still images. The camcorder also has a built-in function to extract eight megapixel still images from recorded 4K video, making it one of Canon’s most convenient multimedia tools to date. In addition to the camcorder’s 4K and Full HD video capture capabilities, the XC10 camcorder includes a 1" 12 megapixel CMOS sensor, with a 10x Wide-Angle Zoom Lens with a 2x Digital Teleconverter and Optical Image Stabilization allowing for rock-steady video and still image shooting.'
+    ProductPhotos:
+        - /files/p/products/canon_xc10/shots/49c3eeccb25944b2ae8927300aa62bfcpng
+        - /files/p/products/canon_xc10/shots/f702dabd4b6e426cb8e26d776512fdfcpng
+        - /files/p/products/canon_xc10/shots/059ce6cb7ced413d819009f3a91476c2png
+        - /files/p/products/canon_xc10/shots/0000d97a3d2a47ecb5758897497deab6png
+        - /files/p/products/canon_xc10/shots/b9dae016106a448c980c3ae7f7d813d9png
+        - /files/p/products/canon_xc10/shots/184e003b2fea44428ab8aaf28e6707d1png
+    ReviewSummary:
+        GoodFor: |-
+            Shooters whose primary focus is video;
+            Users who need to match video looks to one of Canon's Cinema EOS cameras;
+            Producers who need broadcast quality video on a budget
+        NotSoGoodFor: |-
+            Shooters whose primary focus is still photos;
+            Photographers who require Raw file support;
+            Anyone who needs interchangeable lenses
+        Conclusion: 'The Canon XC10 is a camera that attempts to bridge the world between video and stills. As a video camera its features are compelling: broadcast quality video in a compact, self contained package, including a 305-Mbps 4:2:2 video codec, a 24mm-280mm zoom lens, and access to the same color profiles used on Canon''s professional Cinema EOS cameras. On the stills side the XC10 can capture 12 megapixel images using the full area of its sensor. Though not as much resolution as you get with many dedicated still cameras, it can prove useful for certain applications such as on-set photos or citizen journalism.'
+    ASIN:
+        - B0B2KV35NX
+        - B08BVT9CK2
+        - B088MMTS9P
+Specs:
+    AEBracketing: ""
+    Announced: Apr 8, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 3.8 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: Yes (2x)
+    Dimensions: 125 x 102 x 122 mm (4.92 x 4.02 x 4.8″)
+    DriveModes:
+        - Single shot
+        - Continuous
+        - AF Continuous
+        - Interval Recording
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24.1–241 mm
+    FocalLengthMultiplier: ""
+    Format: XF-AVC, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI v1.4)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $2499
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664 (3:2), 3840 x 2160 (4K video stills), 640 x 480
+    Processor: DIGIC DV5
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: 4K UHD 3840 x 2160 (30p), 1920 x 1080 (60p, 30p, 24p) 1280 x 720 (120p, 100p)
+    ReviewPreview: "80%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 8, 2016"
+    SceneModes:
+        - Portrait
+        - Sports
+        - Night
+        - Scene
+        - Snow
+        - Beach
+        - Sunset
+        - Low Light
+        - Spotlight Fireworks
+    ScreenDots: 1,030,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1″ (12.8 x 9.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CFast, SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 4K uses XF-AVC Intra codec and must be recorded to CFast card or output over HDMI. 1080p uses XF-AVC Long and can be saved to SD card.
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 1040 g (2.29 lb / 36.68 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: with smartphone and web-based remote capture

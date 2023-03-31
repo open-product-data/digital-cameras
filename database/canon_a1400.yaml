@@ -1,0 +1,125 @@
+ProductCode: canon_a1400
+Award: ""
+ImageURL: /files/p/products/canon_a1400/094d5dc3a35146acbe62bed0c8981ea8.png
+Name: Canon PowerShot A1400
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a1400
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Canon PowerShot A1400 features a 16MP sensor, and a 5X zoom lens (28-140mm equivalent, with a 2.7in rear display and an optical viewfinder. Movie recording is possible at 720p.'
+    ProductPhotos:
+        - /files/p/products/canon_a1400/shots/13d521419224441bb09c62eac0e147eb.png
+        - /files/p/products/canon_a1400/shots/5ea3104ffc674783b9865a2231414a30.png
+        - /files/p/products/canon_a1400/shots/889950bcec954e61bfe3371d3e152405.png
+    ReviewSummary: null
+    ASIN:
+        - B00AWYMXZY
+Specs:
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: 2 x AA batteries
+    BatteryLifeCIPA: "150"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (5x)
+    Dimensions: 95 x 62 x 30 mm (3.74 x 2.44 x 1.18″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Live View Control
+        - Digital IS
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–140 mm
+    Format: H.264
+    GPS: None
+    HDMI: "No"
+    ISO: Auto 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3264 x 2448, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (25 fps) 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Face Self-Timer
+        - Low Light (4.0MP)
+        - Fish-eye Effect
+        - Miniature Effect
+        - Toy Camera Effect
+        - Monochrome
+        - Super Vivid
+        - Poster Effect
+        - Snow
+        - Fireworks
+        - Long Shutter
+        - Discreet
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: Miniature Effect (HD (5, 2.5, 1.25 fps) or L (6, 3, 1.5 fps))
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 174 g (0.38 lb / 6.14 oz)
+    WhiteBalancePresets: "6"

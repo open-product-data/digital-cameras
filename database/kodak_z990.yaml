@@ -1,0 +1,99 @@
+ProductCode: kodak_z990
+Award: ""
+ImageURL: /files/p/products/kodak_z990/0b5015609a74456faa3f441728c0a4eb.png
+Name: Kodak EasyShare Z990 (EasyShare Max)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 840 mm (30×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_z990
+ReviewData:
+    ExecutiveSummary: Kodak Z990 superzoom digital camera features a  12 back-illuminated CMOS sensor, a 28mm wide angle lens with 30x zoom, electronic viewfinder and a 3.0" LCD. It includes P/A/S/M shooting modes and is capable of Full 1080p HD video recording.
+    ProductPhotos:
+        - /files/p/products/kodak_z990/shots/8f51a3f770ec463e9aab65f50a5d2a4a.png
+        - /files/p/products/kodak_z990/shots/ee6ef50401c543b0a8f45c146d2abac7.png
+        - /files/p/products/kodak_z990/shots/a3ed12f148f74823822d78a76c6a59df.png
+    ReviewSummary: null
+    ASIN:
+        - B004FLL53Q
+Specs:
+    AEBracketing: ±1 (3 frames at 1/3 EV steps)
+    Announced: Jan 4, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Face Detection
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH Rechargeable batteries)
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-Up)
+    BuyingOptions: $499.98
+    ContinuousDrive: 5.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 124 x 91 x 105 mm (4.88 x 3.58 x 4.13″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 8.90 m
+    FocalLengthEquiv: 28–840 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200 and 6400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard, Basic
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 70 cm (27.56″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2264, 4000 x 2256, 2832 x 2128, 2048 x 1536
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (30fps) 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 128 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "4"

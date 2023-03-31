@@ -1,0 +1,175 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211222041138/https://www.dpreview.com/reviews/panasonic-lumix-dc-g100-g110
+ProductCode: panasonic_dcg100
+Award: noAward
+ImageURL: /files/p/products/panasonic_dcg100/b1502cf6dc684dc2a5572ce28f4e5a3d.png
+Name: Panasonic Lumix DC-G100 (Lumix DC-G110)
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 78
+URL: /products/panasonic/slrs/panasonic_dcg100
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DC-G100 (G110 is some regions) is a compact Micro Four Thirds camera targeted toward vloggers. It has a very bright fully articulating LCD with on-screen buttons for still and video capture, a large red video record button on the top plate, and a directional microphone. It captures UHD 4K at up to 30p, 1080 at 60p, and high speed at up to 120 fps. It also has V-Log L built in. The G100 uses a 20MP Four Thirds sensor, though it lacks in-body image stabilization like most Panasonic ILCs. It uses the company's Depth from Defocus contrast-detect AF system. The large field-sequential electronic viewfinder has an equivalent of 3.68 million dots. The camera can shoot as fast as 10 fps with continuous AF using its electronic shutter, or 5 fps with its mechanical shutter. It supports the optional DMW-SHGR1 selfie stick / mini tripod combination, which connects over USB.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcg100/shots/c6c38c15d9ea434b84805d05b41ff598.png
+        - /files/p/products/panasonic_dcg100/shots/3ff0dc16e8ca4bd0b03e4470b5f408f5.png
+        - /files/p/products/panasonic_dcg100/shots/4aecbae84357400c8dd846f6b180e3fa.png
+        - /files/p/products/panasonic_dcg100/shots/69fd49d032c84578bfe661f9a7a282d2.png
+    ReviewSummary:
+        GoodFor: Photography when you have to travel light
+        NotSoGoodFor: Vlogging, if you need 4K or stabilization
+        Conclusion: The G100 is designed to be a camera for vloggers and content creators but its severe crop in video (especially if you want stabilization) and its inconsistent AF undermine it for that task. It's a capable enough small interchangeable lens camera but one whose special features aren't particularly usable.
+    ASIN:
+        - B08B7W6L82
+        - B08BG597S8
+        - B08BJWLDBW
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jun 24, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLG10 lithium-ion battery and charger
+    BatteryLifeCIPA: "270"
+    BodyMaterial: Composite, metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $547.99 - $695.98
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: "Yes"
+    Dimensions: 116 x 83 x 54 mm (4.57 x 3.27 x 2.13″)
+    DriveModes:
+        - Single
+        - Burst
+        - 4K Photo
+        - Post Focus
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: Auto, auto w/redeye reduction, on, on w/redeye redduction, slow sync, slow sync w/redeye reduction, off
+    FlashRange: 3.60 m (at ISO 100)
+    FlashXSyncSpeed: 1/50 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to ISO 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $749 (w/12-32 lens), $799 (w/12-32 lens and tripod grip)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/500 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Multiple
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 1920 @ 30p / 100 Mbps, MOV, H.264, AAC
+        - 3840 x 1920 @ 25p / 100 Mbps, MOV, H.264, AAC
+        - 3840 x 1920 @ 24p / 100 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 24p / 28 Mbps, MOV, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "78%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 3, 2021"
+    SceneModes:
+        - Expressive
+        - Retro
+        - Old Days
+        - High Key
+        - Low Key
+        - Sepia
+        - Monochrome
+        - Dynamic Monochrome
+        - Rough Monochrome
+        - Silky Monochrome
+        - Impressive Art
+        - High Dynamic
+        - Cross Process
+        - Toy Effect
+        - Toy Pop
+        - Bleach Bypass
+        - Miniature Effect
+        - Soft Focus
+        - Fantasy
+        - Star Filter
+        - One Point Color
+        - Sunshine
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.46× (0.73× 35mm equiv.)
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 352 g (0.78 lb / 12.42 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

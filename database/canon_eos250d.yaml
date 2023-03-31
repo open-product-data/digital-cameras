@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211214024044/https://www.dpreview.com/reviews/canon-eos-rebel-sl3-250d
+ProductCode: canon_eos250d
+Award: silver
+ImageURL: /files/p/products/canon_eos250d/8177416e1fcc4da39a4b84968c771261.png
+Name: Canon EOS Rebel SL3 (EOS 250D / EOS Kiss X10)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eos250d
+ReviewData:
+    ExecutiveSummary: The Canon EOS Rebel SL3 (EOS 250D in most regions) is an ultra-compact digital SLR that features a 24MP APS-C-sized CMOS sensor, DIGIC 8 processor and Dual Pixel autofocus system. The main differences between the SL3 and SL2 is the addition of Eye AF during live view, an even smaller and lighter body, and 4K video. While its Dual Pixel AF system promises very good live view and video performance, the through-the-viewfinder AF system is aging. This camera has a fully articulating 3" touchscreen display with an easy-to-use interface, 1080/60p video capture and a burst rate of up to 5 fps. The SL3 can capture 4K video but with a substantial crop and no Dual Pixel AF. Connectivity options include Wi-Fi (with NFC) and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eos250d/shots/c4d154a43a3948e289d39b64392a2f2f.png
+        - /files/p/products/canon_eos250d/shots/dea2cdffe7cc45cd95446d80a0381e02.png
+        - /files/p/products/canon_eos250d/shots/76531ead4d7e4c46b5743c82012d262e.png
+        - /files/p/products/canon_eos250d/shots/75be98b559024dd3b869d386cefbf692.png
+        - /files/p/products/canon_eos250d/shots/94ad0ecd5efe40ee948216d61f989a68.png
+        - /files/p/products/canon_eos250d/shots/58ad6110e6fa4e6abb85803e05dd7c1c.png
+        - /files/p/products/canon_eos250d/shots/dab15e2a4024414994fddb3fd876ab74.png
+    ReviewSummary:
+        GoodFor: Casual family and social photographers, travel photographers and those looking to start learning the basics of photography.
+        NotSoGoodFor: More advanced users that will miss more greater control and customization options, those looking for better video quality and those wanting to shoot fast action.
+        Conclusion: The Canon EOS Rebel SL3 is a great option for beginners that are looking to get serious about photography. It's comfortable to hold, fun to use, and has a useful guide mode to help you learn photography's basics in real time. The optical viewfinder is small but adds flexibility and image quality is solid. Video quality is sub-par and users may eventually grow out of the simplified controls, but for its intended market, the SL3 is good value for money and will reward you with great photographs.
+    ASIN:
+        - B07QBD256Y
+        - B07QFFNCG4
+        - B07QHPT781
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 10, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "1070"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $649.00 - $1,048.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 122 x 93 x 70 mm (4.8 x 3.66 x 2.76″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Silent single
+        - Silent continuous
+        - Self-timer
+        - Continuous shooting after self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit Canon CR2)
+        - C-RAW (compressed)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (expands to 51200)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $599 (body only), $749 (w/18-55mm F4-5.6 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 25p / 120 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 60 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 30 Mbps, MP4, H.264, AAC
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 8
+    RemoteControl: Yes (via wired or wireless remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: "79%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 12, 2019"
+    SceneModes:
+        - Portrait
+        - Smooth skin
+        - Group photo
+        - Landscape
+        - Sports
+        - Kids
+        - Close-up
+        - Food
+        - Candlelight
+        - Night portrait
+        - Handheld night scene
+        - HDR backlight control
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (videos only)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.87× (0.54× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 449 g (0.99 lb / 15.84 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

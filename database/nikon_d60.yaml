@@ -1,0 +1,115 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210916125828/https://www.dpreview.com/reviews/nikond60/
+ProductCode: nikon_d60
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d60/7f47b7533f384b7a8ef85568e5ad515e.png
+Name: Nikon D60
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d60
+ReviewData:
+    ExecutiveSummary: The D60 is the third incarnation of Nikon's compact, user-friendly entry-level SLR line that started back in 2006 with the D40. The D60 is a direct replacement for the D40X , and once again it's not a major upgrade; the sensor remains the same (though now has a dust reduction system) and the external design is almost identical. There's a few new features, including the same Expeed processing 'concept' seen in the D3 / D300, Active D-Lighting, an eye sensor (to control the screen display), and some tweaks to the interface, but perhaps the most significant change isn't to the camera at all; the move to an optically stabilized version of the kit lens. It's not the most highly specified entry-level DSLR, but it's affordable, lightweight and a pleasure to use, and it produces pretty good results too.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001O4WCAM
+        - B001TH7GNM
+Specs:
+    AEBracketing: ""
+    Announced: Jan 29, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 126 x 94 x 64 mm (4.96 x 3.7 x 2.52″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, Red-Eye, Slow, Red-Eye Slow, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, (plus 3200 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine (1:4), Normal (1:8), Basic (1:16)
+    LensMount: Nikon F
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "3"
+    OrientationSensor: "Yes"
+    OtherResolutions: 2896 x 1944, 1936 x 1296
+    Processor: ""
+    RemoteControl: Yes (Optional (ML-L3))
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Mar 19, 2008"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/MMC/SDHC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 522 g (1.15 lb / 18.41 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

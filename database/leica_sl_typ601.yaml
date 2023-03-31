@@ -1,0 +1,146 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220630101703/https://www.dpreview.com/reviews/leica-sl-typ-601
+ProductCode: leica_sl_typ601
+Award: noAward
+ImageURL: /files/p/products/leica_sl_typ601/460d78e244d448afafb122427654f112.png
+Name: Leica SL (Typ 601)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 84
+URL: /products/leica/slrs/leica_sl_typ601
+ReviewData:
+    ExecutiveSummary: The SL (Typ 601) is Leica's first full-frame mirrorless camera with autofocus. Leica calls this an L-mount which supports both SL (full-frame, weather-sealed) and TL (crop) lenses and depends on the lens for image stabilization. The SL uses a 24 megapixel CMOS sensor - similar to what's found in the Leica Q - along the company's latest Maestro II processor, and a 49-point contrast detect AF system. The SL is a large camera, built out of solid aluminum, of course, and is unusual in that it has virtually no "hard" buttons. Instead, buttons can be customized to handle nearly any function. Perhaps the real highlight of the Typ 601 is its 4.4 million dot electronic viewfinder, which has a magnification of 0.80x - larger than that of the Canon EOS 1D X. Photos can also be composed via a 3" touchscreen LCD. On the top plate is a large LCD that displays shooting information.The SL has an ISO range of 50-50000 and saves its Raw files in DNG format. Burst shooting is an impressive 11 fps. The shutter speed range if 60 - 1/8000 sec with an x-sync speed of 1/250 sec. 4K video can be at both 4096 x 2160 (24p) and 3840 x 2160 (30p). Other features of note include dual SD card slots (one of which supports UHS-II), USB 3.0, Wi-Fi, and GPS.
+    ProductPhotos:
+        - /files/p/products/leica_sl_typ601/shots/17e5d4d0845c49cd92228f44e89e804a.png
+        - /files/p/products/leica_sl_typ601/shots/f8e50629db5546dfb5c308608761483e.png
+        - /files/p/products/leica_sl_typ601/shots/154ddc6d53d64ac2a4243b330c5cec3f.png
+        - /files/p/products/leica_sl_typ601/shots/f984a5857cea49e98d24cc9afd5338c8.png
+    ReviewSummary:
+        GoodFor: Those for whom Leica exclusivity is appealing, for whom budget and outright value aren't primary concerns but still want a unique, high-quality machine for a variety of photographic uses.
+        NotSoGoodFor: Photographers shooting action or low light sports, low light photographers that need fast, reliable autofocus, those that are looking to travel light or are seeking maximum value for money.
+        Conclusion: The Leica SL is a competent, capable camera for a variety of uses at a premium price. It's a beautifully built machine with native lenses that offer top optical quality but the overall package is heavy and unwieldy in the hand. The SL doesn't do any one thing appreciably better than cameras costing much less, but if you have your heart set on a camera with a big red dot, it is the most practical and well-rounded camera Leica currently makes.
+    ASIN:
+        - B018I65JYE
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1 EV, 2 EV steps)
+    Announced: Oct 20, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL4 lithium-ion battery and charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Aluminum
+    BodyType: Large SLR
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $3,604.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 147 x 104 x 39 mm (5.79 x 4.09 x 1.54″)
+    DriveModes:
+        - single
+        - Continuous S/M/F
+        - Self-timer 2/12 secs
+        - Interval
+        - Exposure bracketing
+        - Time (up to 30 mins)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter speed priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe and PC sync)
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: Auto, 50-50000
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $7450
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "529"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Maestro II
+    RemoteControl: Yes (via smartphone or shutter release cable)
+    Resolutions: 4096 x 2160 (24p), 3840 x 2160 (30p), 1920 x 1080 (120p, 60p, 30p, 24p), 1280 x 720 (120p, 60p, 30p, 24p)
+    ReviewPreview: "84%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 22, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 2GB
+    StorageTypes: Dual SD/SDHC/SDXC card (UHS-II supported on slot 1)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 4:2:o 8-bit (internal), 4:2:2 10-bit (HDMI out); supports V-Log L gamma
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 4,400,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 847 g (1.87 lb / 29.88 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

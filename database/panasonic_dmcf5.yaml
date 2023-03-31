@@ -1,0 +1,124 @@
+ProductCode: panasonic_dmcf5
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcf5/4cf09d3158b244599a584ea459575963.png
+Name: Panasonic Lumix DMC-F5
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcf5
+ReviewData:
+    ExecutiveSummary: Panasonic Lumix DMC-F5 is a 14MP Slim Pocketable camera with 5x optical wide angle zoom and HD video capture
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcf5/shots/4dbae14924de4094ac6bf6dd22e3cf01.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATE7RTY
+Specs:
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "250"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 58 x 22 mm (3.82 x 2.28 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Intelligent Auto
+        - Normal Picture
+        - Panorama Shot
+        - SCN
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 5.70 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.2–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Photo Frame
+        - Starry Sky
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 90 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "4"

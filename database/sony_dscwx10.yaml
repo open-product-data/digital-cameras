@@ -1,0 +1,113 @@
+ProductCode: sony_dscwx10
+Award: ""
+ImageURL: /files/p/products/sony_dscwx10/3cbe8dd3a8e94e97be5962af7d7529c3.png
+Name: Sony Cyber-shot DSC-WX10
+ShortSpecs:
+    - 16 megapixels
+    - 2.8″ screen
+    - 24 – 168 mm (7×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscwx10
+ReviewData:
+    ExecutiveSummary: The Cyber-shot DSC-WX10 compact with Sony's 16.2 MP back-illuminated 'Exmor-R' CMOS sensor can record 1080i60 HD videos and shoot 10fps full resolution shooting. It is bundled with a 7x optical zoom lens starting at a wide 24mm, 2.8" LCD and a useful HD output. It includes Sony's 2011 features including a Sweep Multi Angle mode- a 3D shooting mode sweep that lets you view images moving in simulated 3D right on the WX10's display by tilting the camera back and forth and an HDR feature that compiles the highlights, mid-tones and shadows from three separate shots to create a single image with a wide dynamic range.
+    ProductPhotos:
+        - /files/p/products/sony_dscwx10/shots/ad9d6e1c6d114b46a46d5e647eb2d64b.png
+        - /files/p/products/sony_dscwx10/shots/bbefb79d8e8c4cccbcd43c14267a8233.png
+        - /files/p/products/sony_dscwx10/shots/bc4f06096e4544cf8d5d0f789fa3eb61.png
+        - /files/p/products/sony_dscwx10/shots/2cef619df3c648feb55c60ddaecd84ee.png
+        - /files/p/products/sony_dscwx10/shots/096a7394e80348ee82340ee2cae72c1e.png
+    ReviewSummary: null
+    ASIN:
+        - B004H8FNJ4
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery and charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.3x)
+    Dimensions: 95 x 54 x 23 mm (3.74 x 2.13 x 0.91″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 7.10 m
+    FocalLengthEquiv: 24–168 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.4–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 7×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: Clear Photo LCD Plus
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 161 g (0.35 lb / 5.68 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

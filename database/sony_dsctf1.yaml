@@ -1,0 +1,121 @@
+ProductCode: sony_dsctf1
+Award: ""
+ImageURL: /files/p/products/sony_dsctf1/8cd71ebe7eac4c12941d5488483210c0.png
+Name: Sony Cyber-shot DSC-TF1
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsctf1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Sony Cyber-shot TF1 is has a 16.1 MP Super HAD CCD sensor with a 4x optical Sony zoom lens. It is waterproof (up to 33ft), dustproof, shockproof and freeze proof. The camera’s large buttons, solid, beefy camera grip and auto screen brightness further simplify operations in outdoor and underwater activities.'
+    ProductPhotos:
+        - /files/p/products/sony_dsctf1/shots/52264a0c7f4249b79242a2e6580e6d5e.png
+        - /files/p/products/sony_dsctf1/shots/191157989f244db5a77b5981c808d29c.png
+        - /files/p/products/sony_dsctf1/shots/227b5c21f89642618f85ba4522184412.png
+    ReviewSummary: null
+    ASIN:
+        - B00AQDGATQ
+Specs:
+    Announced: Jan 8, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN battery and charger
+    BatteryLifeCIPA: "240"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 102 x 62 x 23 mm (4.02 x 2.44 x 0.91″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Dustproof, Shockproof , Freeze proof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, On, Off, Slow Sync, Advanced Flash
+    FlashRange: 3.90 m
+    FocalLengthEquiv: 25–100 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.6–4.7
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Soft snap
+        - Soft Skin
+        - Landscape
+        - Night Portrait
+        - Night Scene
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Pet mode
+    ScreenDots: 460,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 152 g (0.34 lb / 5.36 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""

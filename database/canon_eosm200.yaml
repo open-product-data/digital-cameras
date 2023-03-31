@@ -1,0 +1,152 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220204032011/https://www.dpreview.com/reviews/canon-eos-m200-review
+ProductCode: canon_eosm200
+Award: silver
+ImageURL: /files/p/products/canon_eosm200/26e33a77cac64f9083dcc49bd8a8ebc2.png
+Name: Canon EOS M200
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eosm200
+ReviewData:
+    ExecutiveSummary: The EOS M200 is an entry-level mirrorless camera that uses Canon's EF-M mount. It's a very modest update to the M100, with the main change being support for vertical video capture. It features a 24MP APS-C CMOS sensor, Canon's reliable Dual Pixel autofocus system (with eye detection) and a flip-up touchscreen. The camera can capture 4K video at 30p and can also create 4K time-lapse movies. Canon has made the camera easy to use, with 'Creative Assist' and guide modes.
+    ProductPhotos:
+        - /files/p/products/canon_eosm200/shots/87bb912b1f204daa8971bba8d87276af.png
+        - /files/p/products/canon_eosm200/shots/da88d7eee5774200bd51cb77a91cf62c.png
+        - /files/p/products/canon_eosm200/shots/a4534544cd7543229ed7b21cf1ff42cb.png
+        - /files/p/products/canon_eosm200/shots/c62d6e9672f241fa9089ac186abb4d84.png
+        - /files/p/products/canon_eosm200/shots/409266f7ac2f49c99989f6bfde0b68c6.png
+        - /files/p/products/canon_eosm200/shots/2aed5ec25a8a4db188b4b50bbbd5f38a.png
+        - /files/p/products/canon_eosm200/shots/8eefd319fcfe463fae2d5aa8865d92c5.png
+    ReviewSummary:
+        GoodFor: New photographers, those who want to explore photography beyond their smartphones, travelers looking for good image quality in a very small package.
+        NotSoGoodFor: More experienced photographers needing more hands-on control, those who need to frequently photograph fast-moving or unpredictable subjects.
+        Conclusion: We think the Canon EOS M200 is one of the most approachable cameras for new photographers on the market today. It doesn't have the fastest burst speeds or the greatest video capture, but it has plenty of resolution, produces great images easily and just about fits in your pocket. Lastly, it's reasonably priced, and any additional lenses you might want for it are reasonably priced as well.
+    ASIN:
+        - B0101S1M3Y
+        - B07XYPVFCH
+        - B07XM99XRV
+Specs:
+    AEBracketing: ""
+    Announced: Sep 25, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E12 lithium-ion battery & charger
+    BatteryLifeCIPA: "315"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $549.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 6.1 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 108 x 67 x 35 mm (4.25 x 2.64 x 1.38″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer/remote control
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon 14-bit CR3)
+    FlashModes: ""
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF-M
+    LiveView: "Yes"
+    MSRP: $599 (w/15-45mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MP4, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "143"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 8
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "79%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 30, 2019"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 299 g (0.66 lb / 10.55 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

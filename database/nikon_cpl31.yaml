@@ -1,0 +1,115 @@
+ProductCode: nikon_cpl31
+Award: ""
+ImageURL: /files/p/products/nikon_cpl31/5b4c9d0cd19b4e00b4899247bbf73367.png
+Name: Nikon Coolpix L31
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpl31
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The L31 is a model that enables reliable, worry-free automatic shooting. It offers an effective pixel count of 16.1-million pixels, and is equipped with a 5x optical zoom NIKKOR lens that covers a broad range of focal lengths, from the wide-angle 26mm to the telephoto 130mm equivalent. It also features a 2.7" LCD with 230k pixels and numerous special effects. It''s also one of very few cameras that still uses AA batteries.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpl31/shots/c1d99095e5f449b8a3b09e374febf3df.png
+        - /files/p/products/nikon_cpl31/shots/1482e3bfa5524f7783254cbf9787485e.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jan 14, 2015
+    AperturePriority: ""
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: 2 x AA (alkaline, lithium, NiMH)
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: 96 x 59 x 29 mm (3.78 x 2.32 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF-compliant)
+    FlashModes: ""
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3264 x 2448, 2272 x 1704, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (10 secs)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageIncluded: 17MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

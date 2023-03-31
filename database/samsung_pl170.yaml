@@ -1,0 +1,83 @@
+ProductCode: samsung_pl170
+Award: ""
+ImageURL: /files/p/products/samsung_pl170/d10666224c424c53a4f4d5859b51ae0a.png
+Name: Samsung PL170
+ShortSpecs:
+    - 16 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_pl170
+ReviewData:
+    ExecutiveSummary: The Samsung PL170 DualView camera comes with a 5x optical zoom lens starting at 26mm equivalent and is designed around a touch-screen interface. It incorporates a 16MP sensor come with 1.5 inch front LCD and and a 3 inch rear LCD. A Magic Frame feature allows  instantly create formatted postcards or posters to share with your friends and family. It can also record 720p HD videos.
+    ProductPhotos:
+        - /files/p/products/samsung_pl170/shots/df12b2baba6e42a6a17f73c199560556.png
+        - /files/p/products/samsung_pl170/shots/e771117907d6403283a5e117f98ce9b5.png
+        - /files/p/products/samsung_pl170/shots/a00a8f849b3d4fe3b22551604b4e8b09.png
+    ReviewSummary: null
+    ASIN:
+        - B004L3JQ02
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 95 x 57 x 19 mm (3.74 x 2.24 x 0.75″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

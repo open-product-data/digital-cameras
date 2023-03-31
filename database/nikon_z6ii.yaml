@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211203021828/https://www.dpreview.com/reviews/nikon-z6-ii-review
+ProductCode: nikon_z6ii
+Award: silver
+ImageURL: /files/p/products/nikon_z6ii/8809ff901beb4a19ab2c059c35647402.png
+Name: Nikon Z6 II
+ShortSpecs:
+    - 25 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_z6ii
+ReviewData:
+    ExecutiveSummary: The Nikon Z6 II sits below the Z7 II as the flagship 'multimedia' model in the Z-series mirrorless lineup. Offering a 24MP full-frame sensor, in-body 5-axis stabilization and high-quality 4K video shooting, the Z6 II provides a similar feature set to its predecessor, but with some differences. Improvements include (and mostly stem from) the addition of a second Expeed 6 image processor, which allows for faster continuous shooting (now up to 14 fps) improved autofocus and 4K/60p video from an APS-C crop (coming via firmware). Physically the Z6 II is almost identical to the original Z6, but now features twin CFexpress / SD card slots, and provision for a vertical control grip (available separately).
+    ProductPhotos:
+        - /files/p/products/nikon_z6ii/shots/64bb11c95bac4b7cb8acdf86c34a7dd6.png
+        - /files/p/products/nikon_z6ii/shots/764dc10f20f745a8b5b73a26f42f7644.png
+    ReviewSummary:
+        GoodFor: Stills and video capture in a variety of situations
+        NotSoGoodFor: Carefree shooting in fast-changing conditions
+        Conclusion: The Z6 II is a camera that does well at just about everything. It's comfortable to shoot with and its performance is reliably good. Its AF system is effective, though not at simple to use as its rivals', and battery life isn't particularly impressive, but if you're looking for an enthusiast camera that will do a bit of everything, it's well worth considering.
+    ASIN:
+        - B08L5Z4355
+        - B08L5ZGKCZ
+        - B09Q8Z3FRG
+Specs:
+    AEBracketing: ""
+    Announced: Oct 14, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15c lithium-ion battery & charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,996.95 - $2,746.90
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: "No"
+    Dimensions: 134 x 101 x 70 mm (5.28 x 3.98 x 2.76″)
+    DriveModes: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, 12 or 14-bit)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $1995 (body only), $2599 (w/24-70 F4 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4024
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 28 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "273"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3936 x 2624 (DX crop), 4016 x 4016 (1:1), 6048 x 3400 (16:9)
+    Processor: Dual Expeed 6
+    RemoteControl: Yes (via MC-DC2 or smartphone)
+    Resolutions: ""
+    ReviewPreview: "89%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 15, 2020"
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 or 20 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CFexpress Type B / XQD, UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 705 g (1.55 lb / 24.87 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

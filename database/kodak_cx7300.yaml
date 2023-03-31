@@ -1,0 +1,79 @@
+ProductCode: kodak_cx7300
+Award: ""
+ImageURL: /files/p/products/kodak_cx7300/41708d924ec84d8ca846b620a131da95.png
+Name: Kodak EasyShare CX7300
+ShortSpecs:
+    - 3 megapixels
+    - 1.6″ screen
+    - 37 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_cx7300
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001DJSYU
+        - B0006VXHTO
+Specs:
+    Announced: Feb 2, 2004
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3 x)
+    Dimensions: 104 x 65 x 40 mm (4.09 x 2.56 x 1.57″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.40 m
+    FocalLengthEquiv: 37 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 2096 x 1560
+    MaximumAperture: F4.8
+    MaximumShutterSpeed: 1/3200 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 61,000
+    ScreenSize: 1.6″
+    SelfTimer: ""
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 162 g (0.36 lb / 5.71 oz)
+    WhiteBalancePresets: ""

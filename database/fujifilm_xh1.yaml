@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210928084236/https://www.dpreview.com/reviews/fujifilm-x-h1
+ProductCode: fujifilm_xh1
+Award: silver
+ImageURL: /files/p/products/fujifilm_xh1/b35803f1660a4cbfa8e73457e2bcd83e.png
+Name: Fujifilm X-H1
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 86
+URL: /products/fujifilm/slrs/fujifilm_xh1
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-H1 is the company's flagship APS-C mirrorless camera. It features a 24.3MP APS-C sensor with an X-Trans color filter. In-body image stabilization can reduce shake by up to 5.5 stops and the X-H1 weather-sealed body features a bevy of controls and an LCD info display on its top plate. The X-H1 has a unique articulating 3" touchscreen LCD that can tilt up and down and out to the side (in one direction). Its electronic viewfinder is quite large and has a resolution of 3.69 million dots. The camera can shoot continuously at up to 14 fps with the electronic shutter, 11 fps with the mechanical shutter and optional grip and 8 fps without the grip. It can capture both DCI and UHD 4K video at 24 and 30p, respectively. With the power battery grip, continuous 4K recording times can reach 30 minutes. It has a new EXTERNA Film Simulation Mode and also supports F-log gamma for easier video color grading. Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xh1/shots/4a7d982df0234f3a80f7a784c6e15b77.png
+        - /files/p/products/fujifilm_xh1/shots/7cca13fd8de84abd9611d0f9db339d6f.png
+        - /files/p/products/fujifilm_xh1/shots/a7afda107bb64a228dc21aa5f03a8de4.png
+        - /files/p/products/fujifilm_xh1/shots/c33b319e27d74081addc3e570165b5d3.png
+        - /files/p/products/fujifilm_xh1/shots/c784dd3c58f043f18ec6ac8b29a5f90b.png
+        - /files/p/products/fujifilm_xh1/shots/581ecb6d97d64f6bba55afaa0f5b1fb5.png
+    ReviewSummary:
+        GoodFor: Someone looking for a video/stills all-rounder
+        NotSoGoodFor: Anyone looking for the perfect tool for one specific job
+        Conclusion: The X-H1 is a camera able to adapt to a wide variety of shooting situations, with excellent image quality, very good video performance and solid autofocus performance. As usual, the camera's color in its JPEGs and movie footage is one of the highlights. Our only real concern is the camera's failure to excel in any respect, especially in the light of the competition available at this price.
+    ASIN:
+        - B079PTRNKK
+        - B079PTJ7RT
+        - B079SWMPWL
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 15, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "310"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (Small external flash included)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 140 x 97 x 86 mm (5.51 x 3.82 x 3.39″)
+    DriveModes:
+        - Panorama
+        - Advanced
+        - Single shot
+        - Continuous L/M/H
+        - Bracket
+        - Video
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Fujifilm RAF, 14-bit)
+    FlashModes: Auto, standard, slow sync, manual, commander
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-12800 (expands to 100-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1899 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "325"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor Pro
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: ""
+    ReviewPreview: "86%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 15, 2018"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual SD/SDHC/SDXC (UHS-II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.13× (0.75× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 673 g (1.48 lb / 23.74 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.0

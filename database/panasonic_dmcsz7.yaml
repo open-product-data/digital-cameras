@@ -1,0 +1,132 @@
+ProductCode: panasonic_dmcsz7
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcsz7/a505a1d7e09349da81e22785f14fcc5d.png
+Name: Panasonic Lumix DMC-SZ7
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcsz7
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcsz7/shots/30945536988146f5a090d6c5e512590d.png
+        - /files/p/products/panasonic_dmcsz7/shots/233ebd9e00334e87a15cbf9eea933f26.png
+    ReviewSummary: null
+    ASIN:
+        - B00728Z9JA
+Specs:
+    AEBracketing: ""
+    Announced: Jan 9, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "220"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color filter
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 59 x 21 mm (3.9 x 2.32 x 0.83″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Scene
+        - Miniature
+        - 3D mode
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG 2.3
+        - '3D: MPO format'
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 5.60 m
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648 x 2736, 3232 x 3232, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60, 30fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama
+        - Sports
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby1 (birthday only)
+        - Baby2 (birthday only)
+        - Pet(birthday only)
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Photo Frame
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 70 MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 133 g (0.29 lb / 4.69 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

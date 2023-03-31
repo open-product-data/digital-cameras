@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202827/https://www.dpreview.com/reviews/high-end-pocketable-compacts-2014-roundup
+ProductCode: nikon_cpp340
+Award: ""
+ImageURL: /files/p/products/nikon_cpp340/3591450268b14e939249ff852cdb6651.png
+Name: Nikon Coolpix P340
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp340
+ReviewData:
+    ExecutiveSummary: The Coolpix P340 is Nikon's latest pocket enthusiast camera that now includes built-in Wi-Fi. It features a large 1/1.7", 12.2-megapixel BSI CMOS sensor, full manual controls (P, S, A, M) and Raw image capture. The P340 has a versatile 5x (24-120mm equivalent) wide-angle to telephoto zoom range plus 10x Dynamic Fine Zoom and a fast F/1.8 maximum aperture lens with Lens Shift VR image stabilization.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp340/shots/dce617d457f54d3cbf95e3b3b8ebf2da.png
+        - /files/p/products/nikon_cpp340/shots/e41845a68da14a3cbe5a8eda671b8f5c.png
+        - /files/p/products/nikon_cpp340/shots/fd7ebc86dd2a4e4c8d2c896f8eeda0a5.png
+    ReviewSummary: null
+    ASIN:
+        - B00IA9LMNW
+Specs:
+    AEBracketing: (at 1/3 EV steps)
+    Announced: Feb 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "220"
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (Up to 4x)
+    Dimensions: 103 x 58 x 32 mm (4.06 x 2.28 x 1.26″)
+    DriveModes:
+        - Single, Continuous L, Continuous H, Best Shot Selector, Multi-shot 16, Continuous 120fps, Continuous 60fps, Pre-shooting cache
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Scene Mode, Custom User, Auto mode, Special Effects mode, Programmed Auto (P), Shutter-Priority Auto (S), Aperture-Priority Auto (A), Manual (M), Scene auto selector
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+        - RAW (NRW)
+    FlashModes: ""
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 24–120 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto  80, 100, 200, 400, 800, 1600, 2000, 3200, 6400, Hi 1 (equivalent to ISO 12,800 available when using P, S, A, or M mode), Hi 2 (equivalent to ISO 25,600 available when using High ISO monochrome in special effects mode)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $379.95
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F1.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920x1080 (30p, 25p, 60i, 50i), 1280x720 (30p, 25p), 1920x1080 (15p, 12.5p), 640x480 (120p, 100p), 1280x720 (60p, 50p), 320x240 (240p, 200p), iFrame 720 (30p, 25p), 640x480 (30p, 25p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 27, 2014"
+    SceneModes:
+        - Backlighting, Beach, Black and White Copy, Close-up, Dusk/Dawn, Easy Panorama, Fireworks Show, Food, Landscape, Museum, Night Landscape, Night Portrait, Party/Indoor, Pet Portrait, Portrait, Scene Auto Selector, Snow, Sports, Sunset
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 56MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 194 g (0.43 lb / 6.84 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

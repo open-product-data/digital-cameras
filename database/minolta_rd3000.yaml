@@ -1,0 +1,83 @@
+ProductCode: minolta_rd3000
+Award: ""
+ImageURL: /files/p/products/minolta_rd3000/524fe6d9c433463ebb7c4e60dafde561.png
+Name: Minolta RD-3000
+ShortSpecs:
+    - 3 megapixels
+    - 2″ screen
+    - Compact sensor
+ReviewScore: 0
+URL: /products/konicaminolta/slrs/minolta_rd3000
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 21, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Large SLR
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 150 x 101 x 117 mm (5.91 x 3.98 x 4.61″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Red-eye-fill-in, Off
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: "200"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Standard, Economy
+    LensMount: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1984 x 1360
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: None
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 110,000
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 64 MB CompactFlash (Lexar)
+    StorageTypes: Compact Flash (Type I or II)
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: TIFF
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8×
+    ViewfinderType: Optical (pentaprism)
+    WeightIncBatteries: 1000 g (2.20 lb / 35.27 oz)
+    WhiteBalancePresets: "3"

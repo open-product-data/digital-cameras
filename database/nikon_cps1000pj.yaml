@@ -1,0 +1,116 @@
+ProductCode: nikon_cps1000pj
+Award: ""
+ImageURL: /files/p/products/nikon_cps1000pj/db91120b4265472ea48731309de217b9.png
+Name: Nikon Coolpix S1000pj
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps1000pj
+ReviewData:
+    ExecutiveSummary: Nikon S1000pj is the world's first compact camera with an in-built projector. It projects images up to 40 inches in size with a VGA resolution and a maximum distance of 2 meters. The camera is supplied with a remote control and stand for ease of use. It features an optically stabilized wide angle 5x zoom lens (28-140mm equiv.), 2.7 inch LCD and a 12.1MP sensor.
+    ProductPhotos:
+        - /files/p/products/nikon_cps1000pj/shots/dc02b288f78e4c039065ea461a29b80d.png
+        - /files/p/products/nikon_cps1000pj/shots/3de301d19c87498093878efcb4b3d7d7.png
+        - /files/p/products/nikon_cps1000pj/shots/87e3117cd0434814a550a8512e267b79.png
+        - /files/p/products/nikon_cps1000pj/shots/e5beaccc1953434fbd3bf1c1630e12b1.png
+        - /files/p/products/nikon_cps1000pj/shots/e0294f57c9724d38b9fbedcc7a98987f.png
+    ReviewSummary: null
+    ASIN:
+        - B002KANWQ2
+Specs:
+    AEBracketing: ""
+    Announced: Aug 4, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL12 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 96 x 62 x 23 mm (3.78 x 2.44 x 0.91″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, (3200, 6400 with boost)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.9–5.8
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed
+    RemoteControl: Yes (ML-L4)
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 36 MB
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

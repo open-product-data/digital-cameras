@@ -1,0 +1,99 @@
+ProductCode: pentax_optioi10
+Award: ""
+ImageURL: /files/p/products/pentax_optioi10/a6ba46b59a214ef1bd3fc7a08b18f738.png
+Name: Pentax Optio I-10
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optioi10
+ReviewData:
+    ExecutiveSummary: Pentax Optio I-10 compact camera replicates the look of the company's Auto 110 micro-SLRs. Behind the cute, retro styling is a 12MP sensor, 2.7" LCD and a 5x zoom covering a 28-140mm equivalent range. It also includes sensor-shake image stabilization, 720p HD movie shooting, a dynamic range expansion feature, the ability to be remotely controlled and can recognise the faces of cats and dogs.
+    ProductPhotos:
+        - /files/p/products/pentax_optioi10/shots/3c29cf11f54c47a6834b3af7ae124d18.png
+        - /files/p/products/pentax_optioi10/shots/bd59b439053c42389a522a7b3457689c.png
+        - /files/p/products/pentax_optioi10/shots/3b892b786f2a4746ad38d6f41ff6290f.png
+        - /files/p/products/pentax_optioi10/shots/655a7e4c3048406ab6ec5946f61fb9c6.png
+        - /files/p/products/pentax_optioi10/shots/ff3250fb3a6241339364b3bf4af5c18a.png
+    ReviewSummary: null
+    ASIN:
+        - B0035LBMAS
+        - B0035LBMB2
+        - B004GTN97W
+Specs:
+    Announced: Jan 25, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI92 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.25x)
+    Dimensions: 101 x 65 x 28 mm (3.98 x 2.56 x 1.1″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto (80-6400)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2256, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: Prime
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 26.7 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 153 g (0.34 lb / 5.40 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected

@@ -1,0 +1,178 @@
+ProductCode: olympus_epl9
+Award: ""
+ImageURL: /files/p/products/olympus_epl9/8613ea4509c849178502e4b5d82d5ea2.png
+Name: Olympus E-PL9
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/olympus_epl9
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Olympus PEN E-PL9 is a stylish, compact mirrorless camera that features a 16MP Live MOS sensor and an updated Truepic VIII processor. Other features include a 3-axis in-body image stabilization system, an updated 121-point contrast-detect autofocus system with face and eye detection, and a built-in pop-up flash. The E-PL9 also supports 4K video capture at 30p, and a new Bluetooth connection allows for tagged photos to be transferred to mobile devices even after the camera is turned off. A tilting touchscreen tilts up 90 degrees to allow for easy shooting from the hip, and flips down 180 degrees for selfie shooting.'
+    ProductPhotos:
+        - /files/p/products/olympus_epl9/shots/54070050485b428faade0e72d51fd02b.png
+        - /files/p/products/olympus_epl9/shots/22040f155abe41e5a8122fcb92ff1553.png
+        - /files/p/products/olympus_epl9/shots/b895c712395e4a8db13a0ece7e9623b2.png
+        - /files/p/products/olympus_epl9/shots/a75879c8c195411d8f000d03a99cbf68.png
+        - /files/p/products/olympus_epl9/shots/541774f28fdb4f5689fdbf645720ef47.png
+        - /files/p/products/olympus_epl9/shots/ae6e9f28352c4e118f1199d803da369a.png
+    ReviewSummary: null
+    ASIN:
+        - B07B7HX5YF
+        - B07B7B6JGH
+        - B07B7G8TNR
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 2/3 EV, 1 EV steps)
+    Announced: Feb 7, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 3.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 8.6 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 117 x 68 x 39 mm (4.61 x 2.68 x 1.54″)
+    DriveModes:
+        - Single
+        - Sequential
+        - Self-timer
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Olympus 12-bit ORF)
+    FlashModes: Auto, manual, redeye reduction, slow sync w/redeye reduction, slow sync , slow sync 2nd-curtain, fill-in, off
+    FlashRange: 7.60 m (at ISO 200)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expandable to 100-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 3-axis
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: £579/€549 (body only), £679/€699 (with 14-42mm EZ lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 120p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VIII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape with Portrait
+        - Night Scene with portrait
+        - Children
+        - Hand-held Starlight
+        - Night Scene
+        - Fireworks
+        - Light trails
+        - Sports
+        - Panning
+        - Landscape
+        - Sunset
+        - Beach and Snow
+        - Backlight HDR
+        - Panorama
+        - Candle
+        - Silent mode
+        - Macro
+        - Nature Macro
+        - Documents
+        - Multi Focus
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Video up to 4K)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 380 g (0.84 lb / 13.40 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.0 LE

@@ -1,0 +1,136 @@
+ProductCode: fujifilm_hs35exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_hs35exr/ae92a3ea02674b9d80af509ad92c93eb.png
+Name: Fujifilm FinePix HS35EXR
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_hs35exr
+ReviewData:
+    ExecutiveSummary: The Fujifilm HS35EXR is a raw-capable EXR superzoom camera. The HS35 features a redesigned 16MP back-lit CMOS sensor, 30x optical zoom lens and 1080p30 video recording.
+    ProductPhotos:
+        - /files/p/products/fujifilm_hs35exr/shots/08e238836feb4eac946dc394ca9a58f9.png
+        - /files/p/products/fujifilm_hs35exr/shots/b394562cabaf475591e96c95a3269109.png
+        - /files/p/products/fujifilm_hs35exr/shots/0c97e1ffb66342d3920259e5c61178b3.png
+        - /files/p/products/fujifilm_hs35exr/shots/2ec52a55a1134d5192f8a56328caa616.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1NBY
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Li-ion NP-W126 battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "6400"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: RGB color filter
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (2x)
+    Dimensions: 131 x 97 x 126 mm (5.16 x 3.82 x 4.96″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+        - Aperture Priority
+        - Shutter Priority AE
+        - Manual
+    ExternalFlash: Yes (via Hot-shoe EF-42/EF-20 )
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: '7.10 m (Wide: 30cm - 7.1m / Tele: 2.0m - 3.8m )'
+    FocalLengthEquiv: 24–720 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini)
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (Still and Movies)
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3264 x 1840, 2304 x 1728, 2304 x 1536, 1920 x 1080
+    Processor: EXR
+    RemoteControl: Yes (Optional RR-80)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Natural Light
+        - Natural Light & Flash
+        - Portrait
+        - Portrait Enhancer
+        - Dog
+        - Cat
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor with Sunny Day mode
+    SelfTimer: Yes (2 or 10 sec, Auto release, Auto shutter (Dog, Cat）)
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: Stereo
+    StorageIncluded: 20 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 687 g (1.51 lb / 24.23 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

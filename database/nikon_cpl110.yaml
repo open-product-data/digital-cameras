@@ -1,0 +1,117 @@
+ProductCode: nikon_cpl110
+Award: ""
+ImageURL: /files/p/products/nikon_cpl110/84488b5325154937956482874b3da5d9.png
+Name: Nikon Coolpix L110
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 420 mm (15×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpl110
+ReviewData:
+    ExecutiveSummary: The Coolpix L110 superzoom comes with a Nikkor glass15x (28-420mm equiv) optical zoom lens, image stabilized 12MP CCD sensor, 3.0" LCD and 720p HD video recording with stereo sound. It features the company’s Smart Portrait system, AF tracking and creative filter effects.
+    ProductPhotos:
+        - /files/p/products/nikon_cpl110/shots/1ac058dd536d4628a6e36368276530f0.png
+        - /files/p/products/nikon_cpl110/shots/c1d869c760464bf1afb0e9c16725e57d.png
+        - /files/p/products/nikon_cpl110/shots/b5b8e7766d894773bf29454eb8cc872e.png
+        - /files/p/products/nikon_cpl110/shots/4fe9c8ec3bbf406eb105b099e1549e9c.png
+        - /files/p/products/nikon_cpl110/shots/e4d0e80a263842feba429ff6916f0e95.png
+        - /files/p/products/nikon_cpl110/shots/2fb4311eb3064001906e7c3e57743b0e.png
+    ReviewSummary: null
+    ASIN:
+        - B0036ORZBE
+        - B0034XIMG4
+Specs:
+    Announced: Feb 3, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA batteries (Alkaline, NiMH, or Lithium)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: Yes ((Pop-Up))
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 13.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 74 x 78 mm (4.29 x 2.91 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow Syncro
+    FlashRange: ""
+    FocalLengthEquiv: 28–420 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Auto gain ISO 80-800, 80, 100, 200, 400, 800, 1600, (3200, 6400 with boost)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 15×
+    OrientationSensor: ""
+    OtherResolutions: 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (3 sec or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 43 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 406 g (0.90 lb / 14.32 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

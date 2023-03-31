@@ -1,0 +1,79 @@
+ProductCode: oly_d360l
+Award: ""
+ImageURL: /files/p/products/oly_d360l/3e1689ab5744421eb0b584469e1289ae.png
+Name: Olympus D-360L
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d360l
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004R8V6
+Specs:
+    Announced: Feb 2, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 128 x 65 x 47 mm (5.04 x 2.56 x 1.85″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Fill-in, Auto, Auto red-eye, Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 36 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 125, 250, 500
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High, TIFF
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/500 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 280 g (0.62 lb / 9.88 oz)
+    WhiteBalancePresets: "4"

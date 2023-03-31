@@ -1,0 +1,112 @@
+ProductCode: yi_4k_plus_12mp
+Award: ""
+ImageURL: /files/p/products/yi_4k_plus_12mp/7eff25f9670046139ad8660c19b5a20f.png
+Name: YI 4K+ Action Camera
+ShortSpecs:
+    - 12 megapixels
+    - 1 lens(es)
+    - Compact sensor
+ReviewScore: 0
+URL: /products/yi/actioncams/yi_4k_plus_12mp
+ReviewData:
+    ExecutiveSummary: The YI 4K+ Action Camera can capture 4K/60p video at up to 135Mbps as well as 12MP stills. It has an all-glass lens with 7 elements and a F2.8 maximum aperture, with an electronic IS system to smooth out video (at 4K/30p and below). Photos and videos can be viewed on a 2.2" widescreen touch-enabled LCD. It can shoot continuously at up to 30 fps and also supports time-lapse and live streaming. Wireless connectivity includes 802.11ac Wi-Fi as well as Bluetooth. It's waterproof up to 40m/131ft with an optional housing.
+    ProductPhotos:
+        - /files/p/products/yi_4k_plus_12mp/shots/9c48d8a51b2c4f07b0a9edb1b195b03d.png
+        - /files/p/products/yi_4k_plus_12mp/shots/6794e2bee9424560af7a8a0a1bbeba5e.png
+    ReviewSummary: null
+    ASIN:
+        - B01CW4AZ4M
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2017
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: TouchLive View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BuiltInFlash: ""
+    BuyingOptions: $336.95
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 65 x 42 x 30 mm (2.56 x 1.65 x 1.18″)
+    DriveModes: ""
+    Durability: Waterproof with housing
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: 155.00°
+    FileFormat: JPEGRaw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 400-6400
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $299
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 4000 x 3000
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes: 3840 x 2160 @ 60p / 135 Mbps, MP4, H.264, AAC3840 x 2160 @ 30p, MP4, H.264, AAC3840 x 2160 @ 24p, MP4, H.264, AAC2704 x 1520 @ 60p, MP4, H.264, AAC2704 x 1520 @ 30p, MP4, H.264, AAC1920 x 1440 @ 60p, MP4, H.264, AAC1920 x 1440 @ 30p, MP4, H.264, AAC1920 x 1080 @ 120p, MP4, H.264, AAC1920 x 1080 @ 60p, MP4, H.264, AAC1920 x 1080 @ 30p, MP4, H.264, AAC1280 x 720 @ 240p, MP4, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: "1"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Ambarella H2
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 691,200
+    ScreenSize: 2.2″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 2GB
+    StorageTypes: microSD/SDHC/SDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 96 g (0.21 lb / 3.39 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

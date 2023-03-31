@@ -1,0 +1,102 @@
+ProductCode: casio_exfs10
+Award: ""
+ImageURL: /files/p/products/casio_exfs10/dbdf21fbb7c0488d800d4d5f3917898d.png
+Name: Casio Exilim EX-FS10
+ShortSpecs:
+    - 9 megapixels
+    - 2.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exfs10
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001OTZTUC
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-60)
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 102 x 55 x 20 mm (4.02 x 2.17 x 0.79″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 38–114 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.9–7.1
+    MaximumShutterSpeed: 1/1250 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2816 x 2112, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps),  640 x 480 (30, 120 fps), 448 x 336 (30, 240 fps), 640 x 480 (120 fps), 448 x 336 (240 fps), 224 x 168 (420 fps), 224 x 64 (1000 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SDHC Memory Card, SD Memory Card, Eye-Fi Wireless Card compatible
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: ""
+    Wireless: Eye-Fi Connected

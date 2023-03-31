@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202833/https://www.dpreview.com/reviews/inching-forward-canon-powershot-g5-x-review-posted
+ProductCode: canon_g5x
+Award: silver
+ImageURL: /files/p/products/canon_g5x/062a0c978bc5461ba6a9844dae65a2c9.png
+Name: Canon PowerShot G5 X
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 100 mm (4.2×)
+ReviewScore: 78
+URL: /products/canon/compacts/canon_g5x
+ReviewData:
+    ExecutiveSummary: The Canon PowerShot G5 X uses the same 20.2MP 1" CMOS sensor and 24-100mm equivalent F1.8-2.8 lens as its G7 X sibling, but goes a step further with a built-in 2.36M dot OLED EVF. Its 3" 1.04M dot touch screen LCD is fully articulated, and true to its enthusiast class offers a top panel exposure compensation dial, front and rear command dials, as well as a control ring around the lens. A pop-up flash is provided.
+    ProductPhotos:
+        - /files/p/products/canon_g5x/shots/9253270bb27345ccb29c532b2a26d0a9.png
+        - /files/p/products/canon_g5x/shots/80b745645fb442cfa149acb876f17d36.png
+        - /files/p/products/canon_g5x/shots/b0bc7dca80b047b4b5c41ab0a771a1b5.png
+        - /files/p/products/canon_g5x/shots/de21932959e740f7bda1557cfb2ea185.png
+    ReviewSummary:
+        GoodFor: Those who want good image quality in a small body that has an EVF and many direct controls.
+        NotSoGoodFor: Those who want to shoot all day without a battery change, shoot bursts of Raw images or want to photograph moving subjects.
+        Conclusion: The PowerShot G5 X is a well-designed and easy-to-use premium compact that takes good quality photos and videos and offers a nice EVF and LCD on which to compose them. It's subpar battery life, so-so lens and sluggish continuous Raw shooting keep it from being a top choice.
+    ASIN:
+        - B0167Q0VP4
+        - B018YHS0G6
+Specs:
+    AEBracketing: ""
+    Announced: Oct 13, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 112 x 76 x 44 mm (4.41 x 2.99 x 1.73″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Remote
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Hybrid Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (EXIF v2.3)
+        - Raw (Canon CR2, 12-bit)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 7.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–100 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Saturation
+        - Red/Green/Blue
+        - Skin tone
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $799
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4.2×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 4864 x 3648, 4320 x 2880, 4320 x 2432, 3840 x 2880, 2304 x 1536, 2048 x 1536, 1920 x 1080, 720 x 480, 720 x 408, 640 x 480
+    Processor: DIGIC 6
+    RemoteControl: Yes (via cable or smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "78%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 14, 2015"
+    SceneModes:
+        - Sports
+        - Portrait
+        - Smart Shutter
+        - Star
+        - Handheld Night Scene
+        - Snow
+        - Fireworks
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (star time-lapse)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Also has star time-lapse. miniature effect, and digest modes
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 353 g (0.78 lb / 12.45 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

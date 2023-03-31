@@ -1,0 +1,74 @@
+ProductCode: kodak_dc3800
+Award: ""
+ImageURL: /files/p/products/kodak_dc3800/16a1af2b1f74467287591c5e71188c08.png
+Name: Kodak DC3800
+ShortSpecs:
+    - 2 megapixels
+    - 1.5″ screen
+    - 33 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc3800
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 28, 2000
+    AperturePriority: "No"
+    Autofocus:
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 95 x 61 x 33 mm (3.74 x 2.4 x 1.3″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.50 m (F2.8)
+    FocalLengthEquiv: 33 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "No"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "No"
+    MaxResolution: 1760 x 1168
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 896 x 592
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/1.76" (7.32 x 5.49 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: Unknown
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: ""

@@ -1,0 +1,82 @@
+ProductCode: samsung_s85
+Award: ""
+ImageURL: /files/p/products/samsung_s85/c6068a1d71c943ef9215af7dd4034fb0.png
+Name: Samsung S85
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 38 – 190 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_s85
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000TGQ66M
+Specs:
+    Announced: Jul 12, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: 2 x AA Alkaline batteries
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 100 x 63 x 23 mm (3.94 x 2.48 x 0.91″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38–190 mm
+    Format: AVI MPEG4
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–4.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 640 x 480, 320 x 240, 30/15 fps (AVI MPEG-4)
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 20 MB Internal (TBC)
+    StorageTypes: SD/MMC/SDHC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 204 g (0.45 lb / 7.20 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""

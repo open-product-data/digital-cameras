@@ -1,0 +1,147 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175330/https://www.dpreview.com/reviews/sony-alpha-a3000
+ProductCode: sony_a3000
+Award: ""
+ImageURL: /files/p/products/sony_a3000/a3217113597c4715b5285c635583ae8e.png
+Name: A3000
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_a3000
+ReviewData:
+    ExecutiveSummary: The A3000 uses the same sensor format that Sony builds into its full-sized Alpha DSLR cameras, including the same adaptive noise reduction technology from their flagship A99. The A3000 is compatible with Sony's growing selection of E-mount lenses; smaller, lighter and designed specifically for Sony's compact interchangeable lens cameras (NEX). Aimed for beginning users who prefer the look and feel of a traditional DSLR, it provides a built-in electronic viewfinder. At its introduction the A3000 costs less than any other interchangeable lens camera on the market, though the trade-off in low-cost components is evident.
+    ProductPhotos:
+        - /files/p/products/sony_a3000/shots/da299f41a5b6451ba9434bed0b6dbbb9.png
+        - /files/p/products/sony_a3000/shots/8bb7dae0fd944565b4a88f702350b882.png
+        - /files/p/products/sony_a3000/shots/b58d6ef847a04b2faf48f00c65c82aa0.png
+    ReviewSummary: null
+    ASIN:
+        - B00EH5UGR6
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Aug 27, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (with built-in LED type)
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50
+    BatteryLifeCIPA: "470"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Built-in, Pop-up Auto)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 128 x 91 x 85 mm (5.04 x 3.58 x 3.35″)
+    DriveModes:
+        - Single-shot, Continuous, Speed Priority Continuous, Self-timer (10/2 sec. delay), Self-timer (Cont.) (with 10 sec. delay; 3/5 exposures), Bracketing
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAUTO
+        - Superior Auto
+        - Programmed AE (P)
+        - Aperture priority (A)
+        - Shutter-speed priority (S)
+        - Manual (M)
+        - Sweep Panorama
+        - Scene Selection
+    ExternalFlash: Yes (hot shoe)
+    FileFormat:
+        - JPEG (Standard, Fine), RAW+JPEG
+    FlashModes: Flash off, Auto flash, Fill-flash, Slow Sync., Rear Sync.
+    FlashRange: 6.00 m (at ISO200 / 4m at ISO100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: AVCHD, H.264
+    GPS: None
+    HDMI: Yes (Type C mini))
+    HeadphonePort: ""
+    ISO: ISO 100-16000 selectable in 1 EV steps
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Lens-based (where applicable)
+    JPEGQualityLevels: Standard, Fine
+    LensMount: Sony E
+    LiveView: Yes (Continuous Live View)
+    MSRP: $399 with 18-55mm lens
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: 'Yes (Focus Peaking Level setting: High/Mid/Low/Off, Color: White/Red/Yellow)'
+    MaxResolution: 5456 x 3632
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "25"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3872 x 2576, 2736 x 1824
+    Processor: BIONZ image processor
+    RemoteControl: Yes (via optional RM-VPR1)
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Aug 27, 2013"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night View
+        - Hand-held Twilight
+        - Anti Motion Blur
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2-sec. or 10-sec. delay)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7× (0.47× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 411 g (0.91 lb / 14.50 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

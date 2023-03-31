@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211117124615/https://www.dpreview.com/reviews/canon-eos-6d
+ProductCode: canon_eos6d
+Award: silver
+ImageURL: /files/p/products/canon_eos6d/6f92940c03a44ca399ef4d0ff3c78eca.png
+Name: Canon EOS 6D
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 83
+URL: /products/canon/slrs/canon_eos6d
+ReviewData:
+    ExecutiveSummary: The 20MP Canon EOS 6D is Canon's smallest, lightest and most affordable full-frame DSLR yet, aimed at enthusiast photographers. As well as a newly developed CMOS sensor the 6D features an 11-point autofocus system with a single cross-type point at the center of the array, which can achieve focus down to -3EV, which is little more than moonlight. The 6D becomes the company's first EOS model to include GPS and Wi-Fi built in, to make sharing images easier. It uses its large sensor to offer a native ISO range of 100-25,600, expandable to 50-102,400, and image quality across its ISO sensitivity span is excellent.
+    ProductPhotos:
+        - /files/p/products/canon_eos6d/shots/3eb82ad1dfc04cddab8a144bc3316c0a.png
+        - /files/p/products/canon_eos6d/shots/32b7d82214434309997e7efdb914b83b.png
+        - /files/p/products/canon_eos6d/shots/90d6a39462cf4e20a07091c1eeec169e.png
+        - /files/p/products/canon_eos6d/shots/c27cee659db045398ebe40f2af6ffd6d.png
+    ReviewSummary:
+        GoodFor: Users who've been waiting for full frame DSLR image quality at a more affordable price.
+        NotSoGoodFor: Sports and action shooters who demand a fast frame rate. Video enthusiasts who need to minimize the appearance of moiré.
+        Conclusion: The EOS 6D doesn't offer the depth of features that its best competitors can, but it combines very good image quality, impressive high-ISO performance and class-leading low-light autofocus ability (with the central AF point) as well as impressive built-in Wi-Fi and GPS features.
+    ASIN:
+        - B00RKNMFLM
+        - B009B0MZ8U
+        - B009B0MZG2
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: by optional dedicated Speedlite
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E6 rechargeable battery & charger
+    BatteryLifeCIPA: "1090"
+    BodyMaterial: Magnesium alloy, polycarbonate top plate
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,498.00
+    ColorFilterArray: RGB Color Filter Array
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 145 x 111 x 71 mm (5.71 x 4.37 x 2.8″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (Splash and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot shoe)
+    FileFormat:
+        - 'JPEG (Exif 2.3),  RAW: RAW (5472 x 3648), M RAW (4104 x 2736), S RAW (2736 x 1824) (14bit, Canon original RAW 2nd edition)'
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1×
+    Format: H.264
+    GPS: Built-in
+    GPSNotes: Image tagging and tracking modes
+    HDMI: Yes (HDMI Mini)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 25600 in 1/3 stops, plus 50, 51200, 102400 as option
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: 'Body: $2,099.00/£1,799; with 24-105mm f/4L IS USM $2899/£2,519'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 2736 x 1824, 1920 x 1280, 720 x 480
+    Processor: Digic 5+
+    RemoteControl: Yes (Remote control with N3 type contact, Wireless Controller LC-5, Remote Controller RC-6)
+    Resolutions: 1920 x 1080 (29.97, 25, 23.976 fps), 1280 x 720 (59.94, 50 fps), 640 x 480 (25, 30 fps)
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 13, 2013"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: Clear View II TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1080 and 720 intra or inter frame, 480 inter frame
+    ViewfinderCoverage: 97%
+    ViewfinderMagnification: 0.71×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 770 g (1.70 lb / 27.16 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

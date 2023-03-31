@@ -1,0 +1,170 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220518142039/https://www.dpreview.com/reviews/self-portrait-olympus-pen-e-pl7-first-impressions-review
+ProductCode: oly_epl7
+Award: ""
+ImageURL: /files/p/products/oly_epl7/ba2ed05cf1e9454d8cdb46a25f96ef38.png
+Name: Olympus E-PL7
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/oly_epl7
+ReviewData:
+    ExecutiveSummary: The Olympus PEN E-PL7 is a mirrorless camera that offers many of the features of its more expensive OM-D siblings and puts them into a compact package. It features a 16MP CMOS sensor with in-body image stabilization, a fast 81-point AF system, and 8 fps continuous shooting. Self-portraits are easy with a 3" LCD that can flip down 180 degrees. Built-in Wi-Fi allows you to remotely control the camera, which includes video recording and live bulb monitoring. Video can be recorded at 1080/30p with stereo sound. While the camera lacks a built-in flash, a small external flash is bundled.
+    ProductPhotos:
+        - /files/p/products/oly_epl7/shots/76851ca2146d41eb91e6286ed41cdec1.png
+        - /files/p/products/oly_epl7/shots/6f95f811f8c64f998d50cef08b623ced.png
+        - /files/p/products/oly_epl7/shots/6d9f1886d9c841ffa016af0fee78c8e9.png
+        - /files/p/products/oly_epl7/shots/bf380809e05e4eaeb9336b4b5ff0f4a4.png
+        - /files/p/products/oly_epl7/shots/68a22a0dfea149508a9b81f3918c9c13.png
+        - /files/p/products/oly_epl7/shots/e73795561ee649ea8051abd59cb15761.png
+    ReviewSummary: null
+    ASIN:
+        - B00MCWSZJM
+        - B0124GYNI2
+        - B0124GYLBG
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Aug 28, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (small external flash included)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 115 x 67 x 38 mm (4.53 x 2.64 x 1.5″)
+    DriveModes:
+        - Single
+        - Continuous (H, L)
+        - Self-timer (2 or 12 sec, custom)
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Bulb
+        - Time
+    ExternalFlash: Yes (GN7 @ ISO 100)
+    FileFormat:
+        - JPEG
+        - Raw (ORF)
+        - 3D (MPO)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200 - 25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 3.5 stops
+    JPEGQualityLevels: Super fine, fine, normal, basic)
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $599 (body only), $699 (with 12-42mm F3.5-5.6 II R lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "81"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 2400, 1280 x 960
+    Processor: TruePic VII
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Aug 28, 2014"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport
+        - Hand-held Starlight
+        - Night scene
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv.
+        - Wide Conv.
+        - Macro Conv.
+        - Panning,
+        - 3D
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames in 2/4/6 stops in A-B/G-M axis)
+    WeightIncBatteries: 357 g (0.79 lb / 12.59 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

@@ -1,0 +1,131 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023224319/https://www.dpreview.com/reviews/sonyalphadslra550
+ProductCode: sony_dslra550
+Award: recommended
+ImageURL: /files/p/products/sony_dslra550/a7b95b8e16784563879515a00fdf3e8a.png
+Name: Sony Alpha DSLR-A550
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 70
+URL: /products/sony/slrs/sony_dslra550
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: For a higher level of performance, step up to the Sony α550 DSLR camera. Enjoy the freedom of Quick Auto Focus and Manual Focus Check Live View on the tiltable 3.0" LCD. Experience the responsiveness of up to 7fps Speed Priority mode. Relish the clarity of 14.2MP and up to ISO 12800 sensitivity. Capture the full range of light and shadow with Auto HDR.'
+    ProductPhotos:
+        - /files/p/products/sony_dslra550/shots/4801e551074b405186dad458ce419807.png
+        - /files/p/products/sony_dslra550/shots/e86dd61e963346ffb4bb2ca6efd4f2c6.png
+        - /files/p/products/sony_dslra550/shots/a0b3cb6d466e4958ae80b69ee0d94bb0.png
+        - /files/p/products/sony_dslra550/shots/584ce2936b0d4c2fa721407622df9c5c.png
+        - /files/p/products/sony_dslra550/shots/f5fefa2f12834f9c840717bc13080e48.png
+        - /files/p/products/sony_dslra550/shots/07790be836f34266a19ae83fab99c62d.png
+        - /files/p/products/sony_dslra550/shots/c32c017cd7a647ab98cddee03486317b.png
+        - /files/p/products/sony_dslra550/shots/719e1c50599d467c87cd8b8c21ca2383.png
+        - /files/p/products/sony_dslra550/shots/935322f49f004ace8480d77e9fea111e.png
+    ReviewSummary:
+        GoodFor: Sports shooters on a budget, gadget lovers, upgraders wanting the SLR experience without a steep learning curve.
+        NotSoGoodFor: Anyone else
+        Conclusion: The Alpha 550 might be the most impressive Sony SLR for a long time, but for all its fancy gadgetry you can't help feeling the whole isn't as great as the sum of the parts, and it's hard to see who it's aimed at. There aren't many faster cameras in this class, but there are undoubtedly better ones.
+    ASIN:
+        - B002MPPRMW
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Aug 27, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FM500H rechargeable battery & charger
+    BatteryLifeCIPA: "480"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 137 x 104 x 84 mm (5.39 x 4.09 x 3.31″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, High Speed Sync, Rear Curtain, Fill-in, Wireless
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2576, 3344 x 2224, 3344 x 1872, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (Wired or Wireless (Optional))
+    Resolutions: ""
+    ReviewPreview: "70%Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 9, 2009"
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 632 g (1.39 lb / 22.29 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

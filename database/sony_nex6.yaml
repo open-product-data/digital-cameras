@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211128212627/https://www.dpreview.com/reviews/sony-alpha-nex-6/
+ProductCode: sony_nex6
+Award: silver
+ImageURL: /files/p/products/sony_nex6/089fcc650b6a4ef7a7cd2f8501848e7c.png
+Name: Sony Alpha NEX-6
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 78
+URL: /products/sony/slrs/sony_nex6
+ReviewData:
+    ExecutiveSummary: The Sony Alpha NEX-6 is a 16MP enthusiast mirrorless interchangeable lens camera which builds on the features first seen on the NEX-5R, including Wi-Fi, in-camera apps and on-sensor phase detection autofocus. In addition it gains the high-resolution, 2.3M dot OLED viewfinder previously seen on the NEX-7, plus an external mode dial. It also becomes the first NEX camera to feature Sony's Quick Navi interactive control panel and an ISO-standard hot shoe. Sony is pairing the NEX-6 with a 16-50mm F3.5-5.6 retractable power zoom lens, creating a much smaller zoom kit than was previously possible with the NEX system.
+    ProductPhotos:
+        - /files/p/products/sony_nex6/shots/94b81c77b27547749d32843d953c0740.png
+        - /files/p/products/sony_nex6/shots/3aef4f8e475046fb871e4060c3f5eeac.png
+        - /files/p/products/sony_nex6/shots/c1391ecfaabe4efb96bf1c43aa621ddd.png
+        - /files/p/products/sony_nex6/shots/f22fd0177fea44eeaa374b7e1daf051c.png
+    ReviewSummary:
+        GoodFor: Enthusiasts who want great photo and video quality, fun-to-use features, and more traditional controls than other NEX models.
+        NotSoGoodFor: Not much - we'd like to see touchscreen interface though, and some people will resent paying for some of the 'apps'.
+        Conclusion: The NEX-6 offers a highly attractive combination of excellent image quality, enthusiast-friendly ergonomics (including a mode dial--a first for the NEX-series), a 'real' hot shoe, an OLED electronic viewfinder, and useful features like Sweep Panorama and Auto HDR. That said, the NEX's user interface isn't for everyone. Having to download (and sometimes pay for) apps can be frustrating, and for best results you'll need to shoot raw.
+    ASIN:
+        - B0096W1OKS
+        - B0096W1OCG
+Specs:
+    AEBracketing: (at 1/3 EV steps)
+    Announced: Sep 12, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 120 x 67 x 43 mm (4.72 x 2.64 x 1.69″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (Exif 2.21)
+        - RAW (SRW)
+        - MPO
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: 6.00 m
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $749 (body only), $899 (with 16-50mm lens), $1349 (with 16-50 and 55-210 mm lenses)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: ""
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: Yes (InfraRed (optional))
+    Resolutions: 1920 x 1080 (60, 24 fps), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "78%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 26, 2013"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night View
+        - Hand-held Twilight
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: Xtra Fine LCD with Tilt Up 90° and  Down 45°
+    SelfTimer: Yes (2 or 10 sec, 10sec (3 images))
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.09× (0.73× 35mm equiv.)
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 345 g (0.76 lb / 12.17 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

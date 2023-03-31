@@ -1,0 +1,84 @@
+ProductCode: samsung_i6
+Award: ""
+ImageURL: /files/p/products/samsung_i6/c57def28709845f9a5b6050e7d7359f0.png
+Name: Samsung Digimax i6
+ShortSpecs:
+    - 6 megapixels
+    - 2.5″ screen
+    - 39 – 117 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_i6
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000ER3OA2
+Specs:
+    Announced: Jan 3, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 96 x 61 x 19 mm (3.78 x 2.4 x 0.75″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 2.40 m
+    FocalLengthEquiv: 39–117 mm
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2816 x 2112
+    MaximumAperture: F3.5–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2272 x 1704, 2048 x 1536, 1600 x 1200, 1024 x 768, 640 x 480
+    RemoteControl: ""
+    Resolutions: 640 x 480, 320 x 240, 160 x 120, 30/15 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 45 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "5"

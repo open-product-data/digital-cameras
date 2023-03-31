@@ -1,0 +1,136 @@
+ProductCode: fujifilm_s8400w
+Award: ""
+ImageURL: /files/p/products/fujifilm_s8400w/42caa9ae3e3740028498ae33ffe7bd2e.png
+Name: Fujifilm FinePix S8400W
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1056 mm (44×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s8400w
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The WiFi-enabled Fujifilm S8400W superzoom camera features a 44x ( 24-1056mm equiv.) optical zoom lens. It features a 16MP BSI-CMOS sensor, 3 inch 460K dot LCD and an electronic viewfinder. The S8400W records 1080i60 video alongside stereo audio and offers 10 fps continuous shooting speeds and manual exposure modes. Users can share images wirelessly via the ''Fujifilm Camera Application'' app for iOS and Android smartphones and tablets.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_s8400w/shots/555c19578908474990bcbcead6abd7df.png
+        - /files/p/products/fujifilm_s8400w/shots/50c61722cf9f4f48aa26ab80599e8bba.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1NAU
+Specs:
+    AEBracketing: ""
+    Announced: Mar 22, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA type alkaline batteries
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 123 x 87 x 116 mm (4.84 x 3.43 x 4.57″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+        - exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+        - 3D (MPO)
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 7.00 m
+    FocalLengthEquiv: 24–1056 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 300, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: 1/1700 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 44×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60 fps), 320 x 120 (480 fps), 320 x 240 (240 fps), 640 x 480 (120 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Baby
+        - Smile
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: 97%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 201,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 670 g (1.48 lb / 23.63 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

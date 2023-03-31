@@ -1,0 +1,81 @@
+ProductCode: oly_fe210
+Award: ""
+ImageURL: /files/p/products/oly_fe210/844c0418de324b729ac192d86948e687.png
+Name: Olympus FE-210
+ShortSpecs:
+    - 7 megapixels
+    - 2.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe210
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000LXZKRE
+Specs:
+    Announced: Jan 25, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 90 x 63 x 31 mm (3.54 x 2.48 x 1.22″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (64 - 640)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 154,000
+    ScreenSize: 2.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 9 MB Internal
+    StorageTypes: xD Picture Card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: "5"

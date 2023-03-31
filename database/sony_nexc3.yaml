@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220122105552/https://www.dpreview.com/reviews/sonynexc3
+ProductCode: sony_nexc3
+Award: silver
+ImageURL: /files/p/products/sony_nexc3/7ea88cae9b894b15aecaed77cbeae682.png
+Name: Sony Alpha NEX-C3
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 74
+URL: /products/sony/slrs/sony_nexc3
+ReviewData:
+    ExecutiveSummary: Sony NEX-C3 features a 16.2MP seen in the SLT-A35 promising improved battery life. It is directly aimed at offering a compact-camera-like experience to users looking to upgrade to a large-sensor camera. Like the SLT-A35, it features the 'Picture Effects' processing filters. Apart from the improved sensor, important feature additions and refinements that were made to the previous NEX model's firmware have carried over to the C3. The addition of more customization, in the form of assignable left and right buttons on the control dial and 2 more short-cut slots in the custom menu will be very welcome to anyone that wants to go beyond the C3's automatic exposure modes.The NEX-C3's image quality is excellent. The new 16.2MP sensor employed in the C3 is capable of capturing images that rival the best APS-C format DSLRs on the market, and up to ISO 6400 image quality is impressive. Even at ISO 12,800, image quality is perfectly acceptable for online use and for small prints, and far ahead of most of the C3's Micro Four Thirds competitors. We wouldn't call the NEX-C3 a DSLR replacement by any means - its ergonomics alone mean that it has a very different appeal. However, its combination of high-end compact style handling and semi-professional DSLR image quality mean that it is a highly attractive option for anyone looking to move up from a compact camera, and potentially also to DSLR owners hankering for a smaller second camera.
+    ProductPhotos:
+        - /files/p/products/sony_nexc3/shots/5938fb665b4546f69941f34f9fbda5a5.png
+        - /files/p/products/sony_nexc3/shots/61245b0707c04ddcb3a9d1277c816db7.png
+        - /files/p/products/sony_nexc3/shots/6dab00c07a9941bc83d1a81d32c88844.png
+        - /files/p/products/sony_nexc3/shots/696ddd2a7d0749b1a2269da75b17ed95.png
+    ReviewSummary:
+        GoodFor: Compact shooters looking to upgrade but don't want the bulk or complication of a DSLR, as well as DSLR owners looking for a smaller alternative.
+        NotSoGoodFor: People looking for a truly 'pocketable' DSLR alternative.
+        Conclusion: The NEX-C3, like its predecessors the NEX-3/5, is a well-built, easy-to-use interchangeable-lens camera. The NEX-C3 is capable of image quality that rivals the best of its APS-C DSLR competition while being significantly smaller and lighter. As well as effective handling and excellent image quality, the C3's user-friendly iAuto mode and full-featured PASM modes should satisfy most photographers.
+    ASIN:
+        - B0054I54F4
+        - B0054I54FO
+        - B0054I54JK
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Jun 8, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.5 fps
+    CustomWhiteBalance: Yes (2500-9900k )
+    DigitalZoom: "No"
+    Dimensions: 110 x 60 x 33 mm (4.33 x 2.36 x 1.3″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Accessory Port)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "74%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 22, 2011"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT Xtra Fine LCD
+    SelfTimer: Yes (2 or 10 sec, 10 sec 3 or 5 images)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 225 g (0.50 lb / 7.94 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

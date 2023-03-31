@@ -1,0 +1,143 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211111150538/https://www.dpreview.com/reviews/sonynex5n/
+ProductCode: sony_nex5n
+Award: gold
+ImageURL: /files/p/products/sony_nex5n/a518e57317124fad8a0ea0bc1406baa6.png
+Name: Sony Alpha NEX-5N
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/sony/slrs/sony_nex5n
+ReviewData:
+    ExecutiveSummary: The Sony Alpha NEX-5N is the fourth model in Sony's NEX line of APS-C format mirrorless interchangeable lens cameras. Just as the NEX-C3 replaces the NEX-3, the 5N is a direct replacement for its predecessor the NEX-5, using the company's latest 16.1MP CMOS sensor in place of the previous 14MP chip. Although the 5N is nearly indistinguishable from the NEX-5 on the outside (and is bound to be regarded as such by many casual observers), it is actually a very different camera, and one that is worthy of serious attention.In terms of image quality the NEX-5N sits untouched at the top of the mirrorless interchangeable lens compact category. The low-light capability of its APS-C format CMOS sensor matches or exceeds what we've come to expect from the best of the current crop of APS-C DSLRs as well. Considering its sub $700 price point this is truly impressive, and makes the 5N a very attractive option for anyone looking to upgrade from a compact camera, or even as a second body alongside a more conventional DSLR outfit.
+    ProductPhotos:
+        - /files/p/products/sony_nex5n/shots/f0d8a8b1d3af4dcda86e0f3921c86ea5.png
+        - /files/p/products/sony_nex5n/shots/6678210e944e4c05b322eaa1b7511687.png
+        - /files/p/products/sony_nex5n/shots/6e9e401ad14e4e4ab9241197845cfccc.png
+    ReviewSummary:
+        GoodFor: Photographers upgrading from compact cameras, looking for the benefits of a large APS-C sensor without the size of a traditional DSLR.
+        NotSoGoodFor: People looking for a pocketable DSLR replacement.
+        Conclusion: The NEX-5N is great little camera with big camera image quality. If you are looking to transition into enthusiast photography and want DSLR image quality in a small size, the 5N is definitely worth a look.
+    ASIN:
+        - B005IHAIJ8
+Specs:
+    AEBracketing: ""
+    Announced: Aug 24, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NPFW50 rechargeable battery & charger
+    BatteryLifeCIPA: "460"
+    BodyMaterial: Metal top/front plate, Polycarbonate
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 111 x 59 x 38 mm (4.37 x 2.32 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Accessory Port)
+    FileFormat:
+        - RAW
+        - RAW+JPEG
+        - JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: AVCHD
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters:
+        - Contrast -3 to +3 steps
+        - Saturation -3 to +3 steps
+        - Sharpness -3 to +3 steps
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: Yes (Yes, by optional RMT-DSLR1)
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "79%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 4, 2011"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night View
+        - Hand-held Twilight
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: Tilt Up 80°, Down 45° TFT LCD
+    SelfTimer: Yes (2 or 10 sec, 10sec (3 images))
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 269 g (0.59 lb / 9.49 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

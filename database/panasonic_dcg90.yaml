@@ -1,0 +1,155 @@
+ProductCode: panasonic_dcg90
+Award: silver
+ImageURL: /files/p/products/panasonic_dcg90/69ff0ce00eca45da8648f0b318a54a60.png
+Name: Panasonic G90
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 83
+URL: /products/panasonic/slrs/panasonic_dcg90
+ReviewData:
+    ExecutiveSummary: The Panasonic G90 (G91 in some regions) is a Micro Four Thirds mirrorless camera with a 20MP LiveMOS sensor. Like other Panasonic mirrorless models, it has built-in Dual IS 2, that combines in-body and in-lens stabilization to reduce shake by up  to five stops. The G95 also uses the company's Depth-from-Defocus contrast-detect AF system. The G95 is capable of shooting at 9 fps with focus and exposure locked on the first shot, or 6 fps with continuous AF.The G90's body is larger and heavier than the G80 that preceded it, with a more substantial grip, additional buttons and relocated dials. It has a high resolution OLED viewfinder as well as a fully articulating touchscreen LCD.On the video front, the G90 can capture UHD 4K video at 30p/24p with no official limit on recording time. Since the camera isn't using the full width of the sensor, there is a substantial crop when shooting 4K. The G95 has Panasonic's V-LogL gamma curve built in, and 8-bit 4:2:2 video can be sent to an external recorder. Both microphone and headphone jacks are included.Wi-Fi and Bluetooth are available for remote capture and image transfer. The G90 is CIPA-rated to 290 shots per charge, though a power saving mode triples that number. A battery grip is optional.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcg90/shots/0050d5386056442899e1244a992eb435.png
+        - /files/p/products/panasonic_dcg90/shots/8fb5d4706eae42beabda22f99e6967b6.png
+        - /files/p/products/panasonic_dcg90/shots/d3cfc09061654188aa5e6dbc0403167c.png
+        - /files/p/products/panasonic_dcg90/shots/d8ea980d1cc1481baaae3af887f3b0ed.png
+        - /files/p/products/panasonic_dcg90/shots/6681a478104d4c49bd219d565eff4f05.png
+        - /files/p/products/panasonic_dcg90/shots/866e8047748647c5a711eb3eb35b6dc2.png
+        - /files/p/products/panasonic_dcg90/shots/3ca701170dcd4c76afc21ca24e4bd2a2.png
+        - /files/p/products/panasonic_dcg90/shots/dbeef2837eac426c8911b05c7ade6085.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Apr 5, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: Primary color space
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 130 x 94 x 77 mm (5.12 x 3.7 x 3.03″)
+    DriveModes:
+        - Single
+        - Continuous
+        - 4K Photo
+        - Post Focus
+        - Interval
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif 2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off
+    FlashRange: 6.40 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands down to ISO 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: IS system works together with stabilized lenses to improve shake reduction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: £899 (body only), £1079 (w/12-60 lens), £1259 (w/14-140 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 120p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: OLED
+    SelfTimer: Yes (2 or 10 secs, 10 secs x 3 shots)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: Yes (can be charged from external power banks)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.48× (0.74× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 536 g (1.18 lb / 18.91 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

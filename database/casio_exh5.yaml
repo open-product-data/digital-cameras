@@ -1,0 +1,108 @@
+ProductCode: casio_exh5
+Award: ""
+ImageURL: /files/p/products/casio_exh5/b4abd9a571ed48bcaca6173d51357948.png
+Name: Casio Exilim EX-H5
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exh5
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-H5 is a  compact superzoom with a 10x (24-240mm equiv.) optical zoom lens. The 12.1MP image stabilized camera comes with a 2.7 inch LCD, faster Exilim Engine 5.0 processor and features 720p HD video recording.
+    ProductPhotos:
+        - /files/p/products/casio_exh5/shots/32a1b2f5e8fd473e8647a43f06518897.png
+        - /files/p/products/casio_exh5/shots/2c2f2e77b9554717bbd929b5be895fb8.png
+        - /files/p/products/casio_exh5/shots/7b3f037d6b474c8ab5df56cd0c0de27b.png
+        - /files/p/products/casio_exh5/shots/4ebe66b9a0da4950a02082f2a3df3a9b.png
+    ReviewSummary: null
+    ASIN:
+        - B003VW5TTQ
+        - B003VW44OM
+        - B003VW5TRS
+Specs:
+    AEBracketing: ""
+    Announced: Jun 2, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable NP-80 lithium ion battery and charger
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 59 x 29 mm (4.09 x 2.32 x 1.14″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: ""
+    FocalLengthEquiv: 24–240 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.2–5.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: Exilim Engine 5.0
+    RemoteControl: "No"
+    Resolutions: 1280 × 720 (32 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Triple)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 24.5 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 174 g (0.38 lb / 6.14 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

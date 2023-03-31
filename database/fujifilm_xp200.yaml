@@ -1,0 +1,133 @@
+ProductCode: fujifilm_xp200
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp200/a649afe0e2d7491bb088d0d943fbfeb0.png
+Name: Fujifilm FinePix XP200
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp200
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Fujifilm XP200 waterproof, rugged compact camera comes with built-in Wi-Fi. It is waterproof to a depth of 15m, shockproof for drops of up to 2m, freezeproof to -10°C and is dust/sand proof. It is based around a 16MP CMOS sensor and 28-140mm equivalent lens. The camera''s Wi-Fi capability allows users to share photos via the ''Fujifilm Camera Application'' app for iOS and Android devices.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp200/shots/580f6e90652e4f90a9cec355f76ae235.png
+        - /files/p/products/fujifilm_xp200/shots/11515d3ad487404bb29a7ba09dc2a110.png
+        - /files/p/products/fujifilm_xp200/shots/b60f2733d2804887990eaf253e155cd4.png
+    ReviewSummary: null
+    ASIN:
+        - B00BQX5M7Q
+        - B00BQX5M9Y
+        - B00BQX5M9E
+Specs:
+    AEBracketing: ""
+    Announced: Mar 22, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-50A rechargeable battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2x)
+    Dimensions: 116 x 71 x 30 mm (4.57 x 2.8 x 1.18″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - SR Auto
+        - Auto
+        - Low-Light
+        - Motion
+        - Dynamic Range
+        - Motion Panorama 360
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $299.95
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 1840, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60fps), 1280 x 720 (60 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec, delay, Group Timer)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 39 MB
+    StorageTypes: SD/ SDHC/ SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 232 g (0.51 lb / 8.18 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

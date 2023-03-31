@@ -1,0 +1,97 @@
+ProductCode: fujifilm_ax350
+Award: ""
+ImageURL: /files/p/products/fujifilm_ax350/c7b11674cd2b437792feadab161f7d5f.png
+Name: FujiFilm FinePix AX350 (FinePix AX355)
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 33 – 165 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_ax350
+ReviewData:
+    ExecutiveSummary: Positioned at the top end of Fujifilm's budget A-series range the AX350 is built around the same 16MP CCD sensor as the AV250, and features a more versatile 5x optical zoom range that covers and equivalent span of 33-165mm. The AX350 can record movie clips at 720p resolution in the Motion JPEG format. It has a 2.7in LCD screen and as well as several scene modes, it also offers Auto Scene Recognition, Tracking AF, Face Detection and a Motion Panorama mode. The AV250 accepts AA batteries, including rechargeables.
+    ProductPhotos:
+        - /files/p/products/fujifilm_ax350/shots/2a8fb0f76b3f4905bb9d82cd2b35e0b3.png
+        - /files/p/products/fujifilm_ax350/shots/9f6203eb49464f31a6e2e68e18d78bfa.png
+        - /files/p/products/fujifilm_ax350/shots/7dee513dbca042188f89892d1bc9b728.png
+        - /files/p/products/fujifilm_ax350/shots/777e7ed6c3d942b5ad715b3a3968c857.png
+    ReviewSummary: null
+    ASIN:
+        - B004G8Q5N8
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    Battery: AA
+    BatteryDescription: ""
+    BatteryLifeCIPA: "180"
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5x)
+    Dimensions: 93 x 60 x 28 mm (3.66 x 2.36 x 1.1″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 33–165 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3440
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3072 x 1728, 2304 x 1728, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 168 g (0.37 lb / 5.93 oz)
+    WhiteBalancePresets: "6"

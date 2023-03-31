@@ -1,0 +1,152 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107190458/https://www.dpreview.com/reviews/panasonic-lumix-dmc-zs15-tz25
+ProductCode: panasonic_dmczs15
+Award: ""
+ImageURL: /files/p/products/panasonic_dmczs15/a1d8e896ae14480b811f58431d6411f5.png
+Name: Panasonic Lumix DMC-ZS15 (Lumix DMC-TZ25)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 384 mm (16×)
+ReviewScore: 73
+URL: /products/panasonic/compacts/panasonic_dmczs15
+ReviewData:
+    ExecutiveSummary: '''Little brother'' to Panasonic''s top-end ZS20 travelzoom, the more affordable 12MP ZS15 features a 16X optical zoom range that spans 24-383mm (equivalent) but lacks the built-in GPS of its more expensive sibling, along with a couple of other bells and whistles. While it doesn''t have the most Megapixels, zoom power, or features of cameras in this class, the Panasonic Lumix DMC-ZS15 is still a very good compact ultra zoom camera. It offers a nice zoom lens in a compact body, along with robust performance, very good photo quality, tons of features, and Full HD video recording. And, with an average price in the $260 range, it''s also a pretty good bargain. For those who were considering the DMC-ZS20 but were turned off by its image quality, we think the ZS15 is well worth sacrificing the 20X zoom, GPS, and 1080/60p movies for.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmczs15/shots/ffd1752ae02e4ecfa82b45b5040ab6e9.png
+        - /files/p/products/panasonic_dmczs15/shots/eac848fb952f4587be28df5a8f2adaa6.png
+        - /files/p/products/panasonic_dmczs15/shots/5f310f0c75504e7997ce3cb29f4aa4b9.png
+    ReviewSummary:
+        GoodFor: Travelers who want an inexpensive travel zoom that produces good photos and videos and are willing to give up the "frills" found on more expensive models.
+        NotSoGoodFor: Movie enthusiasts, manual control lovers, and folks who want a camera on the bleeding edge of technology.
+        Conclusion: While it doesn't have all the bells and whistles of the more expensive ZS20 (the omission of GPS being the most significant), the DMC-ZS15 produces better-looking images, while maintaining the robust performance, competitive feature set, and ease of use of its more costly sibling.
+    ASIN:
+        - B0075VFJV2
+        - B00728ZAEY
+Specs:
+    AEBracketing: ±1 (3 frames at 1/3 EV, 1 EV steps)
+    Announced: Jan 31, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.9 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 105 x 58 x 33 mm (4.13 x 2.28 x 1.3″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Custom
+        - 3D
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - '3D: MPO'
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 6.40 m
+    FocalLengthEquiv: 24–384 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600. 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 3000, 4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 1600 x 1064, 1600 x 904, 1504 x 1504
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "73%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 29, 2012"
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Sports
+        - Night Portrait
+        - Night Scenery
+        - Hand Held Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Underwater
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70 MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 208 g (0.46 lb / 7.34 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

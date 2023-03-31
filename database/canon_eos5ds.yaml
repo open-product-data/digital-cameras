@@ -1,0 +1,143 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220518043100/https://www.dpreview.com/reviews/canon-eos-5ds-sr
+ProductCode: canon_eos5ds
+Award: silver
+ImageURL: /files/p/products/canon_eos5ds/9838028811e74ad5bce7a3982f935133.png
+Name: Canon EOS 5DS
+ShortSpecs:
+    - 51 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 83
+URL: /products/canon/slrs/canon_eos5ds
+ReviewData:
+    ExecutiveSummary: 'The Canon EOS 5DS features an all-new 50.6 megapixel CMOS sensor, along with dual DIGIC 6 processors. The autofocus system has a total of 61 points (in a ''high density reticular array''), 41 of which are cross-type. It uses the same 150,000 pixel RGB+IR metering system as the EOS 7D II with a scene detection system. The metering system also has an anti-flicker function for shooting under sodium vapor lights. The ISO range on the camera is 100-6400, expandable to 12800.The 5DS has a more rigid chassis than the EOS 5D III in order to minimize camera shake and improve rigidity. The shutter is rated to 150,000 cycles. The 5DS sports an ''Intelligent Viewfinder II'' which has an embedded transparent LCD panel that can display cropped shooting frames, composition grids, and an electronic level. It also sports a 3.2" LCD display with 1.04M dots and dual memory card slots (CompactFlash and SD/SDHC/SDXC with UHS-I support).Photographers have a choice of two crop modes: 1.3x (30.5MP) aqnd 1.6x (19.6MP) as well as medium and small-size Raws. The 5DS can shoot continuously at 5 fps. Video-wise, the 5DS supports 1080/30p recording , though it lacks clean HDMI output and a headphone jack.The 5DS is joined by the more expensive 5DS R, which cancels the effect of the anti-aliasing filter, which increases resolution at the expense of additional moiré.'
+    ProductPhotos:
+        - /files/p/products/canon_eos5ds/shots/99a1756f3ce64327a2c9e0d64b2fd0c2.png
+        - /files/p/products/canon_eos5ds/shots/12be7d2a47414a2c9c03c326fee0d53c.png
+        - /files/p/products/canon_eos5ds/shots/8338db4887f64c3fa5b35d83cec358bd.png
+        - /files/p/products/canon_eos5ds/shots/bb3a562abce64cb0aee6d168e5bbe3ef.png
+    ReviewSummary:
+        GoodFor: Studio photographers, landscape work, fashion photography
+        NotSoGoodFor: Videographers, Candid portrait shooters
+        Conclusion: 'The Canon EOS 5DS is the company''s highest-resolution camera, building a 50MP sensor into a body that will be immediately familiar to existing 5D series users. The camera''s autofocus has been upgraded though it still lags behind the best of its competitors for close-up work. Its video features and quality are also a touch disappointing, as its rivals begin to take video more seriously. That said, the camera excels in a number of respects: resolution is outstanding and the camera does much to ensure the images are kept steady and its JPEG engine provides the colors that countless professionals are happy to depend upon.'
+    ASIN:
+        - B00T3ERPT8
+        - B00T3ERT5S
+        - B07CTPP84L
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 6, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6 lithium-ion battery & charger
+    BatteryLifeCIPA: "700"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $3,999.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 152 x 116 x 76 mm (5.98 x 4.57 x 2.99″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Silent single shooting
+        - Silent continuous shooting
+        - Self-timer
+    EffectivePixels: 51 megapixels
+    EnvironmentallySealed: Yes (dust and water-resistent)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Program AE
+        - Shutter Priority AE
+        - Aperture Priority AE
+        - Manual
+        - Bulb
+        - Custom
+    ExternalFlash: Yes (via hot shoe and PC sync port)
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF v2.0)
+        - Raw (Canon CR2, 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400 (expandable to 50-12800)
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: $3699/£2999/€3999 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8688 x 5792
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "61"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Dual DIGIC 6
+    RemoteControl: Yes (Wired and wireless)
+    Resolutions: 1920 x 1080 (30p, 25p, 24p), 1280 x 720 (60p, 50p), 640 x 480 (30p, 25p)
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 17, 2015"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3.2″
+    ScreenType: ClearView II TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 53 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: Offers 1.6x and 1.3x crop modes, as well as medium and small Raw sizes.
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible), CompactFlash
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: Supports ALL-I and IPB compression
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 930 g (2.05 lb / 32.80 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220115050329/https://www.dpreview.com/reviews/sony-alpha-a6000
+ProductCode: sony_a6000
+Award: gold
+ImageURL: /files/p/products/sony_a6000/39c4ab9f5e2f40afbb2e9d1deeb072e6.png
+Name: Sony a6000
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/sony/slrs/sony_a6000
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Built around a 24 MP APS-C sensor, hybrid autofocus, and a continuous shooting speed up to 11FPS, the Sony a6000 promises the shooting style and image quality of a DSLR in a compact package. The a6000 adopts the same gapless on-chip lens structure as the a7R and features a new-generation RGB color filter (first introduced on this model). Sony says that this technology will significantly increase light collecting efficiency. The top-mounted control dial and rear-mounted control wheel allow quick settings that vary depending on the shooting mode (including exposure, ISO and WB). In addition, there is a Fn (function button) and seven customizable buttons, including two dedicated custom buttons which can be assigned any of 47 functions.'
+    ProductPhotos:
+        - /files/p/products/sony_a6000/shots/068c499f89b049b5a3d26be9510f7c27.png
+        - /files/p/products/sony_a6000/shots/f3dd5e061d9943ce9572856c0d2e8961.png
+        - /files/p/products/sony_a6000/shots/ea022a2e241f4370ac72bef0034538c8.png
+        - /files/p/products/sony_a6000/shots/6756146719bb480bb41581579c24021c.png
+        - /files/p/products/sony_a6000/shots/e04680e5f94b4f688f8b125d3e59d54d.png
+        - /files/p/products/sony_a6000/shots/88cdb564619841b3a0be64818cd39332.png
+    ReviewSummary:
+        GoodFor: Anyone looking to shoot stills and video. Photographers wanting something small but capable. Amateur sports shooters.
+        NotSoGoodFor: Shooters used to a twin-dial camera. Anyone looking to just use the kit zoom.
+        Conclusion: The a6000 brings Sony's latest interface improvements and enhanced JPEG processing to a well-featured, competitively-priced mid-range camera. Its stand-out features are its comprehensive video controls and continuous autofocus performance unprecedented at this price. The flexible but optically average power zoom make this a highly capable and compact package.
+    ASIN:
+        - B00NO1T55I
+        - B01NACWUB8
+        - B01NADEMVU
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and USB charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 120 x 67 x 45 mm (4.72 x 2.64 x 1.77″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - iAuto
+        - Superior Auto
+        - Programmed AE
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (via Multi Interface Shoe)
+    FileFormat:
+        - JPEG (DCF v2.0, EXIF v2.3)
+        - RAW (Sony ARW 2.3)
+    FlashModes: Flash off, auto, fill-flaw, slow sync, redeye reduction, hi-speed sync, wireless control
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (51200 with Multi-Frame NR)
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $799 with 16-50mm Powerzoom
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "179"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 4240 x 2832, 4240 x 2400, 3008 x 2000, 3008 x 1688
+    Processor: Bionz X
+    RemoteControl: Yes (wired or PC)
+    Resolutions: 1920 x 1080 (60p, 60i, 24p), 1440 x 1080 (30p, 25p), 640 x 480 (30p, 25p)
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 3, 2014"
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, continuous (3-5 shot))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.05× (0.7× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 344 g (0.76 lb / 12.13 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

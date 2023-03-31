@@ -1,0 +1,123 @@
+ProductCode: panasonic_dmcfz47
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfz47/ec3388da8a2243a8abc7a1f4f64b1038.png
+Name: Panasonic Lumix DMC-FZ47 (Lumix DMC-FZ48)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfz47
+ReviewData:
+    ExecutiveSummary: The FZ47 features a 25-600mm 24x image stabilized zoom lens, featuring Nano Surface Coating to minimize internal reflections. The camera is built around a 12.1 megapixel CCD sensor capable of capturing 1080i60 HD movies (50i on the European variant). It also features the Creative Control picture effects first seen on the DMC-G3, as well as the Photo Style color modes.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz47/shots/bbc233c7837946db948215cfd43d9081.png
+        - /files/p/products/panasonic_dmcfz47/shots/056ce6522aad43db896ec6960bc561d8.png
+        - /files/p/products/panasonic_dmcfz47/shots/9263086e69c24c4eb26843f752139ab0.png
+        - /files/p/products/panasonic_dmcfz47/shots/0c42a8bb825d4eeb975411e20928d495.png
+        - /files/p/products/panasonic_dmcfz47/shots/9a201158043742f1b2f9a49e2f6b4bcb.png
+    ReviewSummary: null
+    ASIN:
+        - B005F25IL4?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005F25IL4
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 1 EV steps)
+    Announced: Jul 21, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $499.90
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.7 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 120 x 80 x 92 mm (4.72 x 3.15 x 3.62″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 9.50 m
+    FocalLengthEquiv: 25–600 mm
+    Format: AVCHD
+    GPS: None
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, iISO, 100, 200, 400, 800, 1600 (1600-6400 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.2
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2992 x 2992, 2560 x 1920, 2560 x 1712, 2560 x 1440, 2448 x 2448, 2048 x 1536, 2048 x 1360, 1920 x 1920, 1920 x 1080, 1600 x 1200, 1536 x 1536, 640 x 480, 480 x 480
+    Processor: Venus Engine FHD
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 pictures))
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70 MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 498 g (1.10 lb / 17.57 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

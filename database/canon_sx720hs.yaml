@@ -1,0 +1,140 @@
+ProductCode: canon_sx720hs
+Award: ""
+ImageURL: /files/p/products/canon_sx720hs/7b3a9b9122064d62a4fd5acac63d9a88.png
+Name: Canon PowerShot SX720 HS
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 960 mm (40×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx720hs
+ReviewData:
+    ExecutiveSummary: The PowerShot SX720 HS is a compact camera with a whopping 40X zoom lens, which is equivalent to 24-960mm. It has a 20.3MP BSI CMOS sensor and DIGIC 6 image processor, which allows for 1080/60p video and 5.9 fps continuous shooting. Other features include a 3" LCD with 922k dots, a Zoom Framing Assist feature which keeps subjects in the scene as they approach or retreat from the camera and Wi-Fi with NFC.
+    ProductPhotos:
+        - /files/p/products/canon_sx720hs/shots/01ee0fb383c74e35af06859a9194ac99.png
+        - /files/p/products/canon_sx720hs/shots/8f508e6d68a14e31804d61079e2aca73.png
+        - /files/p/products/canon_sx720hs/shots/c06a37cd960244158d482bfdb9c8d6fd.png
+        - /files/p/products/canon_sx720hs/shots/f9a6ef81adda4fabba0fd2fa2e851f3a.png
+    ReviewSummary: null
+    ASIN:
+        - B01BV14I40
+Specs:
+    AEBracketing: ""
+    Announced: Feb 18, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery & charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 110 x 64 x 36 mm (4.33 x 2.52 x 1.42″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Hybrid Auto
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, off, slow synchro
+    FlashRange: 4.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–960 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $379
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.3–6.9
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 40×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Sports
+        - Portrait
+        - Smile
+        - Wink Self-Timer
+        - Face Self-Timer
+        - Handheld Night Scene
+        - Low Light
+        - Fireworks
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 270 g (0.60 lb / 9.52 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

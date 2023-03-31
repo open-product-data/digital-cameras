@@ -1,0 +1,84 @@
+ProductCode: samsung_sh100
+Award: ""
+ImageURL: /files/p/products/samsung_sh100/207bc1c57b074aeab72136869f488427.png
+Name: Samsung SH100
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_sh100
+ReviewData:
+    ExecutiveSummary: The SH100 Wi-Fi enabled digital camera allows users connect to wireless networks for sharing images and videos. The camera also allows users to pair up with compatible smartphones to enable geo-tagging, control the camera remotely or preview the scene. It offers the same 14.2Mp sensor, 3.0 inch touchscreen LCD and HD video recording capabilities of the previously released ST80 Wi-Fi camera, but comes with a more useful 26-130mm equiv. zoom lens.
+    ProductPhotos:
+        - /files/p/products/samsung_sh100/shots/9d8db0c193a94c9095ff74b1663088ff.png
+        - /files/p/products/samsung_sh100/shots/ebc7d6704c4d4c2b87fb3f2e6e14cff2.png
+        - /files/p/products/samsung_sh100/shots/5ba83950e8a341e8b0c2d0286cffd107.png
+    ReviewSummary: null
+    ASIN:
+        - B004L3R0Z0
+        - B004L3R136
+Specs:
+    Announced: Jan 4, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 93 x 54 x 19 mm (3.66 x 2.13 x 0.75″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4230 x 3240
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: Built-In

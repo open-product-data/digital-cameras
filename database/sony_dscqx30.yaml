@@ -1,0 +1,130 @@
+ProductCode: sony_dscqx30
+Award: ""
+ImageURL: /files/p/products/sony_dscqx30/d20a3f15801a4a88ae6b37e3a300f99c.png
+Name: Sony Cyber-shot DSC-QX30
+ShortSpecs:
+    - 20 megapixels
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscqx30
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new compact sized DSC-QX30 camera brings the power and versatility of a 30x optical zoom lens to mobile photographers, eliminating the frustration and poor quality commonly experienced when zooming-in using a smartphone camera.  Additionally, the extensive 30x zoom is aided by Optical SteadyShot image stabilization to minimize camera shake throughout the zoom range.Awesome zoom power is matched by lock-on AF and speedy continuous shooting at up to 10fps, letting photographers capture fast-moving action with an accurately focused burst of split-second images. For video enthusiasts, the QX30 model can also shoot Full HD video at a smooth 60p frame rate at the touch of a button.'
+    ProductPhotos:
+        - /files/p/products/sony_dscqx30/shots/ee5bc3a335e5417dab9c4c2c6ed6cb19.png
+        - /files/p/products/sony_dscqx30/shots/deecf2c09f4248a1815b4decbcea90e0.png
+        - /files/p/products/sony_dscqx30/shots/044e967b49e54215ae314f7b0e5f49f3.png
+    ReviewSummary: null
+    ASIN:
+        - B00N2KD49O
+Specs:
+    AEBracketing: ""
+    Announced: Sep 3, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: NP-BN, NP-BN1
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: No (2X)
+    Dimensions: 68 x 65 x 58 mm (2.68 x 2.56 x 2.28″)
+    DriveModes:
+        - Single
+        - Continuous
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Superior Auto
+        - iAuto
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+        - Movie
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF, EXIF compliant)
+    FlashModes: None
+    FlashRange: ""
+    FocalLengthEquiv: 24–720 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Normal
+    LiveView: Yes (via smartphone)
+    MSRP: $350
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.5–6.3
+    MaximumShutterSpeed: 1/1600 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: Depends on connected smartphone
+    SelfTimer: Yes (2, 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: microSD, microSDHC, microSDXC, Memory Stick Micro
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (via smartphone)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 193 g (0.43 lb / 6.81 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

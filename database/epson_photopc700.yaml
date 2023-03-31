@@ -1,0 +1,80 @@
+ProductCode: epson_photopc700
+Award: ""
+ImageURL: /files/p/products/epson_photopc700/11ebf5acafd445cd83e963e5c9277b76.png
+Name: Epson PhotoPC 700
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopc700
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 5, 1998
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Forced, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: Unknown
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, Fine, Super
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 4 MB Internal
+    StorageTypes: Compact Flash, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

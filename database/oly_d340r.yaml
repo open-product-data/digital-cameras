@@ -1,0 +1,79 @@
+ProductCode: oly_d340r
+Award: ""
+ImageURL: /files/p/products/oly_d340r/d4218d8f97024278a485ed5c2f58a39a.png
+Name: Olympus D-340R
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d340r
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00000JFIF
+Specs:
+    Announced: Jan 2, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 128 x 65 x 45 mm (5.04 x 2.56 x 1.77″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±1 (at 1 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Fill-in, Auto, Auto red-eye, Off
+    FlashRange: ""
+    FocalLengthEquiv: 36 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High, TIFF
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/500 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: ""

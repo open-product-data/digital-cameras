@@ -1,0 +1,176 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211206034330/https://www.dpreview.com/reviews/sony-a9-full-review
+ProductCode: sony_a9
+Award: gold
+ImageURL: /files/p/products/sony_a9/fe6e2b6633ba453db0e50dee84b0e6b2.png
+Name: Sony a9
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/sony/slrs/sony_a9
+ReviewData:
+    ExecutiveSummary: The Sony Alpha a9 is the company's flagship full-frame mirrorless camera. It features a 24MP stacked CMOS sensor which permits 20 fps burst shooting without the 'blackout' found on traditional DSLRs courtesy of its electronic shutter. Its autofocus system has been improved, with a total of 693 phase-detect points covering 93% of the image area and Eye AF that's 30% better compared to the a7R II. The camera has an ISO range of 50-204,800 when fully expanded and 14-bit uncompressed Raws can be saved. It can also record oversampled UHD 4K video.The magnesium alloy body is weather-sealed, has onboard 5-axis image stabilization, and offers two dials plus a joystick for selecting an AF point. The large EVF has 3.7 million dots and the tilting 3" LCD is touch-enabled. The a9 sports two SD card slots (thoug only one supports UHS-II media) plus an Ethernet jack allowing users to transfer files over FTP.
+    ProductPhotos:
+        - /files/p/products/sony_a9/shots/288294054d0640c3a9c6dfc78e9dfae2.png
+        - /files/p/products/sony_a9/shots/5dc6f33ba2414092ae9afbd44f3bb133.png
+        - /files/p/products/sony_a9/shots/18cb6af02da54f459acacf5a031b01a0.png
+        - /files/p/products/sony_a9/shots/1f4941b55f054b22aba90918d94651cc.png
+        - /files/p/products/sony_a9/shots/6d62f871e5854d1d8271be1f80b03559.png
+        - /files/p/products/sony_a9/shots/8dc0d0e51ec14461b2ca15a4475d61c1.png
+    ReviewSummary:
+        GoodFor: Sports, peak action, wedding, event and child photography, photojournalism
+        NotSoGoodFor: Landscape and studio photographers for whom resolution and dynamic range are important considerations
+        Conclusion: The Sony a9 is more than just a refinement of the company's a7-series of full-frame mirrorless cameras; it's an evolution. With meaningful ergonomic and user interface improvements, the a9 is a polished and highly capable camera. It may not be a go-to camera for landscape and studio photographers, but its compact dimensions, silent operation, abundant speed and blackout-free shooting make it not only a step forward for mirrorless, but a compelling proposition for professionals who can't afford to miss a moment.
+    ASIN:
+        - B06ZY7GNKN
+        - B089DB462R
+Specs:
+    AEBracketing: ±6 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Apr 19, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100
+    BatteryLifeCIPA: "650"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 127 x 96 x 63 mm (5 x 3.78 x 2.48″)
+    DriveModes:
+        - Single
+        - Continuous (H/M/L)
+        - Self-timer
+        - Bracketing (AE, WB, DRO)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Sony ARW)
+    FlashModes: Flash off, Autoflash, Fill-flash, Slow Sync., Rear Sync., Red-eye reduction, Wireless, Hi-speed sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, ISO 100-51200 (expands to 50-204800)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $4500/£4500
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 16 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 30p / 6 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 25p / 6 Mbps, MP4, H.264, AAC
+    NumberOfFocusPoints: "693"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: BIONZ X
+    RemoteControl: Yes (Wired or wireless)
+    Resolutions: ""
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 14, 2017"
+    SceneModes: ""
+    ScreenDots: 1,440,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 secs + continuous, 3 or 5 frames)
+    SensorPhotoDetectors: 28 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (One of which UHS-II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames, H/L selectable)
+    WeightIncBatteries: 673 g (1.48 lb / 23.74 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth

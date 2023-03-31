@@ -1,0 +1,103 @@
+ProductCode: sony_dsch70
+Award: ""
+ImageURL: /files/p/products/sony_dsch70/da885218114a4c66889f099ffef9f498.png
+Name: Sony Cyber-shot DSC-H70
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsch70
+ReviewData:
+    ExecutiveSummary: The H-series compact offers Sony's 10x optically stabilized zoom lens, 3.0" LCD and 16MP CCD sensor. Features include 720p HD recording, Sweep Panorama and sensitivity up to ISO 3200. The H70’s Active mode stabilizes hand-held movie recording. Anti-blink, Smile shutter and Self-Portrait timer functions along with an In-camera Guide assist users getting better shots from everyday photography. If you don't really want to bother following a guide just switch the dial to Intelligent Auto mode.
+    ProductPhotos:
+        - /files/p/products/sony_dsch70/shots/c55247434b464def80b4bbe520b0cfa6.png
+        - /files/p/products/sony_dsch70/shots/3e6dbc96d6f34590a91b65d9823772e9.png
+        - /files/p/products/sony_dsch70/shots/03c71ea7257d452fb539831243aee4d5.png
+    ReviewSummary: null
+    ASIN:
+        - B004H8FNEE
+        - B004H8FNEY
+        - B004H8FNF8
+Specs:
+    Announced: Jan 6, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (10x)
+    Dimensions: 102 x 58 x 29 mm (4.02 x 2.28 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: Clear Photo LCD
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 194 g (0.43 lb / 6.84 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected

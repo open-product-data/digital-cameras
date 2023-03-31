@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220526135927/https://www.dpreview.com/reviews/ricohgxrs10
+ProductCode: ricoh_gxr_s10
+Award: recommended
+ImageURL: /files/p/products/ricoh_gxr_s10/4dbee04a482c43ab9ad3e574a7e591dc.png
+Name: Ricoh GXR S10 24-72mm F2.5-4.4 VC
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - Compact sensor
+ReviewScore: 57
+URL: /products/ricoh/slrs/ricoh_gxr_s10
+ReviewData:
+    ExecutiveSummary: The S10 24-72mm F2.5-4.4 VC is a lens unit that slides into Ricoh's GXR body. The GXR system takes a novel approach by offering interchangeable slide mount 'lens units' - sealed modules containing both optics and sensor, meaning it can switch from a large (APS-C) sensor with a fast prime lens to a tiny one with zoom lenses (such as the S10). The Ricoh GXR/P10 24-72mm combines a 10MP 1/1.7-inch CCD sensor with a 24-72mm equivalent lens. Like the other GXR/lens module combinations the package offers tank-like build quality and an abundance of external controls but with its 1/1.7 10 MP sensor the camera is still a digital compact at heart. It produces image quality that is roughly on par with other cameras featuring similar sensor/lens combinations but comes at a significantly higher price point.
+    ProductPhotos:
+        - /files/p/products/ricoh_gxr_s10/shots/983664bfe9c24be684cc09835ff287b0.png
+        - /files/p/products/ricoh_gxr_s10/shots/3f0205c19f654af0b828a2c1a167d3c4.png
+        - /files/p/products/ricoh_gxr_s10/shots/660bc5e10d084a2abccc219cbb40be77.png
+        - /files/p/products/ricoh_gxr_s10/shots/2fdb1c5756a1436c888ca05eeaf73b08.png
+        - /files/p/products/ricoh_gxr_s10/shots/0d19fb12a7994ec895badfef7dadb88a.png
+    ReviewSummary:
+        GoodFor: Anyone wanting DSLR-like controls and build quality in a compact package.
+        NotSoGoodFor: Pixel-Peepers or low light photographers
+        Conclusion: The GXR S10 24-72mm VC comes with the control interface and build quality of a semi-pro DSLR but only produces compact camera image quality. Given its price point, the S10 probably makes most sense as an additional module for existing GXR/A12 users who do not want to familiarize themselves with yet another user interface.
+    ASIN:
+        - B002W6Z1JA
+Specs:
+    AEBracketing: ""
+    Announced: Nov 10, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 114 x 70 x 44 mm (4.49 x 2.76 x 1.73″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±4 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Manual
+    FlashRange: 4.50 m
+    FocalLengthEquiv: 24–72 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Auto-Hi, 100, 200, 400, 800,1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Normal, Fine
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.5–4.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 180 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 3648 x 2176, 3648 x 2048, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2736 x 2736, 2448 x 2448, 2592 x 1944, 2048 x 1536, 1280 x 960, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "Yes"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "57%Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 17, 2010"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images) )
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 86 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 355 g (0.78 lb / 12.52 oz)
+    WhiteBalancePresets: "5"
+    WirelessNotes: ""

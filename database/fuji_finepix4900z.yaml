@@ -1,0 +1,76 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220328180012/https://www.dpreview.com/reviews/fuji4900z
+ProductCode: fuji_finepix4900z
+Award: aboveAverage
+ImageURL: /files/p/products/fuji_finepix4900z/4c83d7289caa4d6bb24b2044b75a37c1.png
+Name: Fujifilm FinePix 4900 Zoom
+ShortSpecs:
+    - 2 megapixels
+    - 2″ screen
+    - 35 – 210 mm (6×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepix4900z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004XSHN
+Specs:
+    Announced: Aug 1, 2000
+    AperturePriority: "Yes"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-80)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 110 x 79 x 94 mm (4.33 x 3.11 x 3.7″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 35–210 mm
+    HDMI: "No"
+    ISO: 125, 200, 400, 800
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "Yes"
+    MaxResolution: 2400 x 1800
+    MaximumAperture: F2.8–3.1
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 3 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 6×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 10 fps, 80 sec, 320 x 240
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Oct 17, 2000"
+    ScreenDots: 130,000
+    ScreenSize: 2″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Electronic
+    WeightIncBatteries: 450 g (0.99 lb / 15.87 oz)
+    WhiteBalancePresets: "7"

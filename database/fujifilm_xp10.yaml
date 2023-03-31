@@ -1,0 +1,120 @@
+ProductCode: fujifilm_xp10
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp10/dbb32f84fe67462d8c1c52fc4d0b03af.png
+Name: FujiFilm FinePix XP10 (FinePix XP11)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 36 – 180 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp10
+ReviewData:
+    ExecutiveSummary: The XP10 was Fujifilm's first rugged digital compact camera. Sporting a similar slim, curvy body design of the company's Z33 waterproof camera, the XP10 is designed to be dustproof, waterproof up to 3 meters, shockproof up to 1 meter and freezeproof to - 10 degrees. It incorporates a 12MP sensor, 2.7 inch LCD, 5x (36-180mm equiv.) optical zoom lens and features 720p HD video recording, AF tracking and an Easy Web Upload option.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp10/shots/a4134e9f033f4f629f7be1aa197fcd9b.png
+        - /files/p/products/fujifilm_xp10/shots/1ff9a78c1137481298e87b7af50d353c.png
+        - /files/p/products/fujifilm_xp10/shots/7785d271bf074d6e8f1a5ac041025d52.png
+        - /files/p/products/fujifilm_xp10/shots/b57cb4520b6f439fa44b46d18ce2dad0.png
+    ReviewSummary: null
+    ASIN:
+        - B0035WTVWI
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-45A battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (6.3x)
+    Dimensions: 96 x 64 x 23 mm (3.78 x 2.52 x 0.91″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Dustproof, Waterproof, Shockproof, Freezeproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 36–180 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F4–4.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 2248, 3984 x 2656, 2816 x 2112, 2048 x 1536, 1920 x 1080, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Couple, Group)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 13 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 135 g (0.30 lb / 4.76 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

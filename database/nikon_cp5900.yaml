@@ -1,0 +1,77 @@
+ProductCode: nikon_cp5900
+Award: ""
+ImageURL: /files/p/products/nikon_cp5900/95a0d2e01b204503b7b1c1d2e78f2cfe.png
+Name: Nikon Coolpix 5900
+ShortSpecs:
+    - 5 megapixels
+    - 2″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cp5900
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0007KQWEG
+Specs:
+    Announced: Feb 16, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL5 Lithium-Ion & charger included
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 88 x 60 x 37 mm (3.46 x 2.36 x 1.46″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: 4.50 m
+    FocalLengthEquiv: 38–114 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 4 cm (1.57″)
+    ManualFocus: "Yes"
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 30 cm (11.81″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 160 x 120, 15/30 fps,
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2″
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 13.5 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "7"

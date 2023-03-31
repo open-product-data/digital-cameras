@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211208232809/https://www.dpreview.com/reviews/fujifilm-x20
+ProductCode: fujifilm_x20
+Award: silver
+ImageURL: /files/p/products/fujifilm_x20/999cb8ba8d0a4e20b4b9c61af0352997.png
+Name: Fujifilm X20
+ShortSpecs:
+    - 12 megapixels
+    - 2.8″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 77
+URL: /products/fujifilm/compacts/fujifilm_x20
+ReviewData:
+    ExecutiveSummary: The X20 is a substantially upgraded re-working of the X10, Fujifilm's previous flagship enthusiast compact. The biggest changes over the X10 are the adoption of the X-Trans color filter pattern from the company's mirrorless cameras, along with an LCD added to the optical viewfinder to allow shooting information to be overlaid. A faster processor and on-chip phase detection elements deliver fast focusing while the addition of a 'Q' quick-menu button improves the camera's usability.Overall, we like the Fujifilm X20, despite a few quirks. It's a capable enthusiast compact that offers just about everything that an advanced user would want, including substantially better image quality than its predecessor, and Fujifilm has left enough automatic features to please the point-and-shoot crowd, as well.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x20/shots/c819b81c290e4658806d993dc85c2a36.png
+        - /files/p/products/fujifilm_x20/shots/5a313f266c7e4e79a67a63759ceb8748.png
+        - /files/p/products/fujifilm_x20/shots/b61a6c9f6acf4fda9b6ba22eb701cd99.png
+    ReviewSummary:
+        GoodFor: Enthusiasts and low light shooters who want a compact camera with high-end build quality and features.
+        NotSoGoodFor: Users who want to get a full day of shooting out of one battery. Movie enthusiasts.
+        Conclusion: The Fujifilm X20 is a true enthusiast's compact, with solid build quality, a fast lens, unique optical viewfinder, and sharp, high resolution photos. It offers a wide selection of manual controls, easily adjustable settings (thanks to twin control dials, the Fn button, and Quick Menu), and 1080/60p video recording. Downsides include a mediocre, hard-to-access movie mode and sub-par battery life.
+    ASIN:
+        - B00AV3XH9W
+        - B00ATM1MHO
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-50 rechargeable battery & charger
+    BatteryLifeCIPA: "270"
+    BodyMaterial: Magnesium alloy
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 117 x 70 x 57 mm (4.61 x 2.76 x 2.24″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat:
+        - JPEG Exif 2.3
+        - RAW (.RAF)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 7.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: 3.94×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: Auto (Up to ISO 3200), 100, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400, 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: $599
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2–2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1864, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1536 x 1536
+    Processor: EXR Processor II
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60 fps), 640 x 480 (30 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 30, 2013"
+    SceneModes:
+        - Portrait
+        - Portrait Enhancer
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+        - Underwater
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: High Speed Movie (80/150/250 fps.）
+    ViewfinderCoverage: 85%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 353 g (0.78 lb / 12.45 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

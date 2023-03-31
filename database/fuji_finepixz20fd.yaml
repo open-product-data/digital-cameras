@@ -1,0 +1,86 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107191921/https://www.dpreview.com/reviews/q408budgetgroup
+ProductCode: fuji_finepixz20fd
+Award: ""
+ImageURL: /files/p/products/fuji_finepixz20fd/e4e7f736c009478daa59023e47c930aa.png
+Name: Fujifilm FinePix Z20fd
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixz20fd
+ReviewData:
+    ExecutiveSummary: The FinePix Z20fd is an upgrade to the popular Z10fd that ups the resolution to a rather pointless 10 megapixels and throws in MPEG4 movie capture (still a rarity on compact digital cameras). Judging by the rather eye-watering range of colors and blogging modes the Z20fd is obviously aimed at the young, casual snapshot user rather than the serious photographer, and this is reflected in both the funky styling and the feature set, which eschews manual controls in favor of a wide selection of scene/subject modes. Although Fujifilm is gradually introducing sensor-shift stabilization to its FinePix range, the Z20fd doesn't have it, nor does it have Fujifilm's proprietary Super CCD sensor (which has been acclaimed for its superior low light results). It's easy to use and feels responsive but is let down slightly by poor flash performance and occasional metering and white balance problems.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0012Y6WFA
+        - B0012Y33DO
+        - B0011ZK6YS
+Specs:
+    Announced: Jan 24, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-45 Li Ion battery
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $249.00
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 91 x 56 x 19 mm (3.58 x 2.2 x 0.75″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 3.90 m (Auto ISO)
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.7–4
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 2592 x 1944, 2048 x 1944, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 30 fps, 320 x 240 30 fps
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Nov 27, 2008"
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 45 MB
+    StorageTypes: xD Picturecard/SD/SDHC/MMC
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 111 g (0.24 lb / 3.92 oz)
+    WhiteBalancePresets: "6"

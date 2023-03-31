@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107145424/https://www.dpreview.com/reviews/pentax-k-3-mark-iii-initial-review
+ProductCode: pentax_k3iii
+Award: ""
+ImageURL: /files/p/products/pentax_k3iii/5f104b9f7f2747d4b130a4bfb7ddfe66.png
+Name: Pentax K-3 Mark III
+ShortSpecs:
+    - 26 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_k3iii
+ReviewData:
+    ExecutiveSummary: The Pentax K-3 Mark III is a mid-sized DSLR with a 25.7MP BSI-CMOS sensor, in-body image stabilization, and an all-new optical viewfinder. The viewfinder offers a large 0.7x (equivalent) magnification and has composition and shooting data on a transparent panel. The camera has a fixed 3.2" touchscreen with 1.62 million dots. The camera has an all-new Safox 13 autofocus system with 101 points, 25 of which being cross-type. The K-3 III can shoot bursts at 12 fps (11 fps with continuous AF). It offers both Pixel Shift Resolution and Anti-aliasing simulator features, with the latter reducing moiré. UHD 4K video can be captured at 30p, with 3-axis image stabilization from the IBIS system.
+    ProductPhotos:
+        - /files/p/products/pentax_k3iii/shots/6e1d1ff1fa1741c9a383c18968b4b523.png
+        - /files/p/products/pentax_k3iii/shots/578ac09ee92b4ee4b3501e7446928845.png
+        - /files/p/products/pentax_k3iii/shots/b0b1feb570424195bcd77fd16fff93d4.png
+        - /files/p/products/pentax_k3iii/shots/c0255be4555e4c37a975f3c2b33fd659.png
+        - /files/p/products/pentax_k3iii/shots/d69f5c26607c4d828053d2f9deeb01f8.png
+    ReviewSummary: null
+    ASIN:
+        - B091TN9ZW3
+        - B091TTFCCH
+        - B0BGPCYSPH
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Mar 30, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI90
+    BatteryLifeCIPA: "800"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $2,193.90
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: "Yes"
+    Dimensions: 135 x 104 x 74 mm (5.31 x 4.09 x 2.91″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Bracketing (AE, DoF, motion)
+        - Mirror-up
+        - Multi-exposure
+        - Interval
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Sensitivity priority
+        - Shutter priority
+        - Aperture priority
+        - Shutter & aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (PEF/DNG)
+    FlashModes: Auto, Auto + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow- speed Sync, Slow-speed Sync + Red-eye, P-TTL, Contrast-control-sync, High-speed sync, Wireless sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto (100-1600000)
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $1999 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6192 x 4128
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: "25"
+    NumberOfFocusPoints: "101"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: PRIME V
+    RemoteControl: Yes (via wireless)
+    Resolutions: ""
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Mar 30, 2021"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: APS-C (23 x 15.5 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II supported in slot 1)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.05× (0.7× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 820 g (1.81 lb / 28.92 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

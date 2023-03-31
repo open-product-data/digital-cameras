@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220528021825/https://www.dpreview.com/reviews/canon-powershot-g9-x-mark-ii-review
+ProductCode: canon_g9xii
+Award: noAward
+ImageURL: /files/p/products/canon_g9xii/8740cdcf88f6454dadc33345229262ee.png
+Name: Canon G9 X II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 28 – 84 mm (3×)
+ReviewScore: 75
+URL: /products/canon/compacts/canon_g9xii
+ReviewData:
+    ExecutiveSummary: The PowerShot G9 X Mark II is the 'entry-level' model in Canon's 1" sensor lineup. It features a 20MP BSI-CMOS sensor, DIGIC 7 processor (an improvement over its predecessor), 28-84mm equivalent F2-4.9 lens, 3" touchscreen display, 8.2 fps burst shooting and Full HD video capture. In addition, it has Wi-Fi, NFC and Bluetooth for quick pairing with your smartphone.
+    ProductPhotos:
+        - /files/p/products/canon_g9xii/shots/431f05b381a74f52aabcb1b0fb1768f2.png
+        - /files/p/products/canon_g9xii/shots/99faebd98ed04b97856b4a88a5cc771d.png
+        - /files/p/products/canon_g9xii/shots/283a2c5b32164bada1c792a343774a4a.png
+        - /files/p/products/canon_g9xii/shots/101b8ee068f7466da056553502a29395.png
+    ReviewSummary:
+        GoodFor: Everyday point-and-shoot photography
+        NotSoGoodFor: Sports and action, portraiture, long excursions.
+        Conclusion: The PowerShot G9 X Mark II is a pocketable camera that packs a 1"-type sensor and 28-84mm equivalent F2.0-4.9 lens. On the surface it offers good build quality, a broad feature set, an intuitive touch-based interface and excellent connectivity. However, its lens is very soft, which greatly affects image quality, and battery life is poor.
+    ASIN:
+        - B01MT3SZ46
+        - B01N9MCH0E
+        - B077B54GNH
+Specs:
+    AEBracketing: ""
+    Announced: Jan 4, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "235"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 8.1 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 58 x 31 mm (3.86 x 2.28 x 1.22″)
+    DriveModes:
+        - Single
+        - Continuous H/L
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Scene
+        - Auto
+        - Hybrid Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3)
+        - Raw (Canon CR2)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 6.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–84 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $529
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 35 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 24p / 24 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 30p / 8 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 30p / 3 Mbps, MOV, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 7
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "75%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 14, 2017"
+    SceneModes:
+        - Portrait
+        - Panning
+        - Star Portrait
+        - Star Nightscape
+        - Star Trails
+        - Star Time-Lapse Movie
+        - Handheld Night Scene
+        - Fireworks
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (star time-lapse)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Also has star time-lapse. miniature effect, and digest modes
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 206 g (0.45 lb / 7.27 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC and Bluetooth

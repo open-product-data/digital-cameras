@@ -1,0 +1,125 @@
+ProductCode: sony_dslra290
+Award: ""
+ImageURL: /files/p/products/sony_dslra290/eccc88afc20f49699a8c88349cc55d8c.png
+Name: Sony Alpha DSLR-A290
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_dslra290
+ReviewData:
+    ExecutiveSummary: The DSLR-A290 is the successor to the entry-level A230 and, like its predecessor, only a comparatively minor update. The most substantial change is a new grip design that should allow for more comfortable handling, especially with longer lenses. The other major modification is the image-stabilized 14.2MP CCD sensor that we've previously seen in the A380. As with the previous models the entry-level A290 has a fixed LCD and no liveview but a larger viewfinder than the better specified models that come with live view and a swivel-screen. The 14.2 MP CCD has been around for a while and while image quality at low ISO sensitivity settings is certainly good enough to satisfy the demands of small prints or screen-sized web galleries things fall apart a bit above ISO 800. Images become very blotchy, even in small prints.
+    ProductPhotos:
+        - /files/p/products/sony_dslra290/shots/3c932b65d472451b991924a01a2b63fd.png
+        - /files/p/products/sony_dslra290/shots/fdf35c2bd171416084c6d385877f0620.png
+        - /files/p/products/sony_dslra290/shots/59d1793a43e547c9b9ad9abc46625d0b.png
+        - /files/p/products/sony_dslra290/shots/d92eb2f8894c462bacba26fd6302efb6.png
+        - /files/p/products/sony_dslra290/shots/ca7313ef57764828be171fe5da92b256.png
+        - /files/p/products/sony_dslra290/shots/a9ec3bf515bb4c109f4d295b41df67f1.png
+        - /files/p/products/sony_dslra290/shots/f4760b0938844cb1954a8c9891cfdb12.png
+    ReviewSummary: null
+    ASIN:
+        - B003VWDSJO
+Specs:
+    AEBracketing: ""
+    Announced: Jun 9, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FH50 rechargeable battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 128 x 97 x 86 mm (5.04 x 3.82 x 3.39″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, High Speed Sync, Rear Curtain, Fill-in, Wireless
+    FlashRange: 10.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2576, 3408 x 2272, 3408 x 1920, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (Optional)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Memory Stick Pro Duo/ Pro-HG Duo, SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.83× (0.55× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 549 g (1.21 lb / 19.37 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

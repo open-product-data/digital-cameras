@@ -1,0 +1,108 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211017105009/https://www.dpreview.com/reviews/canonsx1is
+ProductCode: canon_sx1is
+Award: recommended
+ImageURL: /files/p/products/canon_sx1is/8487d999b8a147ecb58935b55a5f39d7.png
+Name: Canon PowerShot SX1 IS
+ShortSpecs:
+    - 10 megapixels
+    - 2.8″ screen
+    - 28 – 560 mm (20×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx1is
+ReviewData:
+    ExecutiveSummary: Fifth generation 'SLR-like' superzoom from Canon is the first in a new wave of CMOS-sensored 'serious' compact cameras, and boasts an impressive spec list that includes a huge 28-560mm (equiv.) 20x zoom, 1080p HD movie capture and high speed shooting, plus a wealth of photo enthusiast features (manual controls, raw mode). There's no doubt the SX1 IS offers a lot of camera in a compact package, but it's expensive (especially compared to sister model, the SX10 IS), the image quality is nothing special, and unless you really want HD movies it's hard to recommend.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001SER44W
+Specs:
+    Announced: Sep 17, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 128 x 88 x 88 mm (5.04 x 3.46 x 3.46″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: 5.20 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–560 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.7
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480, 3840 x 2160, 1920 x 1080
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (30 fps), 640 x 480 (30 fps), 320 x 240 (60, 30 fps)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Mar 27, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.8″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec or custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB SD card
+    StorageTypes: SD/SDHC/MMC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 615 g (1.36 lb / 21.69 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

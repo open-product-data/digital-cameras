@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220122203048/https://www.dpreview.com/reviews/fujifilm-x-t4-review
+ProductCode: fujifilm_xt4
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt4/3d81e07a5e5749558deb7bc760ea5ce1.png
+Name: Fujifilm X-T4
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 88
+URL: /products/fujifilm/slrs/fujifilm_xt4
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T4 is an enthusiast SLR-style mirrorless camera with a 26MP BSI CMOS X-Trans sensor and in-body image stabilization that can reduce shake by up to 6.5 stops. It uses the same hybrid AF system as the X-T3, with 425 phase-detect points, but with improved algorithms. The camera has the analog controls for shutter speed, ISO and exposure compensation, with numerous customizable dials. The X-T4 has a 3.69M-dot electronic viewfinder with a large 0.75x magnification as well as a fully articulated LCD. The tough magnesium-alloy body is sealed against dust and moisture and features a pair of SD card slots that support UHS-II media.The camera shoots continuously at 20 fps (e-shutter) or 15 fps (mechanical shutter) at full resolution, or at up to 30 fps in a 1.25x crop mode. Video can be captured at both DCI and UHD 4K at up to 60p, with a top bit rate of 400Mbps. The camera supports the H.265 codec and can output 10-bit video at 4:2:2 over HDMI, or record internal 10-bit at 4:2:0. Fujifilm's F-Log format is supported, as are Film Simulation favorites like Eterna. The camera has a microphone socket, but a USB-C dongle is required to add a headphone jack.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt4/shots/798664d4f3074623840fc8f8684608a6.png
+        - /files/p/products/fujifilm_xt4/shots/25aa519fb89d42f082e22579ce0af344.png
+        - /files/p/products/fujifilm_xt4/shots/b965e8ede10349f38b8124f95f339d2c.png
+        - /files/p/products/fujifilm_xt4/shots/1970e0a6168d4dd8b80dca330d77585d.png
+        - /files/p/products/fujifilm_xt4/shots/d71ef9f8f6cb45909663673dbcb5b540.png
+        - /files/p/products/fujifilm_xt4/shots/2a798ad744f04adab972483e3e370225.png
+    ReviewSummary:
+        GoodFor: People shooting both stills and video
+        NotSoGoodFor: Must-get-the-shot sports shooting
+        Conclusion: The X-T4 is one of the most expensive APS-C cameras available but also probably the most capable. Its autofocus system isn't quite as consistent or refined as the best of its rivals but in every other respect it excels. Its images are attractive, its video quality superb and it's engaging to shoot with.
+    ASIN:
+        - B084ZTMFCH
+        - B084ZTQVG7
+        - B084ZV73YR
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 26, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,549.00 - $2,049.00
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 135 x 93 x 84 mm (5.31 x 3.66 x 3.31″)
+    DriveModes:
+        - Single
+        - Continuous (L/H)
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Some lenses limited to 5 stops of correction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1699 (body only), $2099 (w/18-55mm lens), $2199 (w/16-80mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 240p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: ""
+    ReviewPreview: "88%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 20, 2020"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual SD/SDHC/SDXC card slots (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.125× (0.75× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 607 g (1.34 lb / 21.41 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

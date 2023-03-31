@@ -1,0 +1,78 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016210412/https://www.dpreview.com/reviews/fuji6800z
+ProductCode: fuji_finepix6800z
+Award: aboveAverage
+ImageURL: /files/p/products/fuji_finepix6800z/c1e778aa65b3407aa46d6dec8945a70d.png
+Name: Fujifilm FinePix 6800 Zoom
+ShortSpecs:
+    - 3 megapixels
+    - 2″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepix6800z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B08KYFG4LC
+        - B084B3Z8FX
+        - B003ZHV70M
+Specs:
+    Announced: Feb 1, 2001
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-80)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 80 x 98 x 36 mm (3.15 x 3.84 x 1.43″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±1.5 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 36–108 mm
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "Yes"
+    MaxResolution: 2832 x 2128
+    MaximumAperture: F2.8–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 3 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 10 fps up to 160 sec
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Apr 3, 2001"
+    ScreenDots: 130,000
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 280 g (0.62 lb / 9.88 oz)
+    WhiteBalancePresets: "7"

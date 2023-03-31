@@ -1,0 +1,123 @@
+ProductCode: sony_dscqx10
+Award: ""
+ImageURL: /files/p/products/sony_dscqx10/7bbd3580c11248ec8fcaf88828791006.png
+Name: Sony Cyber-shot DSC-QX10
+ShortSpecs:
+    - 18 megapixels
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscqx10
+ReviewData:
+    ExecutiveSummary: The Cyber-shot DSC-QX10 is a portable 'camera unit' that clips onto your smartphone. By using Sony's PlayMemories Mobile app you have complete control over the camera, and photos you take are automatically transferred to your mobile device. The QX10 features an F3.3-5.9, 10X optical zoom, equivalent to 25-250mm paired with an 18.2 megapixel BSI CMOS sensor.
+    ProductPhotos:
+        - /files/p/products/sony_dscqx10/shots/048d011c963c4aebbd28c8a3bff13fce.png
+        - /files/p/products/sony_dscqx10/shots/eabfe7e34c3c42f3993ca4a3e25c292d.png
+        - /files/p/products/sony_dscqx10/shots/7107c3d6251f44baa5244e58fdd025b4.png
+        - /files/p/products/sony_dscqx10/shots/9dc574fd2c39438092c4acfea120cceb.png
+    ReviewSummary: null
+    ASIN:
+        - B00EVIJX1Y
+        - B00EVIJWXS
+        - B00EVIBN26
+Specs:
+    AEBracketing: ""
+    Announced: Sep 4, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: NP-BN, NP-BN1
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 62 x 62 x 33 mm (2.46 x 2.43 x 1.31″)
+    DriveModes:
+        - Single
+    Durability: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF)
+    FlashModes: None
+    FlashRange: ""
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 100-3200
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Normal
+    LiveView: Yes (via smartphone)
+    MSRP: $250
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2592 x 1944 (4:3), 4896 x 2752 (16:9), 1920 x 1080 (16:9)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1440 x 1080 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: Depends on connected smartphone
+    SelfTimer: Yes (2, 10 secs)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: microSD, microSDHC, microSDXC, Memory Stick Micro
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (via smartphone)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 105 g (0.23 lb / 3.70 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

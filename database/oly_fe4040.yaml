@@ -1,0 +1,89 @@
+ProductCode: oly_fe4040
+Award: ""
+ImageURL: /files/p/products/oly_fe4040/b6a876758f884340bb4296055833f314.png
+Name: Olympus FE-4040
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 26 – 105 mm (4×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe4040
+ReviewData:
+    ExecutiveSummary: The 14 megapixel FE-4040 incorporates a 4x wide optical zoom (26-105mm) lens and a 2.7 inch LCD. It offers AF tracking and i-Auto mode. A range of four Magic Filters is also on hand to give your images a creative edge. It also offers an in-camera guide and advanced face detection.
+    ProductPhotos:
+        - /files/p/products/oly_fe4040/shots/5d1214a5875f47baaaaa678df201aed6.png
+        - /files/p/products/oly_fe4040/shots/de66cd5f485d4a07b1251e0ca2544266.png
+        - /files/p/products/oly_fe4040/shots/a08731b1bc224db28e59f01f21c67fca.png
+        - /files/p/products/oly_fe4040/shots/077116bb00d74bb590d1bdca200947a5.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 56 x 22 mm (3.82 x 2.2 x 0.87″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Fill-in
+    FlashRange: 4.70 m
+    FocalLengthEquiv: 26–105 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, High Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.6–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 4288 x 2416, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 12 seconds)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 18 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "7"

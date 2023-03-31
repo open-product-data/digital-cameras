@@ -1,0 +1,119 @@
+ProductCode: nikon_cps3000
+Award: ""
+ImageURL: /files/p/products/nikon_cps3000/1143caf88bab4fa7b52460261d65af44.png
+Name: Nikon Coolpix S3000
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 27 – 108 mm (4×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps3000
+ReviewData:
+    ExecutiveSummary: Successor to the S220, the 12MP Coolpix S3000 comes with a wide-angle 4x optical zoom lens starting at 27mm, a 2.7 inch LCD and includes features such as AF tracking and a Smile Timer mode that captures images only when the subject smiles. It is available in black, 'champagne' silver, red, blue, orange, magenta and green.
+    ProductPhotos:
+        - /files/p/products/nikon_cps3000/shots/7d753e4b173b4a1c9817358645f776ef.png
+        - /files/p/products/nikon_cps3000/shots/7a0cc8c255fe4258acdba461ea5d50e3.png
+        - /files/p/products/nikon_cps3000/shots/92f574459a634204a91c8a89c136516a.png
+        - /files/p/products/nikon_cps3000/shots/baa5d54a52f441c388ebbade83c0209c.png
+        - /files/p/products/nikon_cps3000/shots/03212512c3c34d0e89f937238ed3a388.png
+        - /files/p/products/nikon_cps3000/shots/3b4fc3a9a2f742efa7836f48cb6b7d93.png
+    ReviewSummary: null
+    ASIN:
+        - B0034XKDN4
+        - B0034XGLV2
+        - B0034XMI00
+Specs:
+    AEBracketing: ""
+    Announced: Feb 3, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion EN-EL10 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2x)
+    Dimensions: 94 x 56 x 19 mm (3.7 x 2.2 x 0.75″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV, 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow Syncro
+    FlashRange: ""
+    FocalLengthEquiv: 27–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Auto gain ISO 80-1600, Fixed range auto (ISO 80-400, 80-800) 80, 100, 200, 400, 800, 1600, 2000, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.2–5.9
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 47 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 116 g (0.26 lb / 4.09 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

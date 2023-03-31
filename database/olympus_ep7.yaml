@@ -1,0 +1,177 @@
+ProductCode: olympus_ep7
+Award: ""
+ImageURL: /files/p/products/olympus_ep7/0d1b5b51a6154d9d97a128209a6cc59d.png
+Name: Olympus PEN E-P7
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/olympus_ep7
+ReviewData:
+    ExecutiveSummary: The Olympus PEN E-P7 is a rangefinder-style Micro Four Thirds mirrorless camera with a 20MP sensor and 5-axis in-body image stabilization. It has an downward-tilting 3" touchscreen with 1.04 million dots, but with a flash instead of an electronic viewfinder. It has a 121-point contrast-detect AF system with face and eye detection. The E-P7 has numerous color modes, which can be easily accessed via a switch on its front plate. It can capture 4K/30p video at a bit rate of 102Mbps. Wi-Fi and Bluetooth are built-in.It is sold body-only or kitted with a 14-42mm power zoom lens.
+    ProductPhotos:
+        - /files/p/products/olympus_ep7/shots/3bc048715a79451383ba82b44c486e0e.png
+        - /files/p/products/olympus_ep7/shots/a1a8130083204feca10ff2bbae2cae14.png
+        - /files/p/products/olympus_ep7/shots/74c82ada70774ff5b57bfdb958b172ce.png
+        - /files/p/products/olympus_ep7/shots/00f0ff1790604c3d9a3d4d5c8d22988e.png
+        - /files/p/products/olympus_ep7/shots/fd79fbb0b92048bd96907d2a5895c233.png
+    ReviewSummary: null
+    ASIN:
+        - B0BHKJKH1F
+        - B09S5G7JSL
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 2/3 EV, 1 EV steps)
+    Announced: Jun 9, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Metal, composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 4.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 118 x 69 x 38 mm (4.65 x 2.72 x 1.5″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Olympus ORF, 12-bit lossless compressed)
+    FlashModes: Redeye, Fill-in, Flash off, Red-eye Slow sync. (1st curtain), Slow sync. (1st curtain), Slow sync. (2nd curtain), Manual
+    FlashRange: 5.40 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 52 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VIII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - '"People'
+        - Nightscape
+        - Motion
+        - Scenery
+        - Indoors
+        - Close-ups
+        - Portrait
+        - e-Portrait
+        - Portrait + Landscape
+        - Portrait + Nightscape
+        - Children
+        - Nightscape
+        - Handheld Starlight
+        - Fireworks
+        - Light Trails
+        - Sport
+        - Panning
+        - Landscape
+        - Sunset
+        - Beach & Snow
+        - Panorama
+        - Backlight HDR
+        - Candlelight
+        - Silent
+        - Macro
+        - Nature Macro
+        - Documents
+        - Multi Focus Shot
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 337 g (0.74 lb / 11.89 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

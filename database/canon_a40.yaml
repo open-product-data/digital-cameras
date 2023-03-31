@@ -1,0 +1,99 @@
+ProductCode: canon_a40
+Award: ""
+ImageURL: /files/p/products/canon_a40/f48ccf43ae214b7eb3fd68841b482366.png
+Name: Canon PowerShot A40
+ShortSpecs:
+    - 2 megapixels
+    - 1.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a40
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00006412G
+Specs:
+    Announced: Feb 22, 2002
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2.5 x)
+    Dimensions: 110 x 71 x 38 mm (4.33 x 2.8 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 16 cm (6.3″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 76 cm (29.92″)
+    NumberOfFocusPoints: "3"
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 20 fps, max 10/30 sec, audio
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash (Type I)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

@@ -1,0 +1,117 @@
+ProductCode: nikon_cps4100
+Award: ""
+ImageURL: /files/p/products/nikon_cps4100/5190736fdaed4ffd9483cd111f7bfe2c.png
+Name: Nikon Coolpix S4100
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps4100
+ReviewData:
+    ExecutiveSummary: The Coolpix S4100 comes with a 3.0 inch touchscreen LCD and a 5x optical zoom lens. With mostly touch-based operation it is capable of recording 720p HD movies and offers number scene modes. The camera is also equipped with in-camera editing tools including creative filters such as Nostalgic Sepia, Selective Color and High-Contrast Monochrome to add effects to the images taken.
+    ProductPhotos:
+        - /files/p/products/nikon_cps4100/shots/0aedee36c9c140329f3f184e86be56b5.png
+        - /files/p/products/nikon_cps4100/shots/9cbb603b9ffe4a12a44d92adb62f1b3d.png
+        - /files/p/products/nikon_cps4100/shots/09536f60b38541889175173a7ca2990f.png
+        - /files/p/products/nikon_cps4100/shots/5e560dea21f548a9bef23316d8f60792.png
+        - /files/p/products/nikon_cps4100/shots/19c2c914a42f47c79cfdd19c2c468541.png
+    ReviewSummary: null
+    ASIN:
+        - B004M8SVDE
+        - B004M8SVDO
+        - B004M8SVDY
+Specs:
+    AEBracketing: ""
+    Announced: Feb 9, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL19 Lithium-Ion battery
+    BatteryLifeCIPA: "190"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5x)
+    Dimensions: 95 x 57 x 20 mm (3.74 x 2.24 x 0.79″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye
+    FlashRange: 4.50 m
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100 200, 400, 800, 1600, 3200
+    ImageRatioWh: ""
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.2–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4224 x 2376, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 1280 x 720p (30fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (10 or 2 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 20 MB
+    StorageTypes: SD / SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

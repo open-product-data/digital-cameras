@@ -1,0 +1,76 @@
+ProductCode: kodak_cx7330
+Award: ""
+ImageURL: /files/p/products/kodak_cx7330/08cc3532ed754a169f6f51987b47f1bb.png
+Name: Kodak EasyShare CX7330
+ShortSpecs:
+    - 3 megapixels
+    - 1.6″ screen
+    - 37 – 111 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_cx7330
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001G6U6Q
+Specs:
+    Announced: May 4, 2004
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3.3 x)
+    Dimensions: 103 x 65 x 38 mm (4.06 x 2.56 x 1.5″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 37–111 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (90 - 180)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualFocus: "No"
+    MaxResolution: 2032 x 1524
+    MaximumAperture: F2.7–4.6
+    MaximumShutterSpeed: 1/1400 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 15 fps
+    ReviewPreview: ""
+    ScreenDots: 61,000
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 225 g (0.50 lb / 7.94 oz)
+    WhiteBalancePresets: ""

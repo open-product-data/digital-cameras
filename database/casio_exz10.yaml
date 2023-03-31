@@ -1,0 +1,97 @@
+ProductCode: casio_exz10
+Award: ""
+ImageURL: /files/p/products/casio_exz10/b79e2e0c97d84c5ba296ffa656a046a2.png
+Name: Casio Exilim EX-Z10
+ShortSpecs:
+    - 5 megapixels
+    - 2″ screen
+    - 35 – 114 mm (3.3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz10
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B009VSO46I
+        - B00F29UKW2
+        - B00B7D7P2K
+Specs:
+    Announced: Aug 4, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH included)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: "800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 90 x 60 x 27 mm (3.54 x 2.36 x 1.06″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: 3.10 m
+    FocalLengthEquiv: 35–114 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 50, 100, 200, 400, 800 (caveats)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Economy
+    LiveView: "No"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2560 x 1920
+    MaximumAperture: F3.1–5.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 3.3×
+    OrientationSensor: "No"
+    OtherResolutions: 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps) 320 x 240 (15 fps)
+    ReviewPreview: ""
+    ScreenDots: 84,960
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8.7 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 154 g (0.34 lb / 5.43 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

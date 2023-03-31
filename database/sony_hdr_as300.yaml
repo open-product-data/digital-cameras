@@ -1,0 +1,113 @@
+ProductCode: sony_hdr_as300
+Award: ""
+ImageURL: /files/p/products/sony_hdr_as300/fc1945409cf2482a8d75471397f50cce.png
+Name: Sony AS300
+ShortSpecs:
+    - 8 megapixels
+    - 1 lens(es)
+    - Compact sensor
+ReviewScore: 0
+URL: /products/sony/actioncams/sony_hdr_as300
+ReviewData:
+    ExecutiveSummary: The Sony AS300 has an unconventional shape which accommodates an optically stabilized lens and 8 Megapixel BSI CMOS sensor. The camera can be controlled via an LCD on its side or via an optional LCD remote. The AS300 can capture 1080/60p video and supports time-lapse and live streaming. Stills can be fired off at 10 fps. Connectivity options include Wi-Fi and Bluetooth. The AS300 is splash and freezeproof right out of the box and an included housing allows it to dive up to 60m/197ft underwater.
+    ProductPhotos:
+        - /files/p/products/sony_hdr_as300/shots/8e16f09d4dbd430b866bedce1dd0a06c.png
+        - /files/p/products/sony_hdr_as300/shots/a0bd9fb9d52042c0b7abe99554565953.png
+        - /files/p/products/sony_hdr_as300/shots/b84d6fada0cc488aa7e2033a832ef56e.png
+    ReviewSummary: null
+    ASIN:
+        - B01M1DMT46
+Specs:
+    Announced: Sep 9, 2016
+    AperturePriority: ""
+    ArticulatedLCD: Unknown
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 48 x 53 x 19 mm (1.89 x 2.09 x 0.75″)
+    Durability: Waterproof with housing
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: 170.00°
+    FileFormat:
+        - JPEG
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: MPEG-4, XAVC S, H.264
+    GPS: Built-in
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: "16:9"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: $299
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 4608 x 2592
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 28 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 120p / 28 Mbps, MP4, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: "1"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (via RM-LVR3)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD + Memory Stick Duo
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 46 g (0.10 lb / 1.62 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

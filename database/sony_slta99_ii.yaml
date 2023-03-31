@@ -1,0 +1,164 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220630105559/https://www.dpreview.com/reviews/sony-slt-a99-ii
+ProductCode: sony_slta99_ii
+Award: silver
+ImageURL: /files/p/products/sony_slta99_ii/1c4defff64694a2fbd63e1c8e0f58acc.png
+Name: Sony a99 II
+ShortSpecs:
+    - 42 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 85
+URL: /products/sony/slrs/sony_slta99_ii
+ReviewData:
+    ExecutiveSummary: The Sony Alpha a99 Mark II is an 'SLT' camera which uses a semi-transparent mirror that splits light between the sensor and an AF module near the viewfinder, which differentiates it from a traditional DSLR. The a99 II features a full-frame 42MP BSI CMOS sensor, Hybrid AF system with 399 contrast detect and 79 cross-type hybrid points. The camera can shoot at 12 fps with continuous autofocus and 8 fps with live view and minimal EVF blackout, according to Sony. It can capture 4K video (UHD or Super 35) using the XAVC S codec with bit rates of up to 100Mbps. The a99 II offers both S-Log2 and S-Log3 gammas and can output 4:2:2 4K video over its HDMI port.The rugged body is weather-sealed and has built-in 5-axis image stabilization (Sony claims a 4.5-stop reduction in shake.) It features a large, high resolution EVF as well as a tilting non-touchscreen LCD.
+    ProductPhotos:
+        - /files/p/products/sony_slta99_ii/shots/0af6a60dd3da4681b3a082a4c7c8552d.png
+        - /files/p/products/sony_slta99_ii/shots/b514e92d06af4567b5dee6b0c9c818fa.png
+        - /files/p/products/sony_slta99_ii/shots/02ef6bdda4d9412eb8156fe31257b611.png
+        - /files/p/products/sony_slta99_ii/shots/bde65e7e15ed4f9f95366103e9dd4fa3.png
+    ReviewSummary:
+        GoodFor: High resolution stills shooting in a wide array of situations. Shooters who want both an EVF and dependable battery life.
+        NotSoGoodFor: Shooting video with autofocus. Using 3rd party lenses. Those needing accurate focus tracking.
+        Conclusion: Even with its video and autofocus quirks, the a99 II manages to be the world's first all-rounder camera capable of both high-resolution and 12 fps burst shooting with AF. Its unique combination of features means that those who doubted SLT cameras should give the a99 II a closer look.
+    ASIN:
+        - B01LYKDVU9
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 19, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: ""
+    BatteryDescription: NP-FM500H lithium-ion battery & charger
+    BatteryLifeCIPA: "490"
+    BodyMaterial: Magnesium Alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 143 x 104 x 76 mm (5.63 x 4.09 x 2.99″)
+    DriveModes:
+        - Single Shooting
+        - Continuous shooting
+        - Self-timer
+        - AE bracket
+        - White Balance bracket
+        - DRO bracket
+    EffectivePixels: 42 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Sony ARW 2.3)
+    FlashModes: Off, auto, fill, slow sync, redeye reduction, rear sync, high-speed sync, wireless
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-25600 (expandable to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis for stills and video
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: $3199
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7952 x 5304
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, AVCHD, MP4, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "399"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 13, 2017"
+    SceneModes: ""
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT LCD
+    SelfTimer: Yes (2, 5, 10 secs)
+    SensorPhotoDetectors: 44 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC[UHS I]/MS Duo slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames)
+    WeightIncBatteries: 849 g (1.87 lb / 29.95 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n with NFC

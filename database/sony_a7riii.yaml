@@ -1,0 +1,159 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023225430/https://www.dpreview.com/reviews/sony-a7r-mark-iii-review
+ProductCode: sony_a7riii
+Award: gold
+ImageURL: /files/p/products/sony_a7riii/2ea2db5cb5844caa98a4a7af4ab75394.png
+Name: Sony a7R III
+ShortSpecs:
+    - 42 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/sony/slrs/sony_a7riii
+ReviewData:
+    ExecutiveSummary: The Sony a7R Mark III is a full-frame mirrorless camera that uses a 42.4MP stabilized BSI CMOS sensor. The Mark III has numerous improvements over its predecessor, many of which are borrowed from the flagship a9. Faster processing and a redesigned shutter allow for 10 fps bursts (or 8 fps with no viewfinder blackout), and a refined autofocus system promises better subject tracking performance. The design hasn't changed much, with the main additions being a higher resolution EVF, joystick for adjusting the focus point, dual SD card slots and a higher capacity battery. Video can be captured at UHD 4K (30p) using the full-width of the sensor or a Super 35 crop, and 1080/120p option is also available. The a7R III supports S-Log3 and Hybrid Log Gamma profiles, among others.
+    ProductPhotos:
+        - /files/p/products/sony_a7riii/shots/b006dac88c0e42408b4f1d61970e640a.png
+        - /files/p/products/sony_a7riii/shots/e06ffbfd11834814ae67b392d808f18e.png
+        - /files/p/products/sony_a7riii/shots/0bc76f80582b4a12b7785301efbfdbe6.png
+        - /files/p/products/sony_a7riii/shots/bbaab84bc1ac49c7a0c0eedfa696f04d.png
+        - /files/p/products/sony_a7riii/shots/d7ca1e78a9ce42209d714fb79c664c2c.png
+        - /files/p/products/sony_a7riii/shots/f131118ae8a943f6b361531dd976f28e.png
+    ReviewSummary:
+        GoodFor: Hybrid stills and video shooters, photographers looking for a versatile tool for a wide range of subjects in a compact package.
+        NotSoGoodFor: Those that need the absolute best in autofocus tracking, those that require even faster burst speeds.
+        Conclusion: It's fair to say that the Sony a7R III is a great option for an incredibly wide variety of photographers. Offering great image quality, fast burst shooting speeds, high quality 4K video and a reasonably compact package, it's an incredibly well-rounded offering. The endless customization options can be daunting at first, but in the end, it's a camera equally at home capturing fast action one moment, and expansive landscapes the next.
+    ASIN:
+        - B0973XSMTQ
+        - B076TGDHPT
+        - B07BY7ZSJG
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 25, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery and charger
+    BatteryLifeCIPA: "650"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,498.00 - $4,196.00
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 127 x 96 x 74 mm (5 x 3.78 x 2.91″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer (single/continuous)
+        - Bracketing (single/continuous)
+        - WB bracketing
+        - DRO bracketing
+    EffectivePixels: 42 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF v2.31)
+        - RAW (Sony 14-bit ARW v2.3)
+    FlashModes: Off, Auto, Fill-flash, Slow Sync, Rear Sync, Red-eye reduction, Wireless, Hi-speed sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-32000 (expands to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $3199 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7952 x 5304
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "399"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wired, wireless, smartphone)
+    Resolutions: ""
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 22, 2017"
+    SceneModes: ""
+    ScreenDots: 1,440,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 44 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: BSI-CMOS full-frame sensor. No optical low-pass filter
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Two SD/SDHC/SDXC slots (UHS-II support on one)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 657 g (1.45 lb / 23.17 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth

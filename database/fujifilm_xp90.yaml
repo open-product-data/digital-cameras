@@ -1,0 +1,145 @@
+ProductCode: fujifilm_xp90
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp90/f9dc0c7e9c61484ea4cd2765648382e8.png
+Name: Fujifilm XP90
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp90
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new FinePix XP90 rugged digital camera is waterproof to 50ft., shockproof from 5.8ft., freezeproof to 14°F and dustproof. It features a 16.4MP CMOS sensor with a 28-140mm 5x optical zoom lens, Wi-Fi connectivity for one touch transfers to smartphones and tablets, and captures full HD movies at 1080p, even underwater.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp90/shots/29e1c6c616ba4d77ae84592e0b8c100d.png
+        - /files/p/products/fujifilm_xp90/shots/e500d96439664e2a82da98f77c1dc4d6.png
+        - /files/p/products/fujifilm_xp90/shots/170d5e3a09a4498e8320943f2b4af982.png
+    ReviewSummary: null
+    ASIN:
+        - B01AJUG6EO
+        - B01AJUG4IW
+        - B01AJUG3R4
+Specs:
+    AEBracketing: ""
+    Announced: Jan 15, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-45S lithium-ion battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Metal, composite
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $135.00 - $199.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2X)
+    Dimensions: 110 x 71 x 28 mm (4.33 x 2.8 x 1.1″)
+    DriveModes:
+        - Single
+        - Continuous Top
+        - Continuous Last
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (waterproof to 15m/50ft, shockproof to 1.8m/5.8ft, freezeproof to -10C/+14F, dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, flash on, flash off, slow synchro
+    FlashRange: 4.40 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200, 6400 available at lower resolutions
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $229
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3264 x 2448, 2048 x 1536), 3:2 (4608 x 3072, 3264 x 2176, 2304 x 1536), 16:9 (4608 x 2592, 3264 x 1840, 1920 x 1080), 1:1 (3456 x 3546, 2432 x 2432, 1728 x 1728)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Sunset
+        - Snow
+        - Beach
+        - Underwater
+        - Underwater (Macro)
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, group)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 96MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 203 g (0.45 lb / 7.16 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n

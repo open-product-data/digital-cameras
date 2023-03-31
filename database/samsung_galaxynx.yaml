@@ -1,0 +1,119 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211019224033/https://www.dpreview.com/reviews/first-impressions-review-samsung-galaxy-nx-android-camera
+ProductCode: samsung_galaxynx
+Award: ""
+ImageURL: /files/p/products/samsung_galaxynx/3a6ad199601f4a9b8b03c4733e9546e0.png
+Name: Samsung Galaxy NX
+ShortSpecs:
+    - 20 megapixels
+    - 4.8″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_galaxynx
+ReviewData:
+    ExecutiveSummary: The Samsung Galaxy NX is the world's first mirrorless interchangeable lens camera running the Android operating system. The Galaxy NX takes a 20.3 megapixel, SLR-style mirrorless camera and adds 3G, 4G LTE and Wi-Fi, connectivity and Android 4.2 (Jelly Bean). The camera sports a gigantic 4.8" HD LCD touchscreen - via which you'll control nearly all camera functions.
+    ProductPhotos:
+        - /files/p/products/samsung_galaxynx/shots/ef28fd035ed5494eb72735b3f2ed7f82.png
+        - /files/p/products/samsung_galaxynx/shots/ca5f55c470ad4d92a61dae5a2711dd51.png
+    ReviewSummary: null
+    ASIN:
+        - B00FB2X0B8
+        - B00FB2X09K
+Specs:
+    AEBracketing: ""
+    Announced: Jun 20, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion battery
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-Up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 137 x 101 x 26 mm (5.39 x 3.98 x 1.02″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, 1st/2nd Curtain, Smart Flash, Manual
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: GPS + GLONASS
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/6000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 5472 x 3080, 3888 x 2592, 3712 x 2088, 3648 x 3648, 2976 x 1984, 2944 x 1656, 2640 x 2640, 2688 x 1512, 2000 x 2000, 1728 x 1152, 1920 x 1080, 1024 x 1024
+    Processor: DRIMe IV
+    RemoteControl: ""
+    Resolutions: 1920 x 1080, 1280 x 720, 640 x 480, 320 x 240
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Nov 12, 2013"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 4.8″
+    ScreenType: HD TFT LCD
+    SelfTimer: Yes (2 sec to 30 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 16GB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 495 g (1.09 lb / 17.46 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

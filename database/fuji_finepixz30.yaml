@@ -1,0 +1,93 @@
+ProductCode: fuji_finepixz30
+Award: ""
+ImageURL: /files/p/products/fuji_finepixz30/3d529b205caf425eb77d924fddbc6574.png
+Name: Fujifilm FinePix Z30
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixz30
+ReviewData:
+    ExecutiveSummary: Fujifilm's first waterproof digital camera has a slim, curvy 20mm-thick body and not unpleasant styling. Spec-wise it's pretty standard fare, with a 10MP sensor, 3x optical zoom and a 2.7" LCD and all the latest easy-to-use features and is available in a range of striking colors. Waterproof to 3 meters for up to 2 hours the FinePix Z33WP also sports large rubberized buttons and a small grip to avoid losing it in the surf.
+    ProductPhotos:
+        - /files/p/products/fuji_finepixz30/shots/4453396159574ffbb3853812c31a7bba.png
+        - /files/p/products/fuji_finepixz30/shots/c0a1aae1b3484dcdb15c68f392448268.png
+        - /files/p/products/fuji_finepixz30/shots/99711e8126b048b6bdeb12e7e19ad342.png
+        - /files/p/products/fuji_finepixz30/shots/95bd2b3566404a578702b386a73f702c.png
+        - /files/p/products/fuji_finepixz30/shots/81bf57d98b34436c8c29bfe4921205d8.png
+    ReviewSummary: null
+    ASIN:
+        - B0034D3K7K
+        - B001QEPR5M
+        - B001R23JNA
+Specs:
+    Announced: Feb 17, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-45 Li Ion battery
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 91 x 59 x 21 mm (3.58 x 2.32 x 0.83″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 3.10 m
+    FocalLengthEquiv: 35–105 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "No"
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.7–4.2
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 3 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 2592 x 1944, 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 50 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 110 g (0.24 lb / 3.88 oz)
+    WhiteBalancePresets: "6"

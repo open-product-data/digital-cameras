@@ -1,0 +1,76 @@
+ProductCode: oly_d630z
+Award: ""
+ImageURL: /files/p/products/oly_d630z/499f3ec82a3145acb0fff52e75f153a1.png
+Name: Olympus D-630 Zoom (FE-5500)
+ShortSpecs:
+    - 5 megapixels
+    - 2″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d630z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 17, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 61 x 24 mm (3.7 x 2.4 x 0.94″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow-sync, Slow-sync red-eye
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 35–105 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (64 - 320
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super High, High Quality
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2560 x 1920
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 14 MB Internal
+    StorageTypes: xD Picture Card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: "5"

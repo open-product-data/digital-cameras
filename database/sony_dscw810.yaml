@@ -1,0 +1,126 @@
+ProductCode: sony_dscw810
+Award: ""
+ImageURL: /files/p/products/sony_dscw810/eefdd293db334c34a78d87332838a48a.png
+Name: Sony Cyber-shot DSC-W810
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 26 – 156 mm (6×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw810
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new Cyber-shot DSC-W810 features a high-resolution 20.1 MP CCD sensor paired with a versatile 6x zoom lens, allowing it to shoot detailed still images and 720p HD videos. The addition of new Party Mode means that the camera automatically adjusts settings for shots in challenging light conditions meaning that those magic moments are captured forever.'
+    ProductPhotos:
+        - /files/p/products/sony_dscw810/shots/f02c3af2d3794a5582ebb1628a425dbd.png
+    ReviewSummary: null
+    ASIN:
+        - B00M9GW22W
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BN lithium-ion battery and USB charger
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $274.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 97 x 56 x 21 mm (3.82 x 2.2 x 0.83″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program Auto
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, on, slow synchro, off, advanced flash
+    FlashRange: 3.20 m (with Auto ISO)
+    FocalLengthEquiv: 26–156 mm
+    Format: H.264
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 80 - 3200
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $100 / £99
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.5–6.5
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 6×
+    OrientationSensor: ""
+    OtherResolutions: 5152 x 2896, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Soft snap
+        - Soft Skin
+        - Landscape
+        - Night Portrait
+        - Night Scene
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Pet mode
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: Clear Photo LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 111 g (0.24 lb / 3.92 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

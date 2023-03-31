@@ -1,0 +1,140 @@
+ProductCode: nikon_j2
+Award: ""
+ImageURL: /files/p/products/nikon_j2/1dd7d9a430db42f5b60efe57fd51679e.png
+Name: Nikon 1 J2
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_j2
+ReviewData:
+    ExecutiveSummary: The Nikon 1 J2 presents some modest updates to its Nikon 1 J1 predecessor. Maintaining its entry-level feature set, it offers a 10.1MP CMOS sensor of the 1"-type, providing a 2.7x crop factor. Nikon has included a higher-resolution 920,000-dot LCD, an improvement to the J1, and a host of photo features like Smart Photo Selector and Motion Snapshot, a mode that creates a moving image file alongside a still image.
+    ProductPhotos:
+        - /files/p/products/nikon_j2/shots/ea0f0251b1ba45e79f4ca7ec9c40eca5.png
+        - /files/p/products/nikon_j2/shots/79a19069536d4e62b743f000ecf26b28.png
+        - /files/p/products/nikon_j2/shots/ec6c517f07aa44418bbed6e76b0e6d77.png
+    ReviewSummary: null
+    ASIN:
+        - B008V0J13S
+        - B008V0J3V8
+        - B008V0IJ8G
+Specs:
+    AEBracketing: ""
+    Announced: Aug 9, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL20 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Metallic body
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 106 x 61 x 30 mm (4.17 x 2.4 x 1.18″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -3–5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+        - Creative Mode
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 5.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type C)
+    HeadphonePort: ""
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: 'Suggested retail price:  $549.95'
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "135"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3840 x 2160, 2896 x 1944, 1936 x 1296
+    Processor: Expeed 3
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60 fps), 1072 x 720 (60 fps) 640 x 240 (400), 320 x 120 (1200)
+    ReviewPreview: ""
+    SceneModes:
+        - Panorama
+        - Selective Color
+        - Miniature
+        - Soft
+        - Night Landscape
+        - Backlighting
+        - Night Portraits
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 238 g (0.52 lb / 8.40 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

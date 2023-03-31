@@ -1,0 +1,147 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016065349/https://www.dpreview.com/reviews/consumer-dslr-camera-roundup-2014
+ProductCode: sony_slta58
+Award: ""
+ImageURL: /files/p/products/sony_slta58/d10db8b705e249f59fb0c39ebec98fb8.png
+Name: Sony SLT-A58
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+ReviewScore: 0
+URL: /products/sony/slrs/sony_slta58
+ReviewData:
+    ExecutiveSummary: The Sony Alpha SLT-A58 is a mid-range SLT camera with a newly-developed 20MP sensor. The A58 will replace both the A37 and A57 models, helping to simplify the company's lineup. The A58 builds on the A57's feature set and gains an SVGA (800x600 pixel) OLED viewfinder, rather than its predecessors' LCDs. It also boasts a new lock-on focus mode and Auto Object Framing mode - an extension of the auto portrait mode in the A57.
+    ProductPhotos:
+        - /files/p/products/sony_slta58/shots/fc0cfe482f1a454d815855380c8f8cd9.png
+        - /files/p/products/sony_slta58/shots/2817207d01eb4256bbc7103b0d70b0fb.png
+        - /files/p/products/sony_slta58/shots/7b07f54291ef42bc8f5eaabeb22f0ef8.png
+        - /files/p/products/sony_slta58/shots/05d229596fd74e38abddd1090beab76e.png
+    ReviewSummary: null
+    ASIN:
+        - B00BF9MVMK
+        - B00C2C80W4
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Built-in Flash type
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable NP-FM500H battery & charger
+    BatteryLifeCIPA: "690"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filters
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: ""
+    Dimensions: 129 x 95 x 78 mm (5.08 x 3.74 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - iAUTO
+        - Flash Off
+        - Superior Auto
+        - Scene Selection
+        - Sweep Panorama
+        - 3D Sweep Panorama
+        - Continuous Advance Priority AE
+        - Movie, Programmed AE (P)
+        - Aperture priority (A)
+        - Shutter-speed priority (S)
+        - Manual (M)
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat:
+        - RAW
+        - RAW + JPEG
+        - JPEG Fine
+        - JPEG Standard
+    FlashModes: ""
+    FlashRange: 10.00 m (@ ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 16000 (25600 with boost)
+    ImageParameters: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: SteadyShot INSIDE
+    JPEGQualityLevels: ""
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5456 x 3632
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NumberOfFocusPoints: "15"
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Aug 25, 2014"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night View
+        - Hand-held Twilight
+    ScreenDots: 460,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 50i or 25p in PAL countries
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames, H/L selectable)
+    WeightIncBatteries: 492 g (1.08 lb / 17.35 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

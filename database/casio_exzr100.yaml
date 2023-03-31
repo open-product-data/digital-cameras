@@ -1,0 +1,103 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107200411/https://www.dpreview.com/reviews/q311travelzoomgrouptest/
+ProductCode: casio_exzr100
+Award: ""
+ImageURL: /files/p/products/casio_exzr100/c50fa6bd566e492999915367ad602b53.png
+Name: Casio Exilim EX-ZR100
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 300 mm (12.5×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exzr100
+ReviewData:
+    ExecutiveSummary: Casio's EX-ZR100 is the flagship model of its Exilim series of compacts for 2011. Together with a 12.1Mp back-illuminated CMOS sensor and dual core processor equipped Exilim Engine HS the camera is capable of full 1080p HD video recording at 30fps, 1000fps high speed movie recording and 3fps full resolution continuous shooting. Other features include image stabilization, AF tracking, SDXC compatibility and HD output.
+    ProductPhotos:
+        - /files/p/products/casio_exzr100/shots/cd0b9ac72565449f9650ca2f459a7aad.png
+        - /files/p/products/casio_exzr100/shots/cd6abe0fa75140af995d5653cdbd7c00.png
+        - /files/p/products/casio_exzr100/shots/6bc037c736404995929130323c5c16a5.png
+    ReviewSummary: null
+    ASIN:
+        - B004T45I0K
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 40.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 105 x 59 x 29 mm (4.13 x 2.32 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye
+    FlashRange: ""
+    FocalLengthEquiv: 24–300 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    OpticalZoom: 12.5×
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 2560 x 1920, 640 x 480
+    Processor: Exilim Engine HS
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 432 x 320 (30, 240 fps), 224 x 64 (480, 1000 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Jul 20, 2011"
+    SceneModes: ""
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: Super Clear TFT color LCD
+    SelfTimer: Yes (2 or 10 seconds, Triple)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: TBA
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 204 g (0.45 lb / 7.20 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

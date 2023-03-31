@@ -1,0 +1,124 @@
+ProductCode: casio_zr5000
+Award: ""
+ImageURL: /files/p/products/casio_zr5000/c16800b58fec417295dafdc2a4778cf0.png
+Name: Casio EX-ZR5000
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 19 – 95 mm (5×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_zr5000
+ReviewData:
+    ExecutiveSummary: The Exilim EX-ZR5000 features a 12MP, 1/1.7" sensor and an ultra-wide 19-95mm equivalent F2.7-6.4 lens. Its 3" LCD can tilt upward 180 degrees for selfies. It offers full manual controls, Raw support and 1080/60p video capture. The ZR5000 also has Wi-Fi + Bluetooth for sharing photos via a smartphone.
+    ProductPhotos:
+        - /files/p/products/casio_zr5000/shots/64294a1ba1f04156bf828b3afefb39c2.png
+        - /files/p/products/casio_zr5000/shots/3ff082f339ae4c9e8bdd78d183ac2cb8.png
+        - /files/p/products/casio_zr5000/shots/1b3367f5d9714dd59548cafcf727973d.png
+    ReviewSummary: null
+    ASIN:
+        - B01LZEL3CG?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LZEL3CG
+Specs:
+    Announced: Sep 9, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-130A lithium-ion battery & USB charger
+    BatteryLifeCIPA: "430"
+    BodyMaterial: Composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $391.29
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 108 x 62 x 38 mm (4.25 x 2.44 x 1.5″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG)
+    FlashModes: Auto, flash off, flash on, redeye reduction
+    FlashRange: 4.30 m (with Auto ISO)
+    FocalLengthEquiv: 19–95 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-6400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.7–6.4
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/20000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 1920 x 1080 @ 30p / 14 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 11 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Exilim Engine HS 3
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, selfie timer, triple timer)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 27.6MB
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 249 g (0.55 lb / 8.78 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.0

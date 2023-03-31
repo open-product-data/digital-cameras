@@ -1,0 +1,152 @@
+ProductCode: leica_cl
+Award: ""
+ImageURL: /files/p/products/leica_cl/58874d8fe7f24327aa9ce90234e08a07.png
+Name: Leica CL
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_cl
+ReviewData:
+    ExecutiveSummary: The Leica CL is a compact APS-C mirrorless camera that uses the company's L-mount. It has a solid metal body with a touchscreen LCD, customizable twin dials and a 2.36M-dot EVF. The camera saves its Raw files in the industry-standard DNG format, has an ISO range of 100-50000 and shoots at up to 10 fps. It can capture 4K/30p video and offers Wi-Fi for transferring photos to a smartphone. Note that it does not have HDMI or USB ports.
+    ProductPhotos:
+        - /files/p/products/leica_cl/shots/7d60a67e909d4f9fa65de3899b1579d7.png
+        - /files/p/products/leica_cl/shots/b289f7648db544798cad42dc88caef29.png
+        - /files/p/products/leica_cl/shots/d73f0915e71e475bb1e66fcf23392f8b.png
+        - /files/p/products/leica_cl/shots/e0beb8fb90254c95be305f9ab8be902f.png
+    ReviewSummary: null
+    ASIN:
+        - B07841YHRM
+        - B077NFJVGD
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Nov 21, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC12 lithium ion battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $3,995.00 - $6,995.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: ""
+    Dimensions: 131 x 78 x 45 mm (5.16 x 3.07 x 1.77″)
+    DriveModes:
+        - Single
+        - Continuous low/med/high
+        - Interval
+        - Exposure bracketing
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $2795 (body only), $3795 (w/18mm lens), $3995 (w/18-56mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 6014 x 4014
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/25000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MP4, H.264, Linear PCM
+        - 1280 x 720 @ 30p, MP4, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Maestro II
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - sport
+        - portrait
+        - landscape
+        - night portrait
+        - snow/beach
+        - fireworks
+        - candlelight
+        - sunset
+        - digiscoping
+        - miniature
+        - panorama
+        - HDR
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.6 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.11× (0.74× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 403 g (0.89 lb / 14.22 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

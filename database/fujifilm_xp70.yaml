@@ -1,0 +1,129 @@
+ProductCode: fujifilm_xp70
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp70/0cbeaa18db2548f7aa77f2c2454ba41a.png
+Name: FinePix XP70
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp70
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The FinePix XP70 rugged digital camera is waterproof to 33ft., shockproof from 5ft., freezeproof to 14°F and dustproof.  It also  features a 16MP CMOS high speed sensor with a 5x 28-140mm*2 optical zoom, WiFi connectivity for one touch transfers to smartphones and tablets, and captures full HD movies at 1080p, even underwater.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp70/shots/546750dd5d904a47ad1e0f7d4a6f00cd.png
+    ReviewSummary: null
+    ASIN:
+        - B00HGE3CZS
+        - B00HGE7MPO
+        - B00HGE3D2K
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-45S lithium-ion battery and USB charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2X)
+    Dimensions: 104 x 67 x 26 mm (4.09 x 2.64 x 1.02″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (waterproof (10m), shockproof (1.5m), freezeproof (-10C))
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3)
+    FlashModes: Auto, forced flash, flash off, slow synchro
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 100 - 6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $229.95
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2432 x 2432, 2048 x 1536, 2304 x 1536, 1920 x 1080, 1728 x 1728
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30p/60p), 1280 x 720 (60p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Action Camera mode, Natural Light and Flash mode, Dynamic Range/HDR, Pro Low Light Mode,  360 Panorama, Underwater, Underwater Macro
+    ScreenDots: 460,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 18 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 99MB
+    StorageTypes: SC/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 179 g (0.39 lb / 6.31 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n

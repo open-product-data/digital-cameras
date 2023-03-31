@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211019075658/https://www.dpreview.com/reviews/sony-cyber-shot-dsc-hx200v
+ProductCode: sony_dschx200v
+Award: ""
+ImageURL: /files/p/products/sony_dschx200v/f274c9cfc5654e3a81f3ec659c90bceb.png
+Name: Sony Cyber-shot DSC-HX200V
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 27 – 810 mm (30×)
+ReviewScore: 72
+URL: /products/sony/compacts/sony_dschx200v
+ReviewData:
+    ExecutiveSummary: The 18MP Sony Cyber-shot DSC-HX200V is a high-end superzoom camera that does just about everything imaginable. Whether you're talking about its built-in GPS, 360 degree panorama maker, 10 fps burst shooting, instant HDR photos, or 1080/60p videos, the HX200V has nearly every bell and whistle ever created. To top it off, the HX200V has one of the most powerful zoom lenses (30X, 27-810mm equivalent) available in any camera of this type. Image quality is perfectly acceptable for this class, but falls down when examined critically. The HX200's big wins though are it's all-round performance and feature set (not to mention its huge zoom lens), which add up to a really fun-to-use camera.
+    ProductPhotos:
+        - /files/p/products/sony_dschx200v/shots/0014437a5cd044f2ac22763950669966.png
+        - /files/p/products/sony_dschx200v/shots/648e5cc4988b4d4c8fe6ec28898ccdcc.png
+        - /files/p/products/sony_dschx200v/shots/5184cf4f5dd44f5eb4f02c3a64cfaf57.png
+    ReviewSummary:
+        GoodFor: Photographers looking for an enormous zoom range, a built-in GPS, multi-exposure features for low light shooting. and top-notch video quality.
+        NotSoGoodFor: Those who make very large prints, desire RAW, take a lot of people pictures (due to redeye), or desire manual controls in movie mode.
+        Conclusion: The Cyber-shot DSC-HX200V has virtually every feature imaginable for a super zoom camera, most of which allow you to take shots that were otherwise impossible. The image quality isn't great when viewed at 100%, but for most people, it's more than adequate.
+    ASIN:
+        - B006K551TO
+Specs:
+    AEBracketing: ""
+    Announced: Feb 28, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FH50 battery and charger
+    BatteryLifeCIPA: "450"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (2x)
+    Dimensions: 122 x 87 x 93 mm (4.8 x 3.43 x 3.66″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Superior Auto
+        - Intelligent Auto
+        - Easy Shooting
+        - Program Auto, w/Program Shift
+        - Movie Mode
+        - Panorama
+        - Shutter Speed Priority
+        - Aperture Priority
+        - Manual Exposure
+        - Scene Selection
+        - Picture Effect
+        - 3D
+        - Background Defocus
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync, Rear Slow Sync
+    FlashRange: 12.40 m
+    FocalLengthEquiv: 27–810 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: with GPS Log Recording function
+    HDMI: Yes (Mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, 4000, 5000, 6400, 8000, 10000, 12800
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: Approx. $480
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 1080, 4896 x 2752, 3648 x 2736, 3424 x 1920, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (60, 30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "72%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 11, 2012"
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Anti Motion Blur
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Advanced Sports Shooting
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: XtraFine TruBlack TFT LCD
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 105 MB
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 583 g (1.29 lb / 20.56 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

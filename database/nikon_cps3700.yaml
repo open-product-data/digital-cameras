@@ -1,0 +1,114 @@
+ProductCode: nikon_cps3700
+Award: ""
+ImageURL: /files/p/products/nikon_cps3700/39f082fab27345aa91076554844b9d48.png
+Name: Nikon Coolpix S3700
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 25 – 200 mm (8×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps3700
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The S3700 has an elegant, compact body with a depth of approximately 20.1 mm. It offers an effective pixel count of 20.1-million pixels, and is equipped with an 8x optical zoom NIKKOR lens that covers the wide-angle 25 mm to telephoto 200 mm angles of view (equivalent focal lengths in 35mm [135] format), and utilizes Dynamic Fine Zoom to increase zoom capability up to approximately 16x. It is equipped with a variety of advanced functions suited to portrait photography, including Smart Portrait mode, which offers an array of effects that users can enjoy applying prior to shooting, as well as Glamour Retouch, which allows users to add various effects that enhance the faces of human subjects after images are captured. In addition, built-in Wi-Fi and NFC support allow users to easily transfer images to a smart device. This means that users can not only preserve beautiful images of vacations and special events, but it expands the ways in which they enjoy connecting with others.'
+    ProductPhotos:
+        - /files/p/products/nikon_cps3700/shots/6604957a45da4fefb28515e5f45ed918.png
+    ReviewSummary: null
+    ASIN:
+        - B00T85PUJY
+        - B00T85PXHI
+        - B00T85Q0MA
+Specs:
+    AEBracketing: ""
+    Announced: Jan 14, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL19 lithium-ion battery & charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Aluminum alloy
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: 96 x 58 x 20 mm (3.78 x 2.28 x 0.79″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF-compliant)
+    FlashModes: ""
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 25–200 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $139
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.7–6.6
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 510 x 2880, 3864 x 3864, 3848 x 2736, 2272 x 1704, 1600 x 1200, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1280 x 720 (30p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 25MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 118 g (0.26 lb / 4.16 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

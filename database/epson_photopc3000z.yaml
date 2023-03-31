@@ -1,0 +1,81 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220528185931/https://www.dpreview.com/reviews/epsonphotopc3000z
+ProductCode: epson_photopc3000z
+Award: average
+ImageURL: /files/p/products/epson_photopc3000z/b81b2d269d5f4291a268e120120d713a.png
+Name: Epson PhotoPC 3000 Zoom / Epson C900Z
+ShortSpecs:
+    - 3 megapixels
+    - 1.8″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopc3000z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: May 4, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 107 x 88 x 65 mm (4.21 x 3.46 x 2.56″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/5 EV, 1/2 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Off, Red-eye reduction, Slow Sync, Ext
+    FlashRange: ""
+    FocalLengthEquiv: 34–102 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: HyPict, TIFF, Super Fine, Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (3 steps)
+    MaxResolution: 2048 x 1536
+    MaximumAperture: F2–8
+    MaximumShutterSpeed: 1/750 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: 15fps, 25 esc, audio
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 4, 2000"
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash (Type I only)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (10s - 24hours)
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 360 g (0.79 lb / 12.70 oz)
+    WhiteBalancePresets: "3"

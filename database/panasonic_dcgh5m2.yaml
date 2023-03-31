@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220104032339/https://www.dpreview.com/reviews/panasonic-lumix-dc-gh5-ii-review
+ProductCode: panasonic_dcgh5m2
+Award: silver
+ImageURL: /files/p/products/panasonic_dcgh5m2/c5b247fff1644baf8e172d0301c49c50.png
+Name: Panasonic Lumix DC-GH5 II (Lumix DC-GH5M2)
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 85
+URL: /products/panasonic/slrs/panasonic_dcgh5m2
+ReviewData:
+    ExecutiveSummary: The Panasonic GH5 II (GH5M2) is an updated version of the original that adds new video features, improved autofocus, and a new coating on its 20MP sensor to reduce flare and ghosting. The design and in-body image stabilization are unchanged. New autofocus algorithms allow for faster acquisition, face/eye/body/head detection, and improved tracking.The GH5 II can capture 10-bit 4:2:0 4K/60p footage while simultaneously outputting 10-bit 4:2:2 to an external recorder. Since the camera uses the whole area of the sensor, there is no crop at 4K/60p. The V-Log L gamut is built into the camera, and numerous LUTs for VariCam color profiles can be installed, and two Cinelike gammas are also onboard. The camera supports anamorphic and Full HD 120 fps capture. The camera can also live-stream video over YouTube at up to 1080/60p via a smartphone connection.The GH5 II's body is made of a magnesium alloy body and is weather-sealed and functions down to -10°C/+14°F. It has two SD card slots, both of which support UHS-II speeds. A new battery allows for longer shooting times, and USB PD support lets you power the camera using a laptop charger or portable power device.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgh5m2/shots/d95943f80c4846d2ac6b6e8da30e2d80.png
+        - /files/p/products/panasonic_dcgh5m2/shots/8962c448c04146b096f98877d5b4be3c.png
+        - /files/p/products/panasonic_dcgh5m2/shots/e5be5b6830ac4b59b6d2fdcec280e5f5.png
+        - /files/p/products/panasonic_dcgh5m2/shots/762ae211a8754ec3a970a5d44759050a.png
+        - /files/p/products/panasonic_dcgh5m2/shots/c3b556f54600494798980401ac0e7a20.png
+        - /files/p/products/panasonic_dcgh5m2/shots/518688ccbc7d4db881c02f8bd13f782d.png
+        - /files/p/products/panasonic_dcgh5m2/shots/8f11237046e3444796ef747f63d589f3.png
+    ReviewSummary:
+        GoodFor: 4K capture in a range of circumstances
+        NotSoGoodFor: Run-and-gun shooting relying on autofocus
+        Conclusion: The GH5 II adds a fewer feature enhancements to one of the strongest stills/video cameras on the market. Autofocus is improved but is still a weak point for 24p video capture, taking the gloss of what's otherwise a superlative video camera. Excellent image stabilization and a broad range of video support tools still make it one of the strongest options for 4K shooting under $3000.
+    ASIN:
+        - B0942SJF1X
+        - B0942S3CZX
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: May 25, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLK22 lithium-ion battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,297.99
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 139 x 98 x 87 mm (5.47 x 3.86 x 3.43″)
+    DriveModes:
+        - Single, continuous, 6K photo, focus bracketing, self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (Full size)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1699 (body only), $2299 (w/12-60mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via cable release or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 28, 2021"
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC (UHS-II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.52× (0.76× 35mm equiv.)
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 727 g (1.60 lb / 25.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth 4.2 LE

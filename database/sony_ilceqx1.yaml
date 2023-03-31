@@ -1,0 +1,130 @@
+ProductCode: sony_ilceqx1
+Award: ""
+ImageURL: /files/p/products/sony_ilceqx1/e8ee8ad7592a4c44964c754ea5456949.png
+Name: Sony QX1
+ShortSpecs:
+    - 20 megapixels
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_ilceqx1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new E-mount ILCE-QX1 model is the world’s first lens-style camera that gives photography enthusiasts a whole new way to take advantage of their Alpha Mount System  lens collection.  Compatible with Sony’s growing range of E-mount lens offerings including zoom, portrait, wide-angle, macro and more, the new QX1 camera features a built-in 20.1 megapixel APS-C size Exmor CMOS sensor that grabs huge amounts of detail for landscape shots and beautiful ‘bokeh’ background defocus.  It’s teamed with Sony’s advanced BIONZ X processor that now features improved area-specific noise reduction for stunning low-light images.  The unique new QX1 camera features a wealth of other premium features, including Superior Auto, RAW image shooting and a pop-up flash to brighten up portraits in backlight situation, gloomy interiors and night scenes.'
+    ProductPhotos:
+        - /files/p/products/sony_ilceqx1/shots/fa37e8c156a246b7825dbaf93217a6a7.png
+        - /files/p/products/sony_ilceqx1/shots/b5208b087a0441a5b95bcbec897e50a0.png
+        - /files/p/products/sony_ilceqx1/shots/9dc28560cf144d889749462a914b233f.png
+        - /files/p/products/sony_ilceqx1/shots/3af60d78df3f4359aa5cd16cda4975ed.png
+    ReviewSummary: null
+    ASIN:
+        - B00N3K7NF4
+Specs:
+    AEBracketing: ""
+    Announced: Sep 3, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50
+    BatteryLifeCIPA: "440"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2X Clear Image Zoom)
+    Dimensions: 74 x 70 x 53 mm (2.91 x 2.76 x 2.09″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Speed priority continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Superior Auto
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF v2.0, EXIF v2.3)
+        - Raw (Sony ARW 2.3)
+    FlashModes: Off, auto, fill, slow sync, rear sync
+    FlashRange: 4.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100 - 16000
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Normal
+    LensMount: Sony E
+    LiveView: Yes (via smartphone)
+    MSRP: $400
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5456 x 3632
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 5456 x 3064, 3872 x 2576, 3872 x 2176, 2736 x 1824, 2736 x 1536
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: Depends on connected smartphone
+    SelfTimer: Yes (2, 10 secs)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: APS-C (23.2 x 15.4 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: microSD, microSDHC, microSDXC, Memory Stick Micro
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (via smartphone)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 216 g (0.48 lb / 7.62 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

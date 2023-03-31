@@ -1,0 +1,124 @@
+ProductCode: oly_epl1s
+Award: ""
+ImageURL: /files/p/products/oly_epl1s/54d89feb836340589a9f5ae8b0faa033.png
+Name: Olympus PEN E-PL1s
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/oly_epl1s
+ReviewData:
+    ExecutiveSummary: Essentially just an E-PL1 with a slightly higher capacity battery, the E-PL1s also introduced the latest version of Olympus's budget Micro Four Thirds kit lens, the collapsable 14-42mm f/3.5-5.6 II.
+    ProductPhotos:
+        - /files/p/products/oly_epl1s/shots/e12fdf530a194b9388a531a1f9016850.png
+        - /files/p/products/oly_epl1s/shots/54ada8e5da7543889b10ba5d8e10e9b7.png
+        - /files/p/products/oly_epl1s/shots/2b5781c5eec446079b8a30b9345496eb.png
+    ReviewSummary: null
+    ASIN:
+        - B004CJ844Y
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Nov 16, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BLS-1 rechargeable battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 115 x 72 x 42 mm (4.53 x 2.83 x 1.65″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync, Manual (3 levels)
+    FlashRange: 10.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-C)
+    HeadphonePort: ""
+    ISO: Auto ISO (200 - 6400), Manual ISO (100 - 6400), 1/3 or 1 EV steps
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4032 x 3024
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "No"
+    OtherResolutions: 3200 x 2400, 2560 x 1920,  1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: Truepic V
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: HyperCrystal LCD AR (Anti-Reflective) coating
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 334 g (0.74 lb / 11.78 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

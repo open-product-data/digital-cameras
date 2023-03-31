@@ -1,0 +1,106 @@
+ProductCode: casio_exh10
+Award: ""
+ImageURL: /files/p/products/casio_exh10/9f00039395a04300abbd13e659e7bcda.png
+Name: Casio Exilim EX-H10
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exh10
+ReviewData:
+    ExecutiveSummary: Casio's first ultra-compact superzoom, the Exilim EX-H10 comes with a 10x optical zoom lens starting at an extremely wide 24mm equivalent packed in a compact body. Its battery can shoot an impressive 1000 images on a single charge (using standard CIPA tests). The 12.1MP camera also has a 3.0" LCD and features such as Auto Best Shot and Make-up Shot.
+    ProductPhotos:
+        - /files/p/products/casio_exh10/shots/7c2419858448478a9fef37499eba0439.png
+        - /files/p/products/casio_exh10/shots/d7d11b5821e84fb99d39feaa426f88c1.png
+        - /files/p/products/casio_exh10/shots/f17792a1bfe14a77b92c1f171a22938f.png
+        - /files/p/products/casio_exh10/shots/2fbf7c4e1823496b96c12552c2f95a04.png
+    ReviewSummary: null
+    ASIN:
+        - B002KPGMXW
+Specs:
+    AEBracketing: ""
+    Announced: Jun 11, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-90 rechargeable battery & charger
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 102 x 62 x 24 mm (4.02 x 2.44 x 0.94″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 24–240 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.2–5.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Triple)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 35.7 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 194 g (0.43 lb / 6.84 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected

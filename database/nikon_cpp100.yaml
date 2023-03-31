@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220129071637/https://www.dpreview.com/reviews/q110superzoomgroup
+ProductCode: nikon_cpp100
+Award: silver
+ImageURL: /files/p/products/nikon_cpp100/b35a05891728453eb11e3189f4ee7177.png
+Name: Nikon Coolpix P100
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 26 – 678 mm (26.1×)
+ReviewScore: 70
+URL: /products/nikon/compacts/nikon_cpp100
+ReviewData:
+    ExecutiveSummary: The Coolpix P100 is the company's first Full 1080p HD enabled camera. It incorporates a 26x optical zoom lens starting at 26mm, a 3 inch LCD, an electronic viewfinder and a 10MP back-illuminated CMOS sensor. It offers manual shooting modes, image stabilization, the company's Active D-Lighting feature that adjusts highlights, shadows and contrast while shooting and Smart Portrait system.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp100/shots/e87c98097aed4a1f96af3ff5a6a0680a.png
+        - /files/p/products/nikon_cpp100/shots/c14920d9c713436d89777b5d8b248c8f.png
+        - /files/p/products/nikon_cpp100/shots/77af983a29d84b5ab7eef761439cef34.png
+        - /files/p/products/nikon_cpp100/shots/ff6551b16af34dbda679d1eda90edc9b.png
+        - /files/p/products/nikon_cpp100/shots/950b36037cd44e609c02e612faef704f.png
+        - /files/p/products/nikon_cpp100/shots/bfbf9ede98c6424083d6abee8b828547.png
+        - /files/p/products/nikon_cpp100/shots/f4a14dfff57b4902ad7a8b3305d50303.png
+    ReviewSummary:
+        GoodFor: Feature freaks who want a long zoom, 1080p HD video and CMOS high speed capture
+        NotSoGoodFor: Photographers who like to change settings frequently
+        Conclusion: The Nikon P100 offers an impressive feature set and decent image quality. The user interface leaves some room for improvement though.
+    ASIN:
+        - B0034XFG86
+Specs:
+    AEBracketing: ""
+    Announced: Feb 3, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion EN-EL5 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes ((Pop-Up))
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 114 x 83 x 99 mm (4.49 x 3.27 x 3.9″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow Syncro
+    FlashRange: ""
+    FocalLengthEquiv: 26–678 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto (80 - 3200)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 26.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3584 x 2016, 2592 x 1944, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x480
+    Processor: Expeed C2
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "70%Silver Award\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jul 6, 2010"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 to 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 43 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 481 g (1.06 lb / 16.97 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,132 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211108163026/https://www.dpreview.com/reviews/olympuse30/
+ProductCode: oly_e30
+Award: highlyRecommended
+ImageURL: /files/p/products/oly_e30/6e6d53938eb34d6abfe17a33bd34ec70.png
+Name: Olympus E-30
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - Four Thirds sensor
+ReviewScore: 71
+URL: /products/olympus/slrs/oly_e30
+ReviewData:
+    ExecutiveSummary: The mid-range Olympus E-30 features a 12MP Live MOS sensor and 2.7"" tilt and swivel LCD. It also incorporates Live View with Contrast AF, Image Stabilization, 5fps continuous shooting and shutter speeds of up to 1/8000th sec. The E-30 also introduced the world to Olympus's 'Art Filters'. Other features include Multiple Exposure mode and a choice of 9 aspect ratios. The E-30 is packed to bursting with features; some (in-body IS, articulated screen) you'll appreciate every day, others (live view magnification that actually shows something useful, digital 'spirit level') that will prove more useful to some than others, and a lot (Art Filters, Multiple Exposures, some of the Aspect Ratio options) that veer dangerously close to novelty status, especially on a camera at this level. As for picture quality, again there's a lot to like - even if there are also a few weak areas. The JPEG quality is superb, with excellent dynamic range and a slightly more subtle approach to color and contrast than we're used to from Olympus, giving results that look great 'out of the can' but respond well to post processing too.
+    ProductPhotos:
+        - /files/p/products/oly_e30/shots/3918899389824483ae27a935b771a207.png
+        - /files/p/products/oly_e30/shots/8ee2038f4d5145479a53c1449dfe676a.png
+        - /files/p/products/oly_e30/shots/55e9ffbaafc84e2f8289d9be8f11bdd1.png
+        - /files/p/products/oly_e30/shots/e920158a477f451c811a7bb9acf50fe1.png
+    ReviewSummary:
+        GoodFor: Existing 4/3 users wanting the best body they can get, enthusiast photographers shooting in decent light
+        NotSoGoodFor: Low light work, movie makers
+        Conclusion: The E30 takes all that's good about the pro-level E3 (build quality aside) and throws in some cool new features for good measure. It's a lovely camera and the spec is certainly impressive, as is the image quality (helped by some excellent lens options). The problem is that its price and positioning put it into direct competition with some of the best cameras on the market today, and in that context, it struggles to stand out from the crowd.
+    ASIN:
+        - B001K3JPRA
+        - B001QWTMOG
+Specs:
+    AEBracketing: (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Nov 5, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BLM-1 Lithium-Ion rechargeable battery
+    BatteryLifeCIPA: "750"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 142 x 108 x 75 mm (5.59 x 4.25 x 2.95″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, Manual, Fill, Red-eye reduction, Slow sync with red-eye reduction, Slow sync, Slow sync 2nd curtain, Off
+    FlashRange: 13.00 m
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (200-3200), 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1600, 2000, 2500, 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Standard, High, Super High
+    LensMount: Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4032 x 3024
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 2400, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: TruePic III+
+    RemoteControl: Yes (Optional RM-UC1)
+    Resolutions: ""
+    ReviewPreview: "71%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 24, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: HyperCrystal II LCD
+    SelfTimer: Yes (12 or 2 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II) / xD Picture Card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 98%
+    ViewfinderMagnification: 1.02× (0.51× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 695 g (1.53 lb / 24.52 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

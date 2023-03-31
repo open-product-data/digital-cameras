@@ -1,0 +1,128 @@
+ProductCode: oly_sp100
+Award: ""
+ImageURL: /files/p/products/oly_sp100/ccbbddbe602a456ba456736ba28fb458.png
+Name: Olympus Stylus SP-100
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1200 mm (50×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sp100
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Stylus SP-100 is the world’s first-ever camera with a built-in dot-sight, enabling you to easily track moving subjects, like a soccer game or a flying bird. This technology will allow you to record smoother videos and will help you to not lose sight of your subject. Once the subject is still, then you can frame and shoot. The dot-sight combines with the SP-100’s newly developed 24-1200mm, 50x optical Ultra Zoom lens, or 2400mm 100x Super Resolution zoom, for capturing detailed shots of moving, distant subjects.'
+    ProductPhotos:
+        - /files/p/products/oly_sp100/shots/90f2a5bae9c44cc39c7c2b111da441c5.png
+        - /files/p/products/oly_sp100/shots/f602139e9f9f4a078e3cb23b6850951a.png
+        - /files/p/products/oly_sp100/shots/ab9c912d92cf4d708475bba33bf56236.png
+        - /files/p/products/oly_sp100/shots/2bd53523cf3646379cacf0761e1d1cef.png
+        - /files/p/products/oly_sp100/shots/3d210f69632d460ca7b4e61c431b0549.png
+    ReviewSummary: null
+    ASIN:
+        - B00HPQ0A66
+Specs:
+    Announced: Jan 29, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LI-92B lithium-ion battery and charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2x Super Resolution zoom, 4x digital zoom)
+    Dimensions: 122 x 91 x 133 mm (4.8 x 3.6 x 5.25″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - iAuto
+        - Program Auto
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Super macro
+        - Scene
+        - Art Filters
+        - Panorama
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, Red Eye Reduction, Fill-in, Off
+    FlashRange: ""
+    FocalLengthEquiv: 24–1200 mm
+    Format: H.264
+    GPS: None
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 125-6400 (extends to 12800)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $399.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: 1/1700 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 50×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, e-Portrait, Landscape, Interval Shooting, Hand-Held Starlight, Night Scene, Night + Portrait,  Sport, Indoor, Self Portrait, Sunset, Fireworks, Cuisine, Documents, Beach & Snow, Super Macro, Backlight HDR
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 37MB
+    StorageTypes: SD/SDHC/SDXC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 'High speed: 120 fps (640 x 480), 240 fps (432 x 324)'
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 594 g (1.31 lb / 20.95 oz)
+    WhiteBalancePresets: ""
+    Wireless: Optional
+    WirelessNotes: via Toshiba FlashAir card

@@ -1,0 +1,102 @@
+ProductCode: sony_dscw380
+Award: ""
+ImageURL: /files/p/products/sony_dscw380/6ea4141025b144a9b931b0d04ec0804b.png
+Name: Sony Cyber-shot DSC-W380
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw380
+ReviewData:
+    ExecutiveSummary: The DSC-W380 is a 14.1  megapixel camera with a useful f/2.4-5.9, 26-104mm equiv. zoom lens and a 2.7" screen.You get an interesting blend of features inlcuding, a Sweep Panorama mode, in-camera editing features and standard HD video recording.
+    ProductPhotos:
+        - /files/p/products/sony_dscw380/shots/af4d4b6d521e43e69200b31b18030fec.png
+        - /files/p/products/sony_dscw380/shots/cbb675ff8a554878965e7dd41c8fb30a.png
+        - /files/p/products/sony_dscw380/shots/2586184fde3d4f8bb23b71d2c54990d3.png
+        - /files/p/products/sony_dscw380/shots/8232a572c42c4df7816be22391e04fe1.png
+        - /files/p/products/sony_dscw380/shots/6d689ca7400e47058d410c9801f04941.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (10x)
+    Dimensions: 91 x 52 x 20 mm (3.58 x 2.05 x 0.79″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 4.80 m
+    FocalLengthEquiv: 24–120 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.4–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2432, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x 480
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 sec or 10 sec, portrait1/portrait2)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 45 MB Internal
+    StorageTypes: SD/SDHC, Memory Stick Duo / Pro Duo / Pro HG-Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 117 g (0.26 lb / 4.13 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

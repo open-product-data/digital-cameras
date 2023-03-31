@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104174255/https://www.dpreview.com/reviews/pentax-k-01
+ProductCode: pentax_k01
+Award: ""
+ImageURL: /files/p/products/pentax_k01/a9e0c42ded09478186d54a44914433b1.png
+Name: Pentax K-01
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 69
+URL: /products/pentax/slrs/pentax_k01
+ReviewData:
+    ExecutiveSummary: The 16MP Pentax K-01 is a camera that's likely to polarize opinion at first glance. Its bulky cuboid design is an inevitable consequence of having a full-depth K-mount. Its rather toy-like buttons and switches, however, were voluntary design choices that will put some people off. For exisiting Pentax users the trump card of the K-01 may very well lie in its from-the-ground-up live view implementation. With its mirrorless design and MF peaking capability, the K-01 has the potential to offer significantly better shooting experience with legacy manual focus lenses than the K-5.It's very good still image quality is definitely this camera's main selling point, but slow AF, clunky handling and relatively poor video image quality count against it, and make the K-01 one of the least finessed of the current crop of mirrorless interchangeable lens cameras. If you've got a collection of K-mount lenses and want a full-featured camera for still lifes and landscapes, then the K-01 is well worth looking at. If you're taking photos of your kids or pets or want something a little less chunky, then we would recommend looking elsewhere.
+    ProductPhotos:
+        - /files/p/products/pentax_k01/shots/c6f42a4804464892a762f3239b304287.png
+        - /files/p/products/pentax_k01/shots/3d0638ca08504eae838b2b44fd63bbb9.png
+        - /files/p/products/pentax_k01/shots/96e27ac00424468eb84164ab05465748.png
+        - /files/p/products/pentax_k01/shots/99bfe0eb99ef40bab709110cef2e3f1f.png
+    ReviewSummary:
+        GoodFor: Photographers who want a camera that'll garner attention and take great photos, who don't mind its size and below average performance.
+        NotSoGoodFor: 'People who take photos of moving subjects, or who want the main benefit of a mirrorless camera: a compact body.'
+        Conclusion: The Pentax K-01 is a bit of an odd duck. It's a mirrorless camera that's as big as digital SLRs, which sort of defeats the purpose of being mirrorless in the first place. Photo quality is among the best out there, but other cameras offer better AF performance and more compact/usable designs.
+    ASIN:
+        - B0076396OA
+Specs:
+    AEBracketing: (3 frames at 1/2 EV steps)
+    Announced: Feb 2, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI90 rechargeable battery & charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: Aluminium
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 122 x 79 x 58 mm (4.8 x 3.11 x 2.28″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe,  P-TTL, high speed sync w Pentax dedicated flash)
+    FileFormat:
+        - JPEG v2.3
+        - RAW
+    FlashModes: Auto, On, Off, Red-eye, Slow-speed Sync, Trailing Curtain Sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100 to 12800 in 1, 1/2, or 1/3 EV steps (100 to 25600 extended)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Good, Better, Best
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: 'US: $749, UK: £629, EU: €823'
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "81"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4352 x 3264, 4224 x 2816, 4928 x 2776, 4224 x 2376, 3840 x 2880, 3456 x 2304, 3456x1944, 3264 x 3264, 3072 x 2304, 2880 x 2880, 2688 x 1792, 2688 x 1512, 2304 x 2304, 2304 x 1728, 1728 x 1728
+    Processor: ""
+    RemoteControl: Yes (Optional IR)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps),1280 x 720 (60, 50, 30, 25, 24 fps), 640 x 480 (30, 25, 24 fps)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 30, 2012"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Moving Object
+        - Night Scene Portrait
+        - Sunset
+        - Blue Sky
+        - Forest
+        - Night Scene
+        - Night Scene HDR (JPG only)
+        - Night Snap
+        - Food
+        - Pet
+        - Kids
+        - Surf & Snow
+        - Backlight Silhouette
+        - Candlelight
+        - Stage Lighting
+        - Museum
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: APS-C (23.7 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: "No"
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (1s to 24h, up to 999 shots, delayed start available)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 561 g (1.24 lb / 19.79 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

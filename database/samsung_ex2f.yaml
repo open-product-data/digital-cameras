@@ -1,0 +1,104 @@
+ProductCode: samsung_ex2f
+Award: ""
+ImageURL: /files/p/products/samsung_ex2f/9ade453adc144130bcd7d94a8eb55fd8.png
+Name: Samsung EX2F
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 80 mm (3.3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_ex2f
+ReviewData:
+    ExecutiveSummary: The Samsung EX2F is a sucessor to the company's EX1 high-end compact camera. The magnesium-bodied EX2F features a 12.4MP BSI CMOS sensor and the fastest lens of any compact camera on the market - F1.4 at its widest zoom setting of 24mm (equivalent). ISO sensitivity can be extended up to ISO 12,800 and as well as various still image modes the EX2F can also capture full HD 1080/30p video. The 'F' in the model name designates WiFi, and as we'd expect from Samsung in 2012, the EX2F features the full complement of 'Smart' options offered by its high-end NX cousins, including Mobile Link, Remote Viewfinder, Email and Auto Backup.
+    ProductPhotos:
+        - /files/p/products/samsung_ex2f/shots/795282967f214756979c43bb26a2a153.png
+        - /files/p/products/samsung_ex2f/shots/1d682077670143c5b4c5f80dd292a1c0.png
+        - /files/p/products/samsung_ex2f/shots/cf430e2dafc74e7a991dc74c15670f3b.png
+        - /files/p/products/samsung_ex2f/shots/b2f82c6323c94aa4863a77ab5b4ede51.png
+    ReviewSummary: null
+    ASIN:
+        - B008XGS9G0
+Specs:
+    Announced: Jul 3, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion SLB-10A battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium Alloy
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "Yes"
+    Dimensions: 112 x 62 x 29 mm (4.41 x 2.44 x 1.14″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow syncro, Manual
+    FlashRange: ""
+    FocalLengthEquiv: 24–80 mm
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: ""
+    MaximumAperture: F1.4–2.7
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 3.3×
+    OrientationSensor: "No"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: AMOLED
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: Full HD 1080/30p
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 294 g (0.65 lb / 10.37 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

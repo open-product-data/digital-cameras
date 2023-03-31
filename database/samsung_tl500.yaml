@@ -1,0 +1,114 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128213005/https://www.dpreview.com/reviews/samsungtl500/
+ProductCode: samsung_tl500
+Award: silver
+ImageURL: /files/p/products/samsung_tl500/3029c2c493be4c429eaad510bc50ed7e.png
+Name: Samsung TL500 (EX1)
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 72 mm (3×)
+ReviewScore: 73
+URL: /products/samsung/compacts/samsung_tl500
+ReviewData:
+    ExecutiveSummary: The Samsung TL500 (EX1 in Europe) is a premium compact camera with a fast f/1.8-2.4 wide angle 3x (24-72mm equiv.) image stabilized zoom lens. It comes with an 1/1.7"" 10MP CCD sensor and a 3.0"" multi-angle AMOLED display. The camera also offers full manual control, RAW capture, VGA video recording in H.264 format and a new faster DRIMeIII processor. Its biggest limitation is that the lens range is a touch short for some subjects (particularly head-and-shoulders portraits). The Samsung TL500 is a very good camera - it takes good images, has a great lens, flexible feature set and, unlike most mirrorless cameras, it maintains its go-anywhere, shoot anytime capability when slipped into a jacket or coat pocket. The TL500's few quirks are not significant enough that we'd consider it less desirable than more polished competitors (the Panasonic LX5 and Olympus XZ-1 being the most obvious), but its advantages are similarly marginal.
+    ProductPhotos:
+        - /files/p/products/samsung_tl500/shots/f24d7b9b1de34068983bf057264f53a9.png
+        - /files/p/products/samsung_tl500/shots/177b2c14519a437cbb81b1d0328ed4e8.png
+        - /files/p/products/samsung_tl500/shots/8fc4dfd0c4ef48fc84aa6081e4174f37.png
+        - /files/p/products/samsung_tl500/shots/5f3cb608ae6742e58d70024e2bc35eba.png
+    ReviewSummary:
+        GoodFor: Photographers looking for something smaller than a DSLR that gives shooting flexibility.
+        NotSoGoodFor: Not the perfect all-round or travel camera, due to its short (but bright) zoom. It's also a bit short for traditional portraits.
+        Conclusion: The TL500 / EX1 is a very capable and well-featured photographers' compact camera. Its excellent (and articulated) OLED screen helps distinguish it from the conceptually similar Panasonic LX3. Overall it's among the best compact cameras available if the super-bright lens is more important to your type of shooting than overall zoom reach.
+    ASIN:
+        - B003N2YVKW
+Specs:
+    Announced: Feb 20, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion SLB-07A battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (3x)
+    Dimensions: 114 x 63 x 29 mm (4.49 x 2.48 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow syncro, Manual
+    FlashRange: 5.20 m
+    FocalLengthEquiv: 24–72 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F1.8–2.4
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2052, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1920x 1080, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "73%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 9, 2010"
+    SceneModes: ""
+    ScreenDots: 614,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 1 GB internal
+    StorageTypes: SD/SDHC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 386 g (0.85 lb / 13.62 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

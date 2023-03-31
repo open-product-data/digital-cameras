@@ -1,0 +1,145 @@
+ProductCode: nikon_cps7000
+Award: ""
+ImageURL: /files/p/products/nikon_cps7000/9e127c92d7c6430d9ad30f45f4658004.png
+Name: Nikon Coolpix S7000
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 500 mm (20×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps7000
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The ultra-stylish Coolpix S7000 features the world’s lightest design and is built to impress by combining incredible image quality and performance into an impressively pocketable package. Featuring a 16-megapixel CMOS Sensor, Full HD Video recording with stereo sound, and a 20x optical zoom NIKKOR ED glass lens with 40x Dynamic Fine Zoom, the COOLPIX S7000’s arsenal of features makes a great ultra-slim zoom option for users in need of a capable, yet compact COOLPIX offering.  Sharing images can be done at the push of a button with the S7000’s built-in Wi-Fi and NFC connectivity. Equipped with a Target-finding AF system, users are able to pin-point their intended subject and accurately capture even fast moving scenes, like a tumbling gymnast or a runner crossing the finish line. The S7000 also allows for easy framing of any subject, using the camera’s 3-inch 460K-dot LCD display. Additionally, lens-shift VR technology helps minimize blur while the camera’s 18 scene modes provide the optimal settings for a variety of common shooting scenarios. Creative videos are a simple touch away while the camera also features a new Time-Lapse video function.'
+    ProductPhotos:
+        - /files/p/products/nikon_cps7000/shots/6977274ccd55472fb2e6dd6d75734315.png
+        - /files/p/products/nikon_cps7000/shots/9abab977f13343dfb895d57ecbcc7c13.png
+    ReviewSummary: null
+    ASIN:
+        - B013RNF4PM
+        - B00T85PH2Y
+Specs:
+    AEBracketing: ""
+    Announced: Feb 10, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL19 lithium-ion battery & charger
+    BatteryLifeCIPA: "180"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $399.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 9.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 60 x 27 mm (3.9 x 2.36 x 1.06″)
+    DriveModes:
+        - Single
+        - Best Shot Selector
+        - Continuous H
+        - Continuous H 60
+        - Continuous H 120
+        - Continuous L
+        - Interval Timer
+        - Pre-shooting cache
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: 2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Scene
+        - Scene Auto Selector
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: 5.70 m (at Auto ISO)
+    FocalLengthEquiv: 25–500 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $279.95
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.4–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p), 1280 x 720 (30p, 25p), 640 x 480 (30p, 25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+        - Time Lapse Movie
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 165 g (0.36 lb / 5.82 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: with NFC

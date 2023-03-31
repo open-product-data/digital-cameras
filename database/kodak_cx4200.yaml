@@ -1,0 +1,82 @@
+ProductCode: kodak_cx4200
+Award: ""
+ImageURL: /files/p/products/kodak_cx4200/a1a75b606a7346c38878c58fb3f11d17.png
+Name: Kodak EasyShare CX4200
+ShortSpecs:
+    - 2 megapixels
+    - 1.6″ screen
+    - 37 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_cx4200
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00006IRUL
+        - B00009VH08
+Specs:
+    Announced: Aug 13, 2002
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 109 x 64 x 40 mm (4.29 x 2.52 x 1.57″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.40 m
+    FocalLengthEquiv: 37 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1632 x 1232
+    MaximumAperture: F4.5
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 75 cm (29.53″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 250 g (0.55 lb / 8.82 oz)
+    WhiteBalancePresets: ""

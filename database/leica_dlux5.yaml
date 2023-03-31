@@ -1,0 +1,123 @@
+ProductCode: leica_dlux5
+Award: ""
+ImageURL: /files/p/products/leica_dlux5/7985e55aa38f4dd4873766c7281e7484.png
+Name: Leica D-LUX 5
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 90 mm (3.8×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_dlux5
+ReviewData:
+    ExecutiveSummary: Successor to the D-Lux 4, the Leica D-Lux 5 is another expensive Panasonic clone, this time of the Panasonic Lumi DMC-LX5. Key features incude a 10Mp 1/1.63" inch sensor, 24-90mm equiv lens and 460K dot 3.0" LCD. Like the LX5 it can record 720p AVCHD Lite videos, offers multiple aspect ratio recording via a switch on the lens barrel, and allows fully manual control. Registered owners will be able to download a copy of Adobe Lightroom to process the camera's DNG raw files.
+    ProductPhotos:
+        - /files/p/products/leica_dlux5/shots/b2514e7adbdf4edb8d3e6fdc7d8f9268.png
+        - /files/p/products/leica_dlux5/shots/1813c9fc56e9486ebd48c22f2598078f.png
+        - /files/p/products/leica_dlux5/shots/5d692d7bd6e747c29aabf01918d619ad.png
+    ReviewSummary: null
+    ASIN:
+        - B004432SVI
+Specs:
+    AEBracketing: ""
+    Announced: Sep 21, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (up to 4.5x)
+    Dimensions: 110 x 66 x 43 mm (4.33 x 2.6 x 1.69″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 7.20 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–90 mm
+    FocalLengthMultiplier: ""
+    Format: AVCHD Lite, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (6400-12800), 80, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2–3.3
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 3.8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3968 x 2232, 3776 x 2520, 3328 x 1872, 3168 x 2112, 3072 x 2304, 2784 x 1568, 2736 x 2736, 2656 x 1768, 2560 x 1920, 2304 x 2304, 2208 x 1248, 2112 x 1408, 2048 x 1536, 2048 x 1360, 1920 x 1920, 1920 x 1080, 1600 x 1200, 1536 x 1536, 640 x 480, 480 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (60, 30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/1.63" (8.07 x 5.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 271 g (0.60 lb / 9.56 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

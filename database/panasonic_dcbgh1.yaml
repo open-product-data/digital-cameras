@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211028104528/https://www.dpreview.com/videos/3748756378/dpreview-tv-panasonic-bgh1-review
+ProductCode: panasonic_dcbgh1
+Award: ""
+ImageURL: /files/p/products/panasonic_dcbgh1/ef6a240653d24077bdd1bb4099b5cc07.png
+Name: Panasonic Lumix DC-BGH1
+ShortSpecs:
+    - 10 megapixels
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcbgh1
+ReviewData:
+    ExecutiveSummary: The Lumix DC-BGH1 is a 'box-style' Micro Four Thirds camera designed for mobile videography. It uses a 10.2MP Four Thirds sensor with 'Dual Native ISO' technology. It can record 10-bit 4:2:0 DCI or UHD 4K/60p as well as 10-bit 4:2:2 4K/30 video. It supports both BR.2100, V-Log L and HLG gamma curves. Its heat-dispersion system allows for unlimited recording time. Slow&Quick modes allow for slow or fast motion capture.The BGH1 has Panasonic's newest AF sy stem that uses deep-learning to detect and track both people and animals. The camera stays locked on the subject, even if they turn away briefly. It supports anamorphic lenses and can output 'desqueezed' video over SDI/USB/Ethernet.This compact 'box' has numerous ports, including Ethernet, USB 3.1 Type-C, microphone input (3.5mm), wired remote (2.5mm), 3G-SDI, HDMI Type-A, Genlock IN and Timecode ports. It can be powered via Ethernet and will be able to stream video (using RTP/RTSP) via a future firmware update. The camera also has dual SD card slots, both with UHS-II support. As one would expect, the camera has Wi-Fi and Bluetooth built in.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcbgh1/shots/cff0edb7b7314761a55bd55ed9156a83.png
+        - /files/p/products/panasonic_dcbgh1/shots/100a20fbb32040d7b51e1e3e1c8ad780.png
+        - /files/p/products/panasonic_dcbgh1/shots/996a0e3a05d548989256523d77934dce.png
+        - /files/p/products/panasonic_dcbgh1/shots/6b0ff390df6a4d46a22edb5603858b6f.png
+        - /files/p/products/panasonic_dcbgh1/shots/63b0447de6ae480e91805e63ec83722b.png
+        - /files/p/products/panasonic_dcbgh1/shots/3242ac9c4ba94cacabe8a6d4a71631ef.png
+    ReviewSummary: null
+    ASIN:
+        - B08KGZ2CPB
+Specs:
+    AEBracketing: ""
+    Announced: Oct 13, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: AG-VBR59, AG-VBR89, AG-VGR118
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium/aluminum alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,997.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 93 x 93 x 78 mm (3.66 x 3.66 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG (Exif v2.31)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (Type A)
+    HeadphonePort: "No"
+    ISO: Auto, 160-51200 (expands to 80-204800)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: ""
+    MSRP: $1999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3680 x 2760
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/16000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1/2 sec
+    Modes:
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3328 x 2496 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3328 x 2496 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3328 x 2496 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Oct 13, 2020"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: Four Thirds (19.2 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: ""
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 545 g (1.20 lb / 19.22 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

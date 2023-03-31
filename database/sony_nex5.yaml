@@ -1,0 +1,133 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128224348/https://www.dpreview.com/reviews/sonynex5nex3
+ProductCode: sony_nex5
+Award: silver
+ImageURL: /files/p/products/sony_nex5/c0a24998882d47d2947b97f97292fe4d.png
+Name: Sony Alpha NEX-5
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 71
+URL: /products/sony/slrs/sony_nex5
+ReviewData:
+    ExecutiveSummary: The NEX-5 (together with its smaller sister model, the NEX-3) is Sony's first contribution to the mirrorless interchangeable lens camera sector. Both NEX cameras are both built around the 14.6 megapixel Exmor APS HD CMOS sensor announced at the PMA 2010 exhibition in February and the mirrorless E-mount. The NEX-5 offers a high-resolution tilting screen, fast continuous shooting and 1080i HD AVCHD video capture. In iAuto mode the camera does a decent job for point-and-shoot users but where the NEX really shines is the PASM modes where you can take full advantage of the large, very capable sensor. The feature sets are impressive, as are the NEX's portability and flexibility. The NEX-5 is not a substitute for a DSLR but offers DSLR image quality without the bulk.
+    ProductPhotos:
+        - /files/p/products/sony_nex5/shots/6dd878195d3940269d5604393d585cc4.png
+        - /files/p/products/sony_nex5/shots/1ac60905cf5b406ba934375acf455801.png
+        - /files/p/products/sony_nex5/shots/ae7d6770f3ec4542bf1b6d3b3d9cdb6a.png
+        - /files/p/products/sony_nex5/shots/554cc90f675d42ccba089955aa2479ea.png
+        - /files/p/products/sony_nex5/shots/ccb8b5369c2b45b9804c97e5dc581276.png
+        - /files/p/products/sony_nex5/shots/652aa2bc02d94c3b91c4e8aa480ed075.png
+        - /files/p/products/sony_nex5/shots/5c51168032fa43d89a44b2c788ed9028.png
+        - /files/p/products/sony_nex5/shots/afcb53aaa87c4b26a851aa40af7000cc.png
+        - /files/p/products/sony_nex5/shots/874319a273894773bcb44e6dd1e17981.png
+        - /files/p/products/sony_nex5/shots/2fc3395317d2411da7950ad0bb8eb22e.png
+    ReviewSummary:
+        GoodFor: Gadget lovers, Panoramics, Enthusiast photographers wanting APS-C image quality in a tiny package.
+        NotSoGoodFor: Fast action shooting.
+        Conclusion: The NEX-5 is a dramatic and original approach to camera design, offering some of the best image quality in its class in a tiny, sleek body. It's not perfect as a camera to just point-and-shoot but in the hands of someone willing to take a little control is capable of superb results.
+    ASIN:
+        - B003MPSHP0
+        - B003MPN90S
+        - B003MPN97Q
+Specs:
+    AEBracketing: ""
+    Announced: May 11, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $479.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 111 x 59 x 38 mm (4.37 x 2.32 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Accessory Port)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: AVCHD
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2576, 3344 x 2224, 3344 x 1872, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (InfraRed (optional))
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "71%Silver Award\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jun 7, 2010"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, 10sec (3 images))
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 287 g (0.63 lb / 10.12 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

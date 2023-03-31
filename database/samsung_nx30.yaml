@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412010248/https://www.dpreview.com/reviews/samsung-nx30
+ProductCode: samsung_nx30
+Award: silver
+ImageURL: /files/p/products/samsung_nx30/de4e914e9f4847bb8327737d9043dfe7.png
+Name: Samsung NX30
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/samsung/slrs/samsung_nx30
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Samsung NX30 is a midrange mirrorless camera that features a 20.3MP CMOS sensor and the company''s latest DRIMeIV processor. It supports the same NX-mount lenses as its predecessor (the NX20). The NX30 has a Hybrid AF system that combines on-chip phase detection with more traditional contrast detection. Photos can be composed on a fully articulating 3-inch AMOLED display or a unique pull-out, tilting electronic viewfinder. The NX30 has numerous Wi-Fi functions, and now includes NFC for ''tap and go'' photo sharing.'
+    ProductPhotos:
+        - /files/p/products/samsung_nx30/shots/6160b04d2bd24a17bc3abc29b353d28f.png
+        - /files/p/products/samsung_nx30/shots/d38c070920324f3d94b6891543b63e73.png
+        - /files/p/products/samsung_nx30/shots/e05256ecd75a44c0989cd9e6c967fccc.png
+        - /files/p/products/samsung_nx30/shots/fb48c5c2bfcc4debbe585caab8db39a3.png
+        - /files/p/products/samsung_nx30/shots/b8473d05a8ff49d8af14dcbcebd1f577.png
+        - /files/p/products/samsung_nx30/shots/47c449623d144e00b59932ee850f5dc4.png
+    ReviewSummary:
+        GoodFor: Beginners wanting a DSLR-like experience, those who want to share photos wirelessly, landscape and travel shooters
+        NotSoGoodFor: Tracking fast action, very low light, would-be videographers
+        Conclusion: The Samsung NX30 provides a DSLR-like experience in a mirrorless camera, with the very un-DSLR-like provision of great live view performance. Its built-in EVF, high-resolution APS-C sensor and connectivity features are very useful, and though we don't feel it's a class-leader in any particular way, the NX30 provides a nice option for those who want the ergonomics of a DSLR and the modern touches of a mirrorless camera.
+    ASIN:
+        - B00HV6KGNM
+Specs:
+    AEBracketing: ±3 (3 frames at 1 EV steps)
+    Announced: Jan 2, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP1410 lithium-ion battery and USB charger
+    BatteryLifeCIPA: "360"
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (with fine-tuning)
+    DigitalZoom: Yes (1.2x - 2x)
+    Dimensions: 127 x 96 x 58 mm (5 x 3.78 x 2.28″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - Self-timer
+        - Bracket (AE, WB, Picture Wizard)
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Custom 1/2
+        - Lens priority
+        - Smart (scene) mode
+        - Wi-Fi
+    ExternalFlash: Yes (Hot shoe, wireless via built-in flash)
+    FileFormat:
+        - JPEG (EXIF 2.21)
+        - RAW (SRW)
+        - MPO
+    FlashModes: ""
+    FlashRange: 11.00 m (ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100 - 25600
+    ImageParameters:
+        - Color
+        - Saturation
+        - Sharpness
+        - Contrast
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "247"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 3648 x 3648, 3888 x 2592, 3712 x 2088, 2640 x 2640, 2976 x 1984, 2944 x 1656, 2000 x 2000, 1728 x 1152, 1920 x 1080, 1024 x 1024
+    Processor: DRIMeIV
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p), 1280 x 720, 640 x 480, 320 x 240
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 21, 2014"
+    SceneModes:
+        - Beauty Face, Landscape, Macro, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Fireworks, Light Trace, Creative Shot, Best Face, Multi-Exposure, Smart Jump Shot
+    ScreenDots: 1,036,000
+    ScreenSize: 3″
+    ScreenType: AMOLED
+    SelfTimer: Yes (2 - 30 secs)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD, SDHC, SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: Yes (Touch AF, Touch shutter)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Uncompressed output over HDMI at 30p
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1× (0.67× 35mm equiv.)
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3-shot)
+    WeightIncBatteries: 375 g (0.83 lb / 13.23 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: Dual channel 802.11b/g/n

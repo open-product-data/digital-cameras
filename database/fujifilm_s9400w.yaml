@@ -1,0 +1,132 @@
+ProductCode: fujifilm_s9400w
+Award: ""
+ImageURL: /files/p/products/fujifilm_s9400w/422209a67bf44b0f8a2d6084c946df48.png
+Name: FinePix S9400W
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1200 mm (50×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s9400w
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new FinePix S9400W features a 16MP CMOS sensor with a maximum ISO sensitivity of 12,800, and delivers rapid focusing speeds and beautiful high resolution images. The camera also gives users a bright F2.9-6.5 lens that offers an amazing 50x optical zoom 24-1200mm optical range that can be boosted to an incredible 100x magnification with Fujifilm’s Intelligent Digital Zoom technology and down to 1cm in Super Macro mode for extraordinary close up images.WiFi connectivity allows users to quickly share photos and movies with smartphones or tablets, without the need for an ID or password. Users simply download the free Fujifilm Camera Application to their device and then use wireless LAN to send images from the S9400W to their device.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_s9400w/shots/7a57cb58069f4c08ac051cb9ae47595c.png
+    ReviewSummary: null
+    ASIN:
+        - B00HGE3CZI
+Specs:
+    AEBracketing: ±2 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 6, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: 4 x AA batteries alkaline, lithium, or Ni-MH
+    BatteryLifeCIPA: "500"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 123 x 87 x 116 mm (4.84 x 3.43 x 4.57″)
+    DriveModes:
+        - Single
+        - Continuous top
+        - Continuous last
+        - Long period
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - SR Auto
+        - Auto
+        - Advanced
+        - Scene Position
+        - Panorama
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3)
+    FlashModes: Auto, forced flash, suppressed flash, slow synchro
+    FlashRange: 7.00 m
+    FocalLengthEquiv: 24–1200 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 100 - 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $349.95 / £269.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: 1/1700 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 50×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 2176, 3264 x 1840, 2432 x 2432, 2304 x 1728, 2304 x 1536, 1920 x 1080, 1728 x 1728
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60i), 1280 x 960 (60p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, Baby, Smile & Shoot, Landscape, Sport, Night, Night (Tripod), Fireworks, Sunset, Snow, Beach, Party, Flower, Text
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Stereo
+    StorageIncluded: 38MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: 97%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 201,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 670 g (1.48 lb / 23.63 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n

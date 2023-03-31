@@ -1,0 +1,170 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206222340/https://www.dpreview.com/reviews/olympusem5
+ProductCode: oly_em5
+Award: gold
+ImageURL: /files/p/products/oly_em5/31ea847d06044a759353bc078e9f4b2e.png
+Name: Olympus OM-D E-M5
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 80
+URL: /products/olympus/slrs/oly_em5
+ReviewData:
+    ExecutiveSummary: The E-M5 is the first of Olympus' OM-D range of Micro Four Thirds cameras and is styled to look like its classic OM series SLRs. It is built around a 16MP sensor and features the company's latest 5-axis image stabilization system that works for both stills and movies. It can shoot 1080 60i movies in MOV format (h.264 compression) and includes a 1.44M dot EVF in its weather-sealed magnesium alloy body.The E-M5 is, without question, the most accomplished Micro Four Thirds camera we've yet seen and, given how well established the system has become, it vies for the title of most capable mirrorless option yet. It's not entirely without flaws, and, predictably, most of those relate to continuous autofocus. But, for the most part, the E-M5 is simply an awful lot of camera in a compact and attractive body. It's a nice camera to use and the images it takes are just as enjoyable.
+    ProductPhotos:
+        - /files/p/products/oly_em5/shots/81787b92eed94d40acfd0a003f2b1f7b.png
+        - /files/p/products/oly_em5/shots/323326cead9a45818accbe7e5f8b5d8e.png
+        - /files/p/products/oly_em5/shots/e33a8395e3284ffb8da3b1c3d21833ff.png
+        - /files/p/products/oly_em5/shots/e06219cf548e4aa89baecea76fa0eddf.png
+    ReviewSummary:
+        GoodFor: A wide variety of photography, particularly if you spend the time configuring it to your needs.
+        NotSoGoodFor: Photography of moving subjects - the only area where it falls significantly behind a good DSLR.
+        Conclusion: The Olympus OM-D E-M5 is certainly the most capable Micro Four Thirds camera we've reviewed and arguably the most likeable mirrorless model yet. It falls down a little bit on its continuous focusing but we have absolutely no complaints about the image quality. It's small, attractive, and a pleasure to use, and its pictures are equally enjoyable.
+    ASIN:
+        - B0074WDEY6
+        - B0074WDDN8
+        - B0074WDERI
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 8, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BLN-1 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 122 x 89 x 43 mm (4.8 x 3.5 x 1.69″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - i Auto
+        - Program AE
+        - Aperture priority AE
+        - Shutter priority AE
+        - Manual
+        - Bulb
+        - Time
+        - Scene select
+        - Art Filter
+    ExternalFlash: Yes (via Hot-shoe (FL-50/FL-50R, FL-36/FL-36R, FL-20, FL-14, FL-300R, FL-600R))
+    FileFormat:
+        - JPEG
+        - DCF
+        - DPOF compatible
+        - MPO compatible
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync (2), Manual (3 levels)
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-D)
+    HeadphonePort: ""
+    ISO: Auto (200 - 25600), 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: 'EU: € 1099 (Body only) UK: £1149.99 EU: € 1299 (with M.Zuiko Digital ED 12-50mm 1:3.5-6.3)'
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (Live view image is magnified when the focus ring is rotated. (at S-AF+MF or MF mode))
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "35"
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 2592 x 3456, 3200 x 2400, 3200 x 1800, 3216 x 2144, 2400 x 2400, 1824 x 2432, 2560 x1920, 2560 x 1440, 2544 x 1696, 1920 x 1920, 1440 x 1920, 1920 x 1440, 1920 x 1080, 1920 x 1280, 1440 x 1440, 1104 x 1472, 1600 x 1200, 1536 x 864, 1584 x 1056, 1216 x 1216, 864 x 1152, 1280 x 960, 1280 x 720, 1296 x 864, 960 x 960, 720 x 960, 1024 x 768, 1024 x 576, 1008 x 672, 768 x 768, 576 x 768, 640 x 480, 640 x 360, 624 x 416, 480 x 480, 384 x 512
+    Processor: TruePic VI
+    RemoteControl: Yes (Optional (RM-UC1))
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 30, 2012"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport
+        - Night
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv
+        - Wide Conv
+        - Macro Conv
+        - 3D
+    ScreenDots: 610,000
+    ScreenSize: 3″
+    ScreenType: Touch control in electrostatic capacitance type OLED monitor
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.15× (0.57× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 425 g (0.94 lb / 14.99 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

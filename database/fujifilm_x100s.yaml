@@ -1,0 +1,131 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175929/https://www.dpreview.com/reviews/fujifilm-x100s
+ProductCode: fujifilm_x100s
+Award: gold
+ImageURL: /files/p/products/fujifilm_x100s/e61dab8634b34de582ab8bab33b56dac.png
+Name: Fujifilm X100S
+ShortSpecs:
+    - 16 megapixels
+    - 2.8″ screen
+    - 35 mm
+ReviewScore: 81
+URL: /products/fujifilm/compacts/fujifilm_x100s
+ReviewData:
+    ExecutiveSummary: The X100S retains the classic styling of its predecessor the X100 but has been extensively re-worked inside, with a 16MP X-Trans sensor that includes on-chip phase-detection elements (a technology first utilized by Fujifilm), and a higher-resolution LCD in its Hybrid optical/electronic viewfinder. A faster 'EXR II' processor, along with the on-chip AF information help Fujifilm offer what it says is the world's fastest AF. The X100S backs-up its rangefinder-esque looks with a digital split-image manual focus system, allowing fast manual focusing. Image quality is excellent, and almost all of the operational quirks that dogged the X100 have been fixed in its replacement. The X100S is definitely one of our favorite cameras of the year.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x100s/shots/da71dce3d43f4d9194a30e5b8be3d247.png
+        - /files/p/products/fujifilm_x100s/shots/a8fe01429e4043888065679ec980b24e.png
+    ReviewSummary:
+        GoodFor: Provided you can live with the fixed focal length, for portraiture, candid and everyday photography, the X100S is a great carry-everywhere camera.
+        NotSoGoodFor: Shooting movies, and any situation where 35mm isn't long enough for stills.
+        Conclusion: The Fujifilm X100S is a hugely likable, very capable camera with some useful tricks up its sleeve. Almost all of the bugs from the X100 have been ironed out, and image quality from its 16 MP X-Trans sensor is excellent.
+    ASIN:
+        - B00HK8ZBE0
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Multi-area
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-95 rechargeable battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,499.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 127 x 74 x 54 mm (5 x 2.91 x 2.13″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 9.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: Auto (ISO 200 - 6400), ISO 100, 12800 and 25600 with boost
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 21 cm (8.27″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896ｘ2760,264 × 3264, 3456ｘ2304, 3456ｘ1944, 2304 × 230, 2496ｘ1664, 2496ｘ1408 , 1664 × 1664
+    Processor: EXR II
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (60, 30fps)
+    ReviewPreview: "81%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 29, 2013"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 90%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 2,350,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

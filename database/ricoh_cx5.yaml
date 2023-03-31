@@ -1,0 +1,116 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107200411/https://www.dpreview.com/reviews/q311travelzoomgrouptest/
+ProductCode: ricoh_cx5
+Award: ""
+ImageURL: /files/p/products/ricoh_cx5/9b845a63067847fca030c36dcc767b0e.png
+Name: Ricoh CX5
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 300 mm (10.7×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_cx5
+ReviewData:
+    ExecutiveSummary: The Ricoh CX5 is the fifth in a line of CX compacts that goes back to the CX1, released in early 2009. The CX5 re-introduces the company's AF system that combines a distance sensor with more conventional contrast detection method to offer focus times of as little as 0.2sec regardless of focal length. Its 10MP back-illuminated CMOS sensor is twice as sensitive to conventional CMOS sensors and the 10.7x zoom lens fits into a compact body with a thickness of 29.4mm using Ricoh's retracting lens system. It also offers 14 scene modes and six filters for a variety of effects including Cross Process and Toy Camera. It also records standard 720p HD videos.
+    ProductPhotos:
+        - /files/p/products/ricoh_cx5/shots/212e6358fdd449a6920022e0c9c79c35.png
+        - /files/p/products/ricoh_cx5/shots/ff78bc6edac44e55a2f36c01629eabd6.png
+        - /files/p/products/ricoh_cx5/shots/9026b1283396458dacb4a1e25b80d173.png
+        - /files/p/products/ricoh_cx5/shots/6c08b700272e48c5b9370e736448b4ee.png
+    ReviewSummary: null
+    ASIN:
+        - B004KPLIJS
+Specs:
+    AEBracketing: ""
+    Announced: Jan 26, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-100 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.8x)
+    Dimensions: 102 x 59 x 29 mm (4.02 x 2.32 x 1.14″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 4.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–300 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600,3200
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10.7×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 2736 x 2736, 3648 x 2048, 2592 x 1944, 2048 x 1536, 1728 x 1296, 1280 x 9601, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30fps), 320 x 240 (30 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Jul 20, 2011"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 86 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

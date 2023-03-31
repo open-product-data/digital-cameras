@@ -1,0 +1,121 @@
+ProductCode: oly_sh1
+Award: ""
+ImageURL: /files/p/products/oly_sh1/41132c652fa3408096ea9dec80354d2a.png
+Name: Olympus Stylus SH-1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sh1
+ReviewData:
+    ExecutiveSummary: The Olympus Stylus SH-1 is a compact travel zoom camera featuring a 25-600mm, 24x optical zoom lens, inheriting the style, build, and controls of the PEN system. It promises sharp images throughout the zoom range during stills and video, using Olympus's 5-axis image stabilization system to compensates for camera shake in stills, and a hybrid electronic stabilization system for 1080 60p HD video.The SH-1 also includes built-in Wi-Fi, synchronizing iOS and Android devices via the manufacturer's Image Share app. The touchscreen LCD allows autofocus area and shutter control.
+    ProductPhotos:
+        - /files/p/products/oly_sh1/shots/43b61eb526bc4f7aae71f43185c2d7e6.png
+        - /files/p/products/oly_sh1/shots/15cd6acfd5be4b9e88eaaab4a06e3364.png
+        - /files/p/products/oly_sh1/shots/f1ed52d6f5594f3584ebdb109db30da1.png
+        - /files/p/products/oly_sh1/shots/36e116d6dd994d94a16b0de1c961b3c0.png
+    ReviewSummary: null
+    ASIN:
+        - B00IZDKU5E
+Specs:
+    Announced: Mar 31, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LI-92B lithium-ion battery & USB charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 11.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 63 x 42 mm (4.29 x 2.48 x 1.65″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - iAuto
+        - Program Auto
+        - Manual
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 25–600 mm
+    Format: H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis (yaw, pitch, roll, up/down, left/right)
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $399
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, e-Portrait, Landscape, Interval Shooting, Night Scene, Night + Portrait, Sport,  Indoor, Self Portrait, Sunset, Fireworks, Cuisine, Documents, Beach & Snow, Super Macro, Backlight HDR
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 37MB
+    StorageTypes: SD, SDHC, SDXC, Internal Memory
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 271 g (0.60 lb / 9.56 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone app

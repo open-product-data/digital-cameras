@@ -1,0 +1,151 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220123095647/https://www.dpreview.com/reviews/sony-alpha-nex-f3/
+ProductCode: sony_nexf3
+Award: silver
+ImageURL: /files/p/products/sony_nexf3/70dd5b0c5f42482d8feaa8fc63d49d14.png
+Name: Sony Alpha NEX-F3
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 74
+URL: /products/sony/slrs/sony_nexf3
+ReviewData:
+    ExecutiveSummary: The Sony NEX-F3 is Sony's latest entry-level model, replacing the C3. It's built around the company's second-generation 16MP CMOS sensor, as featured in the NEX-5N, and gains a built-in flash. It's also the first NEX to feature a screen that flips all the way into a vertical position, to make it easier to shoot self-portraits.If you're looking for a low-priced interchangeable lens camera, then the Sony Alpha NEX-F3 should certainly be on your list. It has great photo quality, a complete set of features, and snappy performance. The only thing we'd recommend is trying one out in person before you buy, as the user interface leaves much to be desired. If it doesn't bother you, then you'll definitely get your $600 worth if you pick up the NEX-F3.
+    ProductPhotos:
+        - /files/p/products/sony_nexf3/shots/e619b882e7d04f7dbfd54336f6652d95.png
+        - /files/p/products/sony_nexf3/shots/1fced4d240c540e19274317adac8ca9a.png
+        - /files/p/products/sony_nexf3/shots/1671655429d44c7389a9227894947484.png
+        - /files/p/products/sony_nexf3/shots/b84f308b7cd54a2d9cb3b6c54f47c158.png
+    ReviewSummary:
+        GoodFor: Anyone looking for high quality photos in a small package, with an easy-to-use interface
+        NotSoGoodFor: Enthusiasts who want direct controls and less menu diving, and frequent burst mode users who will want more buffer memory.
+        Conclusion: The Sony Alpha NEX-F3 is one of the best entry-level mirrorless cameras on the market. While its menu-driven interface isn't for everyone, its impressive photo quality and host of useful features offer a lot of bang for the buck.
+    ASIN:
+        - B00836H2BI
+        - B00836H2I6
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: May 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & USB charger
+    BatteryLifeCIPA: "470"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.5 fps
+    CustomWhiteBalance: Yes (2500-9900k )
+    DigitalZoom: "No"
+    Dimensions: 117 x 67 x 42 mm (4.61 x 2.64 x 1.65″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 2/3 EV steps)
+    ExposureModes:
+        - Auto Advanced
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Memory Recall
+        - Tele Zoom Hi Speed
+        - 3D Sweep Panorama
+        - Sweep Panorama
+        - Anti Motion Blur
+        - Picture Effect
+        - Scene selection
+    ExternalFlash: Yes (Accessory Port)
+    FileFormat:
+        - JPEG
+        - RAW (ARW 2.2 Format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 200, 400, 800, 1600, 3200, 6400, 12800, 16000
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: 'Body + 18-55mm lens: $599.99/ €599/£530'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60, 24 fps), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "74%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 16, 2012"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night Scene
+        - Hand-held Twilight
+        - (6 shot layering)
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT Xtra Fine LCD
+    SelfTimer: Yes (2 or 10 sec, 10 sec 3 or 5 images)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1080 @ 60 fps Interlaced, 24 fps Progressive
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 314 g (0.69 lb / 11.08 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

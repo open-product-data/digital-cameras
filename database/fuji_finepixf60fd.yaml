@@ -1,0 +1,77 @@
+ProductCode: fuji_finepixf60fd
+Award: ""
+ImageURL: /files/p/products/fuji_finepixf60fd/b9d6a5d6dfb842a48ea208be24f95650.png
+Name: Fujifilm FinePix F60fd
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixf60fd
+ReviewData:
+    ExecutiveSummary: Fujifilm FinePix F60fd is a minor update to the previously released FinePix F50fd . It features a 12 megapixel sensor, 3.0” LCD screen, 3x optical zoom lens and an upgraded Face Detection and Auto-scene Recognition mode.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001D0I6O8
+Specs:
+    Announced: Aug 12, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-50 Li Ion battery
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $448.50
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (8.2 x)
+    Dimensions: 93 x 59 x 23 mm (3.66 x 2.32 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 4.40 m (Auto ISO)
+    FocalLengthEquiv: 35–105 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600, (3200 @ 6MP, 6400 @ 3MP)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.1
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 4224 x 2816, 2848 x 2136, 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 / 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.6" (8 x 6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 25 MB Internal
+    StorageTypes: xD Picture Card/SD/SDHC Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "7"

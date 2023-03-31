@@ -1,0 +1,96 @@
+ProductCode: sony_dscs950
+Award: ""
+ImageURL: /files/p/products/sony_dscs950/60d68738c728435a86c9e57530fa568a.png
+Name: Sony Cyber-shot DSC-S950
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 33 – 132 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscs950
+ReviewData:
+    ExecutiveSummary: This budget compact features a 10 megapixels sensor, 4x optical zoom lens and a 2.7 inch LCD. It comes with a variety of scene modes, Face Detection and image stabilization. It also includes some basic in-camera retouching functions such as image trim and red-eye correction.
+    ProductPhotos:
+        - /files/p/products/sony_dscs950/shots/3038327c9a584dc090f26b3ef361788e.png
+        - /files/p/products/sony_dscs950/shots/5033fc7e36394da99612101b21ae6682.png
+        - /files/p/products/sony_dscs950/shots/0727ce0ec09947598b7142fe77f3a8ce.png
+        - /files/p/products/sony_dscs950/shots/34963684408b46bb8b6eb56e02265158.png
+    ReviewSummary: null
+    ASIN:
+        - B001O9ARCC
+        - B001O9ARCW
+        - B001O9ARCM
+Specs:
+    Announced: Feb 17, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Battery & Charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (up to 10x)
+    Dimensions: 93 x 56 x 24 mm (3.66 x 2.2 x 0.94″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 33–132 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: Yes (Semi - Manual)
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.2
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2592 x 1944, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 12 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 167 g (0.37 lb / 5.89 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""

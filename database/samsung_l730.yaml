@@ -1,0 +1,81 @@
+ProductCode: samsung_l730
+Award: ""
+ImageURL: /files/p/products/samsung_l730/8fb727c6b144445f94bcc7714b919c9d.png
+Name: Samsung L730
+ShortSpecs:
+    - 7 megapixels
+    - 2.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_l730
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000TGWBTI
+Specs:
+    Announced: Jul 11, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $181.11
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 95 x 59 x 21 mm (3.74 x 2.32 x 0.83″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye reduction, Slow Sync
+    FlashRange: 4.60 m
+    FocalLengthEquiv: 38–114 mm
+    Format: MPEG-4
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2176
+    MaximumAperture: F3–5.6
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 800 x 592, 720 x 480, @ 20/15 fps, 640 x 480, 320 x 240 @ 30/20/15 fps MPEG-4
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 183 g (0.40 lb / 6.46 oz)
+    WhiteBalancePresets: "5"

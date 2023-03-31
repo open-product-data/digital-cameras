@@ -1,0 +1,105 @@
+ProductCode: casio_exh15
+Award: ""
+ImageURL: /files/p/products/casio_exh15/0e1a279243844bea9cb340b47b4f6211.png
+Name: Casio Exilim EX-H15
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exh15
+ReviewData:
+    ExecutiveSummary: The 14.1 effective megapixel model packs a wide-angle 24 mm 10x optical zoom lens and a 3.0-inch Super Clear LCD screen with a resolution of approximately 460,000 pixels into a compact body. The camera also includes features including CCD-shift image stabilization, long 1000-shot battery life on a single full charge, and HD Movie function.
+    ProductPhotos:
+        - /files/p/products/casio_exh15/shots/c88c67d8c58b4f1ea999352793ba3f26.png
+        - /files/p/products/casio_exh15/shots/824bf92ee0af4683b00a576ca9ddecbe.png
+        - /files/p/products/casio_exh15/shots/b6fb55bb4b0846beb80f35f95f3cbdec.png
+        - /files/p/products/casio_exh15/shots/3bd2ac725bd940c8b59acf5273fef4ea.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-90)
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 101 x 60 x 28 mm (3.98 x 2.36 x 1.1″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, flash off, flash on, red eye reduction
+    FlashRange: ""
+    FocalLengthEquiv: 24–240 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.2–5.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648, 2736, 2816 x 2112
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 × 720 (30 fps) , 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 73.8 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 161 g (0.35 lb / 5.68 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected

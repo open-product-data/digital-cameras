@@ -1,0 +1,105 @@
+ProductCode: panasonic_dmcfh5
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfh5/623e0acb623b4c5d9f1911b0ff24aab4.png
+Name: Panasonic Lumix DMC-FH5 (Lumix DMC-FS18)
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfh5
+ReviewData:
+    ExecutiveSummary: Panasonic's Lumix DMC-FH5 is one amongst the pair of FH series compacts released in early 2011. It features a Leica branded 4x zoom lens starting at 28mm, a 16MP sensorand a 2.7" LCD. The slim and compact body offers features such as 720p HD recording, image stabilization and AF tracking. For Facebook and YouTube fans there is an easy upload and share option.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfh5/shots/f4c8560846c44df8bc2f6625dc08db34.png
+        - /files/p/products/panasonic_dmcfh5/shots/e8d898d09dc7444b847c295e1b2abdcd.png
+        - /files/p/products/panasonic_dmcfh5/shots/f765bbd6836c4648a9d883e86727e0a8.png
+        - /files/p/products/panasonic_dmcfh5/shots/1a75c767633d47bc926be66c73c6511c.png
+    ReviewSummary: null
+    ASIN:
+        - B004HW7KC8
+        - B005TF51O6
+        - B004HW7KBY
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 4.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 54 x 19 mm (3.7 x 2.13 x 0.75″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 28–112 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.1–6.5
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "4"

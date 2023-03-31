@@ -1,0 +1,117 @@
+ProductCode: samsung_aq100
+Award: ""
+ImageURL: /files/p/products/samsung_aq100/860a4675c66c45768466aa8b02033369.png
+Name: Samsung AQ100 (WP10)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 36 – 180 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_aq100
+ReviewData:
+    ExecutiveSummary: The Samsung AQ100/WP10 waterproof ultracompact has been designed to operate underwater to a depth of 3 meters and features a dedicated Aqua mode, that optimizes camera settings for underwater photography. The 12MP camera comes with a 2.7" LCD, 5x (36-180mm equiv) internal zoom lens and 720p HD video recording.
+    ProductPhotos:
+        - /files/p/products/samsung_aq100/shots/f2a39b5d523b41639e4b3c89b877ddc3.png
+        - /files/p/products/samsung_aq100/shots/5de75669196e40f095abfac69e0456b5.png
+        - /files/p/products/samsung_aq100/shots/31713cc4276f45b29df53e176fff60d7.png
+        - /files/p/products/samsung_aq100/shots/d188b5dabc0742098614cf84e3d60e74.png
+    ReviewSummary: null
+    ASIN:
+        - B0036R856K
+        - B003L7BE22
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion  NP-45 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 94 x 61 x 19 mm (3.7 x 2.4 x 0.75″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Waterproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, Slow syncro, Manual
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 36–180 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.6–4.8
+    MaximumShutterSpeed: 1/1200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3984 x 2656, 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1920 x 1080, 1024 x 768
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30, 15fps), 320 x 240 (60, 30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec, Double)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 31 MB internal
+    StorageTypes: SD/SDHC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "5"
+    WirelessNotes: ""

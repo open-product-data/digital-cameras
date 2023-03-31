@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202830/https://www.dpreview.com/reviews/sonydslra380
+ProductCode: sony_dslra380
+Award: recommended
+ImageURL: /files/p/products/sony_dslra380/b495220974cc44cf8de1549e0caff708.png
+Name: Sony Alpha DSLR-A380
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 59
+URL: /products/sony/slrs/sony_dslra380
+ReviewData:
+    ExecutiveSummary: Very similar in terms of core specification to its predecessor the A350, the A380 is - if anything - a minor downgrade to the older model. Unlike two of its arguably most direct competitors, the Canon EOS 500D and the Nikon D5000, the Sony A380 does not offer video capture nor does it come with an on-screen 'Quick control' type user interface, something that has pretty much become a standard on all recently introduced SLRs. The rest of the feature set and specification is, next to the competition, not particularly impressive either. While the 14.2 megapixel resolution is still more than competitive and the output at base ISO is generally good, the frame rate in continuous shooting is pretty slow, the high ISO performance isn't quite on the same level as the rivals and the battery capacity is poor. The A380's Quick AF Live View system is great, but as a whole, the camera is far from impressive, and it's inadequate, pinchy handgrip is - frankly - just annoying.
+    ProductPhotos:
+        - /files/p/products/sony_dslra380/shots/fdae811ac8d5481d9599b35ab0dedd09.png
+        - /files/p/products/sony_dslra380/shots/1e79ffd23e104962b71eb0784a113440.png
+        - /files/p/products/sony_dslra380/shots/64e86ab8238b41dda7bd3c2294ea4e9d.png
+        - /files/p/products/sony_dslra380/shots/69348b34653341a992539035e6898388.png
+        - /files/p/products/sony_dslra380/shots/484b1b7da12d4b3ab57437b5ddde95a3.png
+        - /files/p/products/sony_dslra380/shots/c93f0a3a126b4e809a9a63c1f4e920ef.png
+    ReviewSummary:
+        GoodFor: Compact camera upgraders looking for a simple DSLR
+        NotSoGoodFor: More serious photographers or for use in low light
+        Conclusion: Aside from its unique high-speed live view mode the Alpha 380 simply can't compete with the best of its peers in this fiercely competitive sector. Handling isn't great, nor is low-light performance, and unless you find one very cheap indeed, it's best avoided.
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: May 18, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FH50 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 128 x 97 x 71 mm (5.04 x 3.82 x 2.8″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Wireless
+    FlashRange: 10.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2576, 3408 x 2272, 3408 x 1920, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (Wired or Wireless (Optional))
+    Resolutions: ""
+    ReviewPreview: "59%Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 24, 2009"
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC, Memory Stick Pro Duo
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.74× (0.49× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 519 g (1.14 lb / 18.31 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

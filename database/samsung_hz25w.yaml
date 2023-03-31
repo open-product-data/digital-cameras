@@ -1,0 +1,99 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220129071637/https://www.dpreview.com/reviews/q110superzoomgroup
+ProductCode: samsung_hz25w
+Award: ""
+ImageURL: /files/p/products/samsung_hz25w/d0d1e3054a764736871fc07712fa0476.png
+Name: Samsung HZ25W (WB5000)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 26 – 624 mm (24×)
+ReviewScore: 60
+URL: /products/samsung/compacts/samsung_hz25w
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/samsung_hz25w/shots/8fb37a9b522e43fc8c05548c62599e0a.png
+        - /files/p/products/samsung_hz25w/shots/6e435dc3967244e99c9a0b9070e5fe80.png
+        - /files/p/products/samsung_hz25w/shots/97b422ba541a45688f88adf56cac5a6c.png
+        - /files/p/products/samsung_hz25w/shots/1d54261306144783bd1c4962d7adda82.png
+        - /files/p/products/samsung_hz25w/shots/093292b77a534014b405af9d79decf38.png
+        - /files/p/products/samsung_hz25w/shots/67dee26375584bddbe61d4d78f1fbdbf.png
+    ReviewSummary:
+        GoodFor: Photographers who want an intuitive user interface and long zoom in a small package
+        NotSoGoodFor: Low light shooting, anything that requires snappy operation and/or reliable Auto WB
+        Conclusion: The Samsung is another model that offers a lot of zoom in a tiny package but in low light it cannot quite keep up with the best cameras in this class. It's also not the quickest and its focus can struggle in dim conditions.
+    ASIN:
+        - B002UPTJVE
+Specs:
+    Announced: Sep 1, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 116 x 83 x 92 mm (4.57 x 3.27 x 3.62″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync
+    FlashRange: 5.60 m
+    FocalLengthEquiv: 26–624 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200, (6400 with boost)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 24×
+    OrientationSensor: ""
+    OtherResolutions: 3984 x 2656, 3984 x 2656, 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30 fps)
+    ReviewPreview: "60%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jul 6, 2010"
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec, Double)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 20 MB Internal
+    StorageTypes: SC/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: ""
+    ViewfinderType: None
+    WeightIncBatteries: 428 g (0.94 lb / 15.10 oz)
+    WhiteBalancePresets: "5"

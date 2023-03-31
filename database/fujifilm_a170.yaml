@@ -1,0 +1,96 @@
+ProductCode: fujifilm_a170
+Award: ""
+ImageURL: /files/p/products/fujifilm_a170/228db45a7437404184c6c2f3e53794f0.png
+Name: Fujifilm FinePix A170
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 32 – 96 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_a170
+ReviewData:
+    ExecutiveSummary: Fujifilm's budget 'A' series cameras have got a lot more stylish - and a lot slimmer - in recent years, but the basic feature set remains just that; basic. The budget Fujifilm A170 is based around a 10MP sensor, 3x (32-96mm equiv) zoom lens and a 2.7 inch LCD. There are 16 scene modes, Auto Scene Recognition and a Panorama mode. Remarkably thin at 21.9 mm, the new 10 megapixel model is available with a high gloss-double coated veneer finish.
+    ProductPhotos:
+        - /files/p/products/fujifilm_a170/shots/639751c002464f41b609cafc17416426.png
+        - /files/p/products/fujifilm_a170/shots/9603284fd8a94d6496c151369c0cb3b0.png
+        - /files/p/products/fujifilm_a170/shots/dc643101017a40e5b335c37f2f462807.png
+        - /files/p/products/fujifilm_a170/shots/136c9460ab214fa99ec44fc7c08ef43a.png
+    ReviewSummary: null
+    ASIN:
+        - B002HEWA1E
+Specs:
+    AEBracketing: ""
+    Announced: Jul 22, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA alkaline batteries
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 93 x 60 x 27 mm (3.66 x 2.36 x 1.06″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction, Forced Flash,  Suppressed Flash
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 32–96 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3664 x 2748
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3664 x 2442, 2592 x 1944, 2048 x 1536, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 10 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 140 g (0.31 lb / 4.94 oz)
+    WhiteBalancePresets: "7"

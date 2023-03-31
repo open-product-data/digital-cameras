@@ -1,0 +1,149 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210924222859/https://www.dpreview.com/reviews/2015-roundup-advanced-zoom-compacts
+ProductCode: canon_g9x
+Award: ""
+ImageURL: /files/p/products/canon_g9x/b4da2e02c02f47779283268464cf8462.png
+Name: Canon G9 X
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 28 – 84 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_g9x
+ReviewData:
+    ExecutiveSummary: The PowerShot G9 X sits below the G7 X II in Canon's enthusiast compact lineup, stepping away from the bulkier designs of the G7 X and G5 X with a slimmer, S-series-like form factor. It offers a 1"-type 20.2MP CMOS sensor and 28-84mm equivalent F2-4.9 lens encircled by a control dial, as well as a fixed 3" LCD.
+    ProductPhotos:
+        - /files/p/products/canon_g9x/shots/44e751bb53eb40668c773df9d60387c3.png
+        - /files/p/products/canon_g9x/shots/164f6cfa56e442d7a52eeca1acdccb73.png
+        - /files/p/products/canon_g9x/shots/f8acf5860542495abad876658aec02ca.png
+    ReviewSummary: null
+    ASIN:
+        - B0167Q140U
+        - B0167Q104K
+        - B01B55IQEK
+Specs:
+    AEBracketing: ""
+    Announced: Oct 13, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 58 x 31 mm (3.86 x 2.28 x 1.21″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Remote
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Hybrid Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3)
+        - Raw (Canon CR2, 12-bit)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 6.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–84 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Saturation
+        - Red/Green/Blue
+        - Skin tone
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $529
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 4864 x 3648, 4320 x 2880, 4320 x 2432, 3840 x 2880, 2304 x 1536, 2048 x 1536, 1920 x 1080, 720 x 480, 720 x 408, 640 x 480
+    Processor: DIGIC 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 10, 2015"
+    SceneModes:
+        - Portrait
+        - Star
+        - Handheld Night Scene
+        - Fireworks
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (star time-lapse)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Also has star time-lapse. miniature effect, and digest modes
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 209 g (0.46 lb / 7.37 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

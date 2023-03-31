@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: 
+ProductCode: samsung_nx500
+Award: silver
+ImageURL: /files/p/products/samsung_nx500/aa8be0366bda4e23b4caea5b67e38c85.png
+Name: Samsung NX500
+ShortSpecs:
+    - 28 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 81
+URL: /products/samsung/slrs/samsung_nx500
+ReviewData:
+    ExecutiveSummary: The NX500 is a essentially a scaled down version of Samsung's flagship NX1. It uses the same 28MP BSI-CMOS sensor, advanced hybrid AF system, and DRIMe V processor as the NX1, with the main differences being the design (rangefinder vs SLR), burst mode (9 vs 15 fps), and viewfinder (none vs electronic). The NX500 can still record 4K and UHD video (at 24p and 30p respectively) using the HEVC/H.265, though it cannot output clean video over HDMI. While it lacks the electronic viewfinder of its big brother, the NX500 still has a tilting 3" Super AMOLED display with touch controls. Photos can be shared easily via the built-in Wi-Fi system with NFC capability. While the NX500 has no built-in flash, a small external one is included in the box.
+    ProductPhotos:
+        - /files/p/products/samsung_nx500/shots/3b85661c81a8466eb4b50f5d50f6d68f.png
+        - /files/p/products/samsung_nx500/shots/87fbde65bc2c48e18147504f6ca654e4.png
+        - /files/p/products/samsung_nx500/shots/92f3e84914584e2b82f70a95ad81d34c.png
+        - /files/p/products/samsung_nx500/shots/c08a6f36bbcf4014acd054c1b5922620.png
+        - /files/p/products/samsung_nx500/shots/65a9bb5ca27f43b7a8c56fa98bed0afe.png
+    ReviewSummary:
+        GoodFor: Those seeking a compact camera with top-notch photo and video quality in a compact, inexpensive body.
+        NotSoGoodFor: Photographers who require an electronic viewfinder or who plan on recording wide-angle 4K video.
+        Conclusion: The NX500 is one of the most impressive midrange mirrorless cameras, with excellent photo and video quality, good ergonomics, and a broad feature set. Those serious about 4K video may be put off by the large crop factor, and the lack of an EVF may also disappoint some users.
+    ASIN:
+        - B00SYKXKCI
+        - B00SYKXO10
+        - B00SYKXMKS
+Specs:
+    AEBracketing: ±3 (at 1 EV steps)
+    Announced: Feb 5, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP1130 lithium-ion battery & charger
+    BatteryLifeCIPA: "370"
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: No (GN8 external flash included)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 120 x 64 x 43 mm (4.72 x 2.52 x 1.69″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - Self-timer
+        - Bracket
+    Durability: ""
+    EffectivePixels: 28 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Auto Shot
+        - Smart
+        - Custom
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - RAW (SRW)
+    FlashModes: Smart flash, auto, auto w/redeye reduction, fill flash, fill w/redeye reduction, 1st-curtain, 2nd-curtain, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 25600, expandable to 51200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: $799 (with 16-50mm PZ lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6480 x 4320
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "209"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 6480 x 3648, 4320 x 4320, 4560 x 3040, 4605 x 2592, 3088 x 3088, 3264 x 2176, 3328 x 1872, 2160 x 2160, 2112 x 1408, 2048 x 1152, 1408 x 1408
+    Processor: DRIMe Vs
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 3840 x 2160 (30p), 4096 x 2160 (24p), 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720, 640 x 480
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 9, 2015"
+    SceneModes:
+        - Beauty Face
+        - Landscape
+        - Action Freeze
+        - Rich Tones
+        - Panorama
+        - Waterfall
+        - Silhouette
+        - Sunset
+        - Night
+        - Fireworks
+        - Light Trace
+        - Multi-Exposure
+    ScreenDots: 1,036,000
+    ScreenSize: 3″
+    ScreenType: Super AMOLED
+    SelfTimer: Yes (2 - 30 secs)
+    SensorPhotoDetectors: 31 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 287 g (0.63 lb / 10.12 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n + Bluetooth

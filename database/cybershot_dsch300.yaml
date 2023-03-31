@@ -1,0 +1,136 @@
+ProductCode: cybershot_dsch300
+Award: ""
+ImageURL: /files/p/products/cybershot_dsch300/9fbd3a9292dd42679b1478cfb41e38da.png
+Name: Sony Cyber-shot DSC-H300
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 875 mm (35×)
+ReviewScore: 0
+URL: /products/sony/compacts/cybershot_dsch300
+ReviewData:
+    ExecutiveSummary: Sony's Cyber-shot DSC-H300 has a 35x optical zoom range. It offers a 20MP CCD sensor and Sony's excellent Sweep Panorama function. This SLR-style superzoom is equipped with a built-in EVF, optical SteadyShot image stabilization and 720p HD video.
+    ProductPhotos:
+        - /files/p/products/cybershot_dsch300/shots/a3d3f4075a55408f9dbf2435e7872e4d.png
+        - /files/p/products/cybershot_dsch300/shots/32e3a128e7aa4e4ab9fdc977a897a471.png
+        - /files/p/products/cybershot_dsch300/shots/2c0e4930b9b244ada1055ae1642db61f.png
+        - /files/p/products/cybershot_dsch300/shots/7e6fba27af1e44578c3c231887fe574d.png
+    ReviewSummary: null
+    ASIN:
+        - B00HTTKSZC
+Specs:
+    Announced: Feb 13, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 130 x 95 x 122 mm (5.1 x 3.74 x 4.81″)
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - iAuto
+        - Scene
+        - Sweep Panorama
+        - Movie
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, Flash On, Slow Synchro, Flash Off, Advanced Flash
+    FlashRange: 8.80 m
+    FocalLengthEquiv: 25–875 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Optical SteadyShot with Intelligent Active Mode
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: $220
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.4–6.5
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 1 cm (0.39″)
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: 35×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2736, 2592 x 1944, 5152 x 2896, 1920 x 1080
+    Processor: Bionz(R)
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Soft snap
+        - Portrait
+        - Landscape
+        - Night Portrait
+        - Night Scene
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Pet mode
+        - Party Mode
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: Clear Photo LCD
+    SelfTimer: Yes (Off, 10 sec, 2 sec, portrait1, portrait2)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick PRO Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: Unknown
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 201,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 590 g (1.30 lb / 20.81 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

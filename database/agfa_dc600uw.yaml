@@ -1,0 +1,99 @@
+ProductCode: agfa_dc600uw
+Award: ""
+ImageURL: /files/p/products/agfa_dc600uw/f93a6e874a624295a258943835bfe75f.png
+Name: AgfaPhoto DC-600uw
+ShortSpecs:
+    - 6 megapixels
+    - 2.4″ screen
+ReviewScore: 0
+URL: /products/agfa/compacts/agfa_dc600uw
+ReviewData:
+    ExecutiveSummary: Rugged compact camera, claimed to be water-resistant up to 10 meters and can withstand pressure of up to two bar (29psi). Its exterior is designed to protect against dust and dirt. The camera has a 6MP sensor, a 2.4" LCD and includes Face Tracking and video recording for easy sharing on YouTube
+    ProductPhotos:
+        - /files/p/products/agfa_dc600uw/shots/b050268a3ae04ac59f2263d570517d79.png
+        - /files/p/products/agfa_dc600uw/shots/06b60eff65af4515a5bda686323ed678.png
+        - /files/p/products/agfa_dc600uw/shots/ddae3af7fb2549c5b382067e53000874.png
+        - /files/p/products/agfa_dc600uw/shots/6a2effe5efa44b2b8fd314be59b7097e.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jun 29, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 2 x AA batteries (NiMH )
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5x)
+    Dimensions: 101 x 61 x 32 mm (3.98 x 2.4 x 1.26″)
+    DriveModes: ""
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: Yes (Water-resistant, Dust-resistant)
+    ExposureCompensation: ±2 (at 1/5 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye, Off
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3680 x 2760
+    MaximumAperture: F3.5–7
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 70 cm (27.56″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 2816 x 2112, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 110,000
+    ScreenSize: 2.4″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 161 g (0.35 lb / 5.68 oz)
+    WhiteBalancePresets: "5"

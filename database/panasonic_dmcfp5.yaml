@@ -1,0 +1,104 @@
+ProductCode: panasonic_dmcfp5
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfp5/98799adc17564deb823d4412d90348ed.png
+Name: Panasonic Lumix DMC-FP5
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfp5
+ReviewData:
+    ExecutiveSummary: The DMC-FP5 card styled ultra-compact with a 14Mp sensor. It features a Leica branded 4x zoom periscopic lens starting at 28mm and a large 3.5" touchscreen LCD. The stylish compact body offers touch-based controls and features such as 720p HD recording, image stabilization and SDXC compatibility. For Facebook and YouTube fans there is an easy upload and share option, and yes a Cosmetic mode that promise to make you look sun-tanned or wrinkle-free even if you are not.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfp5/shots/77d539f7fa3d4f7093e32083529513fe.png
+        - /files/p/products/panasonic_dmcfp5/shots/52b273629de34fbd9eefb9a85c779b5a.png
+        - /files/p/products/panasonic_dmcfp5/shots/746bf98e37ea4be39634483d197b4bf6.png
+        - /files/p/products/panasonic_dmcfp5/shots/1a5c2d3d06d74446b4c94caff8953c31.png
+        - /files/p/products/panasonic_dmcfp5/shots/8803cd7b9e124db8890bd4c997e6ca93.png
+    ReviewSummary: null
+    ASIN:
+        - B004HW7K9Q
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Ultracompact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 5.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 101 x 59 x 18 mm (3.98 x 2.32 x 0.71″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 4.90 m
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2880, 4320 x 2432,3232 x 3232, 3648 x 2736, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: TFT Touch Screen LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 141 g (0.31 lb / 4.97 oz)
+    WhiteBalancePresets: "4"

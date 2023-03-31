@@ -1,0 +1,111 @@
+ProductCode: fujifilm_hs20exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_hs20exr/36acfd87dc7a47789f91c1ee8916dcb8.png
+Name: FujiFilm FinePix HS20 EXR (FinePix HS22 EXR)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_hs20exr
+ReviewData:
+    ExecutiveSummary: Replacing the company's HS10, The Fujifilm HS20 comes with a 16MP EXR CMOS sensor and 460K dot 3.0" LCD rather than its predecessor's 10MP sensor and 230K dot screen. It features a 30x (24-720mm equiv.) optical zoom lens, full 1080p HD video recording capabilities, RAW capture and P/A/S/M shooting modes. It also boasts 7.6fps full-resolution continuous shooting and high speed video capture at up to 320fps. Three shooting options are available in EXR mode. In the 'High Resolution' mode, users can take advantage of the full 16 megapixel resolution. The 'Dynamic Range' function uses dual capture technology to give greatly increased dynamic range in high contrast scenes, albeit at half the effective resolution (8MP). 'Signal to Noise' mode also outputs at 8MP, and increases effective pixel size by pairing up the output of neighboring pixels for better sensitivity in low light.
+    ProductPhotos:
+        - /files/p/products/fujifilm_hs20exr/shots/dd1a4e85702a4d3192a97860a463f824.png
+        - /files/p/products/fujifilm_hs20exr/shots/ce11a4fd2b264210b3e57ad1d11b2005.png
+        - /files/p/products/fujifilm_hs20exr/shots/3215eb65bdc4433bb4edb7f20be1beea.png
+        - /files/p/products/fujifilm_hs20exr/shots/f8850f44339a4add996c632026ea29a1.png
+        - /files/p/products/fujifilm_hs20exr/shots/3ce0392f99f340ef98bfaf525a893f3b.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO58OI
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 5, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA batteries (Alkaline, NiMH or Lithium)
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "6400"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 131 x 91 x 126 mm (5.16 x 3.58 x 4.96″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 24–720 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3264 x 1840, 2304 x 1728, 2304 x 1536, 1920 x 1080
+    Processor: EXR
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60 fps), 640 x 480 (30, 80 fps), 320 x 112  (320 fps), 320 x 240 (160 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 20 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 97%
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 730 g (1.61 lb / 25.75 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

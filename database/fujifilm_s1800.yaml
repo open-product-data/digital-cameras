@@ -1,0 +1,112 @@
+ProductCode: fujifilm_s1800
+Award: ""
+ImageURL: /files/p/products/fujifilm_s1800/221155e79fee4719b3e8eba0ceb53034.png
+Name: FujiFilm FinePix S1800 (FinePix S1880)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 504 mm (18×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s1800
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix S1600 is a lightweight, DSLR-styled superzoom compact camera with a 12MP image-stabilized sensor, and wide angle 18x optical zoom lens starting at 28mm. The S1800 features a 3 inch LCD screen, and an electronic viewfinder. Along with its peers, the S1600 and S2500HD, the S1600 also feature HD video recording, but unlike the S2500HD it does not have an HD output.
+    ProductPhotos:
+        - /files/p/products/fujifilm_s1800/shots/25c274b8cf6e4f0faaff7a0dd0e8ebe0.png
+        - /files/p/products/fujifilm_s1800/shots/1c319c9fadf744c5b8def097b6b8e938.png
+        - /files/p/products/fujifilm_s1800/shots/ff126d57cd61436b880f006308224310.png
+        - /files/p/products/fujifilm_s1800/shots/94ad7e06f9d84d31bcbf6e163770b14b.png
+    ReviewSummary: null
+    ASIN:
+        - B0035JD0DW
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA batteries (Alkaline, NiMH or Lithium)
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.3x)
+    Dimensions: 110 x 73 x 81 mm (4.33 x 2.89 x 3.19″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 28–504 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600 (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 18×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664, 4000 x 224, 2816 x 2112, 2816 x 1864, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 23 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: 99%
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 337 g (0.74 lb / 11.89 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

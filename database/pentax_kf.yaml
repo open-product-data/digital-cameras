@@ -1,0 +1,163 @@
+ProductCode: pentax_kf
+Award: ""
+ImageURL: /files/p/products/pentax_kf/65e439d4d0724d4bb4002308de04a944.png
+Name: Pentax KF
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_kf
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PENTAX KF is designed to provide outstanding imaging performance in a rugged, highly portable body. It provides dependable, cold-proof performance down to temperatures as low as 14°F (-10°C), performing superbly in a wide range of weather conditions. While considered a mid-range model, the new camera incorporates an array of advanced functions and user-friendly features usually found only in higher-end models including a pentaprism-type optical viewfinder with a nearly 100% field of view and an in-body shake-reduction system with a 4.5-shutter-step compensation.'
+    ProductPhotos:
+        - /files/p/products/pentax_kf/shots/b5f1ea8939f74bb7859e847efe325854.png
+        - /files/p/products/pentax_kf/shots/8ba2fdbf27d24fa284b4e3d321e914a7.png
+        - /files/p/products/pentax_kf/shots/0127571cd93a47078d454dc8638e5508.png
+        - /files/p/products/pentax_kf/shots/f3e9e116164c4e5ab78594a1bd1ab91e.png
+        - /files/p/products/pentax_kf/shots/6b5faaf69e0444c39a5c4306e3163f8c.png
+        - /files/p/products/pentax_kf/shots/14bb11766be947308299b176a4467d4c.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames )
+    Announced: Nov 9, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI109 lithium-ion battery & charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 126 x 93 x 74 mm (4.94 x 3.66 x 2.91″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Remote control
+        - Bracketing
+        - Mirror-up
+        - Multi-exposure
+        - Interval shooting
+        - Interval composite
+        - Interval movie
+        - Star stream
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Shutter and aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (PEF or DNG)
+    FlashModes: Auto, auto w/redeye reduction, flash on, flash + redeye reduction, slow sync, trailing curtain sync, manual
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: O-GPS1
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-102400
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 4.5 stop correction
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $649/£559 (body only), £799 (w/18-135mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 3072 x 2048, 1920 x 1280
+    Processor: PRIME MII
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Moving Object
+        - Night Scene Portrait
+        - Sunset
+        - Blue Sky
+        - Forest
+        - Night Scene
+        - Night Scene HDR
+        - Night Snap
+        - Food
+        - Pet
+        - Kids
+        - Surf & Snow
+        - Backlight Silhouette
+        - Candlelight
+        - Stage Lighting
+        - Museum
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, continuous)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 688 g (1.52 lb / 24.27 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

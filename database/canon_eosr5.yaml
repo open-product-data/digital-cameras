@@ -1,0 +1,161 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211219014138/https://www.dpreview.com/reviews/canon-eos-r5-review
+ProductCode: canon_eosr5
+Award: gold
+ImageURL: /files/p/products/canon_eosr5/8f316b6c52704859b5afba281a1837c5.png
+Name: Canon EOS R5
+ShortSpecs:
+    - 45 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/canon/slrs/canon_eosr5
+ReviewData:
+    ExecutiveSummary: 'The EOS R5 is Canon''s flagship full-frame mirrorless camera in 2020. It features an all-new, Canon-developed 45MP CMOS sensor with in-body image stabilization that can reduce shake by up to 8 stops. The camera uses the Dual Pixel AF II system, which has 1053 AF points across the entire frame. The advanced autofocus system uses Deep Learning to track both people and animals. The R5 is capable of shooting bursts at 20 fps with its electronic shutter and 12 fps with the mechanical shutter, both with continuous AF.The R5 can shoot 8K video at 30p and 24p, saved as either Raw or H.265 footage. It''s also capable of capturing oversampled 4K footage at up to 120p. C-Log and HDR PQ are supported. The SLR-styled R5 has a solid build and is weather-sealed. Its OLED electronic viewfinder has 5.76 million dots and a magnification of 0.76x. Its fully articulating LCD has 2.1 million dots and its touch-sensitive. The camera also features dual memory card slots: one for SD, another for CFexpress. It offers dual-band Wi-Fi with support for real-time FTP transfer.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr5/shots/ec15ae9a8deb45afab1ca6ce4a9345af.png
+        - /files/p/products/canon_eosr5/shots/cacfa3eee7eb41ebbff0941db67f898c.png
+        - /files/p/products/canon_eosr5/shots/37880255066b46bfbe7961beed287678.png
+        - /files/p/products/canon_eosr5/shots/526f30f85b8b4694862c6ce5de14fab6.png
+        - /files/p/products/canon_eosr5/shots/ab28752cfef74f5eb7e221dc8b2e0d8b.png
+    ReviewSummary:
+        GoodFor: Landscape, event, portrait, and wedding photographers, as well as sports photographers that can benefit from the camera's fast burst rate in its electronic shutter mode.
+        NotSoGoodFor: Dedicated video users wanting the best video quality will be hampered by overheating; hybrid photo/video shooters that split their time but still need top-quality video.
+        Conclusion: The Canon EOS R5 is well-suited for just about any type of photographer, whether you shoot portraits, events, weddings, sports, family gatherings, and more. We've felt a bit let down by Canon's promises of the camera's outright video capability, but for most users, it's still a great option for getting good-quality video clips of almost anything you point it at. Power users that need the best video quality all the time won't be a good fit, but otherwise the EOS R5 is a fantastic option for almost anyone looking for a quality full-frame high-resolution mirrorless camera.
+    ASIN:
+        - B08C6CWVNZ
+        - B08C68F2DX
+Specs:
+    AEBracketing: ±6 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Jul 9, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E6NH lithium-ion battery & charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 138 x 98 x 88 mm (5.43 x 3.84 x 3.46″)
+    DriveModes:
+        - Single
+        - High-speed Continuous
+        - Low-speed Continuous
+    EffectivePixels: 45 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3)
+        - HEIF (10-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Yes, 100-51200 (expands to 102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Works with lens-based IS systems for maximum shake reduction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $3899 (body only), $4999 (w/24-105mm F4 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8192 x 5464
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 8192 x 4320 @ 30p / 1,300 Mbps, MOV, H.265, Linear PCM
+        - 8192 x 4320 @ 24p / 1,300 Mbps, MOV, H.265, Linear PCM
+        - 8192 x 4320 @ 23.98p / 1,300 Mbps, MOV, H.265, Linear PCM
+        - 7680 x 4320 @ 30p / 1,300 Mbps, MOV, H.265, Linear PCM
+        - 7680 x 4320 @ 23.98p / 1,300 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 120p / 1,880 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 940 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 470 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 470 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 470 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 120p / 1,880 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 940 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 470 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 470 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 470 Mbps, MOV, H.265, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "1053"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "91%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 21, 2020"
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 47 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CFexpress and SD (UHS-II) slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 738 g (1.63 lb / 26.03 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual-band) + Bluetooth

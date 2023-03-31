@@ -1,0 +1,164 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220501154240/https://www.dpreview.com/reviews/fujifilm-x-t20-review
+ProductCode: fujifilm_xt20
+Award: silver
+ImageURL: /files/p/products/fujifilm_xt20/e8e21c4c5416404ea65c2786f52e8d08.png
+Name: Fujifilm X-T20
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/fujifilm/slrs/fujifilm_xt20
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T20, the follow-up to the X-T10, now sports a 24MP X-Trans APS-C CMOS sensor, improved image processor, and new autofocus algorithms. The compact body is made of a magnesium alloy, and the top plate features direct controls for exposure compensation and shutter speed. On the back of the camera is a 3" touchscreen LCD as well as a high resolution electronic viewfinder. Other changes include the addition of the ACROS film simulation mode, Grain Effect and 4K video capture. Wi-Fi is built-in, as well.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt20/shots/e7d2cc6938d04ecdb5260ed2fe5b6036.png
+        - /files/p/products/fujifilm_xt20/shots/2a9b6b8f6c6649e8b862183bbf3089af.png
+        - /files/p/products/fujifilm_xt20/shots/005238b05f674c1eb07703fc1f27137e.png
+        - /files/p/products/fujifilm_xt20/shots/692a4798cb8d482584e4961182f9156d.png
+    ReviewSummary:
+        GoodFor: Photographers seeking a stylish camera with direct controls, excellent image quality and a great selection of lenses.
+        NotSoGoodFor: Action photographers and those requiring ultra-high-quality 4K video.
+        Conclusion: The Fujifilm X-T20 is a beautifully designed mirrorless camera that is a pleasure to use. It offers numerous direct controls, a high resolution EVF, snappy performance and excellent image quality. The X-T20's continuous AF system can struggle in low light, and subject tracking is inconsistent. 4K video quality isn't the greatest, and capture controls are limited. Despite that, the X-T20 is a first-rate mirrorless camera and a great value, to boot.
+    ASIN:
+        - B07DC9B7MM
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 19, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126s lithium-ion battery
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $899.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans III CMOS with primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 118 x 83 x 41 mm (4.65 x 3.27 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous High
+        - Continuous Low
+        - Bracket 1
+        - Bracket 2
+        - Double Exposure
+        - Panorama
+        - Advanced Filter 1
+        - Advanced Filter 2
+        - Movie
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or wireless)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (RAF format, 14-bit)
+    FlashModes: Auto, forced flash, slow synchro, flash off, rear-curtain synchro, commander
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-12800 (expands to 100-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $899/£799 Body Only, $999/£899 w/16-50 F3.5-5.6, $1199/£1099 w/18-55 F2.8-4
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 25p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 24p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 23.98p / 18 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "325"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4240 x 2832, 6000 x 3376, 4000, x 4000, 4240 x 2832, 4240 x 2384, 2832 x 2832, 3008 x 2000, 3008 x 1688, 2000 x 2000
+    Processor: X-Processor Pro2
+    RemoteControl: Yes (via smartphone, cable release)
+    Resolutions: 3840 x 2160 (29.97p, 25p, 24p, 23.98p), 1920 x 1080 (59.94p, 50p, 29.97p, 25p, 24p, 23.98p), 1280 x 720 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 21, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD (RGBW)
+    SelfTimer: Yes (10sec. / 2sec. Delay)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD / SDHC / SDXC (UHS-I compatible)
+    SubjectSceneModes: ""
+    TimelapseRecording: 'Yes (Setting: Interval, Number of shots, Starting time)'
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 1 to +/- 3)
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

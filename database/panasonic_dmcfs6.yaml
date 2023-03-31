@@ -1,0 +1,87 @@
+ProductCode: panasonic_dmcfs6
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfs6/459f04d59d8041c28c76eb0f5c6619bc.png
+Name: Panasonic Lumix DMC-FS6
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 33 – 132 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfs6
+ReviewData:
+    ExecutiveSummary: One of a pair of budget-level digital compact cameras (the other being the 10.1 MP FS7). Both feature 4x zoom lenses, starting at the slightly wide-angle 33mm equivalent. The 8.1 megapixel FS6 features Panasonic's Mega O.I.S image stabilization system, a decent 2.5" screen and the latest, fourth generation of the company's Venus Engine image processor in a slim stylish all-metal body. April 2009
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfs6/shots/14db5f8c84db4b2d990ce97f567f0768.png
+        - /files/p/products/panasonic_dmcfs6/shots/cd0f43b1c79b4af5a0aa82ed3ac1cf89.png
+        - /files/p/products/panasonic_dmcfs6/shots/345ebe544b8d46a4aaa572890fff530d.png
+        - /files/p/products/panasonic_dmcfs6/shots/b1db1610ee4640138de60baf45886dac.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 16, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: ID-Security Li-ion Battery Pack
+    BodyType: Ultracompact
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 54 x 21 mm (3.82 x 2.13 x 0.83″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Auto Red-eye Reduction, Forced On, Forced Off
+    FlashRange: ""
+    FocalLengthEquiv: 33–132 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600 (1600-6400 with boost)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 3264 x 2176, 3264 x 1840, 2560 x 1712, 2560 x 1920, 2560 x 1440, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 50 MB
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "5"

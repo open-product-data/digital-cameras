@@ -1,0 +1,171 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220120182511/https://www.dpreview.com/reviews/olympus-om-d-e-m5-ii
+ProductCode: oly_em5ii
+Award: silver
+ImageURL: /files/p/products/oly_em5ii/55cb41d5bb694874b8331b96f01a5836.png
+Name: Olympus E-M5 II
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 81
+URL: /products/olympus/slrs/oly_em5ii
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Olympus OM-D E-M5 II interchangeable-lens camera features a compact dustproof, splashproof body, with a familiar, premium design. Packed with 5-axis image stabilization, a 40-megapixel high-resolution shot mode, sophisticated, stunning HD video, integrated Wi-Fi and a variable-angle 3-inch touchscreen, the OM-D E-M5 Mark II makes it easy to get the shot you need, every time. The easy-to-use 2.36 million dot, super-large, high-definition electronic viewfinder has a field of view of 100%, and a viewfinder magnification of 1.48x. The camera is equipped with Adaptive Brightness Technology, which automatically adjusts the backlight brightness in accordance with environmental lighting. The new LV Boost II is convenient for shooting stars, and Creative Control provides complete freedom of control over color, tone, focus, and aspect ratio.'
+    ProductPhotos:
+        - /files/p/products/oly_em5ii/shots/ef84b0fcec0e4afb800748834281308a.png
+        - /files/p/products/oly_em5ii/shots/6dcb1abe0cce469a8cdd471d5ce8d4f2.png
+        - /files/p/products/oly_em5ii/shots/65dc327e9eb74e99b3ff1c2bf0aee260.png
+        - /files/p/products/oly_em5ii/shots/62834b04f3144a4b81417d6b918d202e.png
+        - /files/p/products/oly_em5ii/shots/998b929c888d46ce965b3b551f118b4b.png
+    ReviewSummary:
+        GoodFor: Committed photographers wanting an attractive, engaging camera with solid stills and video capability and quick access to every setting. Enthusiasts who already own Micro Four Thirds lenses.
+        NotSoGoodFor: Demanding users seeking the absolute best possible image quality. Dedicated videographers needing pro-grade footage.
+        Conclusion: The E-M5 II is a great all-rounder that improves over its well-respected predecessor in almost every respect. Although it faces stiff competition from higher-resolution peers in this segment of the mirrorless market, the combination of a deep feature set, extensive customization and enthusiast-friendly ergonomics make it a strong contender.
+    ASIN:
+        - B00S6DBMOQ
+        - B00S6DBM2S
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 5, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLN-1 lithium-ion battery & charger
+    BatteryLifeCIPA: "310"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (Compact external flash included)
+    BuyingOptions: $799.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 124 x 85 x 45 mm (4.88 x 3.35 x 1.77″)
+    DriveModes:
+        - Single
+        - Sequential (hi/lo)
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Bulb
+        - Time
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Olympus ORF format)
+        - MPO (3D)
+    FlashModes: Auto, redeye, fill, off, redeye slow sync, slow sync, 2nd-curtain slow sync, manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600, expands to 100-25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Superfine, fine, normal, basic
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1099 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "81"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VII
+    RemoteControl: Yes (wired and via smartphone)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p, 30p, 25p, 24p), 640 x 480 (30p)
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 18, 2015"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport
+        - Hand-held Starlight
+        - Night scene
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv.
+        - Wide Conv.
+        - Macro Conv.
+        - Panning
+        - 3D
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: High resolution mode produces Raw images at 9216 x 6912 or JPEGs at 7296 x 5472.
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports ALL-I and IBP recording modes
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.48× (0.74× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 7 stops in each A-B/G-M axis)
+    WeightIncBatteries: 469 g (1.03 lb / 16.54 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

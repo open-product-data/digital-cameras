@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220119155313/https://www.dpreview.com/reviews/canon-eos-100d-rebel-sl1
+ProductCode: canon_eos100d
+Award: gold
+ImageURL: /files/p/products/canon_eos100d/ea7c0f23e68348eb9b8437b3dfef5915.png
+Name: Canon EOS Rebel SL1 (EOS 100D)
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 78
+URL: /products/canon/slrs/canon_eos100d
+ReviewData:
+    ExecutiveSummary: Distinguished by its impressively small form factor, the Canon EOS 100D shares the 18MP resolution, DIGIC 5 processor, 3" touchscreen and 1080p30 video capability of the mirrorless EOS M. Canon's hybrid phase/contrast detect AF system has been tweaked, however, to provide much greater scene coverage, and this tiny DSLR can shoot at up to 4 fps.
+    ProductPhotos:
+        - /files/p/products/canon_eos100d/shots/67438cb841f04c5ca7da9391415dc003.png
+        - /files/p/products/canon_eos100d/shots/c02ae6689f1d4b14a953d34f42b35ed8.png
+        - /files/p/products/canon_eos100d/shots/03b9239f6c514ec6ab2fe3277239d6e4.png
+        - /files/p/products/canon_eos100d/shots/bbcfb4168a3a4e1ba317780dd910d7b5.png
+        - /files/p/products/canon_eos100d/shots/2a4d7bd5c8e04c3fa15e00b6ca0daca9.png
+    ReviewSummary:
+        GoodFor: Users who want to shoot in Live View and record movies, but also want the benefits of an APS-C digital SLR in a smaller body.
+        NotSoGoodFor: Enthusiasts looking for more bells and whistles, like an articulating LCD or wireless remote control of flash.
+        Conclusion: The Canon EOS Rebel SL1 / 100D is an ideal camera for consumer users looking for better image quality, with improved Live View and movie-mode autofocus in a small body. Its touchscreen interface offers a modern set of digital controls in a camera that will still feel familiar to more traditional SLR users.
+    ASIN:
+        - B00VQJASPG
+        - B00L8D06JI
+        - B00K893ZVE
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Mar 21, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: by built-in flash
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E12 rechargeable battery & charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Aluminium alloy and polycarbonate resin with carbon and glass fiber
+    BodyType: Compact SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $799.00 - $899.00
+    ColorFilterArray: RGB Color Filter Array
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: ""
+    Dimensions: 117 x 91 x 69 mm (4.61 x 3.58 x 2.72″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self timer (2s, 10s+remote, 10s + continuous shots 2-10)
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority AE
+        - Aperture priority AE
+        - Manual (Stills and Movie)
+        - Scene Intelligent Auto (Stills and Movie)
+        - No Flash
+        - Creative Auto
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+        - SCN
+    ExternalFlash: Yes (via Hot-shoe)
+    FileFormat:
+        - 'JPEG: Fine, Normal (Exif 2.3 compliant)'
+        - Design rule for Camera File system (2.0),
+        - 'RAW: 14bit  RAW'
+        - Digital Print Order Format [DPOF] Version 1.1 compliant
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 9.40 m
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: via GPE2
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800 (25600 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $799.99/£799 with 18-55mm STM
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5184 x 2912, 4608 x 3456,3456 x 3456, 3456 x 2304, 3456 x 1944, 3072 x 2304, 2592 x 1728, 2592 x 1456, 2304 x 1728, 2304 x 2304, 1920 x 1280, 1920 x 1080, 1728 x 1728, 1696 x 1280, 1280 x 1280, 720 x 480, 720 x 400, 640 x 480, 480 x 480
+    Processor: Digic 5
+    RemoteControl: Yes (RC-6)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 480 (30, 25 fps)
+    ReviewPreview: "78%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 26, 2013"
+    SceneModes:
+        - Kids
+        - Food
+        - Candlelight
+        - Night Portrait
+        - Handheld Night Scene
+        - HDR Backlight Control
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2s, 10s+remote, 10s + continuous shots 2-10))
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.87×
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 407 g (0.90 lb / 14.36 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

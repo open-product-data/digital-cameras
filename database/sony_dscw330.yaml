@@ -1,0 +1,104 @@
+ProductCode: sony_dscw330
+Award: ""
+ImageURL: /files/p/products/sony_dscw330/2c43a90740db40c1993ebb25c524665b.png
+Name: Sony Cyber-shot DSC-W330
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 26 – 105 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw330
+ReviewData:
+    ExecutiveSummary: The DSC-W330 is a 14.1 megapixel camera with a 4x optical zoom lens starting at a wide 26mm equiv., and a 3.0 inch screen. You get some basic features including an Easy Shooting mode, Face Detection an In-camera editing tools.
+    ProductPhotos:
+        - /files/p/products/sony_dscw330/shots/3ec8e56abc2a49e7a20d89e101075000.png
+        - /files/p/products/sony_dscw330/shots/651ed0adff354ff6bf091f993e2c55b2.png
+        - /files/p/products/sony_dscw330/shots/54ecf037f769406e9f17a92dc64fbb00.png
+        - /files/p/products/sony_dscw330/shots/e95669aea8d44c7fb62bca37c00bf824.png
+    ReviewSummary: null
+    ASIN:
+        - B00328HR58
+        - B00328HR5I
+        - B00328HR4Y
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (8x)
+    Dimensions: 96 x 57 x 17 mm (3.78 x 2.24 x 0.67″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 26–105 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.7–5.7
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 4320 x 2432, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 sec or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 28 MB Internal
+    StorageTypes: SD/SDHC, Memory Stick Duo / Pro Duo / Pro HG-Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 128 g (0.28 lb / 4.52 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

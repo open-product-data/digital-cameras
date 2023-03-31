@@ -1,0 +1,75 @@
+ProductCode: fuji_finepixa210
+Award: ""
+ImageURL: /files/p/products/fuji_finepixa210/5c2d86da934a4e8e96f0c31e36d2c61d.png
+Name: Fujifilm FinePix A210 Zoom
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixa210
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00009VSG6
+Specs:
+    Announced: May 27, 2003
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3.2 x)
+    Dimensions: 99 x 65 x 53 mm (3.9 x 2.56 x 2.09″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 36–108 mm
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2048 x 1536
+    MaximumAperture: F3–7
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: None
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240 up to 60 sec, no audio
+    ReviewPreview: ""
+    ScreenDots: 60,000
+    ScreenSize: 1.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 225 g (0.50 lb / 7.94 oz)
+    WhiteBalancePresets: "7"

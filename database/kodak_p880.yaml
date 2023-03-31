@@ -1,0 +1,88 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202831/https://www.dpreview.com/reviews/kodakp880
+ProductCode: kodak_p880
+Award: recommended
+ImageURL: /files/p/products/kodak_p880/7103ae844cd34d29bd00fb240ebb7334.png
+Name: Kodak EasyShare P880
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 24 – 140 mm (5.8×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_p880
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000A8JYB8
+Specs:
+    Announced: Aug 2, 2005
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 116 x 97 x 91 mm (4.57 x 3.82 x 3.58″)
+    Durability: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 24–140 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400, Higher at lower res
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–4.1
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 10 cm (3.94″)
+    OpticalZoom: 5.8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 640 x 480,30 fps, 320 x 240, 30 fps
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 19, 2006"
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 570 g (1.26 lb / 20.11 oz)
+    WhiteBalancePresets: "7"

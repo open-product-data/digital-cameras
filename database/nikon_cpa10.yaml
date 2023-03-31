@@ -1,0 +1,137 @@
+ProductCode: nikon_cpa10
+Award: ""
+ImageURL: /files/p/products/nikon_cpa10/d76511ec582748eaa9381aab3cc9b4f3.png
+Name: Nikon Coolpix A10
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpa10
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The COOLPIX A10 has an elegant body that offers an effective pixel count of 16.1 megapixels, and is equipped with a 5x optical zoom NIKKOR lens supporting a range of focal lengths that begins at the wide-angle 26mm (equivalent in 35mm format). Users can easily enjoy taking beautiful, high-quality photos using Scene Auto Selector mode, which automatically selects and applies the optimal scene mode, and retouch functions including Special Effects and Quick Effects have been enhanced. What''s more, the A10 is powered by readily available AA batteries, allowing users to respond flexibly should the batteries become exhausted on unexpected outings.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpa10/shots/11995a6b6abb4c88a3f4a7d5dca47a92.png
+        - /files/p/products/nikon_cpa10/shots/0735ddac19fd4f5c954f6dff4dbfa146.png
+        - /files/p/products/nikon_cpa10/shots/c1d0040e090b403ba6d70613d3d7287d.png
+        - /files/p/products/nikon_cpa10/shots/7ca9804a99a3496dbd97b1a352225320.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jan 14, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: Uses two AA batteries. 200 shots/charge with alkaline, 730 with lithium
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 96 x 59 x 29 mm (3.78 x 2.32 x 1.14″)
+    DriveModes:
+        - Single
+        - Continuous
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, auto w/redeye reduction, off, fill flash, slow sync
+    FlashRange: 3.60 m (at Auto ISO)
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Scene Auto Selector
+        - Portrait
+        - Landscape
+        - Sports
+        - Night Portrait
+        - Party/Indoor
+        - Beach
+        - Snow
+        - Sunset
+        - Dusk/Dawn
+        - Night landscape
+        - Close-up
+        - Food
+        - Fireworks
+        - Backlighting
+        - Pet portrait
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 17MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

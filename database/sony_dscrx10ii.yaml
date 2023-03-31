@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220120212400/https://www.dpreview.com/reviews/sony-cybershot-dsc-rx10-ii-in-depth-camera-review
+ProductCode: sony_dscrx10ii
+Award: gold
+ImageURL: /files/p/products/sony_dscrx10ii/0fdaeb17853441f9ab6dd5f8908a5350.png
+Name: Sony RX10 II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 200 mm (8.3×)
+ReviewScore: 82
+URL: /products/sony/compacts/sony_dscrx10ii
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX10 II offers a similar build and lens specification as its predecessor, but introduces some notable new technology under the hood. Like the Cyber-shot DSC-RX100 IV it uses a 1” type 20MP stacked CMOS Exmor RS sensor.  Its stacked design frees up more space for high speed circuitry allowing for more sophisticated functions, and is a next generation of the familiar backside illuminated (BSI) design. Video recording is offered at 4K (3840 x 2160) resolution, as well as an option for 40x super slow motion capture at 960 fps. Like its predecessor, the RX10 II provides a stabilized 24-200mm equivalent F2.8 lens. Other enhancements to this model include a higher resolution 2.35 million dot electronic viewfinder and 14 fps continuous shooting.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx10ii/shots/4cdd60be77f24fd79c0d842050b2c232png
+        - /files/p/products/sony_dscrx10ii/shots/1db4868b9a6a4683bc6fe619ee8d802dpng
+        - /files/p/products/sony_dscrx10ii/shots/1c29a3b88d954812bef25da6ab3f2ad2png
+        - /files/p/products/sony_dscrx10ii/shots/0002c858b91247d69935577b02cd652apng
+        - /files/p/products/sony_dscrx10ii/shots/2fb52334c1d44792967b094ee8c0f4c5png
+        - /files/p/products/sony_dscrx10ii/shots/918a12d97bda4a0a9f1abc335e721d03png
+    ReviewSummary:
+        GoodFor: Photographers seeking an-all-in-one package, jam packed with pro-level video features, and great still image quality.
+        NotSoGoodFor: Budget-minded individuals. Anyone who needs more telephoto reach. Folks who specifically want to shoot sports and action.
+        Conclusion: The Sony RX10 II continues the tradition established by the original RX10. It can easily split its time between being an excellent stills camera and an outstanding video machine. Ergonomics, handling and build-quality are all top notch. And the camera's sharp, fast 24-200mm F2.8 equiv. lens should offer plenty of versatility for most shooters. Autofocus is good in most situations, though it does struggle when photographing fast action, using AF-C. Its subject tracking capabilities also lag behind the competition.
+    ASIN:
+        - B00ZDWGR8E
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Jun 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Magnesium alloy, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 129 x 88 x 102 mm (5.08 x 3.46 x 4.02″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - Speed priority continuous
+        - Self-timer
+        - AE/WB/DRO Bracketing (single, continuous)
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program auto
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - Raw (Sony ARW 2.3)
+    FlashModes: Auto, fill-flash, slow sync, rear sync, off
+    FlashRange: 10.20 m (at Auto ISO)
+    FocalLengthEquiv: 24–200 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI with 4K still and uncompressed HDMI output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100 - 12800 (expands to 64-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Extra fine, standard, fine
+    LiveView: "Yes"
+    MSRP: $1299/€1600
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/3200 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 3 cm (1.18″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 8.3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4864 x 3648, 5472 x 3080, 3648 x 3648, 3648 x 2736, 3648 x 2592, 3648 x 2056, 2544 x 2544, 2736 x 1824, 2592 x 1944, 2720 x 1528, 1920 x 1920, 640 x 480
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p, 24p), 1920 x 1080 (120p, 60p, 60i, 24p) ,1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 13, 2015"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT LCD
+    SelfTimer: Yes (2 or 10 sec, continuous)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: Stacked CMOS sensor
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: High speed modes at 240, 480, 960 fps
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 813 g (1.79 lb / 28.68 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

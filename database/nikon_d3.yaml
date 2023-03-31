@@ -1,0 +1,120 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211102135924/https://www.dpreview.com/reviews/nikond3
+ProductCode: nikon_d3
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d3/69c2077e91a04f6698651d27360dac8b.png
+Name: Nikon D3
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d3
+ReviewData:
+    ExecutiveSummary: When it was released in 2007, the Nikon D3 caused a lot of excitement. Nikon's first full-frame ('FX format') DSLR, the D3 was capable of shooting at ISO settings up to 25,600 - unheard of at the time. Although it became rightly famed for its bar-raising high ISO performance, the D3 also boasted a host of improvements over the DX-format D2XS, including 14-bit A/D conversion, a new standard image processor, a new shutter, new 52-point auto focus sensor, AF tracking by color, nine frames per second continuous shooting, dual compact flash support, DX lens support (albeit at lower resolution) with automatic cropping and a 3.0" 922,000 pixel LCD monitor. When we tested it, we found that from an image quality and performance point of view the D3 was excellent. Although its blistering speed and versatile AF system make it an ideal sports camera it's also a surprisingly good studio and landscape camera too. Image quality (especially at higher ISOs) was and still is stunning, the camera is a joy to use and the speed and responsiveness breathtaking.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000VRV6LY
+        - B003YJP4GE
+Specs:
+    AEBracketing: ""
+    Announced: Aug 23, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 160 x 157 x 88 mm (6.3 x 6.18 x 3.46″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe plus Sync connector)
+    FileFormat: ""
+    FlashModes: Front curtain, Rear curtain, Red-Eye, Slow Sync
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: 200, 400, 800, 1600, 3200, 6400 (100 - 25600 with boost)
+    ImageRatioWh: 5:4, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 4256 x 2832
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3184 x 2120, 2128 x 1416
+    Processor: Expeed
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Apr 18, 2008"
+    SceneModes: ""
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 to 20 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Full frame (36 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II) x2
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1300 g (2.87 lb / 45.86 oz)
+    WhiteBalancePresets: "12"
+    Wireless: ""
+    WirelessNotes: ""

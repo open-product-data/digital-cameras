@@ -1,0 +1,115 @@
+ProductCode: leica_m9p
+Award: ""
+ImageURL: /files/p/products/leica_m9p/9008da2f9b094ee79a8f18212882ec2d.png
+Name: Leica M9-P
+ShortSpecs:
+    - 18 megapixels
+    - 2.5″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m9p
+ReviewData:
+    ExecutiveSummary: The Leica M9-P is a variant of the 18MP full-frame M9 rangefinder camera. The P version gains the sapphire crystal LCD glass previously seen on the Leica M8.2 but featuring an improved anti-reflective coatings for improved visibility in difficult lighting conditions. In order to give an understated appearance, the M9-P omits the traditional Leica red dot and M9 designation from the front of the camera, instead the Leica name is engaved in the metal top-plate in the company's traditional script.
+    ProductPhotos:
+        - /files/p/products/leica_m9p/shots/a4cd2f9c314148f3be37b8a17b45ee25.png
+        - /files/p/products/leica_m9p/shots/73d3ddcd825c437ebfb9a7aba2a75b44.png
+        - /files/p/products/leica_m9p/shots/16371a45ca0f48de9e8bf2ce8d6e4fe8.png
+        - /files/p/products/leica_m9p/shots/cba86751816a417483de10209be40feb.png
+    ReviewSummary: null
+    ASIN:
+        - B00579W02U
+        - B00579W0AW
+Specs:
+    AEBracketing: ""
+    Announced: Jun 21, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 37 mm (5.47 x 3.15 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Pull 80, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5212 x 3472
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3840 x 2592, 2592 x 1728, 1728 x 1152, 1280 x 846
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: "No"
+    WeightIncBatteries: 600 g (1.32 lb / 21.16 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

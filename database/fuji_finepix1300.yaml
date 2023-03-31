@@ -1,0 +1,74 @@
+ProductCode: fuji_finepix1300
+Award: ""
+ImageURL: /files/p/products/fuji_finepix1300/5074149d46f640ee9894fa253d837fdd.png
+Name: Fujifilm FinePix 1300
+ShortSpecs:
+    - 1 megapixels
+    - 1.6″ screen
+    - 38 mm
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepix1300
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 6, 2000
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x (@640 x 480))
+    Dimensions: 110 x 77 x 39 mm (4.33 x 3.03 x 1.54″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -0.9–1.5 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38 mm
+    HDMI: "No"
+    ISO: "125"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 8 cm (3.15″)
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F4.5–11
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 240 g (0.53 lb / 8.47 oz)
+    WhiteBalancePresets: "6"

@@ -1,0 +1,88 @@
+ProductCode: casio_exz250
+Award: ""
+ImageURL: /files/p/products/casio_exz250/68192a8517e0474f9ec034796bf2ba38.png
+Name: Casio Exilim EX-Z250
+ShortSpecs:
+    - 9 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz250
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001F9JZBU
+Specs:
+    Announced: Aug 20, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 58 x 23 mm (3.82 x 2.28 x 0.91″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Soft, Red-eye reduction
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 28–112 mm
+    Format: MPEG-4
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (at 3 MP)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Economy, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 15 cm (5.91″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F2.6–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 3072 x 2304, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 848 x 848 wide, 640 x 480, 320 x 240 @ 20 fps, MPEG-4
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 9 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 38.5 MB
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 139 g (0.31 lb / 4.90 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

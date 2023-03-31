@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104174643/https://www.dpreview.com/reviews/ricoh-gr
+ProductCode: ricoh_gr
+Award: gold
+ImageURL: /files/p/products/ricoh_gr/5adf6e00c2434c419cae961115f2d866.png
+Name: Ricoh GR
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 79
+URL: /products/ricoh/compacts/ricoh_gr
+ReviewData:
+    ExecutiveSummary: The GR is the spiritual successor to the GR Digital series and features a 16MP APS-C sensor behind its 28mm equivalent, F2.8 lens. It's the first product to show signs of post-merger integration at Pentax-Ricoh, gaining the Pentax TAv exposure mode but retaining a host of traditional Ricoh features.The Ricoh GR retains its predecessor's excellent and customizable user interface, making it a pleasure to use as a pocketable wide-angle photographers' camera. The JPEGs are occasionally a little muted but the Raw files, feature set and lens quality mean it's capable of outstanding results.
+    ProductPhotos:
+        - /files/p/products/ricoh_gr/shots/acd9ff7593844637894020e2d8051ec7.png
+        - /files/p/products/ricoh_gr/shots/3e2a672a8c4f415d8bc2da1596b80c8b.png
+        - /files/p/products/ricoh_gr/shots/58c9430df19a4290940dc42faeaf508b.png
+        - /files/p/products/ricoh_gr/shots/507991a402f449a78dbee68ae01cb4db.png
+        - /files/p/products/ricoh_gr/shots/c207598e6a544969b870c7bc9299a848.png
+    ReviewSummary:
+        GoodFor: High quality photography in a variety of conditions, if you're after something small, wide-angle and engaging to use.
+        NotSoGoodFor: Action photography or movie shooting.
+        Conclusion: DSLR image quality finally comes to Ricoh's well-respected enthusiast compact. The GR retains its predecessor's excellent and customizable user interface, making it a pleasure to use as a pocketable wide-angle photographers' camera. The JPEGs are occasionally a little muted but the raw files, feature set, and lens quality mean it's capable of outstanding results.
+    ASIN:
+        - B00CGY4N7Y
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 17, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB65 rechargeable battery
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 117 x 61 x 35 mm (4.61 x 2.4 x 1.38″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±4 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program shift
+        - Aperture-Priority
+        - Shutter-Priority
+        - Shutter/Aperture priority
+        - Manual exposure
+        - Bulb mode
+        - Time mode
+        - Movie
+        - My Settings Mode.
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG
+        - RAW
+        - RAW+JPEG
+    FlashModes: ""
+    FlashRange: 5.40 m (at ISO 100)
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 28 mm
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 16000, 25600
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $799 / £599
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 300 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: 4352 x 3264, 3264 x 3264, 3936 x 2608, 3488 x 2608, 2608 x 2608, 2912 x 1936, 2592 x 1936, 1936×1936, 1280 x 864, 1152 x 864, 864 x 864
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 ( 60, 50, 30, 25, 24 fps), 640 x 480 (30, 25, 24 fps)
+    ReviewPreview: "79%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 20, 2013"
+    SceneModes: ""
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.7 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 54 MB
+    StorageTypes: SD, SDHC, SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (optional)
+    WBBracketing: Yes (+/- 8 steps B-A axis or G-M axis)
+    WeightIncBatteries: 245 g (0.54 lb / 8.64 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

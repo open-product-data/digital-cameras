@@ -1,0 +1,123 @@
+ProductCode: gopro_hero5_black
+Award: ""
+ImageURL: /files/p/products/gopro_hero5_black/eea14ae00f414f4997f592a6010ad10f.png
+Name: GoPro Hero5 Black
+ShortSpecs:
+    - 12 megapixels
+    - Compact sensor
+ReviewScore: 0
+URL: /products/gopro/actioncams/gopro_hero5_black
+ReviewData:
+    ExecutiveSummary: The GoPro Hero5 Black can capture 4K/30p video and 12MP photos. It has one-button control, and you can use your voice, as well. It's waterproof to 33 feet (10m) without a housing and offers "professional grade" electronic image stabilization. The rear LCD is a 2" touchscreen. The Hero5 supports Raw and WDR formats and all images can be automatically uploaded to the cloud.
+    ProductPhotos:
+        - /files/p/products/gopro_hero5_black/shots/47a2b46fdfb14d9e86c758781f94022e.png
+        - /files/p/products/gopro_hero5_black/shots/bc47e7e0bc06423ca5be3acdec86c2c3.png
+    ReviewSummary: null
+    ASIN:
+        - B01MT0TJOM
+        - B01M14ATO0
+        - B073V6WKPJ
+Specs:
+    AEBracketing: ""
+    Announced: Sep 16, 2016
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Built-in
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: $479.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 62 x 45 x 33 mm (2.44 x 1.77 x 1.3″)
+    DriveModes: ""
+    Durability: Waterproof
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - Raw (GPR)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: ""
+    MSRP: $299
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Multiple
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 3840 x 2160 @ 30p, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p, MP4, H.264, AAC
+        - 2704 x 2028 @ 60p, MOV, H.264, AAC
+        - 2704 x 1520 @ 60p, MP4, H.264, AAC
+        - 1920 x 1440 @ 60p, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p, MP4, H.264, AAC
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageTypes: microSD
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

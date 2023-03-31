@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210926013533/https://www.dpreview.com/reviews/entry-level-mirrorless-camera-roundup-2013
+ProductCode: samsung_nx2000
+Award: ""
+ImageURL: /files/p/products/samsung_nx2000/8577bf4c26d044d0bd3c7174b4daa1eb.png
+Name: Samsung NX2000
+ShortSpecs:
+    - 20 megapixels
+    - 3.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_nx2000
+ReviewData:
+    ExecutiveSummary: Samsung's latest addition to its line of NX mirrorless cameras, the NX2000, adds WiFi and and NFC to the mix in a bid to make yet another of its interchangeable lens cameras compatible with the smartphone world. The 20MP CMOS-sensor-based camera's Near Field Communication (NFC) technology allows setup of WiFi connections with compatible smartphones and tablets by simply tapping the devices together. It features a large 3.7-inch 1152k-dot LCD, offers 8 fps continuous shooting speeds and Full HD video recording.
+    ProductPhotos:
+        - /files/p/products/samsung_nx2000/shots/156bb94b358c45339aa33726564800fd.png
+    ReviewSummary: null
+    ASIN:
+        - B00D5N6792
+        - B00D5N67T2
+Specs:
+    AEBracketing: ""
+    Announced: May 1, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BP1130 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 119 x 65 x 36 mm (4.69 x 2.56 x 1.42″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe, SEF8A)
+    FileFormat:
+        - RAW (SRW)
+        - JPEG (EXIF 2.21)
+        - DCF
+        - DPOF 1.1
+        - PictBridge 1.0
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 5472 x 3080, 3888 x 2592, 3712 x 2088, 3648 x 3648, 2976 x 1984, 2944 x 1656, 2736 x 1824, 2640 x 2640, 2000 x 2000, 1920 x 1080, 1728 x 1152, 1024 x 1024
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1920 x 810 (24 fps) 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 30, 2013"
+    SceneModes: ""
+    ScreenDots: 1,152,000
+    ScreenSize: 3.7″
+    ScreenType: TFT LCD
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: MicroSD/ MicroSDHC/ MicroSDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames from +/-1 to +/-3 in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 228 g (0.50 lb / 8.04 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: NFC, IEEE 802.11n support, Cloud, Email, Auto Backup, Remote Viewfinder, Mobile Link, Wi-Fi Direct, TV Link, Social Sharing, AutoShare

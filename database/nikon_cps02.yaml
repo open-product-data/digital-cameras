@@ -1,0 +1,121 @@
+ProductCode: nikon_cps02
+Award: ""
+ImageURL: /files/p/products/nikon_cps02/092869b8f56d418c8c315a9d2b4faf52.png
+Name: Nikon Coolpix S02
+ShortSpecs:
+    - 13 megapixels
+    - 2.7″ screen
+    - 30 – 90 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps02
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix S02 is a miniature compact camera built around tiny 13MP sensor. The S02 uses a 1/3"-type CCD sensor - a size more commonly found in smartphones to allow it to offer a 30-90mm equivalent zoom in a device just 77 x 51 x 18mm in size (3.1 x 2.1 x 0.7 in.). It features a 2.5", 230k dot touchscreen and uses a built-in battery (rated at around 210 shots) and 7.3 GB of internal memory.
+    ProductPhotos:
+        - /files/p/products/nikon_cps02/shots/b1851903cc8c4be7833e5ecd148d2c7b.png
+        - /files/p/products/nikon_cps02/shots/40bad69270cf4bdf858d12e24c5ba040.png
+        - /files/p/products/nikon_cps02/shots/4c20adf3241940e6b9acb9cf5cd707fc.png
+    ReviewSummary: null
+    ASIN:
+        - B00EZMZPGI
+Specs:
+    AEBracketing: ""
+    Announced: Sep 5, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Built-in lithium-ion battery
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 77 x 51 x 18 mm (3.03 x 2.01 x 0.69″)
+    DriveModes:
+        - Single
+    Durability: ""
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG Exif 2.3
+    FlashModes: ""
+    FlashRange: 1.40 m
+    FocalLengthEquiv: 30–90 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: Digital only
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $179.95
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4160 x 3120
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 2272 x 1704, 1600 x 1200
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: '1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps); High-speed: 1920 x 1080 (15 fps), 1280 x 720 (60 fps)'
+    ReviewPreview: ""
+    SceneModes:
+        - Back Lit Scene HDR
+        - Hand Held Night Scene
+        - Scene Auto Selector
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 7.3 GB
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 100 g (0.22 lb / 3.53 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

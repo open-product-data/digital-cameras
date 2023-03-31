@@ -1,0 +1,133 @@
+ProductCode: gopro_hero6_black
+Award: ""
+ImageURL: /files/p/products/gopro_hero6_black/00e90d1dfe3e40c69a8354e8642ded9b.png
+Name: GoPro Hero6 Black
+ShortSpecs:
+    - 12 megapixels
+ReviewScore: 0
+URL: /products/gopro/actioncams/gopro_hero6_black
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: HERO6 Black transforms your adventures into incredible QuikStories right on your phone. With its all-new GP1 chip, next-level video stabilization and 2x the performance, looking good has never been so easy. Add voice control and a durable waterproof design, and HERO6 Black is the ultimate GoPro for sharing life as you live it.'
+    ProductPhotos:
+        - /files/p/products/gopro_hero6_black/shots/d9bbb5b06b5e4555adf4ee89ce047b77.png
+        - /files/p/products/gopro_hero6_black/shots/1a3345cc249940e18f1ed96a2441e9d4.png
+    ReviewSummary: null
+    ASIN:
+        - B07GDGZCCH
+        - B074X5WPC5
+        - B07615QJXY
+Specs:
+    AEBracketing: ""
+    Announced: Sep 28, 2017
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Built-in
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: VR/Action camera
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 65 x 45 x 35 mm (2.56 x 1.77 x 1.38″)
+    DriveModes: ""
+    Durability: Waterproof
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - Raw (GPR)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: ""
+    MSRP: $399
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Multiple
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 4096 x 2160 @ 30p, MP4, H.265, AAC
+        - 4096 x 2160 @ 24p, MOV, H.265, AAC
+        - 3840 x 2160 @ 60p, MOV, H.265, AAC
+        - 3840 x 2160 @ 30p, MOV, H.265, AAC
+        - 3840 x 2160 @ 24p, MOV, H.265, AAC
+        - 2704 x 2028 @ 60p, MOV, H.265, AAC
+        - 2704 x 2028 @ 30p, MOV, H.265, AAC
+        - 2704 x 2028 @ 24p, MOV, H.265, AAC
+        - 2704 x 1520 @ 120p, MOV, H.265, AAC
+        - 2704 x 1520 @ 60p, MOV, H.265, AAC
+        - 2704 x 1520 @ 30p, MOV, H.265, AAC
+        - 2704 x 1520 @ 24p, MOV, H.265, AAC
+        - 1920 x 1440 @ 60p, MOV, H.265, AAC
+        - 1920 x 1440 @ 30p, MOV, H.265, AAC
+        - 1920 x 1440 @ 24p, MOV, H.265, AAC
+        - 1920 x 1080 @ 240p, MOV, H.265, AAC
+        - 1920 x 1080 @ 120p, MOV, H.265, AAC
+        - 1920 x 1080 @ 60p, MOV, H.265, AAC
+        - 1920 x 1080 @ 30p, MOV, H.265, AAC
+        - 1920 x 1080 @ 24p, MOV, H.265, AAC
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: GP1
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageTypes: microSD
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

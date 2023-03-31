@@ -1,0 +1,86 @@
+ProductCode: kodak_p712
+Award: ""
+ImageURL: /files/p/products/kodak_p712/03a30f86c24f4567a7d0f7bbb3e1d374.png
+Name: Kodak EasyShare P712
+ShortSpecs:
+    - 7 megapixels
+    - 2.5″ screen
+    - 36 – 432 mm (12×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_p712
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000FUL5VI
+Specs:
+    Announced: Jun 20, 2006
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion, dock & charger (optional)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 108 x 84 x 72 mm (4.25 x 3.31 x 2.83″)
+    Durability: ""
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.70 m
+    FocalLengthEquiv: 36–432 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64 - 400, (800 at 1 MP)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F2.8–3.7
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 12×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 440 g (0.97 lb / 15.52 oz)
+    WhiteBalancePresets: "4"

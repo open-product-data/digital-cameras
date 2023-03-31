@@ -1,0 +1,76 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220520183513/https://www.dpreview.com/reviews/kodakdc4800/
+ProductCode: kodak_dc4800
+Award: aboveAverage
+ImageURL: /files/p/products/kodak_dc4800/f1c176b2b3ad4f25a5731c95fd92025c.png
+Name: Kodak DC4800
+ShortSpecs:
+    - 3 megapixels
+    - 1.8″ screen
+    - 28 – 84 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc4800
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004W3YX
+Specs:
+    Announced: Jun 6, 2000
+    AperturePriority: "Yes"
+    Autofocus:
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 120 x 68 x 65 mm (4.72 x 2.68 x 2.56″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: Yes (synch cable)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 9.00 m
+    FocalLengthEquiv: 28–84 mm
+    Format: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: TIFF, HQ, SQ
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: ""
+    MaxResolution: 2160 x 1440
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1800 x 1200, 1536 x 1024, 1080 x 750
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Dec 7, 2000"
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: "4"

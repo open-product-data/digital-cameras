@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220521052200/https://www.dpreview.com/reviews/sony-cyber-shot-dsc-rx10-iii
+ProductCode: sony_dscrx10iii
+Award: silver
+ImageURL: /files/p/products/sony_dscrx10iii/3c3a2463af8a48ec9462a2b809fdb376.png
+Name: Sony RX10 III
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 600 mm (25×)
+ReviewScore: 84
+URL: /products/sony/compacts/sony_dscrx10iii
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX10 III is Sony’s flagship compact digital camera, built around a 1"-type stacked CMOS sensor which produces 20MP stills as well as 4K/UHD video. The RX10 III surpasses the zoom range of its predecessor with a 24-600mm equiv. F2.4-4 lens, and this sizable lens makes room for aperture, focus and zoom rings, as well as a focus hold button. Sony claims that its SteadyShot stabilization system offers up to 4.5 stops of shake reduction. There's also an XGA OLED EVF with 2.36 million dots, as well as a tilting 3" LCD display. It's no surprise that the RX10 III features a solid video specification, offering 4K video from 1.7X oversampled, full pixel readout without binning. The camera alsio offers the video-centric Picture Profiles that give fine-grained control over the camera's tonal and color responses, and include the very flat S-Log2 and S-Log3 gamma curves. Like the RX10 II, the III includes both a mic input socket for using an external mic and a headphone jack for monitoring that recorded audio. The RX10 III also offers the high frame rate 'HFR' videos modes that capture footage at up to 960 fps (albeit at reduced resolutions) and then play it back as 1080/24p.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx10iii/shots/959d866fb25342ccbebbe56d58a1a89e.png
+        - /files/p/products/sony_dscrx10iii/shots/ce1171436c0f40619065754f41481ae9.png
+        - /files/p/products/sony_dscrx10iii/shots/9f8c73cbea894a399fb591829b29b618.png
+        - /files/p/products/sony_dscrx10iii/shots/1e408f79ed494a4c8c33c01d283c5bf8.png
+        - /files/p/products/sony_dscrx10iii/shots/ac0fd28d632c40ecb18067a158447573.png
+        - /files/p/products/sony_dscrx10iii/shots/93242272723d433ea11a572b1cf8e7f6.png
+    ReviewSummary:
+        GoodFor: World travelers, family vacation photography, videographers looking for a high-quality all-in-one solution.
+        NotSoGoodFor: Peak action and sports photography, those looking for smaller, pocketable solutions.
+        Conclusion: Compared to its peers, the RX10 III is the best all-around bridge camera on the market. The 1"-type stacked CMOS sensor offers the same (that is, very good) performance as its predecessor, while the new lens reaches from a wide angle of 24mm all the way to 600mm without any real optical compromises. The high-quality video continues to be a big draw, and barring some ongoing UI and customization concerns, ergonomic updates have made the camera more comfortable to use in the real world.
+    ASIN:
+        - B01DLLJ8CU
+Specs:
+    AEBracketing: ""
+    Announced: Mar 29, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "420"
+    BodyMaterial: Magnesium alloy, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 133 x 94 x 127 mm (5.24 x 3.7 x 5″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - Speed priority continuous
+        - Self-timer
+        - AE/WB/DRO Bracketing (single, continuous)
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program auto
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - Raw (Sony ARW 2.3)
+    FlashModes: Auto, fill-flash, slow sync, rear sync, off
+    FlashRange: 10.80 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–600 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI with 4K still and uncompressed HDMI output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100 - 12800 (expands to 64-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, standard, fine
+    LiveView: "Yes"
+    MSRP: $1499
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.4–4
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 3 cm (1.18″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 25×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4864 x 3648, 5472 x 3080, 3648 x 3648, 3648 x 2736, 3648 x 2592, 3648 x 2056, 2544 x 2544, 2736 x 1824, 2592 x 1944, 2720 x 1528, 1920 x 1920, 640 x 480
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p, 24p), 1920 x 1080 (120p, 60p, 60i, 24p) ,1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "84%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 21, 2016"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, continuous)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: High speed modes at 240, 480, 960 fps
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1051 g (2.32 lb / 37.07 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

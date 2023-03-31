@@ -1,0 +1,77 @@
+ProductCode: oly_d620l
+Award: ""
+ImageURL: /files/p/products/oly_d620l/5918a2c428f34ae09b55db07d5bea4f3.png
+Name: Olympus D-620L (C1400XL)
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 36 – 110 mm (3.1×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d620l
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00000JFJA
+Specs:
+    Announced: Nov 2, 1998
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 115 x 83 x 130 mm (4.53 x 3.27 x 5.12″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1 EV steps)
+    ExternalFlash: Yes (synch cable)
+    FlashModes: Fill-in, Back-lit, Auto, Auto red-eye, Off
+    FlashRange: ""
+    FocalLengthEquiv: 36–110 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "5:4"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 30 cm (11.81″)
+    ManualFocus: Yes (but only 1.3 ft, 8ft and Infinity)
+    MaxResolution: 1280 x 1024
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/10000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3.1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 512
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 520 g (1.15 lb / 18.34 oz)
+    WhiteBalancePresets: "6"

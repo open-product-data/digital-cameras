@@ -1,0 +1,136 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202836/https://www.dpreview.com/reviews/fujifilm-x100t
+ProductCode: fujifilm_x100t
+Award: silver
+ImageURL: /files/p/products/fujifilm_x100t/62042b6ee69f494dac959474617334e9.png
+Name: Fujifilm X100T
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 35 mm
+ReviewScore: 81
+URL: /products/fujifilm/compacts/fujifilm_x100t
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new FUJIFILM X100T blends award-winning image quality with a renowned design that gives enthusiast and professional photographers the most important controls and functions at their fingertips. The X100T combines the resolution and power of the APS-C X-Trans CMOS II Sensor and EXR Processor II with a bright FUJINON 23mm F2 fixed lens for optical excellence.  The X100T comes newly equipped with an advanced Hybrid Viewfinder with an Electronic Rangefinder that now gives users reduced display lag times, automatic brightness controls and a Natural Live View shooting display.  The X100T also ships with Fujifilm’s new ‘Classic Chrome’ film simulation that delivers muted tones and deep color reproduction for beautifully dramatic images.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_x100t/shots/0b7f6feef1f04fa9a36405764115aa60.png
+        - /files/p/products/fujifilm_x100t/shots/7deff2f337b6413da1f809fcccaa6b1b.png
+        - /files/p/products/fujifilm_x100t/shots/6647dd6c30dd43cab83468a5da5c24e6.png
+    ReviewSummary:
+        GoodFor: Photographers wanting to engage with the shooting experience. Anyone looking for a relatively small, high-quality camera (with a bit of style). Shooters wanting beautiful images straight out-of-camera
+        NotSoGoodFor: Fast-moving subjects. Pulling out the finest scene detail. Shooting video. Anyone needing to zoom.
+        Conclusion: The X100T is an excellent photographic tool that's engaging to use and capable of beautiful images. Its autofocus is starting to show its age, and its unusual X-Trans sensor's benefits are hard to discern in an era of 24 and 28MP rivals. But there's currently nothing to touch it in terms of the size/price/image quality balance it offers and the style with which it does so.
+    ASIN:
+        - B00NF6ZHNG
+        - B00NF6ZGY6
+Specs:
+    AEBracketing: ±3 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 10, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-95 rechargeable battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 127 x 74 x 52 mm (5 x 2.91 x 2.05″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - RAW (RAF format)
+    FlashModes: Auto, forced, suppressed, slow synchro, commander
+    FlashRange: 9.00 m (at ISO 1600)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expands to 100-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: $1299.95
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896ｘ2760,264 × 3264, 3456ｘ2304, 3456ｘ1944, 2304 × 230, 2496ｘ1664, 2496ｘ1408 , 1664 × 1664
+    Processor: EXR Processor II
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 25, 2015"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 92%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 440 g (0.97 lb / 15.52 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone control

@@ -1,0 +1,147 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211114235958/https://www.dpreview.com/reviews/nikon-d5-pro-dslr-review
+ProductCode: nikon_d5
+Award: gold
+ImageURL: /files/p/products/nikon_d5/b2870dc38ef24b7ab55bd189e93578fa.png
+Name: Nikon D5
+ShortSpecs:
+    - 21 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_d5
+ReviewData:
+    ExecutiveSummary: The D5 is Nikon's flagship full-frame DSLRs, and boasts a myriad of powerful new imaging innovations, including a 20.8-megapixel CMOS sensor, an all-new 153-point AF system, 4K UHD video capture and an unprecedented native ISO range, from 100 to 102,400. For extreme low-light shooting, ISO is expandable from 50 (Lo-1) to a staggering ISO 3,280,000.The Multi-CAM 20K AF sensor module offers superior AF performance with 153 AF points, including 99 cross-type sensors - triple the AF points from Nikon’s previous flagship, the D4S. This all-new AF system is coupled with a new 180K pixel RGB metering system and Advanced Scene Recognition System, helping to achieve optimally balanced exposures and accurate white balance in even the most challenging light. To appeal to a wide variety of photographers, the D5 will be available in two versions; with either dual XQD card slots or with dual CF card capability.
+    ProductPhotos:
+        - /files/p/products/nikon_d5/shots/6e4d3c57b5ff4323ad8236eeaf23681f.png
+        - /files/p/products/nikon_d5/shots/1d7c1bee62054f96b446121374e40431.png
+        - /files/p/products/nikon_d5/shots/546263edacf542c1a3dfc90552eba9dd.png
+        - /files/p/products/nikon_d5/shots/74ab10706b074477b10476f9bb1c3093.png
+        - /files/p/products/nikon_d5/shots/b41d2f62c92d479cb6b5de37ece85abd.png
+        - /files/p/products/nikon_d5/shots/623c6aaa0bf3409d8f04ce272e9e7bab.png
+    ReviewSummary:
+        GoodFor: Photographers who shoot fast action, are frequently using available light in low light situations, and those that need ultimate reliability in adverse conditions.
+        NotSoGoodFor: Hardcore landscape photographers or photographers on a budget, serious videographers, individuals that need ultimate Raw file flexibility and people that like to travel light.
+        Conclusion: The Nikon D5 represents a more remarkable upgrade to the D4S than its appearance suggests. With a completely revamped autofocus system, the D5 will keep up with just about any subject under just about any lighting conditions. The new sensor offers class-leading low light image quality, especially due to an improved JPEG engine, but Raws aren't the most flexible when shooting high contrast scenes. The improved, extensive customization allows for quick adaptability to fast situations, with instant AF mode overrides at the touch of a button. The D5 is a specialized tool capable of highly professional results.
+    ASIN:
+        - B01A7Q0HEK
+        - B01A7Q0DVM
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 5, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL18a lithium-ion battery & charger
+    BatteryLifeCIPA: "3780"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large SLR
+    BoostedISOMaximum: "3280000"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 160 x 159 x 92 mm (6.3 x 6.26 x 3.62″)
+    DriveModes:
+        - Single-frame
+        - Continuous low
+        - Continuous high
+        - Mirror-up
+        - Quiet shutter
+        - Self-timer
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe and flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (NEF, 12 or 14 bit, lossless compressed, compressed, uncompressed)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-102400 (expandable to 50-3280000)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $6499/£5729
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5588 x 3712
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "153"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: EXPEED 5
+    RemoteControl: Yes (wired, wireless, smartphone)
+    Resolutions: 3840 x 2160 (30p/25p/24p), 1920 x 1080 (60p/50p/30p/25p/24p), 1280 x 720 (60p/50p)
+    ReviewPreview: "89%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 1, 2016"
+    SceneModes:
+        - Single-frame
+        - Continuous low
+        - Continuous high
+        - Mirror-up
+    ScreenDots: 2,359,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10, 20 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual CompactFlash or dual XQD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1.5X crop mode with DX lenses
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.72×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1415 g (3.12 lb / 49.91 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: Requires WT-5A or WT-6A

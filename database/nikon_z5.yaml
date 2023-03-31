@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206015912/https://www.dpreview.com/reviews/nikon-z5-review
+ProductCode: nikon_z5
+Award: gold
+ImageURL: /files/p/products/nikon_z5/e97e24518c4b4f7caa4e93d0fe0d450e.png
+Name: Nikon Z5
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_z5
+ReviewData:
+    ExecutiveSummary: The Nikon Z5 is the company's entry-level Z full-frame Z-mount mirrorless camera. It has a 24MP CMOS sensor, 5-axis image stabilization and a hybrid autofocus system that has both human and animal detection. While build quality isn't to at the same level of the Z6, the camera is still weather-sealed. The Z5 has a 3.6M-dot electronic viewfinder and a tilting 3.2" touchscreen display, and dual SD card slots that support UHS-II speeds.The Z5 can capture 4K/30p video, albeit with a 1.7X crop; Video captured at 1080 uses the full sensor area and has no crop. There are no high speed (e.g. 120 fps) modes on the Z5. The camera has both headphone and microphone sockets.The Z5 is powered by the new EN-EL15C battery and supports USB PD, which lets you power the camera with a portable battery pack. The same MB-N10 grip used by the Z6 and Z7 can be used on the Z5.
+    ProductPhotos:
+        - /files/p/products/nikon_z5/shots/67a6d0acf9d04b239eb3963b70ec0dbb.png
+        - /files/p/products/nikon_z5/shots/7b83adbc6c65482f8c5dab7856ea847c.png
+        - /files/p/products/nikon_z5/shots/088932be229d4580ae2b1ec516a13722.png
+    ReviewSummary:
+        GoodFor: Just about anyone seeking a well-priced, stills-oriented full-frame mirrorless camera.
+        NotSoGoodFor: Video shooters. Those wishing to capture super-fast action (in which Z5's 4.5 fps burst may not be quick enough).
+        Conclusion: 'The Nikon Z5 is arguably the best bang-for-your-buck stills-oriented camera on the market. Image quality from its 24MP sensor is just tad behind class-leading and much of its design, from the build-quality to the ergonomics, is borrowed from higher-end Nikon Z models. Autofocus performance is also solid; reliable face and eye detect make it a great choice for documenting family/friends. Video performance is the one area the Z5 does not excel: 4K video is heavily cropped. But it does offer respectable Full HD capture with the added benefit of in-body image stabilization for hand-held shooting.'
+    ASIN:
+        - B08DCRHZZJ
+        - B08DCWJ1YS
+        - B08DCJNTBX
+Specs:
+    AEBracketing: ""
+    Announced: Jul 21, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15c lithium-ion battery & charger
+    BatteryLifeCIPA: "470"
+    BodyMaterial: Magnesium alloy, composite
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,096.95 - $1,546.90
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 101 x 70 mm (5.28 x 3.98 x 2.76″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, 12 or 14-bit)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1399 (body only), $1699 (w/24-50mm lens), $2199 (w/24-200mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4016
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "273"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "89%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 30, 2020"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 or 20 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 200%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 3,689,400
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 675 g (1.49 lb / 23.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual band) + Bluetooth

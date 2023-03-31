@@ -1,0 +1,122 @@
+ProductCode: ricoh_theta_v
+Award: ""
+ImageURL: /files/p/products/ricoh_theta_v/25b393d43de34bb997ac8f6c0e85abc1.png
+Name: Ricoh Theta V
+ShortSpecs:
+    - 12 megapixels
+    - 2 lens(es)
+    - Compact sensor
+ReviewScore: 0
+URL: /products/ricoh/actioncams/ricoh_theta_v
+ReviewData:
+    ExecutiveSummary: The Ricoh Theta V is a twin-lens, candybar-shaped camera that captures 360 degree spherical images. It uses two fisheye lenses along with a two 12MP 1/2.3" sensors to capture both stills and 4K/1080 video. It has four microphones which capture directional audio and an optional microphone does an even better job. The Theta can be controlled on its own or from a smartphone. The addition of Bluetooth LE allows for near-instant re-pairing of camera and mobile device. The Theta V can also livestream high bit rate 4K or 2K video via a USB connection to a PC.
+    ProductPhotos:
+        - /files/p/products/ricoh_theta_v/shots/8593b7678eb243c5ad50bfe486693a55.png
+        - /files/p/products/ricoh_theta_v/shots/a177e40e08884ae697b9c5b9cdf33544.png
+        - /files/p/products/ricoh_theta_v/shots/c8abf624c1524cdba31e1911eb1058c4.png
+        - /files/p/products/ricoh_theta_v/shots/8268774cd7af4fa79025911a849b47b2.png
+        - /files/p/products/ricoh_theta_v/shots/dd2d40731d9b42239b2c3b1174577b04.png
+    ReviewSummary: null
+    ASIN:
+        - B074W5BKYS
+Specs:
+    AEBracketing: ""
+    Announced: Aug 31, 2017
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Single
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "260"
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 45 x 131 x 23 mm (1.77 x 5.16 x 0.91″)
+    DriveModes: ""
+    Durability: Waterproof with housing
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - ISO priority
+        - Manual
+    ExternalFlash: "No"
+    FieldOfView: 190.00°
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 64-6400
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: Yes (via smartphone)
+    MSRP: $429
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 5376 x 2688
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/25000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Multiple
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 56 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 1920 @ 30p / 16 Mbps, MP4, H.264, Linear PCM
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: ""
+    NumberOfLenses: "2"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Snapdragon 625
+    RemoteControl: Yes (via smartphone or wired switch)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 19GB
+    StorageTypes: Internal memory
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 360 degree
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth LE

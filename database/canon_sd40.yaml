@@ -1,0 +1,89 @@
+ProductCode: canon_sd40
+Award: ""
+ImageURL: /files/p/products/canon_sd40/52dee7bd9e0e4b02851a559e38efbce3.png
+Name: Canon PowerShot SD40 (Digital IXUS i7 / IXY Digital L4)
+ShortSpecs:
+    - 7 megapixels
+    - 1.8″ screen
+    - 38 – 90 mm (2.4×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd40
+ReviewData:
+    ExecutiveSummary: Upgrade to the SD30 featuring the then-new Digic III processor, ISO 1600, face detection and a 7.2 megapixel CCD.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000HAQ8C2
+        - B000HAOVEE
+Specs:
+    Announced: Sep 14, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-4L battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: $349.99
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 96 x 45 x 24 mm (3.78 x 1.77 x 0.94″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Manual (Red Eye On/Off)
+    FlashRange: 2.00 m
+    FocalLengthEquiv: 38–90 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F3.2–5.4
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 2.4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 @ 30/15 fps, 320 x 240 @ 60/30/15 fps, 160 x 120 @ 15 fps
+    ReviewPreview: ""
+    ScreenDots: 118,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB SD card
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 120 g (0.26 lb / 4.23 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

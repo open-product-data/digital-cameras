@@ -1,0 +1,146 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412011847/https://www.dpreview.com/reviews/canon-eos-7d-mark-ii
+ProductCode: canon_eos7dii
+Award: silver
+ImageURL: /files/p/products/canon_eos7dii/30a96b84e1cc4136937f3fed07e1330d.png
+Name: Canon EOS 7D Mark II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/canon/slrs/canon_eos7dii
+ReviewData:
+    ExecutiveSummary: The Canon EOS 7D Mark II is the long-awaited replacement to the 7D, which was launched in 2009. It features a 20.2MP APS-C CMOS sensor and dual DIGIC 6 image processors. It has a new 65-point, all cross-type autofocus system as well as an updated version of Canon's Dual Pixel CMOS AF system that provides continuous phase detect focusing during video recording. It has elaborate controls for subject-tracking, similar to those found on the EOS 5D Mark III and 1D X. The 7D Mark II can shoot continuously at up to 10 fps.Other features include a 3" LCD with 1.04M dots, a large optical viewfinder with 100% coverage and an LCD overlay that provides shooting information, and dual memory card slots for CompactFlash and SD/SDHC/SDXC media.  Video-wise the 7D II can capture Full HD video at a variety of frame rates, including 59.94 fps, with your choice of file formats (MOV or MP4) and compression algorithms (IBP, ALL-I, Light IPB). The camera has mic and headphone ports, as well as one for USB 3.0. While the 7D has built-in GPS, it lacks WI-FI.
+    ProductPhotos:
+        - /files/p/products/canon_eos7dii/shots/ed66c7d29d4a479dbc17a48529b265fb.png
+        - /files/p/products/canon_eos7dii/shots/228ae18e235d41baa4fe6dcc1a8ff8a2.png
+        - /files/p/products/canon_eos7dii/shots/3096f0907a4743019175c36eb69e4904.png
+        - /files/p/products/canon_eos7dii/shots/ba0ca821c3644decaf8cc0756e46b26b.png
+        - /files/p/products/canon_eos7dii/shots/ebcc960672b94c6fb8d8bee46f50c270.png
+    ReviewSummary:
+        GoodFor: Sports/action shooters, photographers who need extended telephoto reach, and Canon 5D Mark III owners looking for fast autofocus and shooting performance.
+        NotSoGoodFor: Landscape photographers seeking wide dynamic range.
+        Conclusion: The EOS 7 D Mark II may use an APS-C sensor, but it's a pro-level camera in every respect. Its 10 frames per second shooting and blazing fast autofocus set it apart from most of its peers, but it also includes features such as Intelligent Tracking and Recognition (iTR) for improved focus tracking, Dual-Pixel autofocus for smooth, natural looking focus when shooting video, and well designed ergonomics that match Canon's 5D Mark III. Its dynamic range and video quality fall behind some of its top-performing peers, but its performance is class-leading.
+    ASIN:
+        - B01KURGSH6
+        - B01KURGSGW
+        - B00NEWZDRG
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 15, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery and charger
+    BatteryLifeCIPA: "670"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 149 x 112 x 78 mm (5.87 x 4.41 x 3.07″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Silent single shooting
+        - Silent continuous shooting
+        - 10-sec self-timer / remote control
+        - 2 sec self-timer / remote control
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Program AE
+        - Shutter priority AE
+        - Aperture priority AE
+        - Manual exposure
+        - Bulb
+        - Custom (1-3)
+    ExternalFlash: Yes (via hot shoe, flash sync port)
+    FileFormat:
+        - JPEG (EXIF v2.3, DCF v2.0)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, ISO 100-16000 (expandable to 51200)
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $1799 (body only), $2149 (w/18-135mm F3.5-5.6 IS STM lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "65"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4104 x 2736 (M-Raw), 3648 x 2432, 2736 x 1824, 1920 x 1080, 720 x 480
+    Processor: DIGIC 6 (dual)
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: 1920 x 1080 (59.94, 50. 29.97, 25, 24, 23.98 fps), 1280 x 720 (59.94, 50, 29.97, 25 fps), 640 x 480 (29.97, 25 fps)
+    ReviewPreview: "84%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 11, 2014"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: Clear View II TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: APS-C (22.4 x 15 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CompactFlash + SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Choice of MOV or MP4 and IPB, Light IBP, ALL-I compression
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1× (0.62× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 910 g (2.01 lb / 32.10 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

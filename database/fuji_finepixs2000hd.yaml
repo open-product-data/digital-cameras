@@ -1,0 +1,83 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211108142554/https://www.dpreview.com/reviews/q109superzoomgroup
+ProductCode: fuji_finepixs2000hd
+Award: ""
+ImageURL: /files/p/products/fuji_finepixs2000hd/e8cabcf0e791438890a46a2f7b7f990a.png
+Name: Fujifilm FinePix S2000HD
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 28 – 414 mm (15×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixs2000hd
+ReviewData:
+    ExecutiveSummary: 'he FinePix S2000HD is an upgrade to the S1000fd, and can trace its ancestry back to the S3500, released in 2004. The zoom range has been expanded from 12x to 14.7 times and the lens now also features a real wideangle at 27.6mm equivalent. The ''HD'' element of its name denotes its compatibility with high definition television systems - it can record 720p HD video as well as being able to display its still images on an HD set. This 10MP camera with 15x zoom (which starts at around 28 mm) also includes features such as Dual Shot Mode, dual image stabilization, Zoom Bracketing and Face Detection. There''s much to like about the S2000HD: it handles well, is relatively responsive and very compact considering the zoom range on offer, plus it has a surprisingly comprehensive feature set. But ultimately the output is disappointing, and the automatic systems aren''t reliable enough (we had a lot more success once we started to take control of it more manually, but that kind of defeats the purpose of all those clever features).'
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001D0G56E
+Specs:
+    Announced: Aug 12, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.1 x)
+    Dimensions: 111 x 79 x 76 mm (4.37 x 3.11 x 2.98″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 8.80 m
+    FocalLengthEquiv: 27.6–414 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600 (3200 and 6400 at 5MP)
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.4
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 15×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432,  2592 x 1944, 2048 x 1944, 1600 x 1200, 640 x 480
+    RemoteControl: "Yes"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Jan 15, 2009"
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 55 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderType: Electronic
+    WeightIncBatteries: 426 g (0.94 lb / 15.03 oz)
+    WhiteBalancePresets: "6"

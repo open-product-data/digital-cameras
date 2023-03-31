@@ -1,0 +1,107 @@
+ProductCode: casio_exfc100
+Award: ""
+ImageURL: /files/p/products/casio_exfc100/ea604808658644a6881cea89122e62f0.png
+Name: Casio Exilim EX-FC100
+ShortSpecs:
+    - 9 megapixels
+    - 2.7″ screen
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exfc100
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-FC100 was one amongst the six compacts announced in January 2009 and offers burst shooting at 30fps and movies at 1000fps. It also features a Slow Motion View option that lets the users watch movements of the subject in slow motion before capture. The 9.1MP camera offers a 5x optical zoom lens with a CMOS shift anti-shake function and a 2.7-inch high-performance Super Clear LCD.
+    ProductPhotos:
+        - /files/p/products/casio_exfc100/shots/0425f04f0e404a7fbfae1cbbbae7445a.png
+        - /files/p/products/casio_exfc100/shots/fd5cb4824de045519e0bd77a0d43eda8.png
+        - /files/p/products/casio_exfc100/shots/aec3b340ad7948c79f0617346bcf84ad.png
+        - /files/p/products/casio_exfc100/shots/5ef4ec30bcfd49b7a2a27de4c3985452.png
+    ReviewSummary: null
+    ASIN:
+        - B001OTZR22
+        - B001OTZR1I
+        - B001OTZTHU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-40)
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 59 x 23 mm (3.94 x 2.32 x 0.91″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.6–8.5
+    MaximumShutterSpeed: 1/1000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2816 x 2112, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps),  640 x 480 (30, 120 fps), 448 x 336 (30, 240 fps), 640 x 480 (120 fps),448 x 336 (240 fps), 224 x 168 (420 fps), 224 x 64 (1000 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SDHC Memory Card, SD Memory Card, Eye-Fi Wireless Card compatible
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 156 g (0.34 lb / 5.50 oz)
+    WhiteBalancePresets: ""
+    Wireless: Eye-Fi Connected

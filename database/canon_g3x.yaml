@@ -1,0 +1,143 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210908153047/https://www.dpreview.com/reviews/canon-powershot-g3-x-what-you-need-to-know
+ProductCode: canon_g3x
+Award: ""
+ImageURL: /files/p/products/canon_g3x/d474769685c44159830469d523e2e813.png
+Name: Canon G3 X
+ShortSpecs:
+    - 20 megapixels
+    - 3.2″ screen
+    - 24 – 600 mm (25×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_g3x
+ReviewData:
+    ExecutiveSummary: The PowerShot G3 X is a premium superzoom with a 1"-type, 20MP BSI-CMOS sensor. This sensor, along with Canon's DIGIC 6 processor, permits an ISO range of 125-12800. The G3 X sports an F2.8-5.6, 24-600mm equivalent lens with 'Intelligent' image stabilization and its rugged body is sealed against dust and moisture. The autofocus system has 31 points and Canon claims a burst shooting speed of 5.9 fps. The G3 X features a full suite of manual controls, including Raw support and a hot shoe, and there are numerous customizable controls, including the focus ring around the lens. The back of the camera features a tilting 3.2" LCD with 1.62M dots and touch functionality (an electronic viewfinder is optional). Video is recorded at 1080/60p with manual exposure control and mic and headphone jacks. As with most cameras these days, the G3 X also has built-in Wi-Fi with NFC.
+    ProductPhotos:
+        - /files/p/products/canon_g3x/shots/9e29728fc11e4433bb791c05744c5d0apng
+        - /files/p/products/canon_g3x/shots/4a643a340c5f4072b29efc48fc279798png
+        - /files/p/products/canon_g3x/shots/0a87e704735c4350a21fcfb779c71338png
+        - /files/p/products/canon_g3x/shots/e1f07dc009034584a0c359da110f66bepng
+        - /files/p/products/canon_g3x/shots/a8b233758baa4cba91ad4a2dd83aa20cpng
+        - /files/p/products/canon_g3x/shots/7c461ff0234f48ea8b16c4e0ed01096dpng
+    ReviewSummary: null
+    ASIN:
+        - B00ZM1E46I
+        - B015YDJK4O
+Specs:
+    AEBracketing: ""
+    Announced: Jun 18, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-10L lithium-ion battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.9 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: Yes (4x)
+    Dimensions: 123 x 77 x 105 mm (4.84 x 3.03 x 4.13″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3
+    ExposureModes:
+        - Hybrid Auto
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (CR2, 14-bit)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 6.80 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–600 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: Auto, 125-12800 (expands to 25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $999
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "31"
+    OpticalZoom: 25×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (4320 x 2880, 2304 x 1536, 720 x 480), 16:9 (5472 x 3080, 4320 x 2432, 1920 x 1080, 720 x 408), 4:3 (4864 x 3648, 3840 x 2880, 2048 x 1536, 640 x 480), 1:1 (3648 x 3648, 2880 x 2880, 1536 x 1536, 480 x 480)
+    Processor: DIGIC 6
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Jun 18, 2015"
+    SceneModes:
+        - Portrait
+        - Smart Shutte
+        - Star
+        - Handheld Night Scene
+        - Snow
+        - Fireworks
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Star time-lapse, miniature effect, short clip also available
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 733 g (1.62 lb / 25.86 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

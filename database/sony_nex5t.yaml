@@ -1,0 +1,150 @@
+ProductCode: sony_nex5t
+Award: ""
+ImageURL: /files/p/products/sony_nex5t/8312d95e66674a8a959a0115581a3fe6.png
+Name: NEX-5T
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_nex5t
+ReviewData:
+    ExecutiveSummary: The 16MP Sony NEX-5T is marginally updated from its predecessor, with the addition of NFC connectivity. It has a control dial, dedicated function button and the ability to run proprietary in-camera apps to extend its capabilities. It retains its predecessor's live view focusing technology, using a modified sensor with pixels devoted to performing phase-detection to provide a hybrid autofocus system. The phase-detection pixels are used to determine depth information about the focus target, which means the camera has to perform less hunting. Other key features includes its 180° tilt-able touch-screen LCD for easy self-portraits, DSLR-like AF tracking for shooting at up to 10 fps, one-touch sharing, and one-touch remote (for NFC-enabled devices).
+    ProductPhotos:
+        - /files/p/products/sony_nex5t/shots/2d4bb08fd6da4e7194034503155742f6.png
+        - /files/p/products/sony_nex5t/shots/77441434f53f481b868a576e6164a550.png
+        - /files/p/products/sony_nex5t/shots/095ec7e3159642058959d17b2a0cd216.png
+        - /files/p/products/sony_nex5t/shots/178fd2cc8ef94b9e8c54c3bc6f3ed133.png
+    ReviewSummary: null
+    ASIN:
+        - B00ENZRP38
+        - B00EPWC2WI
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Aug 27, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (with built-in LED type)
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NPFW50 rechargeable battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 111 x 59 x 39 mm (4.36 x 2.31 x 1.53″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAUTO
+        - Superior Auto
+        - Programmed AE (P)
+        - Aperture priority (A)
+        - Shutter-speed priority (S)
+        - Manual (M)
+        - Sweep Panorama
+        - Scene Selection
+    ExternalFlash: Yes (Accessory Port (supplied))
+    FileFormat:
+        - RAW
+        - RAW+JPEG
+        - JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in
+    FlashRange: 7.00 m (ISO100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters:
+        - Contrast -3 to +3 steps
+        - Saturation -3 to +3 steps
+        - Sharpness -3 to +3 steps
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $699 with 16-50mm PZ lens
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 2760, 3568 x 2368, 3568 x 2000, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night View
+        - Hand-held Twilight
+        - Anti Motion Blur
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: Tilt Up 180° Down 50° TFT LCD
+    SelfTimer: Yes ((10/2 sec. delay), Self-timer (Cont.) (with 10 sec. delay; 3/5 exposures))
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 276 g (0.61 lb / 9.74 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: NFC and WiFi

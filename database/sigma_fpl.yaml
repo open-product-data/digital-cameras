@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211207153643/https://www.dpreview.com/reviews/sigma-fp-l-initial-review
+ProductCode: sigma_fpl
+Award: ""
+ImageURL: /files/p/products/sigma_fpl/bddb216462854b66a33e5e4be984ee05.png
+Name: Sigma fp L
+ShortSpecs:
+    - 61 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/sigma/slrs/sigma_fpl
+ReviewData:
+    ExecutiveSummary: The Sigma fp L is an ultra-compact full-frame mirrorless digital camera. This L-mount camera features a 61 Megapixel sensor, hybrid autofocus system, attachable (optional) EVF and fully electronic shutter. It can shoot bursts as fast as 10 fps and offers an Auto HDR mode for both stills and videos. The camera can record 12-bit Cinema DNG video to an external recorder, as well as UHD 4K/30p internally. The camera can be powered by devices that support USB Power Delivery.The camera is designed to be modular, with optional grips, flash brackets, the aforementioned EVF, and more. Sigma has opened up the system so third party manufacturers can get in on the action.
+    ProductPhotos:
+        - /files/p/products/sigma_fpl/shots/d624f3957ccf494382159127ad03219c.png
+        - /files/p/products/sigma_fpl/shots/687b2501b49b46c78adedd260d9d270d.png
+        - /files/p/products/sigma_fpl/shots/345a85e6ded04ef39b5b6c615afdabc9.png
+    ReviewSummary: null
+    ASIN:
+        - B0916G94WV
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV steps)
+    Announced: Mar 25, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: BP-51 lithium-ion battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "6"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,499.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (1.5x - 5x)
+    Dimensions: 113 x 70 x 45 mm (4.45 x 2.76 x 1.77″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Interval
+    EffectivePixels: 61 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG, lossless, 12 or 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/15 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: 100-25600 (expands to 6-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: High, med, low
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $2499 (body only), $2999 (with EVF)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9520 x 6328
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jun 15, 2021"
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 62 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB Power Delivery supported)
+    UncompressedFormat: RAW
+    VideographyNotes: Can output 12-bit CinemaDNG to an external recorder
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.83×
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 427 g (0.94 lb / 15.06 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In

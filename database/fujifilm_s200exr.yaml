@@ -1,0 +1,116 @@
+ProductCode: fujifilm_s200exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_s200exr/735243cbd3f544469e1ba20c28aa0074.png
+Name: FujiFilm FinePix S200EXR (FinePix S205EXR)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 31 – 436 mm (14.3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s200exr
+ReviewData:
+    ExecutiveSummary: The DSLR-styled Fujifilm FinePix S200EXR advanced super zoom is a successor to the FinePix S100FS. Incorporating a 12MP Super CCD EXR sensor and an optically-stabilized 14.3x (30.5-436mm) manual zoom lens, it offers CCD-RAW (EXR) and JPEG shooting and three bracketing options. It also includes a new Pro Focus and Pro Low Light mode and improved battery life. It features a 2.7 inch LCD and an electronic viewfinder.
+    ProductPhotos:
+        - /files/p/products/fujifilm_s200exr/shots/e669a503f4914e7d909d415741a3406a.png
+        - /files/p/products/fujifilm_s200exr/shots/9c27758ddb744a16bf07707414e7d8bd.png
+        - /files/p/products/fujifilm_s200exr/shots/4f88c7b69f464927a3911c631784318e.png
+        - /files/p/products/fujifilm_s200exr/shots/3da9dee8453d4d2c9dfb041f3c39847e.png
+    ReviewSummary: null
+    ASIN:
+        - B002HMCBEC
+Specs:
+    AEBracketing: ""
+    Announced: Jul 22, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-140 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 133 x 94 x 145 mm (5.24 x 3.7 x 5.71″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 7.20 m
+    FocalLengthEquiv: 30.5–436 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Auto (3200), Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.3
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 14.3×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2816 x 2112, 2816 x 1864, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: EXR
+    RemoteControl: Yes (Optionalƒ)
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.6" (8 x 6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 47 MB Internal
+    StorageTypes: SD/SDHC Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 865 g (1.91 lb / 30.51 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

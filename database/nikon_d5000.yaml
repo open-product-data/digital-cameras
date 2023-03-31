@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210927112342/https://www.dpreview.com/reviews/nikond5000
+ProductCode: nikon_d5000
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d5000/3c05d6be01a9493f90bd25ec78cd7c69.png
+Name: Nikon D5000
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 75
+URL: /products/nikon/slrs/nikon_d5000
+ReviewData:
+    ExecutiveSummary: The D5000 fills the gap in Nikon's range between the D60 and the D90, though the feature set is far closer to the more expensive D90 than the entry level models. With 12.9 megapixels, 720p movie capture, tilting LCD screen and faster burst mode (plus a wealth of upgrades and enhancements) the D5000 is a significant step up from the D40X/D60 but the lack of an in-body focus motor and entry-level viewfinder stops it treading too hard on the D90's toes. The D5000's image quality is undeniably impressive - the default JPEG settings might be a touch too tailored towards the D300 market but they can be tweaked to produce the bright, punchy output that former compact camera users are likely to expect. The high ISO performance is very good as is the dynamic range, with or without the useful Active D-Lighting feature. The D5000 is packed full of features, including a good set of RAW and JPEG processing tools and effects, and video has been implemented in such a way that it's there if you want it and doesn't get in the way if you don't.
+    ProductPhotos:
+        - /files/p/products/nikon_d5000/shots/c397376fdb30430ba63a2604d653b3cd.png
+        - /files/p/products/nikon_d5000/shots/ca953c4512f64ef6ad7ed5debd98d557.png
+        - /files/p/products/nikon_d5000/shots/7b6b26845323434ca3aef57da207988d.png
+        - /files/p/products/nikon_d5000/shots/90b368b0e31e4d90a8a295136687e0e1.png
+        - /files/p/products/nikon_d5000/shots/971cfc27f1e64dca9e774ba3398d6a37.png
+    ReviewSummary:
+        GoodFor: Anyone looking for good results without a lot of effort
+        NotSoGoodFor: Manual photography enthusiasts
+        Conclusion: The D5000 takes the D3000's ease of use and sprinkles in some of the D90's more advanced features to create a user-friendly but surprisingly sophisticated photography tool. It may not be that pretty, but it handles well and produces reliably good results without the need for much user intervention, yet has plenty to offer the more serious user, too.
+    ASIN:
+        - B07YX8FX9Q
+        - B00FXYT12G
+        - B00267S7TQ
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 14, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL9a Lithium-Ion battery
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 127 x 104 x 80 mm (5 x 4.09 x 3.15″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 17.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: Motion JPEG
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 200 - 3200 (plus 6400 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: Yes (With contrast-detect AF, face detection and subject tracking)
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 2848
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3216 x 2136, 2144 x 1424
+    Processor: Expeed
+    RemoteControl: Yes (Optional (ML-L3))
+    Resolutions: 1280 x 720 (24 fps), 640 x 424 (24 fps), 320 x 216 (24 fps)
+    ReviewPreview: "75%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 12, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.78× (0.52× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 590 g (1.30 lb / 20.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

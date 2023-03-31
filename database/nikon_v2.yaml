@@ -1,0 +1,132 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220127213927/https://www.dpreview.com/reviews/hands-on-with-nikon-v2
+ProductCode: nikon_v2
+Award: ""
+ImageURL: /files/p/products/nikon_v2/ed24e6924f974195ace31ea1bd5c1935.png
+Name: Nikon 1 V2
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_v2
+ReviewData:
+    ExecutiveSummary: The Nikon  1 V2 - a more enthusiast-focused 1-series camera built around a 14MP sensor. The V2 adds a built-in flash and mode dial and more extensive front grip. It can shoot at up to 15 frames per second in combination with its hybrid AF system. It also has a configurable 'F' button to give faster access to key camera settings. The V2 uses a processor that lives up to the latest Expeed 3A billing.
+    ProductPhotos:
+        - /files/p/products/nikon_v2/shots/c575d2b2efb6444783a9ecb7103dfa40.png
+        - /files/p/products/nikon_v2/shots/31d1d719bd1f4d0dba58bad287d0609d.png
+        - /files/p/products/nikon_v2/shots/cb9edd5a2f59475d8346e0d443519303.png
+        - /files/p/products/nikon_v2/shots/3ece0d1555ce4fbdb3b2251d9a8d1142.png
+    ReviewSummary: null
+    ASIN:
+        - B009W4E4JS
+        - B009W4E4XO
+        - B009W5ADLK
+Specs:
+    AEBracketing: ""
+    Announced: Oct 24, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL21 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-Up)
+    BuyingOptions: $749.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 109 x 82 x 46 mm (4.29 x 3.23 x 1.81″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -3–5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Optional SB-N7 mini speedlight )
+    FileFormat:
+        - JPEG
+        - NEF (RAW)
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-N100 GPS unit
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: 'With 10-30mm kit zoom: $899'
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3072
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "73"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Expeed 3A
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60 fps), 1072 x 720 (60 fps) 640 x 240 (400), 320 x 120 (1200)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Oct 25, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 278 g (0.61 lb / 9.81 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Optional
+    WirelessNotes: WU-1b adapter

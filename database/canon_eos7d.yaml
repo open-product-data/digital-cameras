@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220118172013/https://www.dpreview.com/reviews/canoneos7d
+ProductCode: canon_eos7d
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_eos7d/44d7ee7c6dee4648b779cd221ccb7b1a.png
+Name: Canon EOS 7D
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/canon/slrs/canon_eos7d
+ReviewData:
+    ExecutiveSummary: The EOS 7D is an excellent addition to Canon's range of APS-C DSLRs that is, in terms of build quality, speed of operation, ergonomics and image quality, a cut above Canon's previous APS-C flagship, the EOS 50D. Its eight frames per second continuous shooting speed and highly flexible AF system, coupled with an 18Mp CMOS sensor with formidable high ISO capabilities make the Canon EOS 7D one of the finest APS-C DSLRs that money can buy.
+    ProductPhotos:
+        - /files/p/products/canon_eos7d/shots/706182c730694a80b7bac63cf43fbf05.png
+        - /files/p/products/canon_eos7d/shots/3db0f301642b42d19a5804c689f41cf6.png
+        - /files/p/products/canon_eos7d/shots/de3639e3c5c44e2195108932d3deab0d.png
+        - /files/p/products/canon_eos7d/shots/8a9b24f099d24fada8a3927187b742d9.png
+        - /files/p/products/canon_eos7d/shots/e21f59a45abe49d391b742ce0216bbc3.png
+        - /files/p/products/canon_eos7d/shots/e6da0dd2656e4b2db7508b5619471d81.png
+    ReviewSummary:
+        GoodFor: Pretty much anything from landscapes to sports to HD movies
+        NotSoGoodFor: Inexperienced users and those on a tight budget
+        Conclusion: If you can justify the price tag it's hard to fault Canon's new APS-C flagship. With class-leading image quality, fast operation and excellent handling the EOS 7D is everything a semi-pro model should be--and the excellent movie mode will be a welcome bonus to those that like their pictures to move. Arguably the best APS-C SLR on the market today.
+    ASIN:
+        - B002NEGTU6
+        - B003BM7X6I
+        - B002NEGTTW
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 1, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E6 rechargeable battery & charger
+    BatteryLifeCIPA: "800"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $749.00 - $1,049.95
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 148 x 111 x 74 mm (5.83 x 4.37 x 2.91″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: Yes (Water-resistant, Dust-resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus Sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 12.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: GP-E2
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "19"
+    OrientationSensor: "Yes"
+    OtherResolutions: 5184 x 3456, 3888 x 2592, 3456 x 2304, 2592 x 1728
+    Processor: Dual Digic 4
+    RemoteControl: Yes (N3 connector)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 480 (60, 50 fps)
+    ReviewPreview: "84%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 6, 2009"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD, liquid-crystal monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II), UDMA, Microdrive cards
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1× (0.62× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 860 g (1.90 lb / 30.34 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

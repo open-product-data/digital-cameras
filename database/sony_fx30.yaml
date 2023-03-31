@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220928140703/https://www.dpreview.com/reviews/sony-fx30-initial-review
+ProductCode: sony_fx30
+Award: ""
+ImageURL: /files/p/products/sony_fx30/04ab576bdad84f689ada7016c9e5245a.png
+Name: Sony FX30
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_fx30
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The compact, very accessible FX30 brings up-and-coming visual storytellers into the world of Sony’s highly acclaimed Cinema Line cameras. Drawing on cinematic colour science with S-Cinetone™ and S-Log3 for grading, it produces stunning cinematic imagery while incorporating a full array of workflow-efficient features.'
+    ProductPhotos:
+        - /files/p/products/sony_fx30/shots/184e70fa3cbb4d5181146760a595e572.png
+        - /files/p/products/sony_fx30/shots/51c7c7c0a223485eb4dedad15a219412.png
+        - /files/p/products/sony_fx30/shots/bcab33cf46954afcbdba17bc3cd8d9b4.png
+    ReviewSummary: null
+    ASIN:
+        - B0BKLQFFSF
+        - B0BGQGBW8J
+        - B09JZT6YK5
+Specs:
+    AEBracketing: ""
+    Announced: Sep 28, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100
+    BatteryLifeCIPA: "570"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (3 settings)
+    DigitalZoom: ""
+    Dimensions: 78 x 130 x 85 mm (3.07 x 5.12 x 3.35″)
+    DriveModes:
+        - 'Single Shooting, Self-timer, Self-timer (Cont.), Bracket: Single, Bracket: Cont., White Balance bracket, DRO bracket'
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG, HEIF, Raw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: ""
+    HDMI: Yes (Type A ( YCbCr 4:2:2 10-bit / RGB 8-bit))
+    HeadphonePort: "Yes"
+    ISO: 100-32000
+    ImageParameters:
+        - Creative Looks, Picture Profiles (inc HLG, S-Cinetone), S-Log3
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: ""
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1799 body-only, $2199 with XLR adapter
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6192 x 4128
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 120p / 280 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 120p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 120p / 280 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 120p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 600 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 100 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 75 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 45 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 300 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 240 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 50 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 30 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 222 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 111 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 89 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "759"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Sep 28, 2022"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: Articulating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/CFexpress Type A slots
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 646 g (1.42 lb / 22.79 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: IEEE 802.11a/b/g/n/ac

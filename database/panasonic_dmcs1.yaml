@@ -1,0 +1,118 @@
+ProductCode: panasonic_dmcs1
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcs1/41213e9d62e04ea4b5c58cd8d3d58ed5.png
+Name: Panasonic Lumix DMC-S1
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcs1
+ReviewData:
+    ExecutiveSummary: One amongst the first pair of the Panasonic's S series of budget compacts, the 12MP S1 is bundled with essential features in a simple rounded body design. Despite being categorized under budget compacts, it offers useful features such as 720p HD recording, 28-112mm optical zoom and image stabilization. For Facebook and YouTube fans there is an easy upload and share option.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcs1/shots/529890fc459446bf91fccb2fe1d833b2.png
+        - /files/p/products/panasonic_dmcs1/shots/ff84efca257f44f095e438ee8178cfee.png
+        - /files/p/products/panasonic_dmcs1/shots/440bcf8c654845c58bf9d790d218136d.png
+        - /files/p/products/panasonic_dmcs1/shots/7535d12165cc450a92577dff14dc8a78.png
+    ReviewSummary: null
+    ASIN:
+        - B004HW7KEG
+        - B004HW7KDC
+        - B004HW7KDM
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $169.97
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 59 x 21 mm (3.9 x 2.32 x 0.83″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/1600 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 20 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 117 g (0.26 lb / 4.13 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

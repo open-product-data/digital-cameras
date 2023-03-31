@@ -1,0 +1,118 @@
+ProductCode: samsung_wb750
+Award: ""
+ImageURL: /files/p/products/samsung_wb750/6576c97c3ead45df9e6716e25963d81b.png
+Name: Samsung WB750
+ShortSpecs:
+    - 13 megapixels
+    - 3″ screen
+    - 24 – 432 mm (18×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_wb750
+ReviewData:
+    ExecutiveSummary: The Samsung WB750 is a compact superzoom with an 18x zoom lens. The camera is built around what the company says is a proprietary 12.5MP back-illuminated CMOS sensor. Despite its slim dimensions, the camera offers a 24-432mm equivalent zoom range with its F3.2-5.8 image stabilized lens. As well as being able to shoot 10 full-resolution frames per second, it can also capture 1080p30 HD video.
+    ProductPhotos:
+        - /files/p/products/samsung_wb750/shots/93cb75ca4a9f4fda9942f175e5f2e599.png
+        - /files/p/products/samsung_wb750/shots/a7cd326ec33e4caf84564814273e1106.png
+        - /files/p/products/samsung_wb750/shots/82df843c807a4be993fc1ee43a997aa6.png
+    ReviewSummary: null
+    ASIN:
+        - B005IQGUMI
+Specs:
+    AEBracketing: ""
+    Announced: Sep 1, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion SLB-10A rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 105 x 59 x 25 mm (4.13 x 2.32 x 0.98″)
+    DriveModes: ""
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: On, Off, Fill, Red-eye, Slow Sync
+    FlashRange: 3.30 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–432 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4096 x 3072
+    MaximumAperture: F3.2–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 18×
+    OrientationSensor: ""
+    OtherResolutions: 4096 x 2736, 3648 x 2736, 4096 x 2304, 2592 x 1944, 1984 x 1488, 1920 x 1080, 1024 x 768
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30/15 fps), 640 x 480 (30/15 fps), 320x 240 fps (30/15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 8.3 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 193 g (0.43 lb / 6.81 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

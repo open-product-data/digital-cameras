@@ -1,0 +1,167 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206122431/https://www.dpreview.com/reviews/olympus-om-d-e-m1-mark-iii-review
+ProductCode: olympus_em1iii
+Award: silver
+ImageURL: /files/p/products/olympus_em1iii/5d7f85c646984104868bb6b91d704b62.png
+Name: Olympus E-M1 III
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 83
+URL: /products/olympus/slrs/olympus_em1iii
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M1 Mark III is a high-end Micro Four Thirds camera with a 20MP sensor , in-body image stabilization with up to 7.5 stops of shake reduction and the same processor as the E-M1X. By shifting its sensor slightly, the E-M1 III can create 50MP stills, even while the camera is hand-held. Another trick the camera has is a Live ND function, while has the simulates the effects of a neutral density filter without actually needing a phsyical filter. The E-M1 III capable of shooting bursts of up to 18 fps with continuous AF and even faster with single AF. It uses the same hybrid autofocus system as the E-M1X, minus the train, car and airplane detection.The camera's magnesium alloy body is weather-sealed to IPX1 standards and has an updated dust reduction system and a shutter rated at 400k cycles. It sports a fully articulating touch LCD as well as an electronic viewfinder with a 120 fps refresh rate. The camera has two SD card slots, one of which supports UHS-II speeds. USB Power Delivery is supported, for powering the camera or charging on the go.The E-M1 III can capture DCI and UHD 4K video with support for OM-Log and 4:2:2 output over HDMI. It has both mic and headphone sockets, with the former now offering higher quality audio capture (with Olympus's LS-P4 recorder) and less white noise.
+    ProductPhotos:
+        - /files/p/products/olympus_em1iii/shots/97d747b229234eaab301178de444779c.png
+        - /files/p/products/olympus_em1iii/shots/15ed3e2fe51c43ec8fcd5049d6acb65f.png
+        - /files/p/products/olympus_em1iii/shots/188b796f12f646979ff7ec0f0b9146fd.png
+        - /files/p/products/olympus_em1iii/shots/67ec9b42c54c4538a4b28b37373bef38.png
+        - /files/p/products/olympus_em1iii/shots/0d53157290c643d288981e506c1b839c.png
+        - /files/p/products/olympus_em1iii/shots/ac91a0f533ba47a9a5b1d282bccd0556.png
+    ReviewSummary:
+        GoodFor: Action, wildlife, nature and landscape shooters (with high-res mode). Micro Four Thirds shooters seeking the best image quality. General and travel photographers desiring a small kit.
+        NotSoGoodFor: Those requiring the best dynamic range and/or resolution. Those needing reliable subject tracking.
+        Conclusion: The Olympus E-M1 III is our favorite Micro Four Thirds cameras for stills shooters, as of publication. It's capable of very good image quality and jam-packed with fun and useful features. It's also no slouch when it comes to 4K video capture and offers some of the best image stabilization around. All this in a supremely well-built, comfortable, customizable and attractive body. That said being said, there are more capable, large sensor cameras available for the money.
+    ASIN:
+        - B083Y46RHQ
+        - B083Y413ST
+        - B083Y4GGPT
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 12, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLH-1 lithium-ion battery & charger
+    BatteryLifeCIPA: "420"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,499.99 - $2,899.99
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 91 x 69 mm (5.28 x 3.58 x 2.72″)
+    DriveModes:
+        - Single
+        - Single (silent)
+        - Sequential high
+        - Sequential high (silent)
+        - Pro Capture High
+        - Sequential low
+        - Sequential low (silent)
+        - Pro Capture low
+        - Self-timer
+        - High Res Shot
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (12-bit ORF)
+    FlashModes: Redeye, Fill-in, Flash Off, Red-eye Slow sync.(1st curtain), Slow sync.(1st curtain), Slow sync.(2nd curtain), Manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands to 64-25600)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 7 stops body-only (7.5 stops with 12-100mm F4 lens)
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1799 (body only), $2499 (w/12-40mm lens), $2899 (w/12-100mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 237 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic IX
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 27, 2020"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II on first slot)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.48× (0.74× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 580 g (1.28 lb / 20.46 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

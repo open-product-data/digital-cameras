@@ -1,0 +1,160 @@
+ProductCode: sony_dschx99
+Award: ""
+ImageURL: /files/p/products/sony_dschx99/039a936430c64a0da9ba22016776e4bd.png
+Name: Sony Cyber-shot DSC-HX99
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dschx99
+ReviewData:
+    ExecutiveSummary: 'At the time of its launch, the Sony Cyber-shot HX99 and its HX95 sibling are the smallest travel zoom compacts in the world. Like the HX95, the HX99 packs a 28x zoom 24-720mm equivalent lens, 18MP 1/2.3" sensor, 180-degree tilting 3.0" screen and 4K/30p video with full pixel readout. The cameras also include a front-end LSI and BIONZ X processor, making possible 10 fps shooting with a 155 image buffer. The HX99 offers a couple of additional features: touchscreen functionality and a customizable control ring around its lens.'
+    ProductPhotos:
+        - /files/p/products/sony_dschx99/shots/13bf25a5e8b24d188f56bf79c901bf04.png
+        - /files/p/products/sony_dschx99/shots/b75bb37e1221491ca7ced07c2ee46b8c.png
+        - /files/p/products/sony_dschx99/shots/edbd7132c57e46d08ccb321a095c2b62.png
+        - /files/p/products/sony_dschx99/shots/3fc0f653fb064032ac428e2b1a6fb58b.png
+        - /files/p/products/sony_dschx99/shots/f32679567114438297dc6215c2eaeca7.png
+    ReviewSummary: null
+    ASIN:
+        - B07VPQV7BY
+        - B07JGKL1Y6
+        - B07FKXZ4PT
+Specs:
+    AEBracketing: ±3 (at 1/3 EV steps)
+    Announced: Sep 1, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (120x)
+    Dimensions: 102 x 58 x 36 mm (4.02 x 2.28 x 1.42″)
+    DriveModes:
+        - Single
+        - Continuous shooting
+        - Self-timer
+        - Cont. bracketing
+        - Single bracketing
+        - WB bracketing
+        - DRO bracketing
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Superior Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter priority
+        - Manual exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.31)
+    FlashModes: Auto, flash on, slow sync, flash off, rear sync
+    FlashRange: 5.40 m (with Auto ISO)
+    FocalLengthEquiv: 24–720 mm
+    Format: AVCHD, XAVC S
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-12800
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+        - Creative Style
+        - Quality
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $449 / €520
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.5–6.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896 x 3264, 4896 x 2752, 3664 x 3664, 3648 x 2736, 3648 x 2432, 3648 x 2056, 2736 x 2736, 2592 x 1944, 2592 x 1728, 1920 x 1920, 1920 x 1080, 640 x 480
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 24p), 1920 x 1080 (60p, 60i, 30p, 24p, 120p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Advanced Sports Shooting
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Soft Skin
+        - High Sensitivity
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 638,400
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 242 g (0.53 lb / 8.54 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: with NFC

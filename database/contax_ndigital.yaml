@@ -1,0 +1,106 @@
+ProductCode: contax_ndigital
+Award: ""
+ImageURL: /files/p/products/contax_ndigital/d780ca1ebeb74dd28c71b9fe0cd1a9f0.png
+Name: Contax N Digital
+ShortSpecs:
+    - 6 megapixels
+    - 2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/contax/slrs/contax_ndigital
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 18, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 152 x 117 x 69 mm (5.98 x 4.61 x 2.72″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe & sync)
+    FileFormat: ""
+    FlashModes: Unknown
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, 1600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: TIFF, Fine, Normal, Basic
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3040 x 2008
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 32 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "5"
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    Processor: ""
+    RemoteControl: Yes (Wired)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (2, 5 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.73×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,173 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220104032351/https://www.dpreview.com/reviews/canon-eos-r3-initial-review
+ProductCode: canon_eosr3
+Award: ""
+ImageURL: /files/p/products/canon_eosr3/d3b1d13bafb44cc2b0e22f5cacb0210b.png
+Name: Canon EOS R3
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eosr3
+ReviewData:
+    ExecutiveSummary: 'The Canon EOS R3 is a high-end full-frame mirrorless designed for sports, wildlife and photojournalism. It''s built around Canon''s RF mount and uses a 24MP Stacked CMOS sensor and a Digic X processor. The camera has a pro-level design with a built-in grip, and is as rugged as one would expect for its price. Photos can be composed on a 5.76M-dot ''blackout-free'' HDR EVF or a high-resolution fully articulating touchscreen. The EVF has an optical viewfinder simulation mode that shows you the scene, rather than the expected output. It''s most interesting feature is Eye Control AF, which moves the focus point to the location in the viewfinder that you''re looking at.The R3 uses Canon''s Dual Pixel AF system and can detect people, animals, and motorsports vehicles, and track them around the frame. The camera can shoot images at 30 fps (even Raw) using its electronic shutter. Video-wise, the R3 can capture 4K footage produced from a 6K area of the sensor. 4K/120p is also an option, though it is not oversampled. C-Log3 and Raw video can be recorded internally. As one would expect, the camera has mic and headphone sockets, as well as a full-size HDMI port. The R3 has two memory card slots: one for UHS-II SD cards and the other for CFexpress Type B media. In addition to Wi-Fi and Bluetooth, the camera also sports an Ethernet socket for connecting to PCs.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr3/shots/2684b26a488445b5bdc24e6d2ccbfff5.png
+        - /files/p/products/canon_eosr3/shots/7c9d0b4835094c2288e3a3b54ccf0bdb.png
+        - /files/p/products/canon_eosr3/shots/c486602fac984d9c90d56070d10effb0.png
+        - /files/p/products/canon_eosr3/shots/6b51a526bd7145a6936febf69da0680c.png
+        - /files/p/products/canon_eosr3/shots/1e83a4a788834722a6af7f53551a39c5.png
+    ReviewSummary: null
+    ASIN:
+        - B09FFTM3F6
+Specs:
+    AEBracketing: ±3 (at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 14, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Built-in
+    BatteryDescription: LP-E19 lithium-ion battery & charger
+    BatteryLifeCIPA: "760"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $5,999.00
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 150 x 143 x 87 mm (5.91 x 5.63 x 3.43″)
+    DriveModes:
+        - Single
+        - High-speed continuous+
+        - High-speed continuous
+        - Low-speed continuous
+        - Self-timer/remote control (10 or 2 sec)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Flexible priority
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Bulb
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG
+        - HEIF
+        - Raw (Canon CR3, 14-bit)
+        - C-Raw (Canon original)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: Built-in
+    HDMI: Yes (Type D micro)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-102400 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $5999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/64000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30/11 sec
+    Modes:
+        - 4096 x 2160 @ 120p / 1,880 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 100p / 1,880 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 1,000 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 1,000 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 470 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 470 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 470 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 470 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 120p / 1,880 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 100p / 1,880 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 1,000 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 1,000 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 470 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 470 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 470 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 470 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 470 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 470 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 230 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 230 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 135 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 135 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 135 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 135 Mbps, MP4, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "1053"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Sep 14, 2021"
+    SceneModes: ""
+    ScreenDots: 4,150,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported) + CFexpress Type B
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 1015 g (2.24 lb / 35.80 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

@@ -1,0 +1,77 @@
+ProductCode: kodak_cx7220
+Award: ""
+ImageURL: /files/p/products/kodak_cx7220/0ec8aa01b8484a96997b0d2a173af16b.png
+Name: Kodak EasyShare CX7220
+ShortSpecs:
+    - 2 megapixels
+    - 1.5″ screen
+    - 37 – 78 mm (2.1×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_cx7220
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 2, 2004
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 104 x 67 x 42 mm (4.09 x 2.64 x 1.65″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 37–78 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: 60 cm (23.62″)
+    ManualFocus: "No"
+    MaxResolution: 1632 x 1232
+    MaximumAperture: F3.8–5
+    MaximumShutterSpeed: 1/3200 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 2.1×
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 61,000
+    ScreenSize: 1.5″
+    SelfTimer: ""
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 195 g (0.43 lb / 6.88 oz)
+    WhiteBalancePresets: ""

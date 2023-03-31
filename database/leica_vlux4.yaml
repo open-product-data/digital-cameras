@@ -1,0 +1,164 @@
+ProductCode: leica_vlux4
+Award: ""
+ImageURL: /files/p/products/leica_vlux4/508ad467c45a4283a431e814a1ddaf7b.png
+Name: Leica V-Lux 4
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_vlux4
+ReviewData:
+    ExecutiveSummary: The Leica V-Lux 4 is a 24X superzoom with an impressive constant F2.8 lens and high-resolution electronic viewfinder. That fast lens means that it should be easier to capture high-quality images at the full extent of the zoom, without having to use high ISO settings. It also has a 1.3m dot equivalent electronic viewfinder and a 460k dot, 3" articulated screen. The V-Lux 4 can also shoot at 12 frames per second and can capture 1080p video at 60fps or 720p at up to 120fps.
+    ProductPhotos:
+        - /files/p/products/leica_vlux4/shots/f570c46c87eb4690a20f677a655fac74.png
+        - /files/p/products/leica_vlux4/shots/102cc9e4e6754d158fddeb577f299d4a.png
+        - /files/p/products/leica_vlux4/shots/1cde12a77ba74009950f95df46348d5c.png
+        - /files/p/products/leica_vlux4/shots/317b5e7cacd3478dbc5241d97eaf8a78.png
+    ReviewSummary: null
+    ASIN:
+        - B009E562VS
+Specs:
+    AEBracketing: (3 frames )
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,299.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 125 x 87 x 110 mm (4.92 x 3.43 x 4.33″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Custom
+        - Creative Video
+        - Creative Control
+        - Scene
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (DCF/Exif2.3)
+        - RAW
+        - MPO
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 13.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–600 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini )
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, (6400 with boost)
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Color Saturation
+        - Noise Reduction
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 3000, 4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 1600 x 1064, 1600 x 904, 1504 x 1504
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25 fps), 1280 x 720p (60, 50, 30, 25 fps), 640 x 480 (30, 25 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Sports
+        - Panning
+        - Night Portrait
+        - Night Scenery                                                                                               Handheld Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - 3D photo
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: Free-Angle TFT Screen LCD Display
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70 MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x 1080 pixels, 60p, 50p (PSH: 28Mbps / AVCHD) (Sensor Output is 60, 50fps) ; 1920 x 1080 pixels, 60i, 50i (FSH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps) 1280 x 720 pixels, 60p, 50p (SH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps); 1920 x 1080 pixels, 25 fps (FHD: 20Mbps / MP4) (Sensor Output is 25fps) 1280 x 720 pixels, 30, 25 fps (HD: 10Mbps / MP4) (Sensor Output is 30, 25fps)'
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 1,312,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 588 g (1.30 lb / 20.74 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

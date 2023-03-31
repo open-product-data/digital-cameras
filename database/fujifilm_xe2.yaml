@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220301034205/https://www.dpreview.com/reviews/fujifilm-x-e2
+ProductCode: fujifilm_xe2
+Award: gold
+ImageURL: /files/p/products/fujifilm_xe2/8f71a42096f34f418b4d2db5fb256195.png
+Name: Fujifilm X-E2
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/fujifilm/slrs/fujifilm_xe2
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-E2 is the second generation of the company's midrange mirrorless camera. It features a 16 megapixel X-Trans II CMOS sensor with on-chip phase detection. It also has a 3-inch LCD with 1.04 million dots and an OLED electronic viewfinder with 2.36 million dots. The camera shoots at speeds of up to 7 fps and can record video at 1080/60p with AF tracking. The X-E2 now sports built-in Wi-Fi, which allows for easy photo sharing via your mobile device.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe2/shots/a84f2c705b2e4103a161e5f777ca43e4.png
+        - /files/p/products/fujifilm_xe2/shots/e07c9d72ea65455286a7938c5b59b1e7.png
+        - /files/p/products/fujifilm_xe2/shots/b0be85ea056e4529afa8e1ea1aef803b.png
+        - /files/p/products/fujifilm_xe2/shots/1617867279d849db9cc836b94f29a42b.png
+        - /files/p/products/fujifilm_xe2/shots/286deb20d99b4072867118ad70a98660.png
+        - /files/p/products/fujifilm_xe2/shots/1d399e4e11e74b469e3bd4cb9dd7145d.png
+    ReviewSummary:
+        GoodFor: Most types of photography, whether you're looking to capture Raw or JPEG images.
+        NotSoGoodFor: Movie shooting, sports or action photography.
+        Conclusion: The X-E2 is a highly capable enthusiast-focused camera capable of producing excellent images. Direct control dials and plenty of customization make for an engaging shooting experience, and its output is impressive. Wi-Fi and in-camera raw conversion make it easy to share images. It's only the lackluster video that disappoints.
+    ASIN:
+        - B00FPKDSC2
+        - B00FPKDSGS
+        - B00FPKDRVY
+Specs:
+    AEBracketing: ±1 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Oct 18, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-W126 rechargeable battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 129 x 75 x 37 mm (5.08 x 2.95 x 1.46″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear-curtain
+    FlashRange: 7.00 m (@ ISO 200)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: ""
+    ISO: Auto (200-6400), Manual (200-6400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $999 / £799 body only, $1399 / £1199 with 18-55mm lens
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896 x 2760,3264 x 3264, 3456 x 2304, 3456 x 1944, 2304 × 230, 2496 x 1664, 2496 x 1408 , 1664 × 1664
+    Processor: EXR Processor II
+    RemoteControl: Yes ( Optional RR-90)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 5, 2014"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: Image playback/sharing, geo-tagging

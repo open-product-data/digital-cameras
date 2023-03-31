@@ -1,0 +1,140 @@
+ProductCode: canon_sx700
+Award: ""
+ImageURL: /files/p/products/canon_sx700/f1063fbe26ee49ab827f1bf6de2e40a9.png
+Name: PowerShot SX700
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 750 mm (30×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx700
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot SX700 is a travel zoom compact camera, featuring a 25-750mm equivalent F3.2-6.9 lens and the company''s latest DIGIC 6 processor. The SX700 has all of Canon''s automatic and scene modes, but also includes PSAM manual exposure control modes for those who want a little more control. Wi-Fi and NFC are built in for simple wireless image sharing with a compatible smartphone. For photographers who get frustrated composing photos at long telephoto focal lengths, the SX700 includes a Zoom Framing Assist function that lets you quickly back out, recompose, and return to where you were. The camera also records high-quality 1080p/60p Full HD video through a dedicated movie button.'
+    ProductPhotos:
+        - /files/p/products/canon_sx700/shots/39b8d806ebcb4f9faf181b81422d2347.png
+        - /files/p/products/canon_sx700/shots/c718d42560c14c708d97613f414fa88e.png
+        - /files/p/products/canon_sx700/shots/ef92f6739965411cb49135b8e85096d7.png
+    ReviewSummary: null
+    ASIN:
+        - B00I58M26Y
+        - B00I58M2VE
+Specs:
+    AEBracketing: ""
+    Announced: Feb 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-6LH lithium-ion battery and charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 8.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 113 x 66 x 35 mm (4.45 x 2.6 x 1.38″)
+    DriveModes:
+        - Single
+        - Auto Drive
+        - Continuous
+        - Continuous AF
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 3.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–750 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageParameters:
+        - Sharpness
+        - Contrast
+        - Saturation
+        - Skin Tone
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $349.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–6.9
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3456 x 3456, 3264 x 2448, 3264 x 2176, 3264 x 1832, 2448 x 2448, 640 x 480, 640 x 424, 640 x 360, 480 x 480
+    Processor: Digic 6
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, Smart Shutter, High-speed Burst HQ, Handheld Night Scene, Low Light, Snow, Fireworks
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: PureColor II G TFT
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 269 g (0.59 lb / 9.49 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

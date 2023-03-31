@@ -1,0 +1,96 @@
+ProductCode: casio_exz80
+Award: ""
+ImageURL: /files/p/products/casio_exz80/e2b25fb9ad214a479a270550f42f4c45.png
+Name: Casio Exilim EX-Z80
+ShortSpecs:
+    - 8 megapixels
+    - 2.6″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz80
+ReviewData:
+    ExecutiveSummary: Budget model from the  over-populated Exilim range offers the extensive range of gadgets and gizmos we've come to expect from Casio but sticks to the basics when it comes to the important stuff, offering a pedestrian 3x zoom lens and, like most entry-point models, a low resolution screen. Has a smarter, slimmer design than most in this category, but the price is far from the lowest. (April 2009)
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0012NJREE
+        - B0012BINTQ
+        - B0012XVKVM
+Specs:
+    Announced: Jan 7, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Casio NP-60 Li Ion battery
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 90 x 52 x 19 mm (3.54 x 2.05 x 0.75″)
+    DriveModes: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Soft, Red-eye reduction
+    FlashRange: 2.60 m
+    FocalLengthEquiv: 38–114 mm
+    Format: H.264
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: UHQ, HQ, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.1–5.3
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3264 x 2176, 3264 x 1840, 2816 x 2112, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: H.264/AVC (848 x 480, 30fps, 640 x 480 30 fps, 320 x 240 15fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.6″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 11.4 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 100 g (0.22 lb / 3.53 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

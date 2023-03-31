@@ -1,0 +1,105 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220116194341/https://www.dpreview.com/reviews/q311waterproofcompactgrouptest
+ProductCode: pentax_optiowg1gps
+Award: ""
+ImageURL: /files/p/products/pentax_optiowg1gps/1f50e1c932554f3eb6f9315c03cb2346.png
+Name: Pentax Optio WG-1 GPS
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 62
+URL: /products/pentax/compacts/pentax_optiowg1gps
+ReviewData:
+    ExecutiveSummary: Pentax WG-1 GPS rugged compact is designed to be crushproof against pressures of up to 100 kilograms (220 pounds), dustproof, waterproof up to 10 meters (33 ft), coldproof down to -10°C (14°F) and shock-resistant for drops of up to 1.5 meters (5 ft). The GPS-enabled camera's Digital Microscope mode offers five macro LEDs for macro lighting plus a detachable macro stand for steadier capture. Features-wise the 14MP it incorporates a 28-140mm equiv. zoom lens, 2.7" LCD and 720p HD video recording. GPS functionality allows for positional data recording with images for geo-tagging applications.
+    ProductPhotos:
+        - /files/p/products/pentax_optiowg1gps/shots/4fb3e4d7037c4d73a400593c0a913f65.png
+        - /files/p/products/pentax_optiowg1gps/shots/eb518dbf2c824019bc9bc41372df2598.png
+        - /files/p/products/pentax_optiowg1gps/shots/493e7ccdeac849cb99cebfd8cb7184c5.png
+    ReviewSummary:
+        GoodFor: All-purpose go anywhere photography in good lighting.
+        NotSoGoodFor: Low light still photography and video in any lighting.
+        Conclusion: The Pentax WG-1 GPS has a competitive feature set for the 'rugged' compact camera class, including a few bells and whistles like its intervalometer. Image quality and performance is also competitive, but the WG-1 GPS fails to deliver in low light and its video is relatively poor. Overall it is good value, but is bested in quality and features  by a few competitors at similar price points.
+    ASIN: []
+Specs:
+    Announced: Feb 7, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI92 rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 116 x 59 x 29 mm (4.55 x 2.3 x 1.12″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: Yes (Crushproof, Waterproof, Shockproof, Dustproof, Freezeproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 3.90 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: Built-in
+    HDMI: Yes (Micro, Type-D)
+    ISO: Auto (80-1600), 80, 100, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 3216, 4224 x 2376, 3216 x 3216, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional O-RC1)
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: "62%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Aug 17, 2011"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD with Anti-reflective coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 97 MB Internal
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 167 g (0.37 lb / 5.89 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected

@@ -1,0 +1,118 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220118144855/https://www.dpreview.com/reviews/leicam9
+ProductCode: leica_m9
+Award: ""
+ImageURL: /files/p/products/leica_m9/e6682cca29e44077ac833046f29872e0.png
+Name: Leica M9
+ShortSpecs:
+    - 18 megapixels
+    - 2.5″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m9
+ReviewData:
+    ExecutiveSummary: The M9 was Leica's first 'full-frame' digital rangefinder, enabling the use of most Leica 'M' series lenses at the originally intended field-of-view. The 18MP CCD sensor is fitted with a filter that avoid the M8 and 8.2's need for lens-mounted UV and IR filters. It retains the classic M series look and build quality while promising a no-compromise approach consummate with its not-inconsiderable price-tag. While beautifully engineered and undeniably capable as a photographic tool, the M9 understandably lacks some of the digital sophistication offered by more mass-market products and its sensor isn't a match for the latest CMOS designs in low light. Its lack of anti-aliasing filter enables it to capture astonishing levels of detail at lower ISO settings though.
+    ProductPhotos:
+        - /files/p/products/leica_m9/shots/073f9938dc2340899c6dc51b2908c8e9.png
+        - /files/p/products/leica_m9/shots/424fd4d6c92b4b64840d9c0fecca27f0.png
+        - /files/p/products/leica_m9/shots/88574b5ec9fc4d41a2f02f1456c13a4c.png
+        - /files/p/products/leica_m9/shots/bffab6800a314fd7bacf6814358a1c99.png
+        - /files/p/products/leica_m9/shots/d8971856b8d844e6b34d059ce556a211.png
+        - /files/p/products/leica_m9/shots/0c1d2ffc67a9412ea1f5165c78b12ddb.png
+        - /files/p/products/leica_m9/shots/4e68c32bfb064221a3ebb03867f8a9f7.png
+    ReviewSummary: null
+    ASIN:
+        - B002NX13LC
+Specs:
+    AEBracketing: ""
+    Announced: Sep 9, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 37 mm (5.47 x 3.15 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Pull 80, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5212 x 3472
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3840 x 2592, 2592 x 1728, 1728 x 1152, 1280 x 846
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Sep 9, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: "No"
+    WeightIncBatteries: 585 g (1.29 lb / 20.64 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

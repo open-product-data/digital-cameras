@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023172822/https://www.dpreview.com/reviews/panasonicdmcg10
+ProductCode: panasonic_dmcg10
+Award: noAward
+ImageURL: /files/p/products/panasonic_dmcg10/06749e040c1e4fa2980bbd8df408347c.png
+Name: Panasonic Lumix DMC-G10
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 70
+URL: /products/panasonic/slrs/panasonic_dmcg10
+ReviewData:
+    ExecutiveSummary: Panasonic has released what it calls 'the world's lightest interchangeable lens camera with a viewfinder' in the shape of Lumix DMC-G10. It features the same 12.1MP Live MOS sensor and Venus Engine HD II as the DMC-G2, also announced today. It also comes with a 460K dot 3" LCD but without the tilt/swivel and touch options of the G2 and gets a lower resolution viewfinder. The G10 can record 720p HD movie in Motion JPEG format.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcg10/shots/9d83458f152d4558b661068f552f687e.png
+        - /files/p/products/panasonic_dmcg10/shots/5406a1f963f34dc3bcd616f7dec7d324.png
+        - /files/p/products/panasonic_dmcg10/shots/21c5f0fdad534b98ba5be4149f616831.png
+        - /files/p/products/panasonic_dmcg10/shots/a1d9e31ddbba41d093a19d235bd1b711.png
+        - /files/p/products/panasonic_dmcg10/shots/4e8bfd8376ad4fa899f6185d8bcf8ff2.png
+    ReviewSummary:
+        GoodFor: General use either by a beginner or enthusiast using the rear LCD screen. Plenty of customisation but capable iA automatic mode as well.
+        NotSoGoodFor: Anything that requires the EVF.
+        Conclusion: The G10 is Panasonic's first entry-level Micro Four Thirds camera. Its core systems are capable and reliable, and although its menu system is a little dated, the G10 is an easy camera to find your way around. Unfortunately it is marred by a poor EVF, which is almost unusable in some shooting situations.
+    ASIN:
+        - B003AOAXJQ
+Specs:
+    AEBracketing: ±2 (at 1/3 EV, 2/3 EV steps)
+    Announced: Mar 7, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.6 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 124 x 90 x 74 mm (4.88 x 3.54 x 2.91″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 11.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (Mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, Intelligent ISO, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 3000,4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1504 x 1504
+    Processor: Venus Engine HD II
+    RemoteControl: Yes (Optional DMW-RSL1)
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "70%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 9, 2010"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.52× (0.26× 35mm equiv.)
+    ViewfinderResolution: 202,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 388 g (0.86 lb / 13.69 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

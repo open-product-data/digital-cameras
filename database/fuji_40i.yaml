@@ -1,0 +1,83 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220526143744/https://www.dpreview.com/reviews/fuji40i
+ProductCode: fuji_40i
+Award: average
+ImageURL: /files/p/products/fuji_40i/28ce6e29a53c47319c73478302dbb2d8.png
+Name: Fujifilm FinePix 40i
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_40i
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000055YJH
+        - B00004W1TW
+Specs:
+    Announced: Jun 2, 2000
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (2) batteries & charger (supplied)
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 86 x 71 x 29 mm (3.37 x 2.8 x 1.12″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±1.5 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 2.50 m (F2.8)
+    FocalLengthEquiv: 36 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: "200"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LensMount: ""
+    LiveView: "No"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2400 x 1800
+    MaximumAperture: F2.8–9.8
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 1280 x 960, 640 x 480
+    RemoteControl: Yes (wired included)
+    Resolutions: 10 fps max 80 sec, audio
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 15, 2000"
+    ScreenDots: 110,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 64 MB SmartMedia
+    StorageTypes: SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: "7"

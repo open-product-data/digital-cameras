@@ -1,0 +1,92 @@
+ProductCode: kodak_mini
+Award: ""
+ImageURL: /files/p/products/kodak_mini/c1e866a6f9bd4a9b8fcba4fc17cfd940.png
+Name: Kodak EasyShare Mini
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 29 – 87 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_mini
+ReviewData:
+    ExecutiveSummary: The EasyShare Mini is Kodak’s smallest camera yet. About the size of a credit card, it has a 3x wide-angle optical zoom lens and built-in front mirror so it’s a snap to get you and all your friends in the picture. It inorporates a 10MP sensor, 2.5-inch bright LCD, Kodak’s Smart Capture and Face Recognition features, multiple scene and color modes to have more fun with your pictures, and video.
+    ProductPhotos:
+        - /files/p/products/kodak_mini/shots/0bbe81d49e574042afa63c5f8ffcbead.png
+        - /files/p/products/kodak_mini/shots/6a5b38409e6e4a9f9399681c117651c0.png
+        - /files/p/products/kodak_mini/shots/e2722cf6ea6a4a37842682416c000160.png
+    ReviewSummary: null
+    ASIN:
+        - B004FLL5A4
+        - B004FLL59K
+Specs:
+    Announced: Jan 4, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Face Detection
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion KLIC-7006 rechargeable battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 86 x 53 x 18 mm (3.39 x 2.09 x 0.71″)
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 29–87 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1000
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3640 x 2736
+    MaximumAperture: F3–4.8
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3640 x 2440, 3640 x 2056, 2880 x 2160, 2048 x 1236
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 99 g (0.22 lb / 3.49 oz)
+    WhiteBalancePresets: "4"

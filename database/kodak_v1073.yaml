@@ -1,0 +1,86 @@
+ProductCode: kodak_v1073
+Award: ""
+ImageURL: /files/p/products/kodak_v1073/f94059621c5c463bbeda6c48f1269f42.png
+Name: Kodak EasyShare V1073
+ShortSpecs:
+    - 11 megapixels
+    - 3″ screen
+    - 37 – 111 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_v1073
+ReviewData:
+    ExecutiveSummary: Kodak's premium V series compacts offer large high resolution touch-screen displays, image stabilization and lots of funky features (though the 3x zoom has no real wide angle). The V1073 and V1273 (which adds a couple more megapixels) are good value for the gadget lover looking for a feature-rich pocket-sized camera.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0012BMU2C
+Specs:
+    Announced: Jan 8, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 93 x 58 x 21 mm (3.66 x 2.28 x 0.83″)
+    Durability: ""
+    EffectivePixels: 11 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.10 m (ISO 400)
+    FocalLengthEquiv: 37–111 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200, (6400, 8000 at 3.1 MP)
+    ImageRatioWh: ""
+    ImageStabilization: ""
+    JPEGQualityLevels: n/a
+    LiveView: "No"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–5.7
+    MaximumShutterSpeed: 1/1164 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 3648 x 2064, 2592 x 1944, 2592 x 1728, 2572 x 1456, 2048 x 1536, 2048 x 1360, 2048 x 1152, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 1280 x 720, 640 x 480, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/1.63" (8.07 x 5.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 188 g (0.41 lb / 6.63 oz)
+    WhiteBalancePresets: "4"

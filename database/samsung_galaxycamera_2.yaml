@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128133954/https://www.dpreview.com/reviews/samsung-galaxy-camera-2
+ProductCode: samsung_galaxycamera_2
+Award: noAward
+ImageURL: /files/p/products/samsung_galaxycamera_2/61c8af1992f94459a7169aa8185f2eb8.png
+Name: Samsung Galaxy Camera 2
+ShortSpecs:
+    - 16 megapixels
+    - 4.8″ screen
+    - 23 – 483 mm (21×)
+ReviewScore: 70
+URL: /products/samsung/compacts/samsung_galaxycamera_2
+ReviewData:
+    ExecutiveSummary: The Samsung Galaxy Camera 2 is an ultra-compact shooter powered by Android 4.3 Jelly Bean. In addition to being a slim camera with a 21X  (23-483mm equiv.) lens, the GC2 can run nearly any Android app. The Galaxy Camera 2 is powered by a 1.6 Ghz Quad Core Exynos processor and has 2GB of RAM, 8GB of user memory, a microSD slot, and a 2000 mAh battery. There's also a huge 4.8-inch touch LCD display, xenon flash, and 1080/30p video recording. Naturally, the GC2 also has built-in Wi-Fi with NFC for easy photo sharing, plus GPS (with GLONASS), and Bluetooth 4.0.
+    ProductPhotos:
+        - /files/p/products/samsung_galaxycamera_2/shots/93fdd55bc47245a59bf1329e5a717ae8.png
+        - /files/p/products/samsung_galaxycamera_2/shots/0069302822084e218ca702ad1cad588e.png
+        - /files/p/products/samsung_galaxycamera_2/shots/fe84917959f841a89d363e88fb9decfe.png
+        - /files/p/products/samsung_galaxycamera_2/shots/d18c1923d6e2463088df84bf63cd6853.png
+        - /files/p/products/samsung_galaxycamera_2/shots/6bb78c500401444db3ab287f799d32b2.png
+        - /files/p/products/samsung_galaxycamera_2/shots/9711587160c947a0acdb660810ae5018.png
+    ReviewSummary:
+        GoodFor: Frequent users of social media. Those seeking the power/flexibility of Android on their camera.
+        NotSoGoodFor: Full size image viewing and cropping. Fitting in your jeans pocket.
+        Conclusion: The Samsung Galaxy Camera 2 is a very good Android device attached to a consumer-level digital camera. If photo quality is your main priority there are better choices available, but that's not really the point. This is a product built around the concept of sharing, and social mediaphiles will appreciate the ability to use the camera within their favorite apps.
+    ASIN:
+        - B00HV6KIDU
+        - B00HV6KGV4
+Specs:
+    Announced: Jan 2, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Built-in 2000 mAh battery
+    BatteryLifeCIPA: "400"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Xenon)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 133 x 71 x 19 mm (5.24 x 2.8 x 0.75″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Smart
+        - Expert (P/A/S/M/User)
+        - My Modes
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, auto w/redeye reduction, fill-in, slow sync, flash off, redeye fix
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 23–483 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: A-GPS, GLONASS
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters:
+        - Brightness
+        - Contrast
+        - Color
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 21×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 2592 x 1944, 1984 x 1488, 1920 x 1080, 1024 x 768
+    Processor: 1.6GHz Quad-Core Exynos
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "70%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 13, 2015"
+    SceneModes:
+        - Smart mode suggest, Beauty face, Best Photo, Selfie Alarm, Continuous shot, Best face, Color bracket, Kids shot, Landscape, Dawn, Snow, Macro, Food, Party/Indoor, Action freeze, Rich tone (HDR), Panorama, Waterfall, Animated photo, Drama, Eraser, Sound & Shot, Interval, Silhouette, Sunset, Night, Fireworks, Light trace
+    ScreenDots: 1,036,800
+    ScreenSize: 4.8″
+    ScreenType: HD Super Clear Touch Display
+    SelfTimer: Yes (2, 5, or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 8GB (2.8GB available)
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (Touch AF, Touch Shutter)
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 1920 x 1080 (30 fps),  1280 x 720 (30 fps), 640 x 480 (30 or 60 fps), 320 x 240 (30 fps)
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 283 g (0.62 lb / 9.98 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11a/b/g/n + Bluetooth 4.0

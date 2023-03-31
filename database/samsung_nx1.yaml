@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211021114150/https://www.dpreview.com/reviews/samsung-nx1
+ProductCode: samsung_nx1
+Award: gold
+ImageURL: /files/p/products/samsung_nx1/bcf57f8a841248d7bf04b36383aee10a.png
+Name: Samsung NX1
+ShortSpecs:
+    - 28 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 87
+URL: /products/samsung/slrs/samsung_nx1
+ReviewData:
+    ExecutiveSummary: The NX1 is Samsung's flagship mirrorless interchangeable lens camera. The biggest features are a 28.2MP APS-C-size BSI CMOS sensor and Hybrid AF system that covers 90% of the frame. The Hybrid AF system, combined with a new 'stripe pattern' AF illuminator, promises low light focusing at light levels as low as -4EV. You can compose photos and videos on either a 3" tilting touchscreen Super AMOLED display or a 2.36M dot OLED EVF.Video is also a big part of the NX1. It can record video at 4K/24p or UHD/30p video, so it's ready for both next-gen video standards. It also uses the new H.265 codec that offers the same quality as H.264 but at half the bit rate (and file size). The NX1 also has built-in 802.11ac Wi-Fi and Bluetooth support, with the latter reduces connection times between the camera and smartphone.
+    ProductPhotos:
+        - /files/p/products/samsung_nx1/shots/c6feced0f77e4a87b43d56fbe4c352f1.png
+        - /files/p/products/samsung_nx1/shots/e2a20a3a02724e4db2940dd85a3b8add.png
+        - /files/p/products/samsung_nx1/shots/8508ced58728474faea04dd924364c79.png
+        - /files/p/products/samsung_nx1/shots/5643a67761c6408bb5191d68650b7e2c.png
+        - /files/p/products/samsung_nx1/shots/12c45a1b5b84472eae19a2fb846d5897.png
+        - /files/p/products/samsung_nx1/shots/e0339ef4f2f4486ab1b9c0edc0d30fb5.png
+    ReviewSummary:
+        GoodFor: Sports shooters, videographers, anyone who needs high resolution still images.
+        NotSoGoodFor: Photographers who need access to a large family of lenses or the shallow depth of field provided by full frame cameras.
+        Conclusion: Not only does the NX1 feature the largest BSI sensor we've ever seen, but it also offers the highest pixel count of any APS-C body. The combination results in excellent image quality and - just as important - the NX1 also incorporates one of the most extensive and effective on-sensor phase detection systems we've seen. All this, along with the magnesium alloy body and top-plate LCD info display, means that the NX1 can compete with the best APS-C models on the market.
+    ASIN:
+        - B00NFDZRRA
+        - B00NFDZS10
+Specs:
+    AEBracketing: ±3 (at 1 EV steps)
+    Announced: Sep 15, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP1900 lithium-ion battery and charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 102 x 66 mm (5.47 x 4.02 x 2.6″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - Self-timer
+        - Bracket
+    EffectivePixels: 28 megapixels
+    EnvironmentallySealed: Yes (water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Custom
+        - Manual
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Smart
+    ExternalFlash: Yes (Hot shoe, wireless via built-in flash)
+    FileFormat:
+        - JPEG
+        - RAW (SRW)
+    FlashModes: ""
+    FlashRange: 11.00 m (ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100 - 25600, expandable to 51200
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: $1499 (body only), $2799 (with 16-50mm F2-2.8 lens, grip, extra battery, external charger)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6480 x 4320
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "209"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 6480 x 3648, 4320 x 4320, 4560 x 3040, 4605 x 2592, 3088 x 3088, 3264 x 2176, 3328 x 1872, 2160 x 2160, 2112 x 1408, 2048 x 1152, 1408 x 1408
+    Processor: DRIMe 5
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 3840 x 2160 (30p), 4096 x 2160 (24p), 1920 x 1080 (120p, 100p, 60p, 50p, 30p, 25p, 24p), 1280 x 720, 640 x 480
+    ReviewPreview: "87%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 9, 2015"
+    SceneModes:
+        - Action freeze
+        - Beauty face
+        - Fireworks
+        - Landscape
+        - Light trace
+        - Multi-exposure
+        - Night
+        - Panorama
+        - Rich tone (HDR)
+        - Samsung Auto Shutter
+        - Silhouette
+        - Sunset
+        - Waterfall
+    ScreenDots: 1,036,000
+    ScreenSize: 3″
+    ScreenType: Super AMOLED
+    SelfTimer: Yes (2 - 30 secs)
+    SensorPhotoDetectors: 31 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I/II)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: Yes (Touch AF/shutter, menus, image playback)
+    USB: USB 3.0 (5 GBit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: Uncompressed 4K output over HDMI (4:2:2)
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.04× (0.69× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 550 g (1.21 lb / 19.40 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n/ac + Bluetooth

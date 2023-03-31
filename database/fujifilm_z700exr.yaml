@@ -1,0 +1,116 @@
+ProductCode: fujifilm_z700exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_z700exr/a614e77c83d541d68b31d24479dd9450.png
+Name: FujiFilm FinePix Z700EXR (FinePix Z707EXR)
+ShortSpecs:
+    - 12 megapixels
+    - 3.5″ screen
+    - 35 – 175 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_z700exr
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix Z700EXR ultra-compact is built around a 12 megapixel Super CCD EXR sensor and a 3.5" advanced touchscreen LCD. Features include a YouTube/Facebook easy upload tool and a 5x optical zoom lens, as well as 720p HD video and Dual Image Stabilization.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0035JEL6C
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-45A battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 59 x 20 mm (3.86 x 2.32 x 0.79″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 3.90 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35–175 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.9–4.7
+    MaximumShutterSpeed: 1/1000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2248, 2816 x 2112, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: EXR
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Couple, Group, Auto-shutter)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 30 MB Internal
+    StorageTypes: SD/SDHC Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 158 g (0.35 lb / 5.57 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

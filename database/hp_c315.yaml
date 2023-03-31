@@ -1,0 +1,76 @@
+ProductCode: hp_c315
+Award: ""
+ImageURL: /files/p/products/hp_c315/015aa485457a4908a08b48e5415fd4bd.png
+Name: HP Photosmart C315
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 38 mm
+ReviewScore: 0
+URL: /products/hp/compacts/hp_c315
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 20, 2000
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (1.5, 2, 2.5 x)
+    Dimensions: 128 x 68 x 33 mm (5.04 x 2.68 x 1.3″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 38 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: 30 cm (11.81″)
+    ManualFocus: "No"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.8–3.9
+    MaximumShutterSpeed: 1/750 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 30 cm (11.81″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 280 g (0.62 lb / 9.88 oz)
+    WhiteBalancePresets: ""

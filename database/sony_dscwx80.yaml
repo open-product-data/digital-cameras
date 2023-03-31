@@ -1,0 +1,136 @@
+ProductCode: sony_dscwx80
+Award: ""
+ImageURL: /files/p/products/sony_dscwx80/d4cb7b400b594039baf3e4d801cbae46.png
+Name: Sony Cyber-shot DSC-WX80
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 224 mm (8×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscwx80
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot WX80 features a 16.2 MP Exmor® R CMOS sensor, an 8x optical zoom lens with 16x Clear Image digital zoom and an enhanced Optical SteadyShot image stabilization system.
+    ProductPhotos:
+        - /files/p/products/sony_dscwx80/shots/07e5a8b9d2cd4a5ca123a698213ed4d3.png
+        - /files/p/products/sony_dscwx80/shots/bdd0fdae9c7f456a83526acde827aedf.png
+        - /files/p/products/sony_dscwx80/shots/825fc441b5d64509b937bd82e3358f8a.png
+    ReviewSummary: null
+    ASIN:
+        - B00AQDGAPK
+        - B00AQDG7YE
+        - B00AQDGAZK
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (20x)
+    Dimensions: 92 x 52 x 22 mm (3.62 x 2.05 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync, Advanced Flash
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 28–224 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, (6400, 12800 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–8
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (60, 30 fps), 1280 x 720 ( 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Anti Motion Blur
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 124 g (0.27 lb / 4.37 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

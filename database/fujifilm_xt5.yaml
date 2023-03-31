@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20221102140204/https://www.dpreview.com/reviews/fujifilm-x-t5-initial-review
+ProductCode: fujifilm_xt5
+Award: ""
+ImageURL: /files/p/products/fujifilm_xt5/47da42fda9ed450bb3b7516e8bee6036.png
+Name: Fujifilm X-T5
+ShortSpecs:
+    - 40 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_xt5
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt5/shots/e890bd47822043058170beadf7f03ae5.png
+        - /files/p/products/fujifilm_xt5/shots/60ea78c759d441c0b80656bd2cd26650.png
+        - /files/p/products/fujifilm_xt5/shots/5f16c09052744d5a9053a09c508fb1d7.png
+        - /files/p/products/fujifilm_xt5/shots/5ae51097332b4567b155799562db1b07.png
+        - /files/p/products/fujifilm_xt5/shots/8602fde89ea64f4baf6660029dc4a698.png
+    ReviewSummary: null
+    ASIN:
+        - B0BK2MW5HV
+        - B084ZTV3QK
+        - B0BMCGY1TZ
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Nov 2, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W235
+    BatteryLifeCIPA: "580"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 130 x 91 x 64 mm (5.12 x 3.58 x 2.52″)
+    DriveModes:
+        - Single
+        - Continuous (L/H)
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 40 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - DCF
+        - JPEG (Exif Ver 2.32
+        - HEIF (4:2:2 10-bit)
+        - Raw (14-bit RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "No"
+    ISO: Auto, 125-12,800 (Expands to 64-51200)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Some lenses limited to 5 stops of correction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1699
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 7728 x 5152
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/180000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Nov 2, 2022"
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 2x UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.2× (0.8× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 557 g (1.23 lb / 19.65 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/ac + Bluetooth

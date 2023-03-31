@@ -1,0 +1,170 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210917034742/https://www.dpreview.com/reviews/sony-cybershot-dsc-rx100
+ProductCode: sony_dscrx100
+Award: silver
+ImageURL: /files/p/products/sony_dscrx100/143684d1a0a74851a1ff178fc91c3350.png
+Name: Sony RX100
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 28 – 100 mm (3.6×)
+ReviewScore: 78
+URL: /products/sony/compacts/sony_dscrx100
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX100 is an enthusiast compact camera based around a 20MP 1" CMOS sensor. It features a 28-100mm equivalent lens with F1.8-4.9 aperture range and image stabilization and is the first Sony compact to capture Raw files. It can shoot 1080p60 and capture 17MP (16:9 crop) stills simultaneously. It features a lens control dial and a 3:2 aspect ratio sensor (the same proportions as most DSLRs). It's also the first Sony compact to feature the company's 'White Magic' LCD technology, promising a brighter or lower-power display.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx100/shots/6a25171f258e4aaea6b0d3848366b827.png
+        - /files/p/products/sony_dscrx100/shots/380335b86e474615a6554f72797e24ab.png
+        - /files/p/products/sony_dscrx100/shots/e69beab6c85d45c0a8dc76be3f2e4692.png
+        - /files/p/products/sony_dscrx100/shots/e29f724f4da54d3bafa01042be65bd80.png
+        - /files/p/products/sony_dscrx100/shots/d899d6691eb6450c9bd3150c60c3e189.png
+    ReviewSummary:
+        GoodFor: Enthusiasts looking for a carry-everywhere camera. Developing photographers who don't want the cost and bulk of interchangeable lenses.
+        NotSoGoodFor: Low light work (compared to a large-sensor camera) or fast action shooters.
+        Conclusion: The RX100 is probably the most capable compact camera on the market today, combining the image quality benefits of a mid-sized sensor with the proportions of a conventional compact. Extensive, though not flawless, manual controls make the RX100 a great second camera for DSLR shooters.
+    ASIN:
+        - B00889ST2G
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Jun 6, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: Yes, built -in LED type
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BX1 battery and charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: Aluminum
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: RGB Primary color
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (14x)
+    Dimensions: 102 x 58 x 36 mm (4 x 2.29 x 1.41″)
+    DriveModes:
+        - Single-frame advance
+        - Continuous advance
+        - Continuous adv Priority AE
+        - Speed Priority Continuous
+        - Self-timer
+        - Self Portrait Self-timer
+        - Continuous Self-timer
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto Advanced
+        - Auto
+        - Program AUTO
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Memory Recall
+        - Tele Zoom Hi Speed
+        - 3D Sweep Panorama
+        - Sweep Panorama
+        - Anti Motion Blur
+        - Picture Effect
+        - Scene selection
+    ExternalFlash: "No"
+    FileFormat:
+        - RAW (ARW2.3 Format)
+        - RAW+JPEG
+        - JPEG
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: ""
+    FocalLengthEquiv: 28–100 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters:
+        - 'Contrast: -3 to +3 steps'
+        - 'Saturation: -3 to +3 steps'
+        - 'Sharpness: -3 to +3 steps'
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: 'US: $650 EU: €650 UK: £550'
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 3.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 4864 x 3648, 3888 x 2592, 3648 X 3648, 3648 x 2736,  2736 x 1824, 2592 x 1944, 2592 x 1944
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "78%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 28, 2012"
+    SceneModes:
+        - Portrait
+        - Anti Motion Blur (6 shot layering)
+        - Sports Action
+        - Pet
+        - Gourmet
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Hand-held Twilight
+        - Night Portrait
+        - Fireworks
+        - High Sensitivity
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT LCD
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x1080 60p PS: 59.97fps Progressive (appx 28Mbps),  1920 x 1080 60i FX : 59.97fps Interlaced (appx 24Mbps), 1920 x 1080 60i FH : 59.97fps Interlaced (appx 17Mbps), 1440 x 1080 30p :29.97fps Progressive (appx 12Mbps), 640 x 480 30p :29.97fps Progressive (appx 3 Mbps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 240 g (0.53 lb / 8.47 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

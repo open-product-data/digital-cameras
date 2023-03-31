@@ -1,0 +1,182 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220217021637/https://www.dpreview.com/reviews/panasonic-lumix-dc-fz1000-ii-review
+ProductCode: panasonic_dcfz1000m2
+Award: silver
+ImageURL: /files/p/products/panasonic_dcfz1000m2/c2ac88027a1847519acbf6030838a3cf.png
+Name: Panasonic Lumix DC-FZ1000 II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 400 mm (16×)
+ReviewScore: 83
+URL: /products/panasonic/compacts/panasonic_dcfz1000m2
+ReviewData:
+    ExecutiveSummary: The Panasonic is an enthusiast superzoom camera with a 1" sensor and 25-400mm equivalent F2.8-4 lens. The camera has a fully articulating 3" touchscreen display and an 2.36M-dot OLED viewfinder which is larger than on the original FZ1000. Around the lens is a ring which can handle zoom or focus, and the new Zoom Compose Assist will automatically zoom out so you can locate your subject and recompose. The FZ1000 II can take bursts of up to 20 shots with AF-C at 7 fps. Video can be captured at at UHD 4K/30p. Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcfz1000m2/shots/50f7a31e2d14471eb7b11d828b8cdb4c.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/d5139134ac6d4f51999397c662533bdf.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/e64dfc89de8249f5a8a5239c41558699.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/6e17d43139d540899d6f344012812d8d.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/4f7465d99d8e4adb893f47bb9ac0597e.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/d941fbb9e69948538535f29b347d4715.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/b3bdc79771b3444d9d3145d71f07f134.png
+        - /files/p/products/panasonic_dcfz1000m2/shots/3d1dbf4eacf64966af6f308d70334a4e.png
+    ReviewSummary:
+        GoodFor: Those looking for an all-in-one solution for travel photography and casual video capture.
+        NotSoGoodFor: Those wanting to regularly shoot fast action and the highest-quality video.
+        Conclusion: The FZ1000 II is a great all-around bridge camera with a good zoom lens, capable 1"-type sensor and excellent ergonomics. We appreciate the level of control and customization available, and the image quality is solid. It's not the most capable camera in its class, but it's also far from the most expensive, and is well worth a look.
+    ASIN:
+        - B07NQDGBPN
+        - B00KOUIBZW
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 18, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLC12 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Metal, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $847.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4X)
+    Dimensions: 136 x 97 x 132 mm (5.35 x 3.82 x 5.2″)
+    DriveModes:
+        - Single
+        - Continuous
+        - 4K Photo
+        - Post Focus
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic ARW)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync/Red-eye Reduction, Forced Off, 1st / 2nd Slow Sync.
+    FlashRange: 13.50 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–400 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800 (expands to 80-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-axis hybrid (optical + electronic)
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $899 / £769 / €849
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–4
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 11, 2020"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Handheld Night Shot
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 1,240,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 808 g (1.78 lb / 28.50 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

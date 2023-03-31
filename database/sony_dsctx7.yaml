@@ -1,0 +1,108 @@
+ProductCode: sony_dsctx7
+Award: ""
+ImageURL: /files/p/products/sony_dsctx7/cfd669b9a13a460fa9b72993514483f5.png
+Name: Sony Cyber-shot DSC-TX7
+ShortSpecs:
+    - 10 megapixels
+    - 3.5″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsctx7
+ReviewData:
+    ExecutiveSummary: Released summer 2010 the Sony Cyber-shot TX7 has a 10MP Exmor R back illuminated CMOS sensor, a zoom lens which starts at an impressive 25mm wide angle (equivalent) as well as AVCHD 1080i Full HD movie recording, image stabilization and Intelligent Sweep Panorama. The TX7 also offers a 3.5 inch TruBlack wide touchscreen LCD. Other features include Optical SteadyShot Active Mode and Auto HDR.
+    ProductPhotos:
+        - /files/p/products/sony_dsctx7/shots/69d2d776b0f743eb92cc13f3d96f5b8e.png
+        - /files/p/products/sony_dsctx7/shots/01dfd13efdac4882ac904c997c63292a.png
+        - /files/p/products/sony_dsctx7/shots/fa2c02208f444e8e86060f922e8b8589.png
+        - /files/p/products/sony_dsctx7/shots/e646ae8f19164360a8eecf0fe5409c7f.png
+        - /files/p/products/sony_dsctx7/shots/b9ae9e7ec1d54aae88822af4e40f0b07.png
+    ReviewSummary: null
+    ASIN:
+        - B003DWCT6U
+        - B00328HR80
+        - B00328HR7Q
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.6x)
+    Dimensions: 98 x 60 x 18 mm (3.86 x 2.36 x 0.71″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 25–100 mm
+    Format: AVCHD
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.5–4.6
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (60, 30fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 sec or 10 sec, portrait1/  portrait2)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.4" (6.104 x 4.578 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 45 MB
+    StorageTypes: Memory Stick Duo / Pro Duo/ PRO HG-Duo, optional SD, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 149 g (0.33 lb / 5.26 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

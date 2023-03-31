@@ -1,0 +1,125 @@
+ProductCode: leica_m10_d
+Award: ""
+ImageURL: /files/p/products/leica_m10_d/60c130d48f834846b4207c4b60c79dd2.png
+Name: Leica M10-D
+ShortSpecs:
+    - 24 megapixels
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m10_d
+ReviewData:
+    ExecutiveSummary: The Leica M10-D is a rangefinder camera that has much in common with its sibling, the M10-P, but lacks an LCD and has a thumb rest styled as a film advance lever. If users want to change anything other than the shutter speed, aperture or exposure compensation, they'll need to do so via the Leica FOTOS app.The M10-D comes with a 24MP full-frame CMOS sensor and Maestro II processor and offers a top ISO of 50000 and a 5 fps burst rate. The M10-D has some degree of environmental sealing and lacks any I/O ports. An EVF is optional and is the only way in which users can briefly seen the photo they've just taken.
+    ProductPhotos:
+        - /files/p/products/leica_m10_d/shots/15655b69c5664cab80e903e9939b50fa.png
+    ReviewSummary: null
+    ASIN:
+        - B09RMWFQL1
+        - B08W8TN582
+        - B08BBHBPXT
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 24, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL5 lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 38 x 80 mm (5.47 x 1.5 x 3.15″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Interval
+        - Exposure bracketing
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: via optional Visoflex EVF
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: ""
+    MSRP: $7995
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5952 x 3992
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5952 x 3968 (JPEG, 24MP), 4256 x 2932 (12MP), 2976 x 1984 (6MP)
+    Processor: Maestro II
+    RemoteControl: Yes (via cable trigger)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: ""
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

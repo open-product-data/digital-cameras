@@ -1,0 +1,76 @@
+ProductCode: kodak_dx7440
+Award: ""
+ImageURL: /files/p/products/kodak_dx7440/99447c0d55314dcba052844528776cf7.png
+Name: Kodak DX7440
+ShortSpecs:
+    - 4 megapixels
+    - 2.2″ screen
+    - 33 – 132 mm (4×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dx7440
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00022AH6I
+Specs:
+    Announced: May 4, 2004
+    AperturePriority: "Yes"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion, dock & charger (optional)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 100 x 69 x 40 mm (3.94 x 2.72 x 1.57″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 33–132 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2304 x 1728
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: Mono
+    MinimumShutterSpeed: 64 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2048 x 1536, 1656 x 1242, 1200 x 900
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 13 fps, audio, unlimited
+    ReviewPreview: ""
+    ScreenDots: 153,000
+    ScreenSize: 2.2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 270 g (0.60 lb / 9.52 oz)
+    WhiteBalancePresets: "4"

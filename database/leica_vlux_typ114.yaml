@@ -1,0 +1,143 @@
+ProductCode: leica_vlux_typ114
+Award: ""
+ImageURL: /files/p/products/leica_vlux_typ114/d81fa489fe764905842f21590cef3c93.png
+Name: Leica V-Lux (Typ 114)
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 400 mm (16×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_vlux_typ114
+ReviewData:
+    ExecutiveSummary: The Leica V-Lux (Typ 114)  is a superzoom camera that features a 1"-type, 20.1 megapixel CMOS sensor along with an F2.8-4.0 25-400mm lens. The lens uses Panasonic's Depth-from-Defocus technology, which allows extremely fast autofocus speeds. The V-Lux is powered by a quad-core image processor which not only allows for fast performance, but also 4K video recording at 30fps. Photos can be composed on a 3" fully articulating 921k dot or an OLED electronic viewfinder with 2.4 million dots. The V-Lux also has built-in Wi-Fi with NFC for easy photo sharing via your smartphone.
+    ProductPhotos:
+        - /files/p/products/leica_vlux_typ114/shots/217006990ebe45e3ac63c042b7be29e4.png
+        - /files/p/products/leica_vlux_typ114/shots/04419181120a41848ad8b2241ec3b0b0.png
+        - /files/p/products/leica_vlux_typ114/shots/e76ae1f4275d475aa21ca3115d7bc1d9.png
+        - /files/p/products/leica_vlux_typ114/shots/15a92afdfe434be79cb96e45c81da442.png
+        - /files/p/products/leica_vlux_typ114/shots/32376cc09a43421aaef10b45e5590d3c.png
+    ReviewSummary: null
+    ASIN:
+        - B00NNVC8U8
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Sep 14, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC12 lithium-ion battery and charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Metal, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,600.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4x)
+    Dimensions: 137 x 99 x 131 mm (5.39 x 3.9 x 5.16″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - AE bracket
+        - Self-timer
+        - Time-lapse/Animation
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (DCF, EXIF v2.3)
+        - RAW (ARW)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync/Red-eye Reduction, Forced Off
+    FlashRange: 13.50 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–400 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (microHDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800 (expands to 80-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1350
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–4
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4864 x 3648, 5472 x 3080, 3648 x 3648, 3888 x 2592, 3456 x 2592, 3840 x 2160,  2592 x 2592, 2736 x 1824, 2736 x 1824, 2432 x 1824, 1824 x 1824, 1920 x 1080
+    Processor: ""
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: 3840 x 2160 (30p), 1920 x 1080 (60p, 60i, 30p, 24p) 1280x720 (30p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 4K video uses MP4 (100Mbps), 1080p/720p use AVCHD (10-28Mbps)
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 830 g (1.83 lb / 29.28 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

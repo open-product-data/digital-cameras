@@ -1,0 +1,99 @@
+ProductCode: casio_exzs10
+Award: ""
+ImageURL: /files/p/products/casio_exzs10/97371997945944f8a530a0e7f1998eb6.png
+Name: Casio Exilim EX-ZS10
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exzs10
+ReviewData:
+    ExecutiveSummary: Casio EX-ZS10 is a 14.1MP entry level compact. It features a 5x optical zoom lens starting at 26mm equiv. and a 2.7 inch LCD. It can record 720p HD videos and includes various scene modes. It will be available in black, silver, red, pink and blue
+    ProductPhotos:
+        - /files/p/products/casio_exzs10/shots/5678f387afb040a5985eff1ec5eb8063.png
+        - /files/p/products/casio_exzs10/shots/fb47b23b788c4f20ad863c86267f666d.png
+        - /files/p/products/casio_exzs10/shots/66ce8c6f427a4390b5cba3cc2c6586be.png
+    ReviewSummary: null
+    ASIN:
+        - B004HYGDJW
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 103 x 59 x 20 mm (4.06 x 2.32 x 0.79″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

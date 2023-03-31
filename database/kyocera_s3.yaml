@@ -1,0 +1,83 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210919222614/https://www.dpreview.com/reviews/kyoceras3/
+ProductCode: kyocera_s3
+Award: average
+ImageURL: /files/p/products/kyocera_s3/0b651dda43d64c78be949365fa5aefb4.png
+Name: Kyocera Finecam S3 / Yashica Finecam S3
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 38 – 76 mm (2×)
+ReviewScore: 0
+URL: /products/kyocera/compacts/kyocera_s3
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00005LK7R
+Specs:
+    Announced: Mar 12, 2001
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 30 x 87 x 55 mm (1.18 x 3.43 x 2.17″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38–76 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: Unknown
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine Fine, Normal
+    LensMount: ""
+    LiveView: "No"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualFocus: "Yes"
+    MaxResolution: 2048 x 1536
+    MaximumAperture: F2.8–3.5
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 2×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 15 sec max, 320 x 240
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 28, 2001"
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB MMC card
+    StorageTypes: SD/MMC card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"

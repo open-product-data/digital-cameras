@@ -1,0 +1,116 @@
+ProductCode: nikon_cps8100
+Award: ""
+ImageURL: /files/p/products/nikon_cps8100/392aef6350404d4c9dfaab270941019e.png
+Name: Nikon Coolpix S8100
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 30 – 300 mm (10×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps8100
+ReviewData:
+    ExecutiveSummary: Released for the US market, the Coolpix S8100 closely resembles the Coolpix S8000 but makes use of a 12MP back-lit CMOS sensor in the place of the 8000's 14MP CCD. In most other respects the cameras are similar, with the S8100 retaining the 30-300mm equivalent stabilized zoom lens and 3.0" LCD. The CMOS sensor helps it offer 10 fps shooting and 1080 HD movie recording.
+    ProductPhotos:
+        - /files/p/products/nikon_cps8100/shots/06d05b629f944703baa9da34bc7653e8.png
+        - /files/p/products/nikon_cps8100/shots/adcdb033228e4ef39cb4b2d762ff5bfb.png
+        - /files/p/products/nikon_cps8100/shots/777a180e7e67424a85778d6c3d4989bc.png
+        - /files/p/products/nikon_cps8100/shots/bd7721c8a2b74509bc57d96532b63fc2.png
+        - /files/p/products/nikon_cps8100/shots/cf352613d9fc4e19a5c83ba7895ef8ca.png
+        - /files/p/products/nikon_cps8100/shots/5bb17fa78cd74df78d7dcdfea343c22d.png
+    ReviewSummary: null
+    ASIN:
+        - B00427ZLTC
+        - B00427ZLSS
+        - B00427ZLS8
+Specs:
+    AEBracketing: ""
+    Announced: Sep 8, 2010
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 104 x 60 x 30 mm (4.09 x 2.36 x 1.18″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 30–300 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 160 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 or 2 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""
