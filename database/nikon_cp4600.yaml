@@ -1,0 +1,77 @@
+ProductCode: nikon_cp4600
+Award: ""
+ImageURL: /files/p/products/nikon_cp4600/85414669aa4c4e738b584815a9c90d92.png
+Name: Nikon Coolpix 4600
+ShortSpecs:
+    - 4 megapixels
+    - 1.8″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cp4600
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0007KQWDM
+Specs:
+    Announced: Feb 16, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 85 x 60 x 35 mm (3.35 x 2.36 x 1.38″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 34–102 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 4 cm (1.57″)
+    ManualFocus: "Yes"
+    MaxResolution: 2288 x 1716
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/3000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 30 cm (11.81″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 30 fps
+    ReviewPreview: ""
+    ScreenDots: 80,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 14 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "5"

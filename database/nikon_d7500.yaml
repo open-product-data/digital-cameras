@@ -1,0 +1,186 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220105034024/https://www.dpreview.com/reviews/nikon-d7500-review-speed-and-capability
+ProductCode: nikon_d7500
+Award: silver
+ImageURL: /files/p/products/nikon_d7500/5a5cd2f4019a4ccc8a1b709c28b4cbcb.png
+Name: Nikon D7500
+ShortSpecs:
+    - 21 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 86
+URL: /products/nikon/slrs/nikon_d7500
+ReviewData:
+    ExecutiveSummary: The Nikon D7500 is a midrange DSLR that brings updates to the D7200 and also borrows technology from the D500. It features the 20MP CMOS sensor from the D500, making it capable of 4K video at up to 30fps, and expanding its sensitivity to a maximum of ISO 1,640,000. While it keeps the 51-point AF system from the D7200, it gains the 180k-pixel metering sensor from the D500 and enables features like highlight weighted metering. The screen now tilts and also features touch capability. Weather sealing is improved over the D7200 as well, and weight has been reduced to 640 grams.
+    ProductPhotos:
+        - /files/p/products/nikon_d7500/shots/ec8518b31ad04ec4b1dcdb3bd684c8bb.png
+        - /files/p/products/nikon_d7500/shots/f769b268d79c4ac3976dd06d8137a142.png
+        - /files/p/products/nikon_d7500/shots/2b0e945307f24f46b17fc9b4c5a69a40.png
+        - /files/p/products/nikon_d7500/shots/46a49f0777684fa381f0d1d87dace8d0.png
+        - /files/p/products/nikon_d7500/shots/28b02ce00e41481a9440127360166934.png
+        - /files/p/products/nikon_d7500/shots/97008786b0db4b91af5d1ddcc9a626b5.png
+        - /files/p/products/nikon_d7500/shots/7d8a38f828684b5994e769ab03f761cc.png
+    ReviewSummary:
+        GoodFor: Sports and action shooters. Anyone looking for a traditional, well-featured DSLR for stills shooting.
+        NotSoGoodFor: Videographers. Travel photographers who might be happier with a smaller, lighter body.
+        Conclusion: The D7500 is an outstanding stills camera and a refinement of an already excellent DSLR. It brings added speed and buffer depth to the  enthusiast level and adds improved subject recognition. More comfortable to hold than its predecessor, the addition  of a tilting touchscreen only adds to the camera's excellent ergonomics.  And while 4K video is a nice selling point, the 1.5x crop and crummy video AF dim its appeal for movie makers. But for stills shooters, the D7500 is one beast of a camera.
+    ASIN:
+        - B07PWB17VY
+        - B0741TP7H3
+        - B06Y5RTN1T
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Apr 12, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15a lithium-ion rechargeable battery & charger
+    BatteryLifeCIPA: "950"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "1640000"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,396.95
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: ""
+    Dimensions: 136 x 104 x 73 mm (5.35 x 4.09 x 2.87″)
+    DriveModes:
+        - Single-frame
+        - Self-timer
+        - Quiet continuous
+        - Quiet shutter
+        - Mirror-up
+        - Continuous high
+        - Continuous low
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Aperture Priority
+        - Auto
+        - Auto (flash off)
+        - Manual (M)
+        - Programmed auto with flexible program (P)
+        - Scene Modes
+        - Shutter-Priority
+        - User
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat:
+        - 'JPEG: JPEG-Baseline compliant with fine, normal, or basic compression (Size priority); Optimal quality compression available'
+        - 'NEF (RAW): Lossless compressed, compressed 12 or 14 bit'
+        - 'NEF (RAW) + JPEG: Single Photograph Recorded in both NEF (RAW) and JPEG Formats'
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: ISO 100 - 51200 (expandable to 50 - 1640000)
+    ImageRatioWh: "3:2"
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: 3-axis Electronic for Full HD and below
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $1299 (body only), $1749 with 18-140 VR kit lens
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5568 x 3712
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 48 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 48 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p / 24 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p / 12 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4176 x 2784, 2784 x 1856
+    Processor: Expeed 5
+    RemoteControl: Yes (Wired, wireless, smartphone)
+    Resolutions: ""
+    ReviewPreview: "86%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 5, 2017"
+    SceneModes:
+        - Autumn Colors
+        - Beach / Snow
+        - Blossom
+        - Candlelight
+        - Child
+        - Close-up
+        - Dusk / Dawn
+        - Food
+        - Landscape
+        - Night Landscape
+        - Night Portrait
+        - Party / Indoor
+        - Pet Portrait
+        - Portrait
+        - Sports
+        - Sunset
+        - Special Effects Mode
+    ScreenDots: 922,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (4K output)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports MOV and MP4 packages
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.94× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in 1-stop increments)
+    WeightIncBatteries: 720 g (1.59 lb / 25.40 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi with low energy Bluetooth

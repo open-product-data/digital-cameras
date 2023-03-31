@@ -1,0 +1,149 @@
+ProductCode: fujifilm_z110
+Award: ""
+ImageURL: /files/p/products/fujifilm_z110/8552482e16c24d95a6dc6faa1e4e2451.png
+Name: Fujifilm FinePix Z110
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_z110
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix Z110 is card-style compact camera. The Z110 is based around a 14MP CCD sensor and offers the same 28-140mm equivalent zoom as the more highly-specced Z1000EXR but doesn't include that model's sensor-shift image stabilization. The CCD sensor means the camera is limited to 720p HD movies capture.
+    ProductPhotos:
+        - /files/p/products/fujifilm_z110/shots/ae59192ab58642cfb149abd792e3ef74.png
+        - /files/p/products/fujifilm_z110/shots/debf3d14246a452bb1f1b14197f6dc2a.png
+        - /files/p/products/fujifilm_z110/shots/a71dccaf24134d41ba678a834205f23b.png
+    ReviewSummary: null
+    ASIN:
+        - B08KYH5Q24
+        - B084ZTV3QK
+        - B084B3Z8FX
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-45A rechargeable battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: RGB color filter
+    ColorSpace: ""
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (6.8x)
+    Dimensions: 97 x 58 x 20 mm (3.82 x 2.28 x 0.77″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264, Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3072 x 2304, 3072 x 1728, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Natural Light
+        - Natural Light with Flash
+        - Portrait
+        - Portrait Enhancer
+        - Dog
+        - Cat
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+        - Self Portrait
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec, Couple, Group)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 29 MB
+    StorageTypes: SD / SDHC / SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 145 g (0.32 lb / 5.11 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

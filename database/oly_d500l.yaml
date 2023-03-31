@@ -1,0 +1,76 @@
+ProductCode: oly_d500l
+Award: ""
+ImageURL: /files/p/products/oly_d500l/5227045709ef4cf185a4c8d3610e2578.png
+Name: Olympus D-500L
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 50 – 150 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d500l
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 10, 1997
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 115 x 83 x 130 mm (4.53 x 3.27 x 5.12″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Fill-in, Back-lit, Auto, Auto red-eye, Off
+    FlashRange: 3.70 m
+    FocalLengthEquiv: 50–150 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: "180"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 30 cm (11.81″)
+    ManualFocus: "No"
+    MaxResolution: 1024 x 768
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/10000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 2 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 490 g (1.08 lb / 17.28 oz)
+    WhiteBalancePresets: ""

@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220119155714/https://www.dpreview.com/videos/7548408651/dpreview-tv-leica-m10-r-review
+ProductCode: leica_m10-r
+Award: ""
+ImageURL: /files/p/products/leica_m10-r/166c3ab2bed84fd89f1fb6d7a06e200e.png
+Name: Leica M10-R
+ShortSpecs:
+    - 41 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m10-r
+ReviewData:
+    ExecutiveSummary: The Leica M10-R is the latest revision of the company's M-mount rangefinder camera. With a 40MP sensor, it's the highest resolution M-series camera yet (as of July 2020), and Leica claims that it offers more dynamic range and less noise than previous models. It has the same ultra-quiet shutter of other recent M models, and can now take exposures as long as 16 minutes.The large, bright line viewfinder has automatic parallax correction and a magnification of 0.73x. A 3" touchscreen display offers a modern interface. Wi-Fi (2.4Ghz) is built in, but Bluetooth is not. As with all Leica cameras, build quality is first rate.
+    ProductPhotos:
+        - /files/p/products/leica_m10-r/shots/b4ec77cae06145b8a98a85af1304155e.png
+        - /files/p/products/leica_m10-r/shots/f40460553a9748fd826f88f0f5efcd3d.png
+        - /files/p/products/leica_m10-r/shots/fe06901a35134de3b154ccff7da4d144.png
+        - /files/p/products/leica_m10-r/shots/0f1e227855ca47868171280e8694d17a.png
+        - /files/p/products/leica_m10-r/shots/07eb7cd36488443f8f4e30daf5dd6f5c.png
+        - /files/p/products/leica_m10-r/shots/8ad00f8d7c4340ffb4d38e42b8cc4c14.png
+    ReviewSummary: null
+    ASIN:
+        - B09RMWFQL1
+        - B09QF4TSZF
+        - B08N6T16JS
+Specs:
+    AEBracketing: ""
+    Announced: Jul 16, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BC-SCL5 lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 39 x 80 mm (5.47 x 1.54 x 3.15″)
+    DriveModes: ""
+    EffectivePixels: 41 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - DNG (14-bit)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $8295
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7864 x 5200
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 960 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Maestro II
+    RemoteControl: Yes (cable release)
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Jul 23, 2020"
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

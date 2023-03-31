@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210729091757/https://www.dpreview.com/reviews/canon-eos-rp-review/
+ProductCode: canon_eosrp
+Award: silver
+ImageURL: /files/p/products/canon_eosrp/26c43f81d78f4ea8943e614545be7fcf.png
+Name: Canon EOS RP
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 83
+URL: /products/canon/slrs/canon_eosrp
+ReviewData:
+    ExecutiveSummary: The Canon EOS RP is a compact full-frame mirrorless camera that uses the company's RF lens mount. It features a 26MP CMOS sensor, Digic 8 processor and Dual Pixel AF system with 88% x 100% coverage and Eye AF. The lightweight body has a 2.36M-dot EVF, 3" fully articulating LCD and single SD card slot that supports UHS-II media. The camera can capture 4K/24p video with a substantial crop and has HDMI, headphone and microphone sockets.
+    ProductPhotos:
+        - /files/p/products/canon_eosrp/shots/c04086449d404f92990041142c77eba1.png
+        - /files/p/products/canon_eosrp/shots/365fc86292674edfbd954ef74bbbbb0f.png
+        - /files/p/products/canon_eosrp/shots/65cd73081b31435ba8884b77591eebea.png
+        - /files/p/products/canon_eosrp/shots/1d8052b4217a4d86a826508bec384c20.png
+        - /files/p/products/canon_eosrp/shots/e75a4d15523e4ced926381d24631f6c0.png
+        - /files/p/products/canon_eosrp/shots/97422b20551043d0a3d6a1da5e717621.png
+    ReviewSummary:
+        GoodFor: Newer users getting into full-frame for the first time, existing Canon users looking for a second camera body, anyone looking for a travel-friendly full-frame camera for casual use.
+        NotSoGoodFor: Those looking to shoot high quality video, power users who want the most out of their Raw files, and those who routinely shoot fast action and need faster burst speeds.
+        Conclusion: The Canon EOS RP's specifications aren't exactly exciting, but don't let that fool you - it's a likable little camera with engaging controls, good build quality and it produces excellent JPEGs. Of course, the Raw files are noisier and aren't as malleable as some more contemporary full-frame cameras, but for the target audience, that won't likely be a deal breaker. For those users looking for a friendly way to get into full-frame imaging, the EOS RP is an excellent option.
+    ASIN:
+        - B086TTTZR5
+        - B07TPYQDRF
+        - B07N9KP2HS
+Specs:
+    AEBracketing: ""
+    Announced: Feb 14, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: Composite
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $999.00 - $3,598.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 133 x 85 x 70 mm (5.24 x 3.35 x 2.76″)
+    DriveModes:
+        - Single
+        - Continuous (H/L)
+        - Self-timer
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (14-bit Canon CR3)
+        - C-Raw (Canon original)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-40000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $1299 (body), $1999 (w/EF adapter and EF 24-105mm STM IS lens), $2299 (w/RF 24-105mm F4L IS lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 24p / 120 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 30 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "4779"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 8
+    RemoteControl: Yes (via cable or smartphone)
+    Resolutions: ""
+    ReviewPreview: "83%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 2, 2019"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 485 g (1.07 lb / 17.11 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

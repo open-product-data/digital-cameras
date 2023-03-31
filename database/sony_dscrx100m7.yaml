@@ -1,0 +1,193 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211126225904/https://www.dpreview.com/reviews/sony-cyber-shot-dsc-rx100-vii-review
+ProductCode: sony_dscrx100m7
+Award: gold
+ImageURL: /files/p/products/sony_dscrx100m7/baa4778c07ae4924aacaeb416cae0f9d.png
+Name: Sony RX100 VII
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 200 mm (8.3×)
+ReviewScore: 85
+URL: /products/sony/compacts/sony_dscrx100m7
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX100 VII is an ultra-compact, long zoom camera with a newly developed 20 Megapixel, 1"-type sensor. It features a 24-200mm equivalent F2.8-4.5 lens, flip-up touchscreen LCD and a clever pop-up OLED viewfinder. The RX100 VII is capable of taking very short bursts at 90 fps and can shoot blackout-free at 20 fps. On the video side, the Mark VII captures oversampled UHD 4K video, Full HD at up to 120 fps and lower resolution video with a top frame rate of almost 1000 fps. Unlike its predecessor, the RX100 VII has a built-in mic input.Connectivity options include Wi-Fi, Bluetooth and NFC.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx100m7/shots/553797f201be4899811a74a32969dd4a.png
+        - /files/p/products/sony_dscrx100m7/shots/919da487fdaa44789295a0012f50c4c5.png
+        - /files/p/products/sony_dscrx100m7/shots/fd56d7a477bf492083082ea7a14adc5c.png
+        - /files/p/products/sony_dscrx100m7/shots/a3b43d398290402fa91a8858d73bb238.png
+        - /files/p/products/sony_dscrx100m7/shots/4f98c38275d7401284870c3b81b87fd3.png
+        - /files/p/products/sony_dscrx100m7/shots/2689146fc9ee46b1bc241057c297f400.png
+    ReviewSummary:
+        GoodFor: Anyone wishing for a versatile zoom range in a pocket-sized cameras with rock-solid-reliable autofocus. Travel and family photographers, video-enthusiasts and Vloggers.
+        NotSoGoodFor: Anyone who primarily shoots in dim-lighting.
+        Conclusion: The RX100 VII is the most capable pocket camera currently on the market. It offers a versatile zoom range and an industry-leading AF implementation, as well as good image quality and smooth, stabilized 4K. However the small maximum aperture of the lens does limit the camera's use in dim light.
+    ASIN:
+        - B07X987V7T
+        - B07VPQV7BY
+        - B07Z8QQCVX
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jul 25, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: Aluminum
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,298.00 - $1,529.56
+    CIPAImageStabilizationRating: 4 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 90.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 102 x 58 x 43 mm (4.02 x 2.28 x 1.69″)
+    DriveModes:
+        - Single
+        - Cotninuous
+        - Single burst
+        - Self-timer
+        - Continuous bracketing
+        - Single bracketing
+        - WB bracketing
+        - DRO bracketing
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual Exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+        - Raw (Sony ARW v2.3)
+    FlashModes: ""
+    FlashRange: 5.90 m (at Auto ISO)
+    FocalLengthEquiv: 24–200 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI with uncompressed 4K/30p output)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Extra fine, fine, standard
+    LiveView: "Yes"
+    MSRP: $1200/£1200/€1300
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 6 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 25p / 6 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 8 cm (3.15″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8.3×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 22, 2019"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Fireworks
+        - High Sensitivity
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.59×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 302 g (0.67 lb / 10.65 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with Bluetooth and NFC

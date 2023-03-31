@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220104032353/https://www.dpreview.com/reviews/fujifilm-gfx-50s-ii-review
+ProductCode: fujifilm_gfx50sii
+Award: silver
+ImageURL: /files/p/products/fujifilm_gfx50sii/d9038a149f9b454a8387ed20b462167b.png
+Name: Fujifilm GFX 50S II
+ShortSpecs:
+    - 51 megapixels
+    - 3.2″ screen
+    - Medium format sensor
+ReviewScore: 87
+URL: /products/fujifilm/slrs/fujifilm_gfx50sii
+ReviewData:
+    ExecutiveSummary: The Fujifilm GFX 50S II is a compact 51 Megapixel medium-format (44x33mm) camera that uses the company's GF-mount. It features in-body stabilization with up to 6.5 stops of shake reduction. Photos can be composed on a 3.2" rear touch screen with a two-axis mechanism or on a large, high resolution EVF. The 50S II has an updated autofocus system (though it's still contrast-detect), with more accurate face and eye detection. The camera has an OLED info display on its top plate and is highly customizable. The camera can create 205MP images by shifting its sensor, which can reduce false color.The body is weather-sealed against the elements.
+    ProductPhotos:
+        - /files/p/products/fujifilm_gfx50sii/shots/11cf8ae49dbe4b41bc9e31c19141e6b0.png
+        - /files/p/products/fujifilm_gfx50sii/shots/29539d6a57cc4a35a1439a76ff6c011a.png
+        - /files/p/products/fujifilm_gfx50sii/shots/73cd67d5b44041c591a8909eb7be34f0.png
+        - /files/p/products/fujifilm_gfx50sii/shots/918a020a0aec4fadac634729770b8f47.png
+        - /files/p/products/fujifilm_gfx50sii/shots/5a12d5df52954e929b4dde783ca7aa18.png
+        - /files/p/products/fujifilm_gfx50sii/shots/503d609551654a1289fcc5904d23a017.png
+    ReviewSummary:
+        GoodFor: Landscape and studio work
+        NotSoGoodFor: Sports and social shooting
+        Conclusion: The GFX 50S II is the least expensive and most refined 50MP medium format camera yet from Fujifilm. Image stabilization boosts the range of circumstances it can be used in, helping it to deliver image quality at the very extreme of what full-frame is capable of. It's not the fastest camera on the market but it can make photography feel special and will deliver the best results this side of Fujifilm's 100MP models if you're shooting the kinds of photos it's strongest at.
+    ASIN:
+        - B09DTGQN24
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 2, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $3,199.00 - $3,699.00
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 150 x 104 x 87 mm (5.91 x 4.09 x 3.43″)
+    DriveModes: ""
+    EffectivePixels: 51 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14 RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/125 sec
+    FocalLengthMultiplier: 0.79×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800 (expands to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Fujifilm G
+    LiveView: "Yes"
+    MSRP: $3999
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 6192
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 3600 sec
+    Modes:
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "87%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 2, 2021"
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual SD/SDHC/SDXC cards (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.61× (0.77× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 900 g (1.98 lb / 31.75 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

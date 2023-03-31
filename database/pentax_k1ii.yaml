@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107205010/https://www.dpreview.com/reviews/pentax-k-1-ii-review
+ProductCode: pentax_k1ii
+Award: ""
+ImageURL: /files/p/products/pentax_k1ii/6795f83113114144b4ed2fb05e98440c.png
+Name: Pentax K-1 II
+ShortSpecs:
+    - 36 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 80
+URL: /products/pentax/slrs/pentax_k1ii
+ReviewData:
+    ExecutiveSummary: The Pentax K-1 Mark II updates Ricoh's full-frame DSLR with a new 'accelerator unit' preprocessor, which improves high ISO noise performance, boosting the top sensitivity to 819,200. As before, it features a 36.4MP full-frame CMOS sensor without an AA filter and is stabilized using Ricoh's SRII Shake Reduction system. This five-axis shake reduction system is capable of reducing camera shake with a compensation range of up to five shutter steps. SRII also allows the PENTAX K-1 to incorporate other features such as Pixel Shift Resolution, which effectively eliminates moiré without the need for an anti-aliasing filter, increasing sharpness and overall image quality. A new Dynamic Pixel Shift mode allows for handheld high-res photos by using the small movements of your hands to capture the four images that are combined.The K-1 II continues to use the SAFOX 12 autofocus mechanism with 33 autofocus points, and a Flexible tilt LCD monitor which can be adjusted to the desired angle horizontally and vertically without deviating from the lens’s optical axis, making it easy to shoot at challenging angles. It also has the same Operation Assist Lights – compact white LEDs that facilitate camera operation in low-light environments, making it easy to change lenses, swap memory cards and adjust back-of-camera controls, and a Smart Function dial that allows photographers to easy select frequently-used functions without going into the LCD menu.
+    ProductPhotos:
+        - /files/p/products/pentax_k1ii/shots/7bf94f320f224129ba5f9ffeb8f28a13.png
+        - /files/p/products/pentax_k1ii/shots/0fe63fe81ff2469eba7b0a981ef553ba.png
+        - /files/p/products/pentax_k1ii/shots/32b5ea96ad80459d9007a057899960a8.png
+        - /files/p/products/pentax_k1ii/shots/de97d0597bd2490c9e26e088dbe6b541.png
+    ReviewSummary:
+        GoodFor: Landscape and adventure shooters needing a camera as tough as they are. Still life and macro photographers.
+        NotSoGoodFor: Those wishing to photograph sports, action or active children. Video shooters. Those seeking an unobtrusive and/or light camera body.
+        Conclusion: The Pentax K-1 II  features a stabilized 36MP Full Frame sensor and one of the toughest-built bodies on the market. Jam-packed with unique features to aide those shooting under harsh conditions, we're big fans of its many control points and great ergonomics. However, its image quality offers no improvement over that of its predecessor. Its autofocus performance and video capabilities also lag greatly behind the competition.
+    ASIN:
+        - B079SFBQH4
+        - B079SFT6HH
+        - B0BL65P27T
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 21, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI90 lithium-ion battery & charger
+    BatteryLifeCIPA: "670"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.4 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 137 x 110 x 86 mm (5.39 x 4.33 x 3.39″)
+    DriveModes:
+        - Single Frame, Continuous, Self-timer, Remote Control, Bracketing, Mirror- up, Multi-Exposure, Interval Shooting, Interval Composite, Interval Movie Record, Star Stream
+    Durability: ""
+    EffectivePixels: 36 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Aperture and shutter priority
+        - Sensitivity priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (PEF/DNG)
+    FlashModes: Auto Flash Discharge, Auto Flash + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow-speed Sync, Slow-speed Sync + Red-eye, P-TTL, Trailing Curtain Sync, Contrast-control-sync, High-speed sync, Wireless sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-819200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF4
+    LiveView: "Yes"
+    MSRP: $1999/£1799 (body only), $2399 (w/FA 28-105mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7360 x 4912
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60i, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50i, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: "25"
+    NumberOfFocusPoints: "33"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: PRIME IV
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: ""
+    ReviewPreview: "80%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 7, 2018"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 37 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC (UHS-I)
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (Still or video)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1010 g (2.23 lb / 35.63 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

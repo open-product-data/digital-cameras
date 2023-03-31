@@ -1,0 +1,128 @@
+ProductCode: leica_m_monochrom_typ246
+Award: ""
+ImageURL: /files/p/products/leica_m_monochrom_typ246/349418a00c1542e39f507fd8b53ea51cpng
+Name: Leica M Monochrom (Typ 246)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/leica/compacts/leica_m_monochrom_typ246
+ReviewData:
+    ExecutiveSummary: The M-Monochrom Typ 246 uses a full frame 24MP CMOS sensor that, like its predecessor, has no color filter array. Essentially a monochrome version of the M Typ 240, the M Monochrom Typ 246 offers an increase in ISO range up to ISO 25,000 (up from a maximum of 10,000), a more modern 3" 921k-dot monitor (as compared to the original M Monochrom's dated LCD specs) and all of the benefits of live view shooting including focus peaking and 10x magnification. Full HD video recording is also offered.
+    ProductPhotos:
+        - /files/p/products/leica_m_monochrom_typ246/shots/5dbb0c02cf09441d9bb3cec3eebeda9epng
+        - /files/p/products/leica_m_monochrom_typ246/shots/7dd78a5dad634c4ab30941e989251b51png
+        - /files/p/products/leica_m_monochrom_typ246/shots/9545851e810d44aa8f6177df69e29728png
+        - /files/p/products/leica_m_monochrom_typ246/shots/f5027fbbd7764a2cbb7db72b50610313png
+        - /files/p/products/leica_m_monochrom_typ246/shots/d9d90f44778e47439fd8a1a543f350bbpng
+        - /files/p/products/leica_m_monochrom_typ246/shots/de4520af73854741a500c420cc73665epng
+    ReviewSummary: null
+    ASIN:
+        - B08BBHBPXT
+        - B08N6T16JS
+        - B073V5DH8X
+Specs:
+    AEBracketing: ""
+    Announced: Apr 30, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL2 lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: None
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 139 x 42 x 80 mm (5.47 x 1.65 x 3.15″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: via multifunctional handgrip
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 320-25000
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $7450
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5952 x 3968
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 4256 x 2832, 2976 x 1798, 1600 x 1072
+    Processor: Maestro
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (25p, 24p), 1280 x 720 (25p, 24p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 680 g (1.50 lb / 23.99 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

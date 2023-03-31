@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211019100128/https://www.dpreview.com/reviews/canon-eos-77d-review/
+ProductCode: canon_eos77d
+Award: silver
+ImageURL: /files/p/products/canon_eos77d/55383477b3ed4a2c8b0bd4b1a36cf7ee.png
+Name: Canon EOS 77D / EOS 9000D
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/canon/slrs/canon_eos77d
+ReviewData:
+    ExecutiveSummary: The Canon EOS 77D (EOS 9000D in Japan) is a midrange DSLR that sits between the Rebel T7i and EOS 80D. It features Canon's familiar 24MP CMOS sensor and uses the company's newest DIGIC 7 processor. Dual Pixel AF is built-in for responsive AF and good subject tracking in live video and movie mode and, for shooting with the optical viewfinder, there's a 45-point all cross-type system. The camera has a fully articulating 3" touchscreen LCD along with an OVF with 95% coverage. It can capture Full HD video at 60p at a max bit rate of 60Mbps. Wireless features include Wi-Fi, NFC and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eos77d/shots/76fa667fce3447109a47d6f713696c59.png
+        - /files/p/products/canon_eos77d/shots/cbaad6b4962a4ff9a3cc6b2c36cb86b8.png
+        - /files/p/products/canon_eos77d/shots/fb2d4d5cac4042369b78b785a25b6d36.png
+        - /files/p/products/canon_eos77d/shots/eb87d3ba230b406eb883080813e59624.png
+        - /files/p/products/canon_eos77d/shots/f271b28938044bc09590be0f6a37c3e4.png
+        - /files/p/products/canon_eos77d/shots/214edbb89e8446d3acbb09b613c961d7.png
+        - /files/p/products/canon_eos77d/shots/ec3d6a8f2d35423a8b9e38fb336cae69.png
+        - /files/p/products/canon_eos77d/shots/e5f995fbec02412ebdcce8f9ae66adf6.png
+    ReviewSummary:
+        GoodFor: Enthusiasts and amateurs who are looking to take more control over their photography, and those looking to capture video with ease.
+        NotSoGoodFor: Sports and peak action shooters, videographers who must have the highest quality footage.
+        Conclusion: The Canon EOS 77D is a well-rounded and well-sorted camera. The ergonomics are great, Live View performance is superb and Dual Pixel Autofocus continues to impress. The viewfinder is a little on the small side and it still doesn't shoot 4K video, but as an all-around package for the enthusiast photographer, the EOS 77D deserves a look.
+    ASIN:
+        - B06VSTCWJ9
+        - B06WGM95NR
+        - B0718ZS647
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 15, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (flash)
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "600"
+    BodyMaterial: Composite
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 131 x 100 x 76 mm (5.16 x 3.94 x 2.99″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Self-timer
+        - Self-timer + continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit Canon CR2)
+    FlashModes: ""
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (expands to 51200)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $899 (body only), $1049 (w/18-55 F4-5.6 IS STM lens), $1499 (w/18-135mm F3.5-5.6 IS STM lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 26 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 4 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "45"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 7
+    RemoteControl: Yes (via smartphone or Bluetooth remote)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 18, 2017"
+    SceneModes:
+        - Group Photo
+        - Kids
+        - Food
+        - Candlelight
+        - Night Portrait
+        - Handheld Night Scene
+        - HDR Backlight Control
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.82× (0.51× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 540 g (1.19 lb / 19.05 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: Includes Bluetooth LE and NFC

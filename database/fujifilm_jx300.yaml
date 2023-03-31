@@ -1,0 +1,106 @@
+ProductCode: fujifilm_jx300
+Award: ""
+ImageURL: /files/p/products/fujifilm_jx300/18fe8b0af62c4cae8d25b91e71ca3bd4.png
+Name: FujiFilm FinePix JX300 (FinePix JX305)
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_jx300
+ReviewData:
+    ExecutiveSummary: Fujifilm's JX-series is intended to provide a step up from the JVs, but the differences are fairly subtle. The FinePix JX300 offers 14MP capture and a 5x zoom lens, which covers a useful 28-140mm (equivalent) range, and it can capture 720p video footage. The JX300 comes with the standard Fujifilm feature suite which includes face detection, blink detection and Scene Recognition auto, and also offers inbuilt Facebook and YouTube image editing and selection functionality, making it easier to post images and movie clips online.
+    ProductPhotos:
+        - /files/p/products/fujifilm_jx300/shots/df11467b303b4fa59414795f12f57ca3.png
+        - /files/p/products/fujifilm_jx300/shots/667dd61b3a664bf9b084b65b306037c9.png
+        - /files/p/products/fujifilm_jx300/shots/aecbbd1e2fdc4b7c9b9ba00f2264e47a.png
+        - /files/p/products/fujifilm_jx300/shots/4459724cc7234c8d8f362f29cfe33dfc.png
+    ReviewSummary: null
+    ASIN:
+        - B004SBM3YI
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion rechargeable battery & charger
+    BatteryLifeCIPA: "180"
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 94 x 56 x 24 mm (3.7 x 2.2 x 0.94″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.6–6.2
+    MaximumShutterSpeed: 1/1800 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 25 cm (9.84″)
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4288 x 2864, 4288 x 2416, 3072 x 2304, 3072 x 1728, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD / SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 130 g (0.29 lb / 4.59 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

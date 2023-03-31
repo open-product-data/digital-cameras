@@ -1,0 +1,115 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220124005847/https://www.dpreview.com/reviews/sonydslra200
+ProductCode: sony_dslra200
+Award: highlyRecommended
+ImageURL: /files/p/products/sony_dslra200/189b307cafaa49c284d477d62ef633a2.png
+Name: Sony Alpha DSLR-A200
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_dslra200
+ReviewData:
+    ExecutiveSummary: Part of the second generation of consumer Alpha digital SLRs, the DSLR-A200 is a relatively modest upgrade to the Alpha 100 it replaced. It may be the 'budget' Sony SLR but it's quite a bargain, packing an impressive set of features into its compact body. These include 9-point autofocus and 'Super SteadyShot', which means every lens you use gets the benefit of image stabilization. Image quality from its 10 megapixel CCD is good in bright light, but lags behind most competing SLRs in low light at higher ISO settings.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B002D3DJYG
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 131 x 99 x 71 mm (5.16 x 3.9 x 2.8″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, Red-Eye, Slow, Red-Eye Slow, Rear curtain, wireless
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3872 x 2176, 2896 x 1936, 2896 x 1632, 1920 x 1280, 1920 x 1088
+    Processor: ""
+    RemoteControl: Yes (Wired or wirelss (optional))
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 17, 2008"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.83× (0.55× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 572 g (1.26 lb / 20.18 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

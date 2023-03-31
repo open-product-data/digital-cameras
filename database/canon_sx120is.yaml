@@ -1,0 +1,109 @@
+ProductCode: canon_sx120is
+Award: ""
+ImageURL: /files/p/products/canon_sx120is/d17746cadc13436c9044d73b9263e9a8.png
+Name: Canon PowerShot SX120 IS
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 36 – 360 mm (10×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx120is
+ReviewData:
+    ExecutiveSummary: The Canon super-zoom PowerShot SX120 IS was launched in August 2009 as the successor to the SX110 IS. It features the same 10x zoom lens (36-300mm equiv.) and 3 inch LCD of its predecessor, but has seen the resolution increase to 10MP. The rest of the features are similar to the the SX110 IS including P/A/S/M shooting modes but with faster Face Detection that can detect up to 35 faces. Despite the lack of a real wide-angle and the usual image quality issues at higher ISOs in this class the SX120 IS is a great choice for anyone on a budget wanting a well-specified camera with full photographic control and a big zoom range.
+    ProductPhotos:
+        - /files/p/products/canon_sx120is/shots/ef684ccdc22245a6ac7dcf495c8423b8.png
+        - /files/p/products/canon_sx120is/shots/477b7749421e4fa9967d486bda1ac821.png
+        - /files/p/products/canon_sx120is/shots/d82c50ffd29949ee9de53a40c1dc0d3a.png
+        - /files/p/products/canon_sx120is/shots/0524827e4cf14db98acab7e8f95c2819.png
+    ReviewSummary: null
+    ASIN:
+        - B002LITT3S
+Specs:
+    Announced: Aug 19, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 2 x AA batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 111 x 71 x 45 mm (4.37 x 2.8 x 1.77″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Fill-in
+    FlashRange: 3.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 36–360 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–4.3
+    MaximumShutterSpeed: 1/2500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2048, 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480, 3456 x 1944
+    Processor: Digic 4
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps), 160 x 120 (15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 128 MB SD card
+    StorageTypes: SD, SDHC, MMC, MMCplus, HC MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 285 g (0.63 lb / 10.05 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

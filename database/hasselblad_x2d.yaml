@@ -1,0 +1,119 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20221005145206/https://www.dpreview.com/videos/1700583308/dpreview-tv-hasselblad-x2d-100c-review
+ProductCode: hasselblad_x2d
+Award: ""
+ImageURL: /files/p/products/hasselblad_x2d/8305a0054b5b49559433c78b0e1f9357.png
+Name: Hasselblad X2D 100c
+ShortSpecs:
+    - 100 megapixels
+    - 3.6″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/hasselblad/slrs/hasselblad_x2d
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/hasselblad_x2d/shots/96cd184160614466a382985c0e79bda1.png
+        - /files/p/products/hasselblad_x2d/shots/47100ed099984bc58bf5d058cd1ada71.png
+        - /files/p/products/hasselblad_x2d/shots/8580ab373fc54465956d219cab1657b4.png
+        - /files/p/products/hasselblad_x2d/shots/8ad0cad725034c05b1dc306200d1f7b6.png
+        - /files/p/products/hasselblad_x2d/shots/985e464e8aeb4d7797dee62ba7cc347b.png
+    ReviewSummary: null
+    ASIN:
+        - B09PQCTC29
+        - B082HDYR35
+        - B08TZRRCQX
+Specs:
+    Announced: Sep 7, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+    Battery: Battery Pack
+    BatteryDescription: USB-C PD (up to 30W)
+    BatteryLifeCIPA: "420"
+    BodyMaterial: Machined Aluminum
+    BodyType: SLR-style mirrorless
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 149 x 106 x 75 mm (5.85 x 4.17 x 2.93″)
+    Durability: ""
+    EffectivePixels: 100 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - 3FR Raw, JPEG
+    FlashModes: TTL center weighted system, compatible with Nikon System Flashes
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 0.79×
+    Format: ""
+    GPS: ""
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: ""
+    LensMount: Hasselblad X
+    LiveView: ""
+    MSRP: $8,199
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 11656 x 8742
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/6000 sec
+    MeteringModes:
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 68 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "294"
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Oct 5, 2022"
+    ScreenDots: ""
+    ScreenSize: 3.6″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 1TB
+    StorageTypes: CFexpress Type B
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: Yes (TFT)
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: Yes (30W, USB-C PD)
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.79× (1× 35mm equiv.)
+    ViewfinderResolution: "6"
+    ViewfinderType: Electronic
+    WeightIncBatteries: 895 g (1.97 lb / 31.57 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/a/g/n/ac/ax, Wi-Fi with 2×2 MIMO

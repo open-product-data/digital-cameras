@@ -1,0 +1,125 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220131083648/https://www.dpreview.com/reviews/sonynex7
+ProductCode: sony_nex7
+Award: gold
+ImageURL: /files/p/products/sony_nex7/acb6c705192b49ada6f3f7e07d06f814.png
+Name: Sony Alpha NEX-7
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 81
+URL: /products/sony/slrs/sony_nex7
+ReviewData:
+    ExecutiveSummary: The Sony NEX-7 is an enthusiast-oriented mirrorless interchangeable lens camera that manages to squeeze vast amounts of the SLT-A77's capabilities into a body barely bigger than the lower-end NEX models. It packs a 24MP APS-C CMOS sensor and 2.4M dot OLED electronic viewfinder into its magnesium alloy body and yet still finds room for a pop-up flash and hot shoe.
+    ProductPhotos:
+        - /files/p/products/sony_nex7/shots/34c8be3f87f74c88902b96f2f3085ae9.png
+        - /files/p/products/sony_nex7/shots/f7ce18b081814662b0977e79b2f497d2.png
+        - /files/p/products/sony_nex7/shots/7347d0c86fde461d8d74318d24c443b4.png
+    ReviewSummary:
+        GoodFor: Enthusiasts looking for a small-bodied camera with exceptional image quality for both stills and video
+        NotSoGoodFor: Less-experienced users, or anyone looking to build an extensive system around the camera
+        Conclusion: The NEX-7 packs an awful lot of features into its small body, including an excellent 24 MP APS-C sensor and large high-resolution electronic viewfinder. Its three-dial interface and extensive customizability makes for excellent handling, although its default setup leaves something to be desired. The biggest drawback (at launch) is the relatively undeveloped system, and lack of top-quality E-mount lenses to get the most out of it.
+    ASIN:
+        - B005IKZU8O
+        - B005IHAIEI
+Specs:
+    AEBracketing: (at 1/3 EV steps)
+    Announced: Aug 24, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FW50 rechargeable battery & charger
+    BatteryLifeCIPA: "430"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 120 x 67 x 43 mm (4.72 x 2.64 x 1.69″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Fill-in, Wireless
+    FlashRange: 6.00 m
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 16000
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: ""
+    OtherResolutions: 6000 x 3376, 4240 x 2832, 4240 x 2400, 3008 x 2000, 3008 x 1688
+    Processor: Bionz
+    RemoteControl: Yes (InfraRed (optional))
+    Resolutions: 1920 x 1080 (60, 24 fps), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "81%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 14, 2011"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, 10sec (3 or 5 images))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.09× (0.73× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 400 g (0.88 lb / 14.11 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

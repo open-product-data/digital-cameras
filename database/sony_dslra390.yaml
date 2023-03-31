@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211029100141/https://www.dpreview.com/reviews/sonydslra390
+ProductCode: sony_dslra390
+Award: noAward
+ImageURL: /files/p/products/sony_dslra390/1835d7e45fca4fbf8a005b35b251aa97.png
+Name: Sony Alpha DSLR-A390
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 60
+URL: /products/sony/slrs/sony_dslra390
+ReviewData:
+    ExecutiveSummary: The DSLR-A390 is the successor to the A380 and only a relatively minor update. Like its predecessor it comes with a 14.2 MP sensor, live view and a swivel-screen but it has also got a new hand grip which makes it a much more comfortable camera to handle. However, as far as its performance and image quality are concerned, the A390 is an exact match for its predecessor, which is to say that it was fairly respectable two years ago but now sits towards the bottom end of its large group of competitors. This is especially true for the high ISO performance where the A390 is roundly outperformed by competitive cameras such as the Canon EOS 550D.
+    ProductPhotos:
+        - /files/p/products/sony_dslra390/shots/8545d2f00b424dc9b0ffa111a8e45ee0.png
+        - /files/p/products/sony_dslra390/shots/f816f52e714947aa87fc8ba7d18d52c6.png
+        - /files/p/products/sony_dslra390/shots/5efc6424251f4c66b6277094e936b16a.png
+        - /files/p/products/sony_dslra390/shots/63c881fb261146adb95f762fc02189c0.png
+        - /files/p/products/sony_dslra390/shots/4ec8665380a546a7b66fbf03f2901323.png
+        - /files/p/products/sony_dslra390/shots/91e0db2ac5ab4bbabfaab1033c7eabee.png
+        - /files/p/products/sony_dslra390/shots/dc14379fcd6c4769ab083f743c87e401.png
+        - /files/p/products/sony_dslra390/shots/31ea0e533a164ae08fe89da21ba6d416.png
+    ReviewSummary:
+        GoodFor: Existing Sony Alpha users that want a second body, fast AF in live view mode and don't need to shoot in low light or make large prints.
+        NotSoGoodFor: Fast action, low light shooting, and any situation requiring the optical viewfinder.
+        Conclusion: The Sony Alpha 390 isn't a bad camera, but there are so many better options on the market that it is hard to recommend. Ultimately, so little has changed, compared to its predecessor, that its specifications and performance now look very out of date. The A390 has some cool tricks up its sleeve in the form of SteadyShot INSIDE and DR+, but they aren't enough to make it stand out from its DSLR and mirrorless competitors.
+    ASIN:
+        - B003TQN2VG
+Specs:
+    AEBracketing: ""
+    Announced: Jun 9, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FH50 rechargeable battery & charger
+    BatteryLifeCIPA: "230"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 128 x 97 x 86 mm (5.04 x 3.82 x 3.39″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear Curtain, Wireless
+    FlashRange: 10.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2576, 3408 x 2272, 3408 x 1920, 2288 x 1520, 2288 x 1280
+    Processor: Bionz
+    RemoteControl: Yes (Optional)
+    Resolutions: ""
+    ReviewPreview: "60%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 28, 2010"
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/ SDHC, Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.74× (0.49× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 549 g (1.21 lb / 19.37 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

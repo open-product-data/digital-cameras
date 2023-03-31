@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210901170915/https://www.dpreview.com/reviews/2017-roundup-interchangeable-lens-cameras-around-500
+ProductCode: fujifilm_xa10
+Award: ""
+ImageURL: /files/p/products/fujifilm_xa10/1e722b8cde1d469898d6a028e7526b23.png
+Name: Fujifilm X-A10
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_xa10
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-A2 compact system camera (CSC) is an ultra-light, selfie-ready camera that gives users quick access to a 180° tilting LCD with face and eye detection for fast and fun pictures. The X-A10 is an affordable entry point into the X-Series line of digital cameras and delivers outstanding image quality using its large 16.3 Megapixel APS-C CMOS sensor, easy operation and wireless image transfer for quick photo sharing. It's also capable of recording 1080/30p video and creating 360-degree panoramas.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xa10/shots/fa50514f4a604631a1dc9f9ed64a4689.png
+        - /files/p/products/fujifilm_xa10/shots/4e57216532354a3190be11fb770e9c57.png
+        - /files/p/products/fujifilm_xa10/shots/c0e3850d86f0454aae3ba33a055de512.png
+        - /files/p/products/fujifilm_xa10/shots/3791596eb54d4b9081d6cd1e48679594.png
+        - /files/p/products/fujifilm_xa10/shots/8bc643e599614f598ff7d9b9f9bbedea.png
+        - /files/p/products/fujifilm_xa10/shots/2a234ce46f08469cb3f770823c726677.png
+        - /files/p/products/fujifilm_xa10/shots/abc84038100f482293ee9acf942647be.png
+        - /files/p/products/fujifilm_xa10/shots/fef34f68d350419a967f6b86ed7ace33.png
+    ReviewSummary: null
+    ASIN:
+        - B09DTHG54V
+        - B08TLRKRKK
+        - B08KYH5Q24
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Dec 1, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 117 x 67 x 40 mm (4.61 x 2.64 x 1.57″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3)
+        - RAW (RAF format)
+    FlashModes: Auto, flash on, flash off, slow synchro, rear-curtain synchro, commander
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expandable to 100-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $499 (with 16-50mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 30p / 38 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 19 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "49"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3456 x 2304, 2496 x 1664), 16:9 (4896 x 2760, 3456 x 1944, 2496 x 1408), 1:1 (3264 x 3264, 2304 x 2304, 1664 x 1664)
+    Processor: ""
+    RemoteControl: Yes (Wired or via smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        May 12, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: 180-degree upward-tilting TFT LCD
+    SelfTimer: Yes (2 or 10 secs, smile, buddy, group)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 331 g (0.73 lb / 11.68 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

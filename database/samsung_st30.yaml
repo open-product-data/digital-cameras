@@ -1,0 +1,86 @@
+ProductCode: samsung_st30
+Award: ""
+ImageURL: /files/p/products/samsung_st30/40636ab0879347b191eafa0724be29db.png
+Name: Samsung ST30
+ShortSpecs:
+    - 10 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st30
+ReviewData:
+    ExecutiveSummary: Samsung ST30 ultra-compact is a 10.1MP camera offering 3x zoom starting at a usefully wide 28mm equivalent focal length. The camera is, the company says, around the size of an average mobile phone, giving a good idea of who the camera is aimed at. It has all the standard features such as Smart Auto mode and Perfect Portrait mode you'd expect in the budget sector.
+    ProductPhotos:
+        - /files/p/products/samsung_st30/shots/68407d7f15a046d1982aa79736172db7.png
+        - /files/p/products/samsung_st30/shots/48a57509c9a342049772a26a5a48f8b3.png
+        - /files/p/products/samsung_st30/shots/08e56609b7f54de3af6ca1ac9470ad02.png
+    ReviewSummary: null
+    ASIN:
+        - B004XZ6FDE
+Specs:
+    Announced: Jan 19, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 82 x 52 x 17 mm (3.23 x 2.05 x 0.67″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 87 g (0.19 lb / 3.07 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""

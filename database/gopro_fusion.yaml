@@ -1,0 +1,116 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211202134742/https://www.dpreview.com/reviews/review-the-gopro-fusion-is-a-different-kind-of-action-camera
+ProductCode: gopro_fusion
+Award: ""
+ImageURL: /files/p/products/gopro_fusion/b14e2af64c164959b8927230f71c460d.png
+Name: GoPro Fusion
+ShortSpecs:
+    - 9 megapixels
+    - 2 lens(es)
+    - Compact sensor
+ReviewScore: 0
+URL: /products/gopro/actioncams/gopro_fusion
+ReviewData:
+    ExecutiveSummary: The GoPro Fusion is a spherical action camera that can capture video at up to 5.2K/30p or 3K/60p. Since it "over-captures" you can turn spherical content into traditional stills and videos. The Fusion can also take 18MP stills, even at 30 fps. GoPro says that its advanced image stabilization system is "gimbal-like". It's waterproof to 5m/16 ft and has 4 microphones, with support for voice control. Wi-Fi, Bluetooth and GPS are also built in. The Fusion requires two MicroSD cards rated at Speed Class 10 or UHS-II/III.
+    ProductPhotos:
+        - /files/p/products/gopro_fusion/shots/82106ed3f8e142469f26f881a12cb003.png
+        - /files/p/products/gopro_fusion/shots/8b1e1d3b617449c094cc8aebb5554892.png
+    ReviewSummary: null
+    ASIN:
+        - B0792MJLNM
+Specs:
+    AEBracketing: ""
+    Announced: Apr 20, 2017
+    AperturePriority: ""
+    ArticulatedLCD: "No"
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 74 x 75 x 40 mm (2.91 x 2.95 x 1.57″)
+    DriveModes: ""
+    Durability: Waterproof
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: 360.00°
+    FileFormat:
+        - JPEG
+        - Raw (GPR)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: "16:9"
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: ""
+    MSRP: $699
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Multiple
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 5228 x 2624 @ 30p, MP4, H.264, AAC
+        - 3000 x 1504 @ 60p, MP4, H.264, AAC
+    NumberOfFocusPoints: ""
+    NumberOfLenses: "2"
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 15, 2018"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: None
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: ""
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 220 g (0.49 lb / 7.76 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi + Bluetooth

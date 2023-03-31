@@ -1,0 +1,152 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220526150014/https://www.dpreview.com/reviews/canon-eos-m50
+ProductCode: canon_eosm50
+Award: silver
+ImageURL: /files/p/products/canon_eosm50/6382bc0af2d04ea29119a5fc1d44d58a.png
+Name: Canon EOS M50 (EOS Kiss M)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eosm50
+ReviewData:
+    ExecutiveSummary: The Canon EOS M50 is a midrange mirrorless camera with a 24MP APS-C CMOS sensor, DIGIC 8 processor and Dual Pixel AF. With select lenses it offers Dual Pixel coverage of 88% x 100% and 143 AF points, with other lenses offering 80% x 80% coverage and 99 AF points. The M50 is the first Canon camera to use the CR3 Raw format, allowing for up to 50% smaller file sizes. The M50 is capable of taking burst at 7.4 fps with continuous autofocus for up to 10 Raw or 47 JPEGs.The M50 has a fully articulating 3" touchscreen LCD with 1.04 million dots as well as an OLED electronic viewfinder with 2.36M dots. It can record 4K UHD video at 30p, albeit with a substantial crop and no Dual Pixel AF. Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eosm50/shots/7622cd0aab5f4d2bb53ef281b5ed2a00.png
+        - /files/p/products/canon_eosm50/shots/e96d4dec07a34a7795818c147a609ed3.png
+        - /files/p/products/canon_eosm50/shots/cd0d6596d7094f2694ab5d21e3b79f21.png
+        - /files/p/products/canon_eosm50/shots/9d016d6ed10e478fa206a85840617027.png
+        - /files/p/products/canon_eosm50/shots/7a86d3c4abd1458c95f0cee17e2cb993.png
+    ReviewSummary:
+        GoodFor: People on the go who want something compact, with good connectivity and an accessible interface.
+        NotSoGoodFor: Anyone interested in 4K video capture. Those without easy access to a power outlet and don't want to carry a pocket full of batteries.
+        Conclusion: As a stills camera, the EOS M50 is a solid choice for photographers who want something more advanced than an entry-level camera, without going overboard. Its image quality, improved AF system and wireless connectivity are all impressive, and the new C-Raw format is a nice bonus. If 4K video is what you're after, the M50 is not the camera for you due to its high crop factor, rolling shutter and mediocre AF performance.
+    ASIN:
+        - B079Y6T7T6
+        - B079Y45KTJ
+        - B079YCW48M
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Feb 26, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Built-in
+    BatteryDescription: LP-E12 lithium-ion battery & charger
+    BatteryLifeCIPA: "235"
+    BodyMaterial: Composite
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $799.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 116 x 88 x 59 mm (4.57 x 3.46 x 2.32″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3 14-bit)
+    FlashModes: ""
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (expands to 51200)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Canon EF-M
+    LiveView: "Yes"
+    MSRP: $779 (body only), $899 (w/15-45mm lens), $1249 (w/15-45 and 55-200mm lenses)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 120p / 52 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 60p / 26 Mbps, MOV, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "143"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 8
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "79%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 11, 2018"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC slot (UHS-I compatible)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 390 g (0.86 lb / 13.76 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

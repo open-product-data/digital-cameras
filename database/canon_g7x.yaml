@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210801191019/https://www.dpreview.com/reviews/canon-powershot-g7-x
+ProductCode: canon_g7x
+Award: silver
+ImageURL: /files/p/products/canon_g7x/3583de09ef0e493a9f4a9a1316d257e3.png
+Name: Canon PowerShot G7 X
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 100 mm (4.2×)
+ReviewScore: 77
+URL: /products/canon/compacts/canon_g7x
+ReviewData:
+    ExecutiveSummary: The PowerShot G7 X is the company's first compact camera with a 1"-type sensor. This 20.2MP BSI-CMOS sensor is paired with Canon's latest DIGIC 6 image processor, and offers an ISO range of 125-12800. The lens has a fast maximum aperture range of F1.8-2.8 and equivalent focal range of 24-100mm. It has a 9-blade curved aperture diagram as well as an ND filter. The G7 X has a compact metal body with a control dial around the lens, a dedicated exposure comp dial on the top, and the usual rear dial on the rear. The 3" touchscreen LCD can be flipped up by 180 degrees, perfect for self-portraits.The 'high speed' autofocus system features 31 points which, combined with the image processor, allows for 6.5 fps continuous shooting. Video can be recorded at 1080/60p with manual controls.  The G7 X also has built-in Wi-Fi, which allows for photo and video sharing via Canon's Image Gateway service.
+    ProductPhotos:
+        - /files/p/products/canon_g7x/shots/43a118361cef4e508a19c7937ff34a0e.png
+        - /files/p/products/canon_g7x/shots/1ce9abd944144f84a1ab53a764bf0058.png
+        - /files/p/products/canon_g7x/shots/a7baef9f721b4e6e97b9123ea41e612e.png
+        - /files/p/products/canon_g7x/shots/53e04d48ca5f4ada9950482f369e082d.png
+        - /files/p/products/canon_g7x/shots/95891d9c06434ee584c6215bd3dcd6a5.png
+    ReviewSummary:
+        GoodFor: Those seeking big sensor photo quality in your pocket. On-the-go portrait photographers. Self-portrait enthusiasts.
+        NotSoGoodFor: Those who don't want to carry around  extra batteries. Raw shooters. Video enthusiasts.
+        Conclusion: With a time-tested 1" BSI-CMOS sensor and an impressive 24-100mm F1.8-2.8 lens, the PowerShot G7 X produces excellent quality photos. Although the ergonomics won't suit everyone and battery life isn't as good as some competitors, the G7X is well suited to low light and portrait photos, and its touchscreen display is handy for self-portraits and video.
+    ASIN:
+        - B00NEWYE12
+        - B00UB7HUKA
+Specs:
+    AEBracketing: ""
+    Announced: Sep 15, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $699.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 6.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 103 x 60 x 40 mm (4.06 x 2.36 x 1.57″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Hybrid Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+        - Movie
+        - Creative Filters
+        - Scene
+        - Creative Shot
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3)
+        - Raw (Canon CR2, 12-bit)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 7.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–100 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Saturation
+        - Red/Green/Blue
+        - Skin tone
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $699
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 40 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "31"
+    OpticalZoom: 4.2×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 4864 x 3648, 4320 x 2880, 4320 x 2432, 3840 x 2880, 2304 x 1536, 2048 x 1536, 1920 x 1080, 720 x 480, 720 x 408, 640 x 480
+    Processor: DIGIC 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 11, 2014"
+    SceneModes:
+        - Portrait
+        - Smart Shutte
+        - Star
+        - Handheld Night Scene
+        - Underwater
+        - Snow
+        - Fireworks
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 0r 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (star time-lapse)
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Also has star time-lapse. miniature effect, and digest modes
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 304 g (0.67 lb / 10.72 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: image sharing via Canon Image Gateway

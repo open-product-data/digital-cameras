@@ -1,0 +1,132 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220118142637/https://www.dpreview.com/reviews/panasonicdmcg2/
+ProductCode: panasonic_dmcg2
+Award: silver
+ImageURL: /files/p/products/panasonic_dmcg2/c0fbdd4c4eb44965baa3c2e85ec95d45.png
+Name: Panasonic Lumix DMC-G2
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 72
+URL: /products/panasonic/slrs/panasonic_dmcg2
+ReviewData:
+    ExecutiveSummary: Panasonic's replacement for its original DMC-G1 that kick-started the compact interchangeble lens sector. It retains the same 12.1MP Live MOS sensor but gains an updated Venus Engine HD II processor capable of 720i60 (50 in PAL countries) video recording in the AVCHD Lite format. It also gains greater external control of AF modes, a dedicated button for jumping straight to the iAuto point-and-shoot mode and well-implemented touch-screen controls. Its high-res viewfinder makes the G2 a compelling alternative to an entry-level DSLR.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcg2/shots/04c3418689554a85a636d602e273eec1.png
+        - /files/p/products/panasonic_dmcg2/shots/b8878297162641bdadef8a64c2c69f3f.png
+        - /files/p/products/panasonic_dmcg2/shots/c9e6c38153c446b09c675977d55b30b2.png
+        - /files/p/products/panasonic_dmcg2/shots/7a5e01ddc2e54467946781f4a7871421.png
+        - /files/p/products/panasonic_dmcg2/shots/f81b8e8cd1824db5967e67768cdfe9da.png
+        - /files/p/products/panasonic_dmcg2/shots/c63484337187485d83177cd3832134cd.png
+        - /files/p/products/panasonic_dmcg2/shots/c6e9ec5ecd3246e4a0685d6c1e98bd42.png
+    ReviewSummary:
+        GoodFor: Anyone wanting SLR quality and compact camera ease of use. An easy to carry 'walkaround' camera.
+        NotSoGoodFor: Low light / high ISO work, sports action
+        Conclusion: The G2 is very much the camera the G1 should have been. The addition of a decent HD movie mode, some cool touchscreen features and minor enhancements throughout turn an already good camera into a great one. Image quality is excellent (especially at lower ISOs and when shooting raw), handling superb, and responsiveness impressive. A fun, functional, and friendly alternative to a traditional SLR, the G2 packs a powerful photographic punch too.
+    ASIN:
+        - B003AOAXKK
+        - B003AOAXL4
+        - B003AOAXLE
+Specs:
+    AEBracketing: ±2 (3, 5, 7 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Mar 7, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.6 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 124 x 84 x 74 mm (4.88 x 3.31 x 2.91″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 11.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: AVCHD Lite, Motion JPEG
+    GPS: None
+    HDMI: Yes (Mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, Intelligent ISO, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 3000,4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1504 x 1504
+    Processor: Venus Engine HD II
+    RemoteControl: Yes (Optional DMW-RSL1)
+    Resolutions: 1280 x 720 (30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "72%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 12, 2010"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.1× (0.55× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 428 g (0.94 lb / 15.10 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

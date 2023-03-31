@@ -1,0 +1,85 @@
+ProductCode: samsung_st93
+Award: ""
+ImageURL: /files/p/products/samsung_st93/1117eb06e1b7419287abb465216fa7f2.png
+Name: Samsung ST93
+ShortSpecs:
+    - 16 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st93
+ReviewData:
+    ExecutiveSummary: The Samsung ST90 is a 16MP stylish compact featuring 5x optical zoom lens starting at 26mm. Its features include 720p HD video recording, a Panorama mode, the company's latest Smart filters and Magic Frame templates.
+    ProductPhotos:
+        - /files/p/products/samsung_st93/shots/ff629a310aa240c2a808570d0bfe7a3d.png
+        - /files/p/products/samsung_st93/shots/ffab8a2510004bfc88da04242097df17.png
+        - /files/p/products/samsung_st93/shots/95d6549497344dfea4d841342ebf7fa2.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Apr 20, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 92 x 53 x 17 mm (3.62 x 2.09 x 0.67″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

@@ -1,0 +1,124 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211109221024/https://www.dpreview.com/reviews/nikond90
+ProductCode: nikon_d90
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d90/571c57891906402a8bfa5b2c4442f3a4.png
+Name: Nikon D90
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d90
+ReviewData:
+    ExecutiveSummary: The first DSLR capable of shooting HD movies (720p at 24fps), the D90 was Nikon's core enthusiast-level offering until the arrival of the D7000. It is built around a 12MP sensor very closely related to that used in the D300S, and - one of several features to 'trickle down' from higher models - it also offers the same highly acclaimed 3.0-inch VGA screen as the D3/D300. Naturally it has Live View with contrast-detect AF and in-camera dust removal. A lot of the D90's core photographic spec is the same as or very similar to the D80, though there is a new shutter and an implementation of the 3D tracking AF seen on the D3/D300. The early talk about the D90 was all about its video capability and indeed it does record HD videos - good ones by digital stills camera standards. But don't let that distract you, this is a camera which lets nothing get in the way of taking photos. Its degree of configurability results in long menus but they're generally well arranged and color-coded to minimize the likelihood you getting lost in them. There's also the option to create a menu of your most used settings (or list the most recently used ones, if you don't want to spend time setting it up), and a status screen that gives fairly fast access to those key parameters that don't have their own buttons. The image quality, whether at base ISO or the higher settings, is excellent even if it can need a bit of tweaking of the internal settings to tailor the output to specific needs.
+    ProductPhotos:
+        - /files/p/products/nikon_d90/shots/043e53ec44fe45f7a297e4fb1c532b39.png
+        - /files/p/products/nikon_d90/shots/a899d78fbfb04f8dbdab6bf41f05991d.png
+        - /files/p/products/nikon_d90/shots/21dfaa2a55fa49dc901f24ff45d56d43.png
+    ReviewSummary: null
+    ASIN:
+        - B001ET5U92
+        - B005MX9PCO
+Specs:
+    AEBracketing: (2, 3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Aug 27, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL3e rechargeable battery & charger
+    BatteryLifeCIPA: "850"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 132 x 103 x 77 mm (5.2 x 4.06 x 3.03″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Front curtain, Rear curtain, Red-Eye, Slow Sync
+    FlashRange: 17.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: Motion JPEG
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: "No"
+    ISO: Auto, 200 - 3200 (plus 6400 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 2848
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3216 x 2136, 2144 x 1424
+    Processor: ""
+    RemoteControl: Yes (Optional ML-L3 or MC-DC2)
+    Resolutions: 1280 x 720 (24 fps), 640 x 424 (24 fps), 320 x 216 (24 fps)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Oct 13, 2008"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: Super Density TFT color LCD with wide-viewing angle
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.96× (0.64× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2 or 3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 703 g (1.55 lb / 24.80 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

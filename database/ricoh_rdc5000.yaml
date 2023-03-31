@@ -1,0 +1,102 @@
+ProductCode: ricoh_rdc5000
+Award: ""
+ImageURL: /files/p/products/ricoh_rdc5000/3c030989ef12439da3a3c005f5205ee4.png
+Name: Ricoh RDC-5000
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 38 – 86 mm (2.3×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_rdc5000
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Feb 18, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2.5 x)
+    Dimensions: 131 x 68 x 40 mm (5.16 x 2.68 x 1.57″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: ""
+    FocalLengthEquiv: 38–86 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: "100"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Economy, Normal, Fine
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 4 cm (1.57″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1792 x 1200
+    MaximumAperture: F2.8–3.2
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 2.3×
+    OrientationSensor: "No"
+    OtherResolutions: 896 x 600
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 110,000
+    ScreenSize: 1.8″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB Internal
+    StorageTypes: SmartMedia, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes ((30 secs - 3 hours))
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 340 g (0.75 lb / 11.99 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

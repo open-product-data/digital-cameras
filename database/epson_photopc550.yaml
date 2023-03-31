@@ -1,0 +1,79 @@
+ProductCode: epson_photopc550
+Award: ""
+ImageURL: /files/p/products/epson_photopc550/74a8fc6199364947b351a4ffae540310.png
+Name: Epson PhotoPC 550
+ShortSpecs:
+    - 0 megapixels
+    - 43 mm
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopc550
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Nov 26, 1997
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 107 x 67 x 37 mm (4.21 x 2.64 x 1.46″)
+    EffectivePixels: 0 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: None
+    FlashRange: ""
+    FocalLengthEquiv: 43 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Economy
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 640 x 480
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 320 x 240
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 0 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 1 MB Internal
+    StorageTypes: Internal memor+ SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 170 g (0.37 lb / 6.00 oz)
+    WhiteBalancePresets: ""

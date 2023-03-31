@@ -1,0 +1,113 @@
+ProductCode: pentax_optio230
+Award: ""
+ImageURL: /files/p/products/pentax_optio230/91fdfa0f369049d495a738e065483012.png
+Name: Pentax Optio 230
+ShortSpecs:
+    - 2 megapixels
+    - 1.6″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optio230
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000067BI8
+Specs:
+    AEBracketing: ""
+    Announced: Feb 23, 2002
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2.5 x)
+    Dimensions: 104 x 64 x 42 mm (4.09 x 2.52 x 1.65″)
+    DriveModes: ""
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye reduction, Slow Sync
+    FlashRange: 2.70 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 38–114 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: ""
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.6–5
+    MaximumShutterSpeed: 1/1500 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 30 sec, 320 x 240
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash Type I
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 230 g (0.51 lb / 8.11 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

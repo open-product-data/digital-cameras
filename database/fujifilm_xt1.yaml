@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220518041745/https://www.dpreview.com/reviews/fujifilm-x-t1
+ProductCode: fujifilm_xt1
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt1/2e289c17ca3d4329a008f8e356cfa3a6.png
+Name: Fujifilm X-T1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/fujifilm/slrs/fujifilm_xt1
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T1 is the manufacturer's first weather-resistant interchangeable X-series camera. It is built around a 16.3 MP APS-C X-Trans CMOS II sensor housed in a die-cast magnesium body with more than 75 points of weather sealing and freeze resistance to -10C/+14°F. Fujifilm will be releasing a series of weather-resistant zoom lenses to complement the X-T1 in 2014, including the XF 18-135mmF3.5-5.6 R OIS WR, XF 16-55mmF2.8 R OIS WR and the XF 50-140mmF2.8 R OIS WR. The X-T1 has a traditional design with five mechanical top plate dials, two command dials, and six programmable function buttons that allow the photographer to rely less on the LCD while adjusting settings. It also has high resolution OLED viewfinder that provides 100% coverage, digital split image manual focus, and a new user interface providing four display modes adjusted for different shooting situations.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt1/shots/7723b6de20d14ec0bfb3e6e3c7586404.png
+        - /files/p/products/fujifilm_xt1/shots/64787e679b6145da97037e1e175ddc98.png
+        - /files/p/products/fujifilm_xt1/shots/0d50460b881044edbcd3b85acc0746ff.png
+        - /files/p/products/fujifilm_xt1/shots/85404f1266f9428faabc19e0bc35519d.png
+    ReviewSummary:
+        GoodFor: Enthusiast photographers looking for a highly capable system camera that's more portable than an SLR setup
+        NotSoGoodFor: Videography, or action photography in fast-changing lighting situations
+        Conclusion: The X-T1 is probably Fujifilm's best camera to date, offering a compelling combination of intuitive handling, excellent image quality, and one of best electronic viewfinders we've seen. It also features one of the most impressive autofocus systems on any camera at this price level, both in terms of accuracy with fast lenses and tracking moving subjects. Over all it's a hugely engaging and capable camera, and one that's fundamentally a joy to use.
+    ASIN:
+        - B00NF6ZGSM
+        - B00MYZLTZ4
+        - B00HYAL88W
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 28, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: AF assist illuminator available
+    Battery: Battery Pack
+    BatteryDescription: NP-W126
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (External flash EF-X8 included)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans II CMOS with  primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 129 x 90 x 47 mm (5.08 x 3.54 x 1.85″)
+    DriveModes:
+        - Single
+        - Continuous High
+        - Continuous Low
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+        - Shutter Speed priority AE
+        - Aperture priority AE
+        - Manual exposure
+    ExternalFlash: Yes (via hot shoe or built-in flash)
+    FieldOfView: ""
+    FileFormat: ""
+    FlashModes: Auto, Forced Flash, Slow Synchro, Suppressed Flash, Rear-curtain Synchro, Commander
+    FlashRange: 8.00 m (ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: ""
+    ISO: 200-6400 (RAW), 100-51200 (JPEG)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Large, Medium, Small
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1299.95 / £1049.99 / €1199 (body only), $1699.95 / £1399.99 / €1599 (with XF 18-55mm F2.8-4 OIS lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (MF Distance Indicator)
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: EXR Processor II
+    RemoteControl: Yes (RR-90 remote release (not included))
+    Resolutions: 1920 x 1080 (30, 60p), 1280 x 720 (30p, 60p)
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 14, 2014"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD (RGBW)
+    SelfTimer: Yes (10sec. / 2sec. Delay)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD / SDHC / SDXC (UHS-II)
+    SubjectSceneModes: ""
+    TimelapseRecording: 'Yes (Setting: Interval, Number of shots, Starting time)'
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.16× (0.77× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 1 to +/- 3)
+    WeightIncBatteries: 440 g (0.97 lb / 15.52 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: Geotagging / Wireless communication (Image transfer) / View & Obtain Images / Remote camera shooting / PC Autosave

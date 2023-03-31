@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210917141811/https://www.dpreview.com/reviews/nikond700/
+ProductCode: nikon_d700
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d700/a53c7c767a3a4d9bb08bfe5ce64ae399.png
+Name: Nikon D700
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d700
+ReviewData:
+    ExecutiveSummary: Essentially a D3 shrunk down and squeezed into a body roughly the same size as a D300, the D700 shares the acclaimed 12.1MP full frame ('FX') sensor as the D3 and has the same processing engine, so we would presume output to be almost identical. The main differences (aside from being considerably smaller) are physical; there's a different shutter (good for 150,000 exposures rather than 300,000 on the D3), different viewfinder prism (with 95% coverage) and a slower burst rate. You also lose the rear LCD info panel (there's no room for it) and one of the D3's two CF card slots, but you do get a couple of extra features to soften the blow slightly; most notably a self-cleaning sensor and a built-in flash. Unsurprisingly the D700 produces excellent output that is very similar to the D3’s. The D700 offers an enormous, almost five stop RAW headroom that allows you to even pull back highlight detail that has been blown out beyond recognition. The D700's most obvious strength though is its high ISO performance. It's the combination of the huge photosites on the full frame sensor and Nikon’s very sensible approach to noise reduction (heavy-handed on chroma noise and much more lenient on luminance noise) that lets you (within limits) take usable pictures up to a sensitivity of ISO 12800.
+    ProductPhotos:
+        - /files/p/products/nikon_d700/shots/b6c10fef35a74bc1b9319815e4c4a82e.png
+        - /files/p/products/nikon_d700/shots/780f26d28f0b453eb654d83938e21633.png
+        - /files/p/products/nikon_d700/shots/5921c585175a472db7b89be559d1b77f.png
+    ReviewSummary: null
+    ASIN:
+        - B001BTCSI6?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001BTCSI6
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 1, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL3e rechargeable battery & charger
+    BatteryLifeCIPA: "1000"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: $2,599.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 147 x 123 x 77 mm (5.79 x 4.84 x 3.03″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: 200 - 6400 in 1, 1/2 or 1/3 EV steps (100 - 25600 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4256 x 2832
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3184 x 2120, 2128 x 1416
+    Processor: Expeed
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Oct 7, 2008"
+    SceneModes: ""
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 to 20 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.72×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1074 g (2.37 lb / 37.88 oz)
+    WhiteBalancePresets: "12"
+    Wireless: ""
+    WirelessNotes: ""

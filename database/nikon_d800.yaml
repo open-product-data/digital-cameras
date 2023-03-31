@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202831/https://www.dpreview.com/reviews/nikon-d800-d800e
+ProductCode: nikon_d800
+Award: gold
+ImageURL: /files/p/products/nikon_d800/77e8e922c8d44f06b4dfb081453d56a7.png
+Name: Nikon D800
+ShortSpecs:
+    - 36 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 82
+URL: /products/nikon/slrs/nikon_d800
+ReviewData:
+    ExecutiveSummary: When the Nikon D800 was announced, the specification that got everyone's attention was - and to a large degree still is - the massive pixel count of its 36.3MP CMOS sensor. When a moderately-sized full-frame DSLR body aspires to go toe-to-toe with medium format cameras and backs at a fraction of their price, other attributes can seem secondary, but 3, 1/2 years since Nikon released the D700 Nikon has updated much more than just the resolution. The D800 has a significantly more advanced feature set than its predecessor, particularly in terms of its video capabilities that make it, on paper at least, a viable and tempting option for professionals.Nikon users coming from the D700 will feel largely at home with the D800, but where changes have been made they (usually) have the effect of improving the shooting experience compared to the older model. Of course, the game changer is that you now have 36MP at your disposal, a resolution that was, until the D800 announcement, the sole province of very expensive medium format cameras/backs. The D800 does indeed offer a level of fine detail that ranks it among the best performers we've subjected to our studio testing.
+    ProductPhotos:
+        - /files/p/products/nikon_d800/shots/024e125b1caa43cba472086c2f26c381.png
+        - /files/p/products/nikon_d800/shots/0b6089a048964077873c4b202e1282f4.png
+        - /files/p/products/nikon_d800/shots/41ec460306fe4a57aedff074554986b6.png
+        - /files/p/products/nikon_d800/shots/97d1b777e4aa41baa4bf9851fe8e308d.png
+    ReviewSummary:
+        GoodFor: Photographers who regularly shoot low-light settings that demand high ISO performance. Those who need very high resolution to make large prints. Videographers who can make use of uncompressed video.
+        NotSoGoodFor: Professional sports/action photographers or Nikon users who do not own top of the line lenses.
+        Conclusion: The D800 combines swift operation and well-designed controls with outstanding image quality that is particularly impressive at high ISO settings. Expanded video capabilities hold appeal for those who need to produce both stills and video while on assignment. The camera's 36 MP sensor allows for class-leading resolution in a 35mm format camera... if you're prepared to hold your technique and equipment to the highest standards.
+    ASIN:
+        - B0076AYNXM
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 7, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion  EN-EL15 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 146 x 123 x 82 mm (5.75 x 4.84 x 3.23″)
+    DriveModes:
+        - S (single frame)
+        - CL (continuous low speed)
+        - CH (continuous high speed)
+        - Q (quiet shutter-release)
+        - MUP (mirror up)
+        - Self-timer
+    EffectivePixels: 36 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Programmed auto with flexible program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat:
+        - 'NEF (RAW): 12 or 14 bit, lossless compressed, compressed or uncompressed'
+        - TIFF (RGB)
+        - JPEG
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain, High-speed sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: 100 - 6400 in 1, 1/2 or 1/3 EV steps (50 - 25600 with boost)
+    ImageRatioWh: 5:4, 3:2
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'US: $2999.95 UK: £2599.99 EU: €2829'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7360 x 4912
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6144 x 4912, 6144 x 4080, 5520 x 3680, 4800 x 3200, 4608 x 3680, 4608 x 3056, 3680 x 2456, 3600 x 2400, 3072 x 2456, 3072 x 2040, 2400 x 1600
+    Processor: Expeed 3
+    RemoteControl: Yes (Optional, wired or wireless )
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50, 30, 25 fps), 640 x 424 (24 fps)
+    ReviewPreview: "82%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 11, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT Color LCD with 170 degrees wide-viewing angle
+    SelfTimer: Yes (2 to 20 sec, 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 sec)
+    SensorPhotoDetectors: 37 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I), SD/SDHC/SDXC UHS-I compliant
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2 to 9 frames in steps of 1, 2 or 3)
+    WeightIncBatteries: 1000 g (2.20 lb / 35.27 oz)
+    WhiteBalancePresets: "12"
+    Wireless: ""
+    WirelessNotes: ""

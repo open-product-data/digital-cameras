@@ -1,0 +1,87 @@
+ProductCode: kodak_m590
+Award: ""
+ImageURL: /files/p/products/kodak_m590/4aeee63374a04fd68390a337c0a2b2b6.png
+Name: Kodak M590
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m590
+ReviewData:
+    ExecutiveSummary: The Kodak Easyshare M590 is an M series camera available in purple, red, silver and blue. It comes with a 14MP sensor, 2.7inch LCD and a 5x optical zoom lens. It also includes 720p HD recording, image stabilization and a panorama feature. A Perfect Touch mode enables you to quickly retouch captured images within the camera. Its one-button upload option allows you to upload images easily to YouTube, Facebook, Flickr and Kodak's Gallery site.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B003VTZE4E
+Specs:
+    Announced: Aug 23, 2010
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 97 x 58 x 15 mm (3.82 x 2.28 x 0.59″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: H.264
+    GPS: None
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3242
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

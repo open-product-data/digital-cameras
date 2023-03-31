@@ -1,0 +1,77 @@
+ProductCode: hp_c618
+Award: ""
+ImageURL: /files/p/products/hp_c618/4d7cc64655d54c76b33b4b2508e07677.png
+Name: HP Photosmart C618
+ShortSpecs:
+    - 2 megapixels
+    - 2″ screen
+    - 34 – 108 mm (3.2×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_c618
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004Y5U0
+Specs:
+    Announced: Feb 3, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 128 x 72 x 57 mm (5.04 x 2.83 x 2.24″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: ""
+    FocalLengthEquiv: 34–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "Yes"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.4–4
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3.2×
+    OrientationSensor: "No"
+    OtherResolutions: 800 x 600
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 390 g (0.86 lb / 13.76 oz)
+    WhiteBalancePresets: "5"

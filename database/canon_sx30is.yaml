@@ -1,0 +1,112 @@
+ProductCode: canon_sx30is
+Award: ""
+ImageURL: /files/p/products/canon_sx30is/a431de28485b4d2086ca3df3c3e222c2.png
+Name: Canon PowerShot SX30 IS
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 24 – 840 mm (35×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx30is
+ReviewData:
+    ExecutiveSummary: The Canon PowerShot SX30 IS superzoom digital compact is the successor to the the SX20 IS. Compared to its predecessor, it features a 24-840mm equivalent wide-angle 35x zoom lens (as opposed to the SX20's 28-560mm equiv.), a slightly larger 2.7" articulated LCD and a 14.1Mp sensor. It also includes Ultrasonic (USM) and Voice Coil (VCM) motors for faster and quieter zooming and focusing. The camera offers 720p HD recording, a Miniature effect movie mode, P/A/S/M shooting modes and a Zoom Framing Assist function that helps users quickly toggle between three preset zoomed-out positions at the longer end of the lens for better framing.
+    ProductPhotos:
+        - /files/p/products/canon_sx30is/shots/2f86944083054e96a2474e4c23571c1b.png
+        - /files/p/products/canon_sx30is/shots/34c10c3dd3e14630899833d31be01acc.png
+        - /files/p/products/canon_sx30is/shots/6cf69c6c655c4be4ad84feda7bfbaf7e.png
+        - /files/p/products/canon_sx30is/shots/5fb9bbed493247658470ba68a405d027.png
+        - /files/p/products/canon_sx30is/shots/4ae4616cd4c041059eaf6b87913852a4.png
+        - /files/p/products/canon_sx30is/shots/17e8a79fde4a4dd09da3330226ef386a.png
+    ReviewSummary: null
+    ASIN:
+        - B0041RSPR8
+Specs:
+    Announced: Sep 14, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-7L rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 123 x 92 x 108 mm (4.84 x 3.62 x 4.25″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Fill-in
+    FlashRange: 6.80 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–840 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.7–5.8
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 35×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3744 x 2104, 3072 x 2304, 1600 x 1200, 640 x 480, 320 x 240
+    Processor: Digic 4
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/HC MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 601 g (1.32 lb / 21.20 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected

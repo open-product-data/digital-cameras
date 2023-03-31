@@ -1,0 +1,94 @@
+ProductCode: canon_s95
+Award: silver
+ImageURL: /files/p/products/canon_s95/aa74dfa14ea749e89fc1a0b31471463f.png
+Name: Canon PowerShot S95
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 105 mm (3.8×)
+ReviewScore: 72
+URL: /products/canon/compacts/canon_s95
+ReviewData:
+    ExecutiveSummary: The 10 million-pixel Canon Powershot S95 replaces the S90, which was released in 2009. In complete contrast to the larger boxy G-series, the Powershot S95 retains the S90's svelte, truly pocketable body design that has a lot more in common with the Ixus/Elph cameras. Inside its compact bodyshell, Canon has managed to squeeze a 28-105mm (equivalent) zoom lens, and a bright, high-resolution LCD screen. The S95 features an impressive ISO span for its class, from ISO 80-3200 at full resolution, with both RAW and JPEG recording options.
+    ProductPhotos:
+        - /files/p/products/canon_s95/shots/0b8c7d19ccc340399429dbbb0c403200.png
+        - /files/p/products/canon_s95/shots/e1e3bd146d5248ffa397b46a81382b83.png
+        - /files/p/products/canon_s95/shots/4266c8dba005438787378f6b23f139a5.png
+        - /files/p/products/canon_s95/shots/a9e6bbb6939e4ca9bfda3bff4fab9128.png
+        - /files/p/products/canon_s95/shots/8188dbad91794f52a40ea03222a66f0c.png
+    ReviewSummary: null
+    ASIN:
+        - B003ZSHNGS
+Specs:
+    Announced: Aug 19, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L rechargeable battery & charger
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 58 x 30 mm (3.94 x 2.28 x 1.18″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 28–105 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3.8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2736, 3648 x 2432, 3648 x 2048, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2736 x 2736, 2192 x 2736, 2112 x 2112, 1920 x 1080, 1600 x 1064, 1696 x 2112, 1200 x 1200, 960 x 1200, 640 x 480, 640 x 424, 640 x 360, 480 x 480, 384 x 480, 320 x 240
+    Processor: Digic 4
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (24 fps) 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/HC MMCplus card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: None
+    WeightIncBatteries: 195 g (0.43 lb / 6.88 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected

@@ -1,0 +1,82 @@
+ProductCode: oly_fe280
+Award: ""
+ImageURL: /files/p/products/oly_fe280/d2557d08943b4b73b80bf90e70f83354.png
+Name: Olympus FE-280
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe280
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000UWC5UG
+        - B000VZJ98S
+Specs:
+    Announced: Aug 23, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 92 x 56 x 19 mm (3.62 x 2.2 x 0.75″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off
+    FlashRange: 5.50 m
+    FocalLengthEquiv: 36–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (50 - 800), 50 - 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 640 x 480, 1920 x 1080
+    RemoteControl: "No"
+    Resolutions: 640 x 480 @ 30 fps, 320 x 240 @ 15 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 9 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 48 MB Internal
+    StorageTypes: xD Picture Card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 108 g (0.24 lb / 3.81 oz)
+    WhiteBalancePresets: "6"

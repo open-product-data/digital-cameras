@@ -1,0 +1,125 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211130192557/https://www.dpreview.com/reviews/canoneos500d
+ProductCode: canon_eos500d
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_eos500d/97171bebebe04690bc37cb42621cf3e3.png
+Name: Canon EOS 500D (EOS Rebel T1i / EOS Kiss X3)
+ShortSpecs:
+    - 15 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 74
+URL: /products/canon/slrs/canon_eos500d
+ReviewData:
+    ExecutiveSummary: Latest in Canon's hugely successful entry-level digital SLR range is a significant upgrade to the EOS 450D (Rebel XSi) and is obviously designed to take on Nikon's D90. Featuring a 15.1 MP CMOS sensor with 1080p HD video recording at 20fps, it also sports a 3.0 inch LCD with 920,000 dot resolution and an ISO sensitivity range expandable up to 12800 equivalent. It includes a faster Digic 4 processor offering better noise reduction at higher ISO's and continuous shooting speeds of up to 3.4 fps delivering 170 large JPEG images in a single burst.
+    ProductPhotos:
+        - /files/p/products/canon_eos500d/shots/d55a4dad217d440eb14e74d9156c10f9.png
+        - /files/p/products/canon_eos500d/shots/f94e52912b84458b80c0911c118704c2.png
+        - /files/p/products/canon_eos500d/shots/06c96563707e45769ea31d4d46b66a82.png
+        - /files/p/products/canon_eos500d/shots/2d48a45014a24f289799ab0d72988aa3.png
+    ReviewSummary:
+        GoodFor: Decent results in virtually any situation, movies
+        NotSoGoodFor: Extreme low light photography, HDR, big hands.
+        Conclusion: Canon's popular consumer model takes another step away from the 'entry level' with an impressive spec sheet and consistently good performance, across the board. It may struggle to excel in any particular area, but taken as a whole it's one of the strongest contenders in this category.
+    ASIN:
+        - B001XURPQS
+        - B003IPXQKA
+        - B001XURPQI
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Mar 25, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E5 rechargeable battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 129 x 98 x 62 mm (5.08 x 3.86 x 2.44″)
+    DriveModes: ""
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, E-TTL II)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 13.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200,  400, 800, 1600, 3200  (6400-12800 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4752 x 3168
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 2353 x 1568
+    Processor: Digic 4
+    RemoteControl: Yes (E3 connector, InfraRed)
+    Resolutions: 1920 x 1080 (20 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "74%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 8, 2009"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 sec or 10 sec)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.87× (0.54× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 520 g (1.15 lb / 18.34 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

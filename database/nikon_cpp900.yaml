@@ -1,0 +1,161 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529082011/https://www.dpreview.com/reviews/2017-roundup-consumer-long-zoom-compacts
+ProductCode: nikon_cpp900
+Award: silver
+ImageURL: /files/p/products/nikon_cpp900/17bf08c3328a4c7a801d63071e45db11.png
+Name: Nikon Coolpix P900
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 2000 mm (83.3×)
+ReviewScore: 77
+URL: /products/nikon/compacts/nikon_cpp900
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Coolpix P900 sports a powerful 83x optical zoom (24-2000mm equivalent) NIKKOR ED glass lens with the ability to reach 166x using Dynamic Fine Zoom and a super extra-low dispersion (ED) glass element, making this camera ideal for capturing sharp images and videos from extreme lengths. This feature-packed long zoom is equipped with a 16-megapixel CMOS sensor and a high performance Autofocus (AF) system capable of shooting 7 frames-per-second (fps) to help deliver photos of fast moving sports in superb quality. Sharing these amazing photos has never been easier or more fun, as the COOLPIX P900 allows users to seamlessly shoot and share photos from the camera to a compatible smartphone or tablet via built-in Wi-Fi and NFC connectivity.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpp900/shots/9a17beb56a9b41149946e9b507c45842.png
+        - /files/p/products/nikon_cpp900/shots/5459d625f8bb4551a21da828e54ebad4.png
+        - /files/p/products/nikon_cpp900/shots/ac0f886eb72c40ea8b5936eda66a0b16.png
+        - /files/p/products/nikon_cpp900/shots/54b11c7c023d49d083adf51c160cd3b5.png
+        - /files/p/products/nikon_cpp900/shots/516f9d01ebe348c09c8fdf740e29852a.png
+        - /files/p/products/nikon_cpp900/shots/612c008b81bc404094a46b83169b7c8a.png
+    ReviewSummary:
+        GoodFor: Astro and wildlife photographers, travelers, or anyone seeking the longest zoom available.
+        NotSoGoodFor: Those on a budget, want a more compact camera, or shoot video frequently.
+        Conclusion: The Nikon Coolpix P900's massive 83X, 24-2000mm lens puts it in a class by itself. The lens is excellent as is the image stabilization required to shoot as long focal lengths. It sports a fully articulating LCD, twin dial operation, manual exposure controls, and both GPS and Wi-Fi. Downsides include fully automatic video recording, aggressive noise reduction (and no Raw support), a bulky body and high price.
+    ASIN:
+        - B00U2W4JEY
+        - B01CHAXG7O
+Specs:
+    AEBracketing: ""
+    Announced: Mar 2, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL23 lithium-ion battery & charger
+    BatteryLifeCIPA: "360"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 140 x 103 x 137 mm (5.51 x 4.06 x 5.39″)
+    DriveModes:
+        - Single
+        - Best Shot Selector
+        - Continuous H
+        - Continuous H 60
+        - Continuous H 120
+        - Continuous L
+        - Interval Timer
+        - Multi-shot 16
+        - Pre-shooting cache
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: 11.50 m (at Auto ISO)
+    FocalLengthEquiv: 24–2000 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400, expandable to 12800 (B&W only)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-stop
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $599
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 83.3×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed C2
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p), 1280 x 720 (60p, 50p, 30p, 25p) 640 x 480 (30p, 25p)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        May 26, 2017"
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Black and White Copy
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Museum
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: High speed modes from 12.5p to 120p
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 921,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 899 g (1.98 lb / 31.71 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: with NFC

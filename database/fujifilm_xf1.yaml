@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210904233230/https://www.dpreview.com/reviews/fujifilm-xf1
+ProductCode: fujifilm_xf1
+Award: ""
+ImageURL: /files/p/products/fujifilm_xf1/f2e5144e329f4db3820c6494ec41be08.png
+Name: Fujifilm XF1
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xf1
+ReviewData:
+    ExecutiveSummary: The 12MP XF1 is the latest model in Fujifilm's premium X-series, that originated with the FinePix X100 and has since expanded upwards to the interchangeable lens XF system (including the recently-announced X-E1), and downwards to the X-S1 superzoom and fast-lensed X10 compact. The XF1 shares much of its innards with these last two models, including the larger-than-average 2/3" EXR-CMOS sensor and EXR processor. To these it adds an optically-stabilized 25-100mm equivalent lens with an impressively fast F1.8 maximum aperture at wideangle.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xf1/shots/da12d437a7cf4bfd8e6b966ea581f7a7.png
+        - /files/p/products/fujifilm_xf1/shots/e42c44fb25534bcc9feb9b4d0229c6c8.png
+    ReviewSummary: null
+    ASIN:
+        - B0095F5AFQ
+        - B0095F5AG0
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-50 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $379.98 - $459.95
+    ColorFilterArray: Primary colour filter
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 108 x 62 x 33 mm (4.25 x 2.44 x 1.3″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear-curtain
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: 25–100 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200, (4000, 5000, 6400, 12800 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F1.8–4.9
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1864, 2816 x 1584, , 2112 x 2112, 2048 x x 1536, 2048 x 1360, 1920 x 1080, 1536 x 1536
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Sep 17, 2012"
+    SceneModes:
+        - Auto
+        - Macro
+        - Landscape
+        - Night
+        - Portrait
+        - Portrait+Night
+        - Backlight Portrait
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 25 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 255 g (0.56 lb / 8.99 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

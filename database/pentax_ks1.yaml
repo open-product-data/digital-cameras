@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211017103644/https://www.dpreview.com/reviews/hands-on-with-the-pentax-k-s1
+ProductCode: pentax_ks1
+Award: ""
+ImageURL: /files/p/products/pentax_ks1/22d5ddabdf2742de996af90b0cda6953.png
+Name: Pentax K-S1
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_ks1
+ReviewData:
+    ExecutiveSummary: The Pentax K-S1 is a uniquely styled midrange DSLR that features futuristic LED lights on its grip as well as a backlit mode dial on its rear. It uses a new 20MP CMOS sensor and Pentax's reliable SAFOX IX i+ autofocus system. As with all Pentax DSLRs, image stabilization is built into the body, and this shake reduction system can also be used to simulate an AA filter. Photos can be composed on a 3" LCD or large optical viewfinder. The K-S1 can shoot at 5.4 fps and records 1080p/30 video. Like many recent Ricoh cameras, the K-S1 will be available in multiple colors.
+    ProductPhotos:
+        - /files/p/products/pentax_ks1/shots/e46477c3673847a39c2a93e1e0118733.png
+        - /files/p/products/pentax_ks1/shots/679c0a46c6d04764952e2a4b9a5444b8.png
+        - /files/p/products/pentax_ks1/shots/b2e867ce078340ccb3780010a8c038af.png
+        - /files/p/products/pentax_ks1/shots/75d33ab6b22841e5b1edce36c73d2737.png
+        - /files/p/products/pentax_ks1/shots/89932efb6ff04b339663a7d07dd1df1d.png
+        - /files/p/products/pentax_ks1/shots/a1989e9ee32949a28248626882805ce3.png
+    ReviewSummary: null
+    ASIN:
+        - B00NBMI1M8
+        - B00NBMI2LS
+        - B00NBMIAM4
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Aug 27, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI109 lithium-ion battery and charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: Composite
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 121 x 93 x 70 mm (4.76 x 3.66 x 2.76″)
+    DriveModes:
+        - Single
+        - Continuous (Hi, Lo)
+        - Self-Timer
+        - Remote
+        - Exposure bracketing
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Sensitivity Priority
+        - Shutter Priority
+        - Aperture Priority
+        - Shutter & Aperture Priority
+        - Manual
+        - Bulb
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DCF 2.0 compliant)
+        - Raw (PEF/DNG)
+    FlashModes: Auto, auto + redeye, on, on + redeye reduction, slow sync, trailing curtain sync, manual
+    FlashRange: 10.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: O-GPS-1
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 51200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 3-axis
+    JPEGQualityLevels: Good, Better, Best
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $749 / £549 (body only), $799 / £599 (with 18-55mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4224 x 2816, 3456 x 2304, 3072 x 2448, 1920 x 1080
+    Processor: Prime MII
+    RemoteControl: Yes (via optional wireless remote)
+    Resolutions: 1920 x 1080 (30,25,24 fps), 1280 x 720 (60,50 fps)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Aug 27, 2014"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Moving Object
+        - Night Scene Portrait
+        - Sunset
+        - Blue Sky
+        - Forest
+        - Night Scene
+        - Night Scene HDR
+        - Night Snap
+        - Food
+        - Pet
+        - Kids
+        - Surf & Snow
+        - Backlight Silhouette
+        - Candlelight
+        - Stage Lighting
+        - Museum
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes ( 2 or 12 seconds)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "No"
+    WeightIncBatteries: 558 g (1.23 lb / 19.68 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

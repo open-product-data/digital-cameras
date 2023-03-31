@@ -1,0 +1,151 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220525041140/https://www.dpreview.com/reviews/nikon-d3200
+ProductCode: nikon_d3200
+Award: silver
+ImageURL: /files/p/products/nikon_d3200/b1075a1391724ee5b1dd37d3ca3ae091.png
+Name: Nikon D3200
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 73
+URL: /products/nikon/slrs/nikon_d3200
+ReviewData:
+    ExecutiveSummary: Nikon has updated its entry-level DSLR offering with the addition of a 24MP CMOS sensor. This makes it equal to Sony's A65, A77 and NEX-7 in offering the highest pixel count we've yet seen at the APS-C sensor size, and second only to the full-frame professional-grade D800 in Nikon's entire range. The significant thing, though, is that it does so at a starting price of $699 (the same launch price as the D3100 and Panasonic DMC G3, for comparison). It may not be revolutionary, but it promises a lot of camera for a competitive amount of money.
+    ProductPhotos:
+        - /files/p/products/nikon_d3200/shots/457dc1602a154647b746c41054482ab6.png
+        - /files/p/products/nikon_d3200/shots/fddf9d63f6bd491c9b321a1ebbb0194e.png
+        - /files/p/products/nikon_d3200/shots/7ad88301a58f4a4eb77ffe0685354750.png
+        - /files/p/products/nikon_d3200/shots/5c344cfc01944b32ac93f8d8f03ff31b.png
+        - /files/p/products/nikon_d3200/shots/75b20e4a88bc47ae96cdadfb00c1e2a8.png
+    ReviewSummary:
+        GoodFor: Novice photographers that want a capable, versatile DSLR that they won't outgrow in a hurry and experienced photographers looking for a good-value second camera to a more expensive DSLR.
+        NotSoGoodFor: Fans of LCD image composition, who will be disappointed by the slow AF, and anyone who wants filter effects at the point of capture.
+        Conclusion: The Nikon D3200 is a no-nonsense, ‘traditional style’ entry-level DSLR that is a solid performer on all levels. It doesn't offer much in terms of innovative features, but comes with the highest pixel-count in its class and good image quality across the ISO range. Just consider getting some high-quality Nikkor glass with it to make the most out of its high pixel count.
+    ASIN:
+        - B007VGGHW6
+        - B00JQQPRGG
+Specs:
+    AEBracketing: ""
+    Announced: Apr 19, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL14 rechargeable battery & charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $479.00 - $998.00
+    ColorFilterArray: ""
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 125 x 96 x 77 mm (4.92 x 3.78 x 3.03″)
+    DriveModes:
+        - Single frame
+        - Continuous
+        - Self-timer
+        - 2s Delayed remote
+        - Quick-response remote
+        - Quiet shutter release
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed auto with flexible program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat:
+        - 'NEF (RAW): 12 bit'
+        - JPEG
+    FlashModes: Auto, Red-Eye, Slow, Red-Eye Slow, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400 (12800 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'US: with 18-55mm VR - $699.95; UK: with 18-55mm VR - £649.99; UK: with 18-55mm VR - €699'
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot AF-area
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4512 x 3000, 3008 x 2000
+    Processor: Expeed 3
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (30,25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: "73%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 26, 2012"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Child
+        - Sports
+        - Close-Up
+        - Night portrait
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD with 160° viewing angle
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.2 x 15.4 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC UHS-I compliant
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Frame rates of 30p (actual frame rate 29.97 fps) and 60p (actual frame rate 59.94 fps) are available when NTSC is selected for video mode; 25p and 50p are available when PAL is selected for video mode; Actual frame rate when 24p is selected is 23.976 fps
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 505 g (1.11 lb / 17.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: WU-1a Wireless Mobile Adapter

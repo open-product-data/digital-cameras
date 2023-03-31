@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210921002544/https://www.dpreview.com/reviews/nikon-d7200
+ProductCode: nikon_d7200
+Award: silver
+ImageURL: /files/p/products/nikon_d7200/14c49b5acb1f4bd8ba53cb1981b9b875.png
+Name: Nikon D7200
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/nikon/slrs/nikon_d7200
+ReviewData:
+    ExecutiveSummary: The Nikon D7200 is an updated version of the venerable D7100. Its design and build quality remains the same but it gains a faster processor, much larger buffer for continuous shooting, improved low light autofocus performance, and Wi-Fi with NFC. Battery life has also gone up by more than 15%. The camera features a 24.2MP CMOS sensor with no optical low-pass filter, which maximizes resolution. It has an ISO range of 100-25600 that expands up to 102400 in black & white only. The autofocus system remains 51-points with 15 cross-type sensors but now all of those points can focus down to -3EV. Continuous shooting remains at 6 fps (7 fps in 1.3x crop mode) but the D7200 can take much longer bursts thanks to that larger buffer. Other features include a 3.2" 1.2M dot LCD, large optical viewfinder with 100% coverage, and 1080/60p video (in crop mode only), and an enhanced time-lapse feature.
+    ProductPhotos:
+        - /files/p/products/nikon_d7200/shots/196abf43526d4564a849e834c76fab8b.png
+        - /files/p/products/nikon_d7200/shots/476f183566a74d958bf4a113bc61cccc.png
+        - /files/p/products/nikon_d7200/shots/8ac8b6da3e7844eaa8a7c92af5e7ee91.png
+        - /files/p/products/nikon_d7200/shots/57974f5b99474c1b8e05abc180346b5e.png
+        - /files/p/products/nikon_d7200/shots/23cbca827f7e4188a41955ebae6a5438.png
+    ReviewSummary:
+        GoodFor: Anyone looking for a traditional, well-featured DSLR for stills shooting.
+        NotSoGoodFor: Videographers and, perhaps, travel shooters might do better looking elsewhere.
+        Conclusion: The D7200 is a gentle refresh of an excellent camera. The sensor sees improvements in dynamic range, AF works in lower light and the continuous shooting buffer lets you make use of its class-leading subject tracking. The slow live view autofocus and awkward lack of aperture control during movie shooting means it's not as flexible as some of its rivals but it's a formidable DSLR for stills work.
+    ASIN:
+        - B00U2W45WA
+        - B00U2W4FTI
+        - B00YD3UX8E
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Mar 2, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15 lithium-ion battery and charger
+    BatteryLifeCIPA: "1110"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,144.95
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 136 x 107 x 76 mm (5.35 x 4.21 x 2.99″)
+    DriveModes:
+        - Single-frame [S] mode
+        - Continuous low-speed [CL]
+        - Continuous high-speed [CH]
+        - Quiet Shutter Release
+        - Self-timer mode
+        - Mirror-up [Mup] mode
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Aperture Priority
+        - Auto
+        - Auto (flash off)
+        - Manual (M)
+        - Programmed auto with flexible program (P)
+        - Scene Modes
+        - Shutter-Priority
+        - User
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (EXIF v2.3)
+        - Raw (Nikon NEF, 12 or 14-bit, lossless compressed or compressed)
+    FlashModes: Auto, auto FP high-speed sync, auto w/redeye reduction, fill flash, rear-curtain sync, rear-curtain w/slow sync, redeye reduction, redeye reduction w/slow sync, slow sync, off
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-25600, expands to 102400 (black and white only)
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $1199/£939/€1199 (body only), £1119/€1449 (w/18-105mm lens), $1699 (w/18-140mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 'DX: 4496 x 3000, 2992 x 2000; 1.3x crop: 4800 x 3200, 3600 x 2400, 2400 x 1600'
+    Processor: Expeed 4
+    RemoteControl: Yes (Wired, wireless, or via smartphone)
+    Resolutions: 1920 x 1080 (60, 50, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: "84%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 3, 2015"
+    SceneModes:
+        - Autumn Colors
+        - Beach / Snow
+        - Blossom
+        - Candlelight
+        - Child
+        - Close-up
+        - Dusk / Dawn
+        - Food
+        - Landscape
+        - Night Landscape
+        - Night Portrait
+        - Party / Indoor
+        - Pet Portrait
+        - Portrait
+        - Sports
+        - Sunset
+        - Special Effects Mode
+    ScreenDots: 1,228,800
+    ScreenSize: 3.2″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 seconds)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (two slots)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1080/60p and 50p only in 1.3x crop mode
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.94× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 shots in 1-stop increments)
+    WeightIncBatteries: 765 g (1.69 lb / 26.98 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: with NFC

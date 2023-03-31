@@ -1,0 +1,111 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211224170237/https://www.dpreview.com/reviews/canoneos40d
+ProductCode: canon_eos40d
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_eos40d/3fe68f98c8b340d28a1f8b2327ddb946.png
+Name: Canon EOS 40D
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos40d
+ReviewData:
+    ExecutiveSummary: The sixth 'prosumer' EOS may not have played with the successful formula of its predecessors too much (it looks almost identical to the EOS 30D), but almost every aspect of its specification and performance received a significant upgrade. A mature and well 'sorted' product, the EOS 40D is the result of years of evolutionary improvement; it inspires confidence and delivers in almost every area. From a usability point of view the viewfinder feels larger, ergonomics are good, the user interface is clear and easy to learn, there are no in-use performance issues, metering and auto-focus show good consistency and the results speak for themselves; colorful (yet accurate) detailed images with low noise even at high sensitivities. Since replaced by the EOS 50D (probably the last in this line, as the EOS 60D is a very different kind of camera).
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000V5QV4S
+        - B000V5P90K
+Specs:
+    AEBracketing: ""
+    Announced: Aug 20, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: $699.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 6.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 146 x 108 x 74 mm (5.75 x 4.25 x 2.91″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe, E-TTL II)
+    FileFormat: ""
+    FlashModes: Auto, On, Red-eye reduction, Off
+    FlashRange: 12.00 m (ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (H)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3888 x 2592
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 2816 x 1880, 1936 x 1288
+    Processor: ""
+    RemoteControl: Yes (N3 connector)
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Oct 24, 2007"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (22.2 x 14.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (by USB cable, TC-80N3 remote controller and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.95× (0.59× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 822 g (1.81 lb / 29.00 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

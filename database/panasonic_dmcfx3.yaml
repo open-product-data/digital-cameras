@@ -1,0 +1,85 @@
+ProductCode: panasonic_dmcfx3
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfx3/e3f0a73ed2bb4b4b8baaaa183df5ca2c.png
+Name: Panasonic Lumix DMC-FX3
+ShortSpecs:
+    - 6 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfx3
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000GHTGE8
+        - B000GHULSS
+        - B000GPU6LM
+Specs:
+    Announced: Jul 19, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BoostedISOMaximum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 94 x 51 x 24 mm (3.7 x 2.01 x 0.94″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye Auto, On, Off, Slow Sync
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, (800/1600 boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2816 x 2112
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 848 x 480, 640 x 480, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 13.5 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 165 g (0.36 lb / 5.82 oz)
+    WhiteBalancePresets: "5"

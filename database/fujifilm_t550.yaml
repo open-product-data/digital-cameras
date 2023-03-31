@@ -1,0 +1,121 @@
+ProductCode: fujifilm_t550
+Award: ""
+ImageURL: /files/p/products/fujifilm_t550/c3b18da2a09d453ba74979929173e4d3.png
+Name: Fujifilm FinePix T550
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 288 mm (12×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_t550
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Fujifilm T550 has a 16MP CCD sensor, features a 12x 24-288mm (equiv.) optical zoom lens, image stabilization and 1280 x 720 video. The camera also comes with a sweep panorama mode as well as several effects filters.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_t550/shots/8ea4b2e7a41e4e8aab1452101ed36928.png
+        - /files/p/products/fujifilm_t550/shots/1376fc6f230d424cb3b81f1acb9eb781.png
+    ReviewSummary: null
+    ASIN:
+        - B00IITSF2A
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (7.2x)
+    Dimensions: ""
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–288 mm
+    FocalLengthMultiplier: ""
+    Format: H.264, Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $159.95
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3440
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 12×
+    OrientationSensor: "No"
+    OtherResolutions: 4608 ｘ 3072 , 4608 ｘ 2592, 3264 ｘ 2448, 3072ｘ1728, 2304ｘ1728, 1920 ｘ 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

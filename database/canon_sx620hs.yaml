@@ -1,0 +1,145 @@
+ProductCode: canon_sx620hs
+Award: ""
+ImageURL: /files/p/products/canon_sx620hs/041308cf874649d49ddff6c0d7309ca5.png
+Name: Canon PowerShot SX620 HS
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 625 mm (25×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx620hs
+ReviewData:
+    ExecutiveSummary: The PowerShot SX620 HS is a compact travel zoom with a 20.2MP BSI CMOS sensor and 25X, 25-625mm equivalent lens. It has Canon's 'Intelligent Image Stabilizer' which picks the right 'mode' depending on the situation, an Auto Zoom feature for adjusting the focal length as subject depth changes, and numerous special effects. It also features a 3" LCD and Wi-Fi with NFC.
+    ProductPhotos:
+        - /files/p/products/canon_sx620hs/shots/867fd5df9d13414390bfec07b2f054e4.png
+        - /files/p/products/canon_sx620hs/shots/b5524c9dd85d4f5f9b184573989ac432.png
+        - /files/p/products/canon_sx620hs/shots/f3438c36102546ceaccd5fd646357c40.png
+        - /files/p/products/canon_sx620hs/shots/18b0df531f5b4b21acd6e57fa7296cd8.png
+    ReviewSummary: null
+    ASIN:
+        - B01FFACR50
+        - B01FFACPRA
+        - B01FFACR4Q
+Specs:
+    AEBracketing: ""
+    Announced: May 11, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery & charger
+    BatteryLifeCIPA: "295"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 97 x 57 x 28 mm (3.81 x 2.24 x 1.1″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Hybrid Auto
+        - Creative Shot
+        - Scene
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 4.00 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–625 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Intelligent IS
+    JPEGQualityLevels: Superfine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $279
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.2–6.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 25×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (5184 x 3888, 3648 x 2736, 2048 x 1536, 640 x 480), 16:9 (5184 x 2912, 3648 x 2048, 1920 x 1080, 640 x 360), 3:2 (5184 x 3456, 3648 x 2432, 2048 x 1368, 640 x 424), 1:1 (3888 x 3888, 2736 x 2736, 1536 x 1536, 480 x 480)
+    Processor: DIGIC 4+
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Smile
+        - Wink Self-timer
+        - Face Self-timer
+        - High-speed Burst
+        - Handheld Night Scene
+        - Low Light
+        - Fireworks
+        - Long Shutter
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 182 g (0.40 lb / 6.42 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

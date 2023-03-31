@@ -1,0 +1,194 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20230222183844/https://www.dpreview.com/reviews/canon-eos-r6-mark-ii-in-depth-review
+ProductCode: canon_eosr6ii
+Award: gold
+ImageURL: /files/p/products/canon_eosr6ii/169ed56713c7412cb52c69cb723d4416.png
+Name: Canon EOS R6 Mark II
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/canon/slrs/canon_eosr6ii
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Ideal for advanced amateurs and featuring user-friendly functions, the EOS R6 Mark II camera is a high-performance hybrid camera that’s designed to capture decisive moments in both photo and video formats. It will satisfy a wide range of needs including professional production, vlogging, still pictures, filmmaking, and more. The camera is also well-suited for various photography subjects such as portrait, landscape, sports and wildlife. With the EOS R6 Mark II camera, creativity has virtually no borders.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr6ii/shots/90a6217d64894000b8316f0ef1b9434b.png
+        - /files/p/products/canon_eosr6ii/shots/c4c077cf46824684bf06e1ad03e6a230.png
+        - /files/p/products/canon_eosr6ii/shots/d2689682949d4685829aea476b17fc7c.png
+        - /files/p/products/canon_eosr6ii/shots/5f6fc00f7d774213bb8bfa522528cadb.png
+    ReviewSummary:
+        GoodFor: a vast range of photo and video tasks.
+        NotSoGoodFor: Pro shooting that might benefit from a more specialized camera
+        Conclusion: The Canon EOS R6 II stands out even from the very capable crowd of $2000-2500 full-frame cameras. It offers comparable image quality to its peers, competitive autofocus, very good video and the fastest burst shooting in its class. Like a swiss army knife, it's remarkably useful for a range of different things.
+    ASIN:
+        - B0BL7X3KLV
+        - B0BMPR522C
+        - B0B2KSD7WW
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Nov 2, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E6NH lithium-ion battery & charger
+    BatteryLifeCIPA: "580"
+    BodyMaterial: ""
+    BodyType: ""
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 40.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 138 x 98 x 88 mm (5.43 x 3.86 x 3.46″)
+    DriveModes:
+        - Single Shooting
+        - High-speed continuous
+        - Low-speed continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3)
+        - HEIF (10-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Yes, 100-102400 (expands to 204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Works with lens-based IS systems for maximum shake reduction
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: ""
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 340 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 230 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 340 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 230 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 170 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 85 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 120 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 180 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 70 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 180 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p / 120 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 70 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 90 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 35 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 90 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 35 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 45 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 28 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 12 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: "1053"
+    NumberOfFocusPoints: "4897"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "91%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 22, 2023"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD slots (UHS-II)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 670 g (1.48 lb / 23.63 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

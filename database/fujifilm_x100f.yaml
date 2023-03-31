@@ -1,0 +1,151 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220516091237/https://www.dpreview.com/reviews/fujifilm-x100f
+ProductCode: fujifilm_x100f
+Award: gold
+ImageURL: /files/p/products/fujifilm_x100f/5276972095f34f1f9470a70f23282bb3.png
+Name: Fujifilm X100F
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 83
+URL: /products/fujifilm/compacts/fujifilm_x100f
+ReviewData:
+    ExecutiveSummary: The Fujifilm X100F is the company's fourth-generation fixed lens camera with an APS-C sensor. It retains the same rangerfinder design of its predecessors, but adds an AF point joystick as well as an ISO dial on the top plate. The 35mm equiv. F2 lens is unchanged, as is the unique hybrid viewfinder and fixed 3" LCD. Inside, the camera has a new 24.3MP CMOS sensor along with an updated image processor. The ACROS film simulation mode is new, as is an electronic shutter that tops out at 1/32000 sec. As one would expect, Wi-Fi is a standard feature.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x100f/shots/fa1819991d5641c79a47b32aeca3b97f.png
+        - /files/p/products/fujifilm_x100f/shots/c26b8c9dbd844f24ac5972119305ed2d.png
+        - /files/p/products/fujifilm_x100f/shots/7ee55141556648f888f1ff3fd1be9b34.png
+        - /files/p/products/fujifilm_x100f/shots/53f4e4e546a04d5aa1cb88e941bd2448.png
+    ReviewSummary:
+        GoodFor: Photographers who want to revel in and be challenged by shooting with a fixed lens, fixed focal length camera.
+        NotSoGoodFor: Anyone looking for flexibility or immediacy. Or video.
+        Conclusion: The X100F's combination of image quality, usability and styling make it the best in the series yet. It's still a niche camera, but this latest version's limitations stem primarily from its design, rather than its implementation. A true photographers' camera.
+    ASIN:
+        - B01N33CT3Z
+        - B01MUA5JGO
+        - B077829466
+Specs:
+    AEBracketing: ±2 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 19, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion W126S rechargeable battery & charger
+    BatteryLifeCIPA: "390"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: X-Trans III
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: 'Yes (Digital Tele-Converter: 50mm, 70mm)'
+    Dimensions: 127 x 75 x 52 mm (5 x 2.95 x 2.05″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - RAW (RAF format)
+    FlashModes: Auto, forced, suppressed, slow synchro, commander
+    FlashRange: 4.60 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-12800 (expands to 100-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: $1299/£1249
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: F2–16
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 36 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 25p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 24p / 18 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 23.98p / 18 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "325"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4240 x 2832, 6000 x 3376, 4000, x 4000, 4240 x 2832, 4240 x 2384, 2832 x 2832, 3008 x 2000, 3008 x 1688, 2000 x 2000
+    Processor: X-Processor Pro
+    RemoteControl: Yes (via cable release or smartphone)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "83%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 16, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 92%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 469 g (1.03 lb / 16.54 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone control

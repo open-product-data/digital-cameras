@@ -1,0 +1,82 @@
+ProductCode: samsung_pl120
+Award: ""
+ImageURL: /files/p/products/samsung_pl120/144120b66c514242ad24d2233819d45b.png
+Name: Samsung PL120
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_pl120
+ReviewData:
+    ExecutiveSummary: The Samsung PL120 DualView camera comes with a 5x optical zoom lens starting at 26mm equivalent and is designed around a touch-screen interface. It incorporates a 14MP sensor come with 1.5 inch front LCD and and a 2.7 inch rear LCD. A Magic Frame feature allows  instantly create formatted postcards or posters to share with your friends and family. It can also record 720p HD videos.
+    ProductPhotos:
+        - /files/p/products/samsung_pl120/shots/7c7fef8945b742a2be3afbf474652d68.png
+        - /files/p/products/samsung_pl120/shots/45fc027aafbd4b6a8a61ff116aedc715.png
+        - /files/p/products/samsung_pl120/shots/0746eb4099014091b22be507cdd010b0.png
+    ReviewSummary: null
+    ASIN:
+        - B004L3JPX0
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 94 x 54 x 19 mm (3.7 x 2.13 x 0.75″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: None
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

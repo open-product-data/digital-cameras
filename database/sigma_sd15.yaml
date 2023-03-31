@@ -1,0 +1,120 @@
+ProductCode: sigma_sd15
+Award: ""
+ImageURL: /files/p/products/sigma_sd15/a6f86356dfad40a8b97bd164a520de1f.png
+Name: Sigma SD15
+ShortSpecs:
+    - 5 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/sigma/slrs/sigma_sd15
+ReviewData:
+    ExecutiveSummary: Successor to the SD14, the SD15 incorporates a 14MP (4MP x 3 layers) Foveon X3 sensor, the same True II processor as the latest DPx models, and a larger 3.0" 460k dot LCD. Other features include SD card compatibility, ISO 100-1600 (50-3200 extended) sensitivity, 21 shot raw buffer at 3fps and 5 frame auto bracketing for HDR-enthusiasts.
+    ProductPhotos:
+        - /files/p/products/sigma_sd15/shots/bd9674b8f81e4c0f97b4850e568773d1.png
+        - /files/p/products/sigma_sd15/shots/6a30c50963dc4f9b89cc8121bb7cb90c.png
+        - /files/p/products/sigma_sd15/shots/c5204b43ac184fbbb48770e838b8ae9f.png
+        - /files/p/products/sigma_sd15/shots/01edd4e8c3cb4677b65eb90634f48788.png
+    ReviewSummary: null
+    ASIN:
+        - B003AMST8K
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 144 x 107 x 81 mm (5.67 x 4.21 x 3.19″)
+    DriveModes: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Unknown
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, 1600 (50 and 3200 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Sigma SA Bayonet
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 2640 x 1760
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: 1776 x 1184, 1296 x 864
+    Processor: True II
+    RemoteControl: Yes (Wireless RS-31)
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: APS-C (20.7 x 13.8 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.9×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 750 g (1.65 lb / 26.46 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""

@@ -1,0 +1,112 @@
+ProductCode: samsung_tl320
+Award: ""
+ImageURL: /files/p/products/samsung_tl320/eddb55c89f1d4f518fb7d19f651d8c1e.png
+Name: Samsung TL320 (WB1000)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_tl320
+ReviewData:
+    ExecutiveSummary: High end compact sports useful 24-120mm extra wide 5x zoom lens, unique 3.0" Organic LED screen and cute analgue style needle gauges for battery life and storage capacity. With lots of manual control and classy slimline styling the TL320 (WB100) certainly ticks a lot of enthusiast photographers' boxes but the lack of a raw mode - especially in light of Samsung's unimpressive JPEG image processing - is disappointing. (April 2009).
+    ProductPhotos:
+        - /files/p/products/samsung_tl320/shots/0882fcaa883e4425b9f5c716210b174f.png
+        - /files/p/products/samsung_tl320/shots/17830bb780c048f1beea2cd20fd2b540.png
+        - /files/p/products/samsung_tl320/shots/2d558e7376e54d32969fba910d6dc3c2.png
+        - /files/p/products/samsung_tl320/shots/175d5c6b9cdc40adaa7a0a777baf0d7c.png
+    ReviewSummary: null
+    ASIN:
+        - B001PKTRDA
+        - B001PKTRDK
+Specs:
+    Announced: Feb 23, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 97 x 61 x 21 mm (3.82 x 2.4 x 0.83″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash off, Red eye fix
+    FlashRange: 5.00 m
+    FocalLengthEquiv: 24–120 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200 (Up to 3M)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 16 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2654, 4000 x 2248, 3264 x 2592 x 1944, 2048 x 1536, 1920 x 1080, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec, Double, Motion Timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 40 MB
+    StorageTypes: SC/SDHC/MMC/MMCplus, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

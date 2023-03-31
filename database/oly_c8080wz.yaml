@@ -1,0 +1,80 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211019225147/https://www.dpreview.com/reviews/olympusc8080wz
+ProductCode: oly_c8080wz
+Award: highlyRecommended
+ImageURL: /files/p/products/oly_c8080wz/08321022d11946bb8a91d6e8d9f21a59.png
+Name: Olympus C-8080 Wide Zoom
+ShortSpecs:
+    - 8 megapixels
+    - 1.8″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_c8080wz
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001DKLHS
+Specs:
+    Announced: Feb 12, 2004
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (smooth 3x)
+    Dimensions: 124 x 85 x 99 mm (4.88 x 3.35 x 3.9″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (Hot-shoe)
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow 1&2, External
+    FlashRange: 5.30 m
+    FocalLengthEquiv: 28–140 mm
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 50, 64, 80, 100, 125, 160, 200, 250, 320, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.4–3.5
+    MaximumShutterSpeed: 1/4000 sec
+    Microphone: None
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2288 x 1712, 2048 x 1536, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    RemoteControl: "Yes"
+    Resolutions: 640 x 480 / 320 x 240, 15 fps, audio, unlimited
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Apr 20, 2004"
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec delay)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB xD Picture Card
+    StorageTypes: xD Picture Card, Compact Flash I/II
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderType: Electronic
+    WeightIncBatteries: 724 g (1.60 lb / 25.54 oz)
+    WhiteBalancePresets: "9"

@@ -1,0 +1,74 @@
+ProductCode: kodak_dc240
+Award: ""
+ImageURL: /files/p/products/kodak_dc240/cac85b437f954bf983c9d9e3fa72439a.png
+Name: Kodak DC240
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 39 – 117 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc240
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 26, 1999
+    AperturePriority: "No"
+    Autofocus:
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries included
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 133 x 51 x 76 mm (5.24 x 2.01 x 2.99″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.00 m (F3.0)
+    FocalLengthEquiv: 39–117 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "140"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: 25 cm (9.84″)
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–16
+    MaximumShutterSpeed: 1/755 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 420 g (0.93 lb / 14.82 oz)
+    WhiteBalancePresets: "4"

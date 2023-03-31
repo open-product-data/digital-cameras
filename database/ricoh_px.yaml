@@ -1,0 +1,118 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220116194341/https://www.dpreview.com/reviews/q311waterproofcompactgrouptest
+ProductCode: ricoh_px
+Award: ""
+ImageURL: /files/p/products/ricoh_px/74dec9541c1544aebe68a2c012ffa225.png
+Name: Ricoh PX
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 62
+URL: /products/ricoh/compacts/ricoh_px
+ReviewData:
+    ExecutiveSummary: The Ricoh PX is a rugged, waterproof compact camera. It combines a 16MP stabilized CCD sensor and 2.7" LCD with conventional camera styling. Despite its appearance, it can withstand a drop from up to 1.5m and being submerged to a depth of 3m for 60 minutes. Along with the camera, Ricoh has launched a range of silicone covers that help make the camera still-more durable.
+    ProductPhotos:
+        - /files/p/products/ricoh_px/shots/64375c67808544c9aee531be8e0091e9.png
+        - /files/p/products/ricoh_px/shots/36718ee3de174e35b42dd5dc9bd6fda5.png
+        - /files/p/products/ricoh_px/shots/6625f2a186d54fc6868276f420d4e564.png
+        - /files/p/products/ricoh_px/shots/a0eea11f8d584a7bbf0aa33eaca579af.png
+        - /files/p/products/ricoh_px/shots/eb2424e65cbb43eea43afebcb006da66.png
+        - /files/p/products/ricoh_px/shots/0b04fc78ea314bf8af023d6bcbf346d9.png
+    ReviewSummary:
+        GoodFor: General everyday photography thanks to its small size, stylish design, and above-average image quality.
+        NotSoGoodFor: Low light shooting situations and video.
+        Conclusion: The Ricoh PX is stylish and compact and, in key areas such as image quality and speed of operation, it holds its own with the competition. Its specs are middle-of-the-road for this class but it is is priced very competitively and, ultimately, represents great value considering its performance.
+    ASIN:
+        - B0036DEERI
+Specs:
+    AEBracketing: ""
+    Announced: Jun 9, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-100 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4.8x)
+    Dimensions: 100 x 55 x 21 mm (3.94 x 2.17 x 0.83″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (type D)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3072
+    MaximumAperture: F3.9–5.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 3456 x 3456, 4608 x 2592, 3648 x 2736, 2592 x 1944, 2304 x 1728, 1280 x 960, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30fps)
+    ReviewPreview: "62%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Aug 17, 2011"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 156 g (0.34 lb / 5.50 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,100 @@
+ProductCode: fujifilm_f500exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_f500exr/85b109308aa4457c8b8f1fc9ff4671a9.png
+Name: FujiFilm FinePix F500 EXR (FinePix F505 EXR)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 360 mm (15×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_f500exr
+ReviewData:
+    ExecutiveSummary: Built around the same design and core feature set as its F300 EXR camera, the F500 EXR offers the company's latest 16Mp EXR CMOS sensor that allows full 1080p HD video recording and full-resolution 8fps continuous shooting. It includes the same 15x (24-360mm) optical zoom lens and 460K 3.0" LCD screen as the F300 EXR, as well as Fujifilm's innovative hybrid autofocus system that the company claims is as fast as that on DSLRs. The camera automatically chooses between using the contrast-detection AF method used in compact cameras and the phase-detection method usually used in DSLRs.  The key differences between the F550 EXR (released at the same time) and the F500 EXR are the F550's GPS and RAW shooting capabilities.
+    ProductPhotos:
+        - /files/p/products/fujifilm_f500exr/shots/077cc563c6144f06b495b24b09096150.png
+        - /files/p/products/fujifilm_f500exr/shots/3472079a448a41aa8f8109ad8b7f28c7.png
+        - /files/p/products/fujifilm_f500exr/shots/1660e1a3b03742a4a28f0e102d520022.png
+        - /files/p/products/fujifilm_f500exr/shots/f370c04882c94c2fb197d5b921e7fef2.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO58KM
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 5, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-50 rechargeable battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "6400"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5x)
+    Dimensions: 104 x 63 x 33 mm (4.09 x 2.48 x 1.3″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 24–360 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–5.3
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 15×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3264 x 1840, 2304 x 1728, 2304 x 1536, 1920 x 1080
+    Processor: EXR
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec, Auto shutter(Dog, Cat))
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 20 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 215 g (0.47 lb / 7.58 oz)
+    WhiteBalancePresets: "7"

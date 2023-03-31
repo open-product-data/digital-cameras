@@ -1,0 +1,75 @@
+ProductCode: kodak_ls443
+Award: ""
+ImageURL: /files/p/products/kodak_ls443/d880a6964d6a44b3ad3ca79a3d83981b.png
+Name: Kodak LS443
+ShortSpecs:
+    - 4 megapixels
+    - 1.8″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_ls443
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 23, 2002
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion, dock & charger (included)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3 x)
+    Dimensions: 109 x 62 x 38 mm (4.29 x 2.44 x 1.5″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualFocus: "No"
+    MaxResolution: 2448 x 1632
+    MaximumAperture: F2.8–9.6
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2160 x 1440, 1800 x 1200, 1224 x 816
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 260 g (0.57 lb / 9.17 oz)
+    WhiteBalancePresets: "4"

@@ -1,0 +1,159 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211129104806/https://www.dpreview.com/reviews/canon-powershot-g7x-mark-iii-review
+ProductCode: canon_g7xiii
+Award: silver
+ImageURL: /files/p/products/canon_g7xiii/31c8977060e446958967cd161d690bfc.png
+Name: Canon G7 X III
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 100 mm (4.2×)
+ReviewScore: 81
+URL: /products/canon/compacts/canon_g7xiii
+ReviewData:
+    ExecutiveSummary: 'The Canon PowerShot G7 X Mark III is a premium compact camera with a new 1"-type, 20MP Stacked CMOS sensor. The stabilized lens is the same as on its predecessor: 24-100mm equiv. F1.8-2.8. The G7 X III retains the same 3" touchscreen display, which can flip upward by 180° for selfies and vlogging. The most notable feature on the G7 X III is the ability to live stream video on YouTube straight from the camera. It can also capture cropped 4K/30p and uncropped 1080 video at up to 120p. Impressively, the G7 X III can shoot Raw images at up to 30 fps with its electronic shutter with locked focus, or 8.3 fps with continuous AF, both with a healthy buffer. The camera can be powered over its USB-C port and has built-in Wi-Fi and Bluetooth.'
+    ProductPhotos:
+        - /files/p/products/canon_g7xiii/shots/61b1b50a018e4e4c9a9bd175fbbd2d97.png
+        - /files/p/products/canon_g7xiii/shots/dc1a64f50eeb4b1da34dd486a9bbe6e6.png
+        - /files/p/products/canon_g7xiii/shots/8a9b9dcf56ad430b940b5969524eab50.png
+        - /files/p/products/canon_g7xiii/shots/61b5d7bbe50246ac9f3918a747902121.png
+    ReviewSummary:
+        GoodFor: Those seeking a pocketable camera with a versatile lens that will perform better in low light than a typical compact. Vloggers.
+        NotSoGoodFor: Action and landscape photographers. Those who want an EVF for shooting outdoors.
+        Conclusion: The Canon PowerShot G7 X III is a compact, well-priced camera which offers very good image quality, a fast lens, good ergonomics and the ability to stream live video straight to YouTube. Its lens isn't super-sharp at wide-angle, video autofocus is so-so, and live streaming is difficult to get working, but overall, it's a good value for the money and well worth considering.
+    ASIN:
+        - B0101S1IP6
+        - B07TMRKP5T
+        - B07TKNCQZL
+Specs:
+    AEBracketing: ""
+    Announced: Jul 9, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "235"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 105 x 61 x 41 mm (4.13 x 2.4 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Canon CR3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 7.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–100 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $749
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/25600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4.2×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 8
+    RemoteControl: Yes (via smartphone or wireless remote)
+    Resolutions: ""
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 19, 2019"
+    SceneModes:
+        - Self Portrait
+        - Portrait
+        - Panning
+        - Star Portrait
+        - Star Nightscape
+        - Star Trails
+        - Star Time-Lapse Movie
+        - Handheld Night Scene
+        - High Dynamic Range
+        - Fireworks
+        - Standard Movie
+        - Short Clip
+        - Manual Movie
+        - Time-Lapse Movie
+        - iFrame Movie
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 304 g (0.67 lb / 10.72 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

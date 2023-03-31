@@ -1,0 +1,97 @@
+ProductCode: panasonic_dmcfx700
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfx700/c6fcabaeae514f0f8d6dc3e1fd6856c1.png
+Name: Panasonic Lumix DMC-FX700
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfx700
+ReviewData:
+    ExecutiveSummary: The Lumix DMC-FX700 touch-screen digital compact, features a stabilized wide angle 5x zoom lens (24-120mm) with a semi-fast F2.2-5.9 maximum aperture range. The camera reduces buttons to a minimum, instead depending on its touch-sensitive 3.0" screen. It also offers full 1080i AVCHD video and 10 fps full resolution burst shooting. Other features include P/A/S/M shooting modes and the Venus Engine FHD processor.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfx700/shots/873b76a7fe374877b098e18ec19e452c.png
+        - /files/p/products/panasonic_dmcfx700/shots/dd43fcee871a40d99daa0515f3cc5a99.png
+        - /files/p/products/panasonic_dmcfx700/shots/ca183cb3fd9c49139d82e36e057ab1d1.png
+    ReviewSummary: null
+    ASIN:
+        - B003WJR67G
+        - B003WQAII8
+Specs:
+    Announced: Jul 21, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 56 x 25 mm (4.09 x 2.2 x 0.98″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 7.40 m
+    FocalLengthEquiv: 24–120 mm
+    Format: AVCHD
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, Hi Auto (1600-6400), 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.2–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648 x 2736, 3648 x 2432,3648 x 2056, 3232 x 3232,3072 x 2304,3072 x 2048, 3072 x 1728, 2736 x 2736,  2560 x 1920, 2560 x 1712, 2560 x 1440, 2304 x 2304, 2048 x 1536, 2048 x 1360,1920 x 1920, 1920 x 1080, 1536 x 1536, 640 x 480, 640 x 424, 640 x 360, 480 x 480
+    Processor: Venus Engine FHD
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60, 30 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    StorageIncluded: 40 MB
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 176 g (0.39 lb / 6.21 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

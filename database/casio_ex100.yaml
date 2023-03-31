@@ -1,0 +1,115 @@
+ProductCode: casio_ex100
+Award: ""
+ImageURL: /files/p/products/casio_ex100/1e09ddd0e4e44da1b557a7c88aee93c7.png
+Name: Casio Exilim EX-100
+ShortSpecs:
+    - 12 megapixels
+    - 28 – 300 mm (10.7×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_ex100
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Casio Exilim EX-100 is a premium compact camera with a 10.7X, 28-300mm lens with constant F2.8 maximum aperture. A 5-axis image stabilization system helps reduce blur due to camera shake. It has a 1/1.7" CMOS sensor and Casio''s latest Exilim Engine. The camera has a unique ''dual bracketing'' feature that allows you to shoot nine images with different settings (exposure, white balance, saturation, contrast, focus, aperture). Photos can be composed on a giant 3.5" tilting LCD display, and settings can quickly be adjusted via a function ring around the lens. The EX-100 has full manual exposure controls, Raw support, a built-in ND filter, and Wi-Fi.  It can also record 1080/30p video with the ability to take still photos while filming.'
+    ProductPhotos:
+        - /files/p/products/casio_ex100/shots/1bf686a67da54977a06db0d75b6e8004.png
+        - /files/p/products/casio_ex100/shots/06e7cc5333f94d99b340d2769c6d3eca.png
+        - /files/p/products/casio_ex100/shots/d45a4dc7205c4e79870baf4813832fc8.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: (3 frames )
+    Announced: Feb 6, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - RAW (DNG)
+    FlashModes: Auto, flash on, flash off, redeye reduction
+    FlashRange: 6.10 m
+    FocalLengthEquiv: 28–300 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 80-12800 (expands to 25600)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/20000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 10.7×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2248, 2048 x 1536
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: ""

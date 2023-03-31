@@ -1,0 +1,116 @@
+ProductCode: sigma_dp1x
+Award: ""
+ImageURL: /files/p/products/sigma_dp1x/c2d933b91a2c46c297ffa2f69d3160dd.png
+Name: Sigma DP1x
+ShortSpecs:
+    - 5 megapixels
+    - 2.5″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/sigma/compacts/sigma_dp1x
+ReviewData:
+    ExecutiveSummary: Yet another revised version of Sigma's DP1 large-sensor compact camera, the DP1x features the same sensor and wide angle lens as the DP1, but inherits the faster True II processor from the DP2 and a new AF algorithm for faster auto focus. It also shares the revised rear design of the DP2s, with a dedicated 'QS' (Quick Set) button and more visible labeling of controls.
+    ProductPhotos:
+        - /files/p/products/sigma_dp1x/shots/bd9c214063124a82a5185aeddc290db0.png
+        - /files/p/products/sigma_dp1x/shots/784d5bcb9d1f4c89b9aac5e5698efcd8.png
+        - /files/p/products/sigma_dp1x/shots/a3141de937c24697845920f23823d543.png
+        - /files/p/products/sigma_dp1x/shots/da501826f2414b388e3a359588653b6b.png
+    ReviewSummary: null
+    ASIN:
+        - B0042VJCXY
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 113 x 60 x 50 mm (4.45 x 2.36 x 1.97″)
+    DriveModes: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FileFormat: ""
+    FlashModes: Unknown
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, (1600 & 3200 in RAW)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 2640 x 1760
+    MaximumAperture: F4
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: 1776 x 1184, 1296 x 864
+    Processor: True II
+    RemoteControl: Yes (Wired (Optional))
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: APS-C (20.7 x 13.8 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 250 g (0.55 lb / 8.82 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

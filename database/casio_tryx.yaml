@@ -1,0 +1,111 @@
+ProductCode: casio_tryx
+Award: ""
+ImageURL: /files/p/products/casio_tryx/0fe54ec6975a4c4183389169ebe92315.png
+Name: Casio Exilim TRYX
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 21 mm
+ReviewScore: 0
+URL: /products/casio/compacts/casio_tryx
+ReviewData:
+    ExecutiveSummary: Casio's TRYX digital compact features an innovative (certainly very odd-looking) rotating frame design which allows users to rotate the camera body 360 degrees vertically and 270 degrees horizontally around the frame. Measuring 15mm on its thickest side, the camera features a 12Mp back-illuminated CMOS sensor, 21mm equiv. pocket-camcorder style wide-angle fixed lens and 460K dot 3.0" touchscreen LCD. It can record 1080p full HD movies at 30 fps, includes a built-in software for direct upload of images and videos online and comes with a motion-sensitive self-timer.
+    ProductPhotos:
+        - /files/p/products/casio_tryx/shots/3daa6baeffbd4245b6e34aedfc1e6d9d.png
+        - /files/p/products/casio_tryx/shots/37e69a7236894578932dea2c6be466e7.png
+        - /files/p/products/casio_tryx/shots/1c6705b67d964ae59d4a7b3f6e91d81a.png
+        - /files/p/products/casio_tryx/shots/cdeaea7c69b4499f8329ca7b6dbdb840.png
+        - /files/p/products/casio_tryx/shots/1ce48f2a16dd452996a9956db4b6e0aa.png
+    ReviewSummary: null
+    ASIN:
+        - B004HYGDCY?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004HYGDCY
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 122 x 58 x 15 mm (4.8 x 2.28 x 0.59″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 21 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 8 cm (3.15″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/8 sec
+    Modes: ""
+    NormalFocusRange: 8 cm (3.15″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 2560 x 1920, 640 x 480
+    Processor: Exilim Engine HS
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 432 x 320 (30, 240 fps), 224 x 160 (480 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: Super Clear TFT color LCD
+    SelfTimer: Yes (2 or 10 seconds, custom)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: TBA
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

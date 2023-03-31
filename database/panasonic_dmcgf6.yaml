@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211201103355/https://www.dpreview.com/reviews/panasonic-lumix-dmc-gf6
+ProductCode: panasonic_dmcgf6
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcgf6/97fbe808fbc84e5ca3824d74f6839ec6.png
+Name: Panasonic Lumix DMC-GF6
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dmcgf6
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-GF6 is a 16MP entry-level mirrorless camera with Wi-Fi. Like many of its competitors it has a capacitive touchscreen, that can tilt both downwards and upwards to face forwards for self-portraits. It gains a compact-camera style zoom lever around the shutter release that can alternatively be used to set exposure compensation, and an exposure mode dial on the top plate. It's also the first interchangeable lens camera with Near Field Communication (NFC) that allows setup of Wi-Fi connections with compatible smartphones and tablets, simply by tapping the devices together. Movie recording is available at 1080p30 in either MP4 or AVCHD format.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcgf6/shots/581be4fbe09d4b56b8a391690b54e046.png
+        - /files/p/products/panasonic_dmcgf6/shots/48103106f5ac4ccca26627246aa08f2a.png
+    ReviewSummary: null
+    ASIN:
+        - B00C97ZZ4S
+Specs:
+    AEBracketing: ±2 (3, 5 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Apr 9, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.2 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: ""
+    Dimensions: 111 x 65 x 38 mm (4.37 x 2.56 x 1.5″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: ""
+    FileFormat:
+        - RAW
+        - RAW + Fine
+        - RAW + Standard
+        - Fine
+        - Standard
+        - MPO + Fine
+        - MPO + Standard (with 3D lens in Micro Four Thirds System standard)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 6.30 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (mini HDMI TypeC)
+    HeadphonePort: ""
+    ISO: Auto, 160, 200, 400, 800, 1600, 3200, 6400, 12800, (25600 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3448
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Venus Engine FHD
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60i PsF/30p in NTSC models, 50i PsF/25p on PAL), 1280 x 720p (60i PsF/30p in NTSC models, 50i PsF/25p on PAL), 640 x 480 (30/25fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Apr 9, 2013"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images))
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 323 g (0.71 lb / 11.39 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: with NFC (Near Field Communication) capabilities

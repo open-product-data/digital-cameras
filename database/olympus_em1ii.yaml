@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206212513/https://www.dpreview.com/reviews/olympus-om-d-e-m1-mark-ii
+ProductCode: olympus_em1ii
+Award: gold
+ImageURL: /files/p/products/olympus_em1ii/c89d136008e84e7dab38ec8dcb30b78a.png
+Name: Olympus E-M1 II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 85
+URL: /products/olympus/slrs/olympus_em1ii
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M1 Mark is the company's high-end mirrorless camera. Featuring a newly designed 20.4MP MOS sensor and TruePic VIII engine, the camera is capable burst rates of 60 fps in Single AF and an incredible 18 fps with C-AF. The new Dual FAST autofocus system combines contrast detection with 121 on-chip phase-detect points. The E-M1 II has in-body 5-axis image stabilization which reduces shake by up to 5.5 stops. Its body is weather-sealed and features a large electronic viewfinder, 3" LCD fully articulating touchscreen and dual memory card slots. The camera can capture both UHD and DCI 4K at 30p and 24p respectively, at bit rates of up to 237Mbps. The E-M1 II can also output 4:2:2 video out of its HDMI port.
+    ProductPhotos:
+        - /files/p/products/olympus_em1ii/shots/9c66b24311de4450814fd47f320c3d4d.png
+        - /files/p/products/olympus_em1ii/shots/bf4749231c554614aa27009824b14dbb.png
+        - /files/p/products/olympus_em1ii/shots/49460d3cccc74b5da967e73d59ef8b3d.png
+    ReviewSummary:
+        GoodFor: Fast action photographers, landscape shooters (with High Res mode) and those seeking complete control of their camera. Videographers who want stable video without a rig.
+        NotSoGoodFor: Those expecting image quality in-line with comparably priced cameras. Videographers planning on attaching a mic, headphones or HDMI cable while taking advantage of the rotating LCD.
+        Conclusion: The OM-D E-M1 Mark II is Olympus' most ambitious camera yet and it blows away its peers in terms of raw speed - and it's no slouch when it comes to photo and video quality, AF performance and build quality. The Mark II is customizable to the point where it's overwhelming, so it's not for everyone. It's may also be a budget-stretcher for a lot of people. Aside from those and a few other quirks, the E-M1 II is an interchangeable lens camera to be reckoned with.
+    ASIN:
+        - B07N1K6FYP
+        - B01M4MB3DK
+        - B08DJB4636
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 19, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLH-1 lithium-ion battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "64"
+    BuiltInFlash: No (FL-LM3 external flash included)
+    BuyingOptions: $1,699.00
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 91 x 67 mm (5.28 x 3.58 x 2.64″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (Olympus ORF)
+    FlashModes: Redeye, Fill-in, Flash Off, Red-eye Slow sync.(1st curtain), Slow sync.(1st curtain), Slow sync.(2nd curtain), Manual
+    FlashRange: 9.10 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands down to 64)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2000/£1850/€1999 body only, £2400/€2599 with 12-40mm F2.8
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 237 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 202 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VIII
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 23, 2016"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.48× (0.74× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 574 g (1.27 lb / 20.25 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: ""

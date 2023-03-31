@@ -1,0 +1,98 @@
+ProductCode: canon_sd1200is
+Award: ""
+ImageURL: /files/p/products/canon_sd1200is/c619276316154c7d8cd08e1f4b62b2b4.png
+Name: Canon PowerShot SD1200 IS (Digital IXUS 95 IS)
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd1200is
+ReviewData:
+    ExecutiveSummary: Replacement for the SD1100 IS, the SD 1200 IS (Ixus 95) is yet another slimline, metal-bodied pocket camera with a 3x zoom and 2.5" LCD screen and a choice of colors. As with all Ixus/Elph models the emphasis is on style and ease of use, and specification is fairly high (Smart Auto mode, optical image stabilizer, DIGIC 4 processor), but this is a pretty, ultra compact point and shoot camera, nothing more, nothing less.
+    ProductPhotos:
+        - /files/p/products/canon_sd1200is/shots/a604ca743ca641a7b94dc827e3a728b0.png
+        - /files/p/products/canon_sd1200is/shots/4128dbaefb764239bc096fa608502ca7.png
+        - /files/p/products/canon_sd1200is/shots/ac6698958b1349d987786b57ec01889b.png
+        - /files/p/products/canon_sd1200is/shots/364115e19d0c4275b6c013de3e024981.png
+        - /files/p/products/canon_sd1200is/shots/71f0be465ebe453baabd9bef3e56d26e.png
+    ReviewSummary: null
+    ASIN:
+        - B003BDKSFU
+        - B001SER49M
+        - B001SER4A6
+Specs:
+    Announced: Feb 18, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 86 x 55 x 22 mm (3.39 x 2.17 x 0.87″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 35–105 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2048, 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2, 10, Custom, Face)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/MMC/MMCplus/HD MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

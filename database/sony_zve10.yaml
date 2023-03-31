@@ -1,0 +1,167 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211112160618/https://www.dpreview.com/reviews/sony-zv-e10-review
+ProductCode: sony_zve10
+Award: ""
+ImageURL: /files/p/products/sony_zve10/28793cd13c1f4ec0b86954f97353050b.png
+Name: Sony ZV-E10
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/sony/slrs/sony_zve10
+ReviewData:
+    ExecutiveSummary: The Sony ZV-E10 is an E-mount mirrorless camera with a 24MP APS-C sensor. The camera is designed for vlogging and features a fully articulating touchscreen, product showcase feature and soft skin features, a three-capsule microphone, and sockets for an external mic and headphones. It also has Sony's top-notch autofocus system, which tracks eyes and faces with ease. While it can capture 4K video, there's a hefty crop at 30p, but not at 24p. The ZV-E10 can live stream video (using UVC/UAC standards) over its USB-C connection.On the stills side, image quality is very good, bursts can be taken at 11 fps with continuous autofocus and battery life is best-in-class. While it lacks a mode dial, the camera is quite customizable.
+    ProductPhotos:
+        - /files/p/products/sony_zve10/shots/3c3a0767bf924f2684b9be56c6e9d51a.png
+        - /files/p/products/sony_zve10/shots/4a3fd7e68f87469e8598b0a672abaaa4.png
+        - /files/p/products/sony_zve10/shots/4fa09db89b0548e593e0910c3024c813.png
+        - /files/p/products/sony_zve10/shots/132b92b2cf6a4008b358b97064ef30c7.png
+        - /files/p/products/sony_zve10/shots/7d52cb79e3cb44e18e75470c4b21c2e6.png
+        - /files/p/products/sony_zve10/shots/5950a84b78d14de08defe79d3364853f.png
+        - /files/p/products/sony_zve10/shots/d1e1c4b40b724382ad13caeadaf03263.png
+    ReviewSummary:
+        GoodFor: Vloggers and filmmakers shooting mostly static shots.
+        NotSoGoodFor: Any form of vlogging that involves movement or capturing fast action. Stills shooters who want a viewfinder.
+        Conclusion: 'As a vlogging platform, the ZV-E10 seemingly has a lot to offer: it shoots oversampled 4K/24p video using the full width of its sensor, features a selfie touchscreen, a good built-in directional microphone, headphone/microphone ports and class-leading video autofocus. Battery life is also top of its class and the camera is livestream ready, out of the box. Unfortunately, 4K video capture results in a distracting ''jello effect'' for clips with movement and/or fast action. And Full HD video shows poor detail capture compared to the competition.'
+    ASIN:
+        - B09BBGN298
+        - B09BBKVMCD
+        - B09BBMQKSR
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jul 27, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery & charger
+    BatteryLifeCIPA: "440"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $698.00 - $798.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 115 x 64 x 45 mm (4.53 x 2.52 x 1.77″)
+    DriveModes:
+        - Single shooting
+        - Continuous
+        - Self-timer
+        - Bracketing
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Sony ARW)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, XAVC S, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-32000 (expands to 50-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $700 (body only), $800 (w/16-50 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Multiple
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 1920 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 1920 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "425"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "82%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 27, 2021"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Hand-held Twilight
+        - Night Portrait
+        - Anti Motion Blur
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC + Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 343 g (0.76 lb / 12.10 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth

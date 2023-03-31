@@ -1,0 +1,114 @@
+ProductCode: nikon_cps3300
+Award: ""
+ImageURL: /files/p/products/nikon_cps3300/98fdbe5c9a584fd78f89d607ba25f123.png
+Name: Nikon Coolpix S3300
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 26 – 156 mm (6×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps3300
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/nikon_cps3300/shots/b1330e5848b247e296431b36cf4495e8.png
+        - /files/p/products/nikon_cps3300/shots/5091fde0f2cc49518b007e3edacfaf30.png
+    ReviewSummary: null
+    ASIN:
+        - B0073HSJ5Q
+        - B0073HSIY8
+        - B0073HSJ8S
+Specs:
+    AEBracketing: ""
+    Announced: Feb 1, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL19 Lithium-Ion battery
+    BatteryLifeCIPA: "180"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 95 x 58 x 19 mm (3.74 x 2.28 x 0.75″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow-sync
+    FlashRange: ""
+    FocalLengthEquiv: 26–156 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–6.5
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 6×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 3264 x 2448 , 1600 X 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720p (30 fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 42 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 128 g (0.28 lb / 4.52 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,116 @@
+ProductCode: canon_a800
+Award: ""
+ImageURL: /files/p/products/canon_a800/0a27836643204c24803c6ff6c65a3bfc.png
+Name: Canon PowerShot A800
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 37 – 122 mm (3.3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a800
+ReviewData:
+    ExecutiveSummary: One of the early 2011 A series compacts, the 10MP A800 uses 2 AA batteries and features a 2.5" LCD, 3.3x optical zoom lens starting at 37mm and comes with the comapny's Smart Auto mode. The A800 is available in black, red, silver and black.
+    ProductPhotos:
+        - /files/p/products/canon_a800/shots/acfdc482b08c4ebc8bfc89f259c8798a.png
+        - /files/p/products/canon_a800/shots/5a450db43b764f97842e03d5aa6af99a.png
+        - /files/p/products/canon_a800/shots/ef482937d66042bca53b9fa4b52bfdfd.png
+    ReviewSummary: null
+    ASIN:
+        - B004HW73TI
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 2 x AA batteries
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 61 x 31 mm (3.7 x 2.4 x 1.22″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 37–122 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 25 cm (9.84″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3.3×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2048, 2816 x 2112, 1600 x 1200, 640 x 480
+    Processor: DIGIC 3
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10sec, custom)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/HCMMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 186 g (0.41 lb / 6.56 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

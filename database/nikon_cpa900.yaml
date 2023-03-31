@@ -1,0 +1,154 @@
+ProductCode: nikon_cpa900
+Award: ""
+ImageURL: /files/p/products/nikon_cpa900/2302923a59aa48c795651654df580f6b.png
+Name: Nikon Coolpix A900
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 840 mm (35×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpa900
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Coolpix A900 is a slim long zoom compact camera that fits comfortably into any user’s pocket. While the A900 may be small, it packs an amazing 35x Optical Zoom NIKKOR glass lens (70x with Dynamic Fine Zoom) that helps reach far away subjects. Supported by a 20-megapixel BSI CMOS sensor that renders amazing quality and detail, users can also capture 4K UHD video at 30p; an impressive feature set for such a lightweight and pocketable compact camera. A 3-inch tilting high resolution 920k-dot LCD display helps frame an image at any angle and easily navigate through numerous creative options at the user’s disposal. The A900 also makes it easy to share incredible images and video using Nikon SnapBridge Wi-Fi system.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpa900/shots/7ad7a983177b482aa6dc765f3d0319a9.png
+        - /files/p/products/nikon_cpa900/shots/2d5032fa76954f24901a21b8d2cc4b7e.png
+        - /files/p/products/nikon_cpa900/shots/c55edf5be47f400bb5d7114c99a74da5.png
+        - /files/p/products/nikon_cpa900/shots/321b2a951fb347ffb506ac327583ceec.png
+        - /files/p/products/nikon_cpa900/shots/02c5b78ff24e44aca7e30cdc691b79c3.png
+        - /files/p/products/nikon_cpa900/shots/08164171e45d455b98ee8daa3d4e8e4e.png
+    ReviewSummary: null
+    ASIN:
+        - B01C3LE9OQ
+        - B01C3LE716
+Specs:
+    AEBracketing: ""
+    Announced: Feb 23, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL12 lithium-ion battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 113 x 67 x 40 mm (4.45 x 2.64 x 1.57″)
+    DriveModes:
+        - Single
+        - Continuous H
+        - Continuous L
+        - Continuous H (120/60)
+        - Pre-shooting cache
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: 6.00 m (at Auto ISO)
+    FocalLengthEquiv: 24–840 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-3200
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $399
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.4–6.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 35×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p), 1920 x 1080 (60p, 50p, 30p, 25p), 1280 x 720 (60p, 30p, 25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Multiple Exposure Lighten
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+        - Superlapse Movie
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: 'High speed modes: 1080/15p and 480/120p'
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 289 g (0.64 lb / 10.19 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: Has 'always on' Bluetooth to maintain connection

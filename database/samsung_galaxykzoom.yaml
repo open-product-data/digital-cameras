@@ -1,0 +1,107 @@
+ProductCode: samsung_galaxykzoom
+Award: ""
+ImageURL: /files/p/products/samsung_galaxykzoom/bd311f30d9bb4424bed13625622dbbed.png
+Name: Samsung Galaxy K Zoom
+ShortSpecs:
+    - 21 megapixels
+    - 4.8″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_galaxykzoom
+ReviewData:
+    ExecutiveSummary: The Samsung Galaxy K Zoom is the successor to the Galaxy S4 Zoom. It offers a slimmer body than its predecessor and all around upgraded specs. The Super AMOLED screen has grown from 4.3 to 4.8 inches which brings it close to the 5-inch displays of many current top-end smartphones but the resolution remains at 720p.Android 4.4 is powered by an Exynos 5 Hexa SoC with six CPU cores and 2GB RAM. There are only 8GB of internal memory but it can be expanded, thanks to a microSD slot. LTE, Bluetooth 4.0, Wi-Fi and NFC are all on board and power is provided by a 2,430 mAh battery.On the camera module, the most obvious change is the increased pixel count. The 1/2.3-inch BSI CMOS sensor now captures 20.7MP images versus the S4 Zoom's 16MP. The 10x zoom lens offers the same 24-240mm equivalent focal range and F3.1-6.3 maximum aperture as the S4 Zoom and comes with optical image stabilization. There is also a xenon flash and a 2MP front camera for the occasional selfie.
+    ProductPhotos:
+        - /files/p/products/samsung_galaxykzoom/shots/f8615869926d4530ba2a027e58d01f5a.jpeg
+        - /files/p/products/samsung_galaxykzoom/shots/ef9ed21d9b1c41499ed5df916023e5da.jpeg
+        - /files/p/products/samsung_galaxykzoom/shots/2d91244e62094215aa004eb981b914cd.jpeg
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Apr 29, 2014
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: Yes (LED lamp)
+    Battery: Battery Pack
+    BatteryDescription: Li-Ion 2430 mAh
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Xenon)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: sRGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 138 x 71 x 17 mm (5.41 x 2.79 x 0.65″)
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat:
+        - PEG, PNG, GIF, WBMP, BMP, AGIF
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–240 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "Yes"
+    ISO: 100-3200
+    ImageParameters: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 5248 x 3936
+    MaximumAperture: F3.1–6.3
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: 1.3GHz quad-core, 1.7GHz dual-core Exynos Hexa processor
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 4.8″
+    ScreenType: Super AMOLED
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageIncluded: 8GB
+    StorageTypes: Micro SD
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (with optional app)
+    TouchScreen: Yes (Capacitive touchscreen)
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: 1080p, 60fps
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

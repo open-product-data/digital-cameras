@@ -1,0 +1,128 @@
+ProductCode: canon_sx410is
+Award: ""
+ImageURL: /files/p/products/canon_sx410is/e49e0bce27a7421c9a382969ee5e881e.png
+Name: Canon PowerShot SX410 IS
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 960 mm (40×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx410is
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot SX410 IS features a 40x optical zoom range, Intelligent IS image stabilization system and a 20 Megapixel CCD sensor.  The lens and sensor provide powerful performance in a very compact and portable body – weighing less than 11.5 ounces and measuring just 2.72 inches high and 3.35 inches deep from the rear LCD screen to the front of the lens. The PowerShot SX410 IS camera is always ready for action with a dedicated movie button to easily start and stop recording 720p HD video. Additionally, the PowerShot SX410 IS camera can capture tight close-up shots of subjects from far distances through the use of the camera’s full 40x zoom range.  The camera is also outfitted with ECO mode to help extend battery life allowing more photos to be taken over a longer period of time.'
+    ProductPhotos:
+        - /files/p/products/canon_sx410is/shots/53736c3683624220be8d64d21a70b819.png
+        - /files/p/products/canon_sx410is/shots/a84b51d2b8924005997cf3d6e6443494.png
+    ReviewSummary: null
+    ASIN:
+        - B00T3ER1OW
+        - B00T3ER4S0
+Specs:
+    Announced: Feb 6, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-11LH
+    BatteryLifeCIPA: "185"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 0.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 69 x 85 mm (4.09 x 2.72 x 3.35″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Live View Control
+        - Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF v2.0)
+    FlashModes: Auto, flash on, slow synchro, flash off
+    FlashRange: 5.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–960 mm
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine
+    LiveView: "Yes"
+    MSRP: $279
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 40×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 4+
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (25p), 640 x 480 (30p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Face Self-Timer
+        - Low Light
+        - Monochrome
+        - Super Vivid
+        - Poster Effect
+        - Snow
+        - Fireworks
+        - Long Shutter
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 325 g (0.72 lb / 11.46 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

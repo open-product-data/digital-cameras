@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220125001033/https://www.dpreview.com/reviews/sony-cybershot-dsc-rx1r
+ProductCode: sony_dscrx1r
+Award: ""
+ImageURL: /files/p/products/sony_dscrx1r/3fc7b29b0f9b47c7a9a775454e627f3d.png
+Name: Sony RX1R
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscrx1r
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX1R is a variation of the RX1, which had the impressive distinction of being the first full frame fixed lens camera to enter the market. The variation of the RX1R (the R stands for "resolution"), is that it lacks the anti-aliasing filter of its counterpart. Optical low-pass filters minimize moire and color artifacts, but slightly soften images. With the absence of that filter, the RX1R gains sharpness and higher effective resolution, but may require more post-processing to counteract moire.That sizable 24.3MP sensor is paired with a 35mm F2 lens outfitted with a dedicated aperture ring. A high resolution 1.23 million dot display is provided, as is an accessory hot shoe able to accept both the FDA-V1K optical viewfinder and FDA-EV1MK electronic viewfinder accessories. A dedicated button stops and starts 1080 HD video recording.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx1r/shots/24932f1d6e344216bd211135ff979652.png
+        - /files/p/products/sony_dscrx1r/shots/606fb43fea344c01815846c0e5ba6845.png
+        - /files/p/products/sony_dscrx1r/shots/9046909ad6784d73a53d7698f5a413d5.png
+    ReviewSummary: null
+    ASIN:
+        - B00DGQMJE0
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Jun 27, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: Yes, built -in LED type
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BX1 battery
+    BatteryLifeCIPA: "270"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: RGB Primary color
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (9.1x)
+    Dimensions: 113 x 65 x 70 mm (4.45 x 2.56 x 2.76″)
+    DriveModes:
+        - Single-frame advance
+        - Continuous advance
+        - Continuous adv Priority AE
+        - Speed Priority Continuous
+        - Self-timer
+        - Self Portrait Self-timer
+        - Continuous Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - MR (Memory Recall) 1 / 2 / 3
+        - Movie
+        - Sweep shooting
+        - Scene Selection
+        - Intelligent Auto
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - RAW (ARW2.3 Format)
+        - RAW+JPEG
+        - JPEG
+    FlashModes: Auto, On, Off, Slow Sync, Rear Sync, Wireless
+    FlashRange: 6.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $2,800/€3,100/£2,600
+    MacroFocusRange: 14 cm (5.51″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 24 cm (9.45″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 3936 x 2624, 3936 x 2216, 2640 x 1760, 2640 x 1488
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 50, 25, 24 fps), 1440 x 1080 (30, 25 fps), 1280 x 720 (30 fps), 640 x 480 (30, 25 fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Jun 27, 2013"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Sports
+        - Sunset
+        - Night Portrait
+        - Night Scene
+        - Hand-held Twilight
+    ScreenDots: 1,229,000
+    ScreenSize: 3″
+    ScreenType: Xtra FineTFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'AVCHD: 28M PS (1920×1080, 60p/50p), 24M FX (1920×1080, 60i/50i), 17M FH (1920×1080, 60i/50i), 24M FX (1920×1080, 24p/25p), 17M FH (1920×1080, 24p/25p)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 482 g (1.06 lb / 17.00 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

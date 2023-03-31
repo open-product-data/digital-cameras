@@ -1,0 +1,173 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412003658/https://www.dpreview.com/reviews/olympus-e-pm2
+ProductCode: oly_epm2
+Award: silver
+ImageURL: /files/p/products/oly_epm2/3575a1e9301c451c82ba12af019e9a53.png
+Name: Olympus PEN E-PM2
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 77
+URL: /products/olympus/slrs/oly_epm2
+ReviewData:
+    ExecutiveSummary: The Olympus Pen E-PM2 is an entry-level Micro Four Thirds system camera, built around an excellent 16MP CMOS sensor (the same one that Olympus uses in its flagship OM-D) with full 1080 HD video. It's one of the smallest mirrorless cameras on the market and boasts 8 frames per second continuous shooting. This second generation "Mini" gains a customizable function button and a grip for a solid feel in the hand. A fixed 3.0 inch LCD is touch-friendly, enabling useful features like touch focus and touch shutter.Manual exposure modes are available for more hands-on users, and activating the optional Super Control Panel provides quick access to key shooting parameters without diving deep into the camera's menu system.
+    ProductPhotos:
+        - /files/p/products/oly_epm2/shots/74001d28fc204a4180168f01f6209bc2.png
+        - /files/p/products/oly_epm2/shots/711872d08fde4232a17be014b6e04212.png
+        - /files/p/products/oly_epm2/shots/36583555c1e14c1d97eb1c1c4861b509.png
+    ReviewSummary:
+        GoodFor: Everyday 'auto everything' photography where speed, responsiveness and great JPEGs are what you need.
+        NotSoGoodFor: More involved, critical work where the lack of external controls can make more 'hands-on' operation a little difficult.
+        Conclusion: The Olympus PEN-EPM2 is a point-and-shoot mirrorless camera which does exactly what a novice will need it to. For more adventurous users, there's a lot of functionality hidden beneath the skin (including the image quality of the OM-D) making the E-PM2 a potentially very attractive second camera.
+    ASIN:
+        - B0099W56DQ
+        - B00GD796K4
+        - B0096WDCC6
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BLS-5 rechargeable battery & charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: No (bundled external flash)
+    BuyingOptions: $449.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 110 x 64 x 34 mm (4.33 x 2.52 x 1.34″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - i Auto
+        - Program AE
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Bulb
+        - Time
+        - Scene select  AE
+        - Art Filter
+        - Underwater
+    ExternalFlash: Yes (Clip-on FL-LM1 included, Hot-shoe)
+    FileFormat:
+        - RAW
+        - JPEG
+        - RAW+JPEG
+        - MPO(3D still)
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync, Manual (3 levels)
+    FlashRange: 7.00 m (bundled FL-LM1)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-C)
+    HeadphonePort: ""
+    ISO: Auto (200 - 1600), 100, 200, 400, 800, 1600, 3200, 6400, 12800, 16000, 20000, 25600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "35"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 2560 x 1920, 1024 x 768
+    Processor: ""
+    RemoteControl: Yes (Optional RM-UC1)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 21, 2013"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport, Night
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv.
+        - Wide Conv.
+        - Macro Conv.
+        - 3D
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 269 g (0.59 lb / 9.49 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

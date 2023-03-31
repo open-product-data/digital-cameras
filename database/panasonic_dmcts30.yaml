@@ -1,0 +1,131 @@
+ProductCode: panasonic_dmcts30
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcts30/1cba2ec150714c9d895d83885ec322f9.png
+Name: Panasonic Lumix DMC-TS30 (Lumix DMC-FT30)
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcts30
+ReviewData:
+    ExecutiveSummary: The Lumix DMC-TS30 (FT30 in some regions) is an inexpensive rugged camera that can dive 8 meters (23ft) underwater. It's also shockproof to 1.5m/5ft, freezeproof to -10C/+14F, and dustproof. It combines a 16MP sensor with a 25-100mm zoom lens, with optical image stabilization. Photos are composed on a 2.7" LCD with 230k dots. The TS30 can record 720/30p video with monaural sound and offers a new "torch light" function to brighten up underwater scenes.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcts30/shots/d5abf3cdfdc441c482c22ec7f2325af1.png
+        - /files/p/products/panasonic_dmcts30/shots/818a6f7a2baa4fe79b1a710dce17587e.png
+        - /files/p/products/panasonic_dmcts30/shots/83d226ec38a0400cb2753d1275216787.png
+    ReviewSummary: null
+    ASIN:
+        - B00RBG60U0
+        - B00RBG5QKA
+        - B00RBG61KY
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "250"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color filter
+    ColorSpace: ""
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (2X-4X)
+    Dimensions: 104 x 58 x 20 mm (4.09 x 2.28 x 0.79″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof to 8m/23ft, shockproof to 1.5m/5ft, freezeproof to -10C/+14F)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, auto w/redeye reduction, on, slow sync w/redeye reduction, off
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 25–100 mm
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: 'Auto, 100-1600 (High sentivity: 100-6400)'
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: $179
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–5.7
+    MaximumShutterSpeed: 1/1300 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby 1/2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 220MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 142 g (0.31 lb / 5.01 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,124 @@
+ProductCode: panasonic_dmcfh10
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfh10/9e873d0b5e5d47bf9ca9733b96de6ca7.png
+Name: Panasonic Lumix DMC-FH10
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfh10
+ReviewData:
+    ExecutiveSummary: The DMC-FH10 (FS50) packs a 24mm ultra wide-angle lens with 5x optical zoom into a slim, compact body. The 24mm ultra wide-angle lens gives you a wider range of composition possibilities with approx. 213% larger viewing space compared to that of 35mm camera
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfh10/shots/a2632fc2e6d64652aa1301497527c951.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATE7SJS
+Specs:
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 54 x 18 mm (3.7 x 2.13 x 0.71″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Intelligent Auto
+        - Normal Picture
+        - Panorama Shot
+        - SCN
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–6.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Photo Frame
+        - Starry Sky
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 90 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 103 g (0.23 lb / 3.63 oz)
+    WhiteBalancePresets: "4"

@@ -1,0 +1,106 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210928124905/https://www.dpreview.com/reviews/q210grouptravelzoom
+ProductCode: fujifilm_f80exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_f80exr/1c078b063a6a4c9799f6e4988a65651d.png
+Name: FujiFilm FinePix F80EXR (FinePix F85EXR)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 27 – 270 mm (10×)
+ReviewScore: 70
+URL: /products/fujifilm/compacts/fujifilm_f80exr
+ReviewData:
+    ExecutiveSummary: Fujifilm's FinePix F80 EXR features the same innovative EXR sensor technology (albeit not exactly the same sensor) that was debuted in the F200 EXR, last year, and replaces the F70EXR (upping the pixel count and adding some important new features). Fuji's EXR sensors differ from conventional technology by breaking with the long-established Bayer pattern, which enables the F80EXR to operate in three modes. In resolution priority mode, all of the camera's 12 million photodiodes are used to create and image, but when switched to 'D-Range Priority' or 'High ISO and low Noise', neighboring pixels are paired. This drops the total resolution down to 6MP, but gives the sensor a wider effective dynamic range (DR mode) or less per-pixel noise (SN mode. The F80 EXR’s AF system is fast and reliable, and its AWB system is rarely stuck for the right color balance, but its metering system is noticeably prone to underexposure in some conditions, and image quality in video mode isn't fantastic. The triple-mode sensor is undoubtedly the key selling point of the F80 EXR. It is a shame though that its interface isn't better designed, and the EXR modes more sensibly implemented.
+    ProductPhotos:
+        - /files/p/products/fujifilm_f80exr/shots/fdf61fc41c414aeb9a4b97ca3f6c7155.png
+        - /files/p/products/fujifilm_f80exr/shots/888c4dec9ed24d1fbf47a49fcc4bbb36.png
+        - /files/p/products/fujifilm_f80exr/shots/b6c698b0c05c42da8c303690fc3c883b.png
+    ReviewSummary:
+        GoodFor: Capturing excellent highlight detail (in 6MP DR mode)
+        NotSoGoodFor: Novices, point-and-shooters and anyone that needs to make large prints.
+        Conclusion: The key selling point of the F80 EXR is Fuji's EXR sensor. When switched to the 'DR' setting, the F-80 EXR can produce excellent results, and the 'SN' mode also helps keep high ISO images relatively noise-free. In some other respects though, the F-80 EXR is outpaced by the competition.
+    ASIN:
+        - B0035WTVQE
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-50 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 4.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 59 x 28 mm (3.9 x 2.32 x 1.1″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 27–270 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600, (3200, 6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2816 x 2112, 2816 x 2112, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: EXR
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "70%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jun 16, 2010"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 210 g (0.46 lb / 7.41 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

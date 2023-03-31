@@ -1,0 +1,111 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220129071637/https://www.dpreview.com/reviews/q110superzoomgroup
+ProductCode: fujifilm_hs10
+Award: ""
+ImageURL: /files/p/products/fujifilm_hs10/305177dc03bc4590842b961a3879ca52.png
+Name: FujiFilm FinePix HS10 (FinePix HS11)
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 68
+URL: /products/fujifilm/compacts/fujifilm_hs10
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix HS10 is an advanced superzoom which combines a huge 30x (24-720mm equiv.) optical zoom lens with a 10MP back illuminated CMOS sensor. It includes full HD 1080p video recording, RAW capture, P/A/S/M shooting modes and a Motion Remover mode that removes unwanted objects from photographs. The HS10 also offers 10 fps full resolution continuous shooting with AF Tracking and high speed movie recording at 1000 fps. With its full manual controls, an abundance of buttons and dials and a proper zoom ring the HS10 is, from a user interface point of view, firmly located in DSLR territory. However, viewed at 100%, the HS10's output isn’t too pretty, showing a mixture of noise, noise reduction and other sharpening artifacts. Again, this should not make you worry too much if you don't usually produce large prints of your pictures. Things inevitably get worse at higher sensitivities but again, the difference between the HS10 and the best in class will only be visible at large magnifications. Luckily the crucial stuff, such as focus and exposure, is usually spot on.
+    ProductPhotos:
+        - /files/p/products/fujifilm_hs10/shots/5d35eabfaaa54fa1bced1133780c75ac.png
+        - /files/p/products/fujifilm_hs10/shots/844295fe52b847238262368ab8ea9b3a.png
+        - /files/p/products/fujifilm_hs10/shots/85c492e40340401b9e79b6b5324ae5f6.png
+        - /files/p/products/fujifilm_hs10/shots/e4f71be38f0649e7b8c4f59c331e1466.png
+    ReviewSummary:
+        GoodFor: Users who need extreme zoom reach and want DSLR-like user control
+        NotSoGoodFor: Low light shooting and manual intervention in video capture
+        Conclusion: The HS10 offers DSLR-like look and feel and an impressive feature set including the longest zoom in this test but the camera struggles (more than some others) in low light w
+    ASIN:
+        - B0035WTVZA
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA batteries (Alkaline, NiMH or Lithium)
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 131 x 91 x 126 mm (5.16 x 3.58 x 4.96″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.10 m
+    FocalLengthEquiv: 24–720 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 3648 x 2056, 2592 x 1944, 2592 x 1728, 2592 x 1440, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 448 x 336 (30, 120, 240 fps), 224 x 168 (420 fps), 224 x 64 (1000 fps)
+    ReviewPreview: "68%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jul 6, 2010"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 45 MB Internal
+    StorageTypes: SD/SDHC Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderCoverage: 97%
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 666 g (1.47 lb / 23.49 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

@@ -1,0 +1,93 @@
+ProductCode: pentax_optioe90
+Award: ""
+ImageURL: /files/p/products/pentax_optioe90/56307f4fe99e476a961c352a64ac1081.png
+Name: Pentax Optio E90
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 32 – 95 mm (3×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optioe90
+ReviewData:
+    ExecutiveSummary: The Pentax Optio E90 budget compact features a non-slip rubber coating and a simple, large-buttoned interface similar to previous E series models. It is built around a 10MP sensor, includes a 2.7 inch LCD and 3x optical zoom lens (32-95mm equiv). It gains smile recognition to ensure shots are snapped while your subject smiles.
+    ProductPhotos:
+        - /files/p/products/pentax_optioe90/shots/fcd32cf09e35468ca224f724c44ff284.png
+        - /files/p/products/pentax_optioe90/shots/8e0376e7db81416188f6460c5e974c7e.png
+        - /files/p/products/pentax_optioe90/shots/7bb892e03861400990df92c7e60d7b9c.png
+    ReviewSummary: null
+    ASIN:
+        - B0035LBM9O
+Specs:
+    Announced: Jan 25, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: 2 x AA batteries (Alkaline, Lithium or NiMH)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 102 x 59 x 25 mm (4.02 x 2.32 x 0.98″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: ""
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 31.5–94.5 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200,
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LiveView: "Yes"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "3"
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2052, 3072 x 2304, 2592 x 1944, 2048 x 1536, 1600 x 1200, 1024 x 768, 640 x 480
+    Processor: Prime
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (15 fps), 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 6 MB
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 145 g (0.32 lb / 5.11 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

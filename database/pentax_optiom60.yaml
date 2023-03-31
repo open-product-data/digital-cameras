@@ -1,0 +1,87 @@
+ProductCode: pentax_optiom60
+Award: ""
+ImageURL: /files/p/products/pentax_optiom60/cad36d84d76a40b59922b614f94bbaa2.png
+Name: Pentax Optio M60
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 36 – 180 mm (5×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optiom60
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 31, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (D-LI78) & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (up to 5.7x)
+    Dimensions: 95 x 55 x 24 mm (3.74 x 2.17 x 0.94″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Soft, Red-eye reduction
+    FlashRange: 4.40 m (Auto ISO)
+    FocalLengthEquiv: 36–180 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2052, 3072 x 2304, 2592 x 1944, 2048 x 1536, 1600 x 1200, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 50 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 130 g (0.29 lb / 4.59 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""

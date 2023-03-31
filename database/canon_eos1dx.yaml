@@ -1,0 +1,122 @@
+ProductCode: canon_eos1dx
+Award: ""
+ImageURL: /files/p/products/canon_eos1dx/3193fe82fc1a420488bf2e6a044b456a.png
+Name: Canon EOS-1D X
+ShortSpecs:
+    - 18 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos1dx
+ReviewData:
+    ExecutiveSummary: The Canon EOS-1D X is the company's flagship professional DSLR. It's built around an 18MP full-frame sensor capable of shooting at up to 14 frames per second (12fps with AF) and offers a maximum ISO sensitivity of 204,800, effectively replacing both the 1D Mark IV and 1DS Mark III in Canon's lineup. Despite looking a lot like previous 1D-series cameras, the X has been extensively reworked and includes more professional video features than any other Canon DSLR.
+    ProductPhotos:
+        - /files/p/products/canon_eos1dx/shots/1d6c408c172d40f0a5b652e917dfcaef.png
+        - /files/p/products/canon_eos1dx/shots/cfe9c85e2da84d858d55c0d6efa99afc.png
+        - /files/p/products/canon_eos1dx/shots/73efcd0a2ba24c9ab6bb547b054f4308.png
+        - /files/p/products/canon_eos1dx/shots/d83bf437194d42b88acfcb4af1264e89.png
+        - /files/p/products/canon_eos1dx/shots/03c6bb1c70f84b599519a1d42ee4d60f.png
+    ReviewSummary: null
+    ASIN:
+        - B005Y3T1AI?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005Y3T1AI
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Oct 18, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E4N rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $4,375.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 158 x 164 x 83 mm (6.22 x 6.46 x 3.27″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe plus Sync connector)
+    FileFormat: ""
+    FlashModes: E-TTL II Auto Flash, Metered Manual
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-E1, GPE2
+    HDMI: Yes (Mini)
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600, 51200 (50, 102400 and 204800 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "61"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 3456 x 2304, 2592 x 1728
+    Processor: Dual Digic 5+
+    RemoteControl: Yes (N3 connector)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps, 1280 x 720 (60, 50 fps), 640 x 480 (60, 50 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3.2″
+    ScreenType: Clear View II TFT LCD
+    SelfTimer: Yes (2 or 10 sec, remote)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II), UDMA compatible
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (by cable and PC)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: Optional
+    WirelessNotes: LC-5

@@ -1,0 +1,122 @@
+ProductCode: leica_s2
+Award: ""
+ImageURL: /files/p/products/leica_s2/fb4ac5e00d5447b089faa6633c77bfa2.png
+Name: Leica S2
+ShortSpecs:
+    - 38 megapixels
+    - 3″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_s2
+ReviewData:
+    ExecutiveSummary: The monsterous Leica S2 is built around a massive 37.5 megapixel 30x45mm sensor (56% larger than 'full frame'), that puts it squarely into the medium format sector. Sensitivity runs from ISO 80 to 1250 and the camera can shoot 1.5 fps for up to 8 RAW DNG files. On the back you'll find a three inch LCD with 460,000 dots and everything else is pretty much to be expected; focussing is automatic, the S2 boasts three metering modes, four exposure modes, an integral metal shutter which provides 32 to 1/4000 sec and a flash sync of 1/125 sec (optional lens leaf shutter delivers flash sync up to 1/500 sec). Customers willing to spend an extra $5,000/£3,096 will receive an S2-P featuring a sapphire glass monitor screen and 'Platinum Service' support package.
+    ProductPhotos:
+        - /files/p/products/leica_s2/shots/191c97bf7ae94778badbcd0a06589116.png
+        - /files/p/products/leica_s2/shots/f59a6ef9cf504238aeddfa9b64898096.png
+        - /files/p/products/leica_s2/shots/0d356e7645df417f85cd7d71cdf96741.png
+    ReviewSummary: null
+    ASIN:
+        - B002NPCJ0Y?SubscriptionId=AKIAJHZHL2PTF4QQSIQA&tag=dprmobile-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002NPCJ0Y
+Specs:
+    AEBracketing: ""
+    Announced: Sep 23, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $25,000.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 160 x 120 x 81 mm (6.3 x 4.72 x 3.19″)
+    DriveModes: ""
+    EffectivePixels: 38 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto (80-1250)
+    ImageParameters: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LensMount: Leica S
+    LiveView: ""
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7500 x 5000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 32 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (45 x 30 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.86×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1410 g (3.11 lb / 49.74 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

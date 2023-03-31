@@ -1,0 +1,82 @@
+ProductCode: kodak_c643
+Award: ""
+ImageURL: /files/p/products/kodak_c643/045d290efb3c419c8006414dde0d9f73.png
+Name: Kodak EasyShare C643
+ShortSpecs:
+    - 6 megapixels
+    - 2.4″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c643
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000CSBZLI
+        - B000GE74EA
+Specs:
+    Announced: Feb 17, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 92 x 66 x 32 mm (3.62 x 2.6 x 1.26″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.60 m
+    FocalLengthEquiv: 36–108 mm
+    Format: MPEG-4
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2848 x 2134
+    MaximumAperture: F2.7–4.9
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2304 x 1728, 1600 x 1200, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 30 fps, MPEG-4
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2.4″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 22 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 195 g (0.43 lb / 6.88 oz)
+    WhiteBalancePresets: "4"

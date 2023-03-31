@@ -1,0 +1,135 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220524041249/https://www.dpreview.com/reviews/pentax-wg3
+ProductCode: pentax_wg3
+Award: ""
+ImageURL: /files/p/products/pentax_wg3/f89e2eb315d845558b1a812f139ccc5d.png
+Name: Pentax WG-3
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 71
+URL: /products/pentax/compacts/pentax_wg3
+ReviewData:
+    ExecutiveSummary: The Pentax WG-3 features an image-stabilized 16MP CMOS sensor, and an F2.0-4.9 lens with 25-100mm equivalent zoom. It is waterproof down to 45 feet, drop-resistant from heights of 6.6 feet, dust-resistant, and can handle temperatures down to 14F. Finally, it's back-pocket-safe, meaning you can sit on it and it's still likely to work (the WG-3 can handle up to 220 pounds of pressure).
+    ProductPhotos:
+        - /files/p/products/pentax_wg3/shots/bf0e360c8c5642fe91d6d128aa6253fe.png
+    ReviewSummary:
+        GoodFor: Outdoorsy photographers who want good photo quality and a faster-than-average lens.
+        NotSoGoodFor: People who take a lot of low light or flash photos, or who expect accurate color when shooting underwater.
+        Conclusion: The Pentax WG-3 offers a curvy, rugged design that can handle tough conditions with aplomb. Its lens is noticeably faster than most of its peers at its wide end, which allows for better low light photos. Its unique macro ring light and stand allow for extreme close-ups. Image quality is typical for a compact camera, meaning good, but not great. Low light focusing is quite sluggish, and the flash is weak and slow to recharge. Battery life is below average.
+    ASIN:
+        - B00B728M7S
+        - B00B728M5U
+Specs:
+    AEBracketing: ""
+    Announced: Jan 29, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI92 rechargeable battery & charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 124 x 64 x 33 mm (4.9 x 2.5 x 1.3″)
+    DriveModes:
+        - One Shot
+        - Self-Timer (10s, 2s, Remote 3s)
+        - Continuous
+        - Burst
+        - Remote Control (3s, 0s)
+        - Auto Bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Crushproof, Waterproof, Shockproof, Dustproof, Freezeproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPG (EXIF 2.3)
+        - DCF 2.0
+        - PIM III
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 3.40 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–100 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro, Type-D)
+    HeadphonePort: ""
+    ISO: Auto 125-6400, 125, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Best, Better, Good
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $299
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 3216, 4224 x 2376, 3216 x 3216, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps)
+    ReviewPreview: "71%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 19, 2013"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: Widescreen TFT color LCD with anti-reflective coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Stereo
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Interval shot mode for stills and movie)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 230 g (0.51 lb / 8.11 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

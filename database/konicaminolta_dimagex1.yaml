@@ -1,0 +1,95 @@
+ProductCode: konicaminolta_dimagex1
+Award: ""
+ImageURL: /files/p/products/konicaminolta_dimagex1/2f7ec6d0cd964020b2a6117f6685d771.png
+Name: Konica Minolta DiMAGE X1
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 37 – 111 mm (3×)
+ReviewScore: 0
+URL: /products/konicaminolta/compacts/konicaminolta_dimagex1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000HZDYGA
+        - B000FOKJDY
+Specs:
+    AEBracketing: ""
+    Announced: Jul 15, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 95 x 68 x 20 mm (3.74 x 2.68 x 0.79″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Red-Eye reduction, On, Off, Night Portrait
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 37–111 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Standard, Economy
+    LensMount: ""
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.5–3.8
+    MaximumShutterSpeed: 1/1250 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 20 fps, unlimited
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 118,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB SD card
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

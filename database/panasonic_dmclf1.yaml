@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202827/https://www.dpreview.com/reviews/high-end-pocketable-compacts-2014-roundup
+ProductCode: panasonic_dmclf1
+Award: ""
+ImageURL: /files/p/products/panasonic_dmclf1/db308618ba224d7fbc0f3381d3732ae9.png
+Name: Panasonic Lumix DMC-LF1
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 200 mm (7.1×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmclf1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Panasonic Lumix DMC-LF1, the first in a new line of Raw-shooting enthusiast compacts. The LF1 marries the sensor from the LX7 to a longer, slower lens and adds an electronic viewfinder. The camera combines a 12MP 1/1.7" CMOS sensor with a 28-200mm equivalent F2.0-5.9 lens and finds room for a 202k dot-equivalent electronic viewfinder. It becomes the fifth Panasonic model to offer Wi-Fi for remote control and wireless communication that can be set up using NFC.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmclf1/shots/3eefec13c8cc400bb477c7bbfe77233b.png
+        - /files/p/products/panasonic_dmclf1/shots/3e50697884284df58dce98e9198712bd.png
+    ReviewSummary: null
+    ASIN:
+        - B00CFCTDMC
+Specs:
+    AEBracketing: ±1 (3 frames at 1/3 EV, 1 EV steps)
+    Announced: Apr 24, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "250"
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (Max 4x)
+    Dimensions: 103 x 62 x 28 mm (4.06 x 2.44 x 1.1″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG (DCF/Exif2.3)
+        - RAW
+        - MPO
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 7.00 m
+    FocalLengthEquiv: 28–200 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Power O.I.S.
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $499.99 / £379
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2–5.9
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 7.1×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 50, 30, 25 fps), 1280 x 720p (60, 50, 30, 25 fps), 640 x 480 (30, 25 fps)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 27, 2014"
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama shot
+        - Sports
+        - Night Portrait
+        - Night Scenery
+        - Handheld Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - Glass Through
+        - 3D Photo
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 87 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x 1080 (60i FHD: 17Mbps, Sensor Output is 60fps; 30fps FHD: 20Mbps / MP4, Sensor Output is 30fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 192 g (0.42 lb / 6.77 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: With NFC capabilities

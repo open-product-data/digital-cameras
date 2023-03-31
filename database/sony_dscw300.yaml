@@ -1,0 +1,86 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412011303/https://www.dpreview.com/reviews/q408premiumgroup
+ProductCode: sony_dscw300
+Award: ""
+ImageURL: /files/p/products/sony_dscw300/7d6e270c497f4b9cbce742cac9290921.png
+Name: Sony Cyber-shot DSC-W300
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw300
+ReviewData:
+    ExecutiveSummary: High end Cyber-shot with plenty of features but little to appeal to the more serious photographer. For many months after its launch in February '08 this was the highest pixel-count compact on the market, and there are still only a handful of cameras to fight for that particular title. A titanium-coated body sets this model apart from the five other less expensive W-series cameras Sony currently builds, and like most of its competitors, it's got lots of user-friendly options including an automatic scene selection mode. What it doesn't have, unlike most high end compacts, is a proper wideangle zoom - the W300 sports a rather pedestrian 35-105mm (equiv.) lens, which - given the price - puts it at something of an immediate disadvantage, titanium body or not. Performance is perfectly good but it's far from class-leading, and there are better cameras around for less money. (April 2009)
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00153WWRK
+Specs:
+    Announced: Feb 25, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (up to 2x)
+    Dimensions: 94 x 59 x 27 mm (3.7 x 2.32 x 1.06″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 5.50 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 4224 x 3168
+    MaximumAperture: F2.8–5.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 4224 x 2816, 4224 x 2376, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30fps), 320 x 240 (8fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Dec 12, 2008"
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 15 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 187 g (0.41 lb / 6.60 oz)
+    WhiteBalancePresets: "7"

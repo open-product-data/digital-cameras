@@ -1,0 +1,123 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023190040/https://www.dpreview.com/reviews/nikonp7100/
+ProductCode: nikon_cpp7100
+Award: ""
+ImageURL: /files/p/products/nikon_cpp7100/83a3e1a5e1bf47f59d633e0dd70e626b.png
+Name: Nikon Coolpix P7100
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 200 mm (7.1×)
+ReviewScore: 69
+URL: /products/nikon/compacts/nikon_cpp7100
+ReviewData:
+    ExecutiveSummary: The Nikon CoolPix P7100  is an updated version of its P7000 enthusiasts' compact. While the specifications improve by gaining an extra control dial and a flip-out LCD, the biggest improvement is to the camera's responsiveness. The Nikon P7100 is a well-rounded camera which offers a huge amount of manual control that is both quick to access and intuitive in use. The large command dials on the front and back of the camera are well positioned and easy to locate by touch, which helps to keep your eyes on your subject. As such, although the P7100 is perfectly capable when used as an auto-everything point and shoot, its true potential is more evident when shooting in PASM modes.Nikon has done a lot to make the P7100 a more genuinely usable enthusiast compact than its predecessor. Everything from image capture to accessing and navigating menus is quicker than it was in the P7000 and the camera as a whole is snappy and a pleasure to use.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp7100/shots/2fb357c2096f4c0aaf6a419b47696c79.png
+        - /files/p/products/nikon_cpp7100/shots/6d540c93cc6548908fcd96c7f6d16fdd.png
+        - /files/p/products/nikon_cpp7100/shots/84b61c64b86a475d8d49427acde2c6f5.png
+    ReviewSummary:
+        GoodFor: Photographers who like to take control, with all of the P7100's external control points you almost never need to enter the menus.
+        NotSoGoodFor: People who want a truly pocketable compact camera. Although the P7100 does offer great manual control there are other cameras with similar image quality in smaller packages.
+        Conclusion: Nikon's engineers have done a lot to address the issues that hindered the P7000 like slow operational speed and quirky handling. The P7100's excellent image quality combined with good ergonomics and build quality make this camera a good choice for anyone looking for a compact camera with a DSLR-like level of manual controls.
+    ASIN:
+        - B005IGVXJS
+Specs:
+    AEBracketing: ±4 (3, 5 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Aug 24, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: DC 7.4 V, 1030 mAh
+    BatteryLifeCIPA: "350"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $640.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (PRE1, PRE2, PRE3)
+    DigitalZoom: Yes (4X)
+    Dimensions: 116 x 77 x 48 mm (4.57 x 3.03 x 1.89″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: 3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Compatible i-TTL Nikon Speedlights)
+    FileFormat: ""
+    FlashModes: Auto, Auto with red-eye reduction, Fill flash, Manual, Slow sync, Rear curtain flash
+    FlashRange: 9.00 m
+    FocalLengthEquiv: 28–200 mm
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: 100 - 3200 + Hi (ISO 6400)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "99"
+    OpticalZoom: 7.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 640 x 480
+    Processor: Expeed C2
+    RemoteControl: Yes (Optional wireless remote)
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 21, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor with anti- reflection coating and 5-level brightness adjustment
+    SelfTimer: Yes (10 or 2 second delay)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 80%
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: Yes (3 or 5 shots in 1, 2 or 3 mired increments on Amber-Blue axis)
+    WeightIncBatteries: 395 g (0.87 lb / 13.93 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211103190534/https://www.dpreview.com/reviews/pentaxk5/
+ProductCode: pentax_k5
+Award: gold
+ImageURL: /files/p/products/pentax_k5/358ed1f10c024a0d9633a538ad10d376.png
+Name: Pentax K-5
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 83
+URL: /products/pentax/slrs/pentax_k5
+ReviewData:
+    ExecutiveSummary: Although at first sight the K-5 is virtually indistinguishable from its predecessor the K-7, there is more novelty to be found 'under the hood'. Arguably the most notable new component is the 16.3 megapixel CMOS sensor. It brings with it a higher maximum sensitivity (ISO 51200 in expanded mode, the highest on a APS-C camera so far), faster continuous shooting (7.0 fps vs the K-7's 5.2) and a 1080p full HD video mode.
+    ProductPhotos:
+        - /files/p/products/pentax_k5/shots/1779713b6d7a4ce3a0f3618b798527ce.png
+        - /files/p/products/pentax_k5/shots/48787aa3e34e401bbdc4e796c9f1f6fa.png
+        - /files/p/products/pentax_k5/shots/67e35b438aaa428982dcb3f0343152f6.png
+        - /files/p/products/pentax_k5/shots/f3c3c04ca4794f8680d59a2dba77d111.png
+        - /files/p/products/pentax_k5/shots/359e036877ac4c3fa1df3126ccb3f70e.png
+        - /files/p/products/pentax_k5/shots/5a638dd352b94bc394b63f3bb2c8460b.png
+    ReviewSummary:
+        GoodFor: enthusiast photographers who need a rugged body and and great low light performance.
+        NotSoGoodFor: shooters who need the quickest possible access to movie mode.
+        Conclusion: The Pentax K-5's compact, solid body, generally well thought-out ergonomics, comprehensive feature set, and excellent image quality, in both still and movie modes make it one of the best APS-C DSLRs currently on the market.
+    ASIN:
+        - B0043M6F1E
+        - B0043M6F14
+Specs:
+    AEBracketing: ±2 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 20, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI90 rechargeable battery & charger
+    BatteryLifeCIPA: "980"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $727.59
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (3)
+    DigitalZoom: "No"
+    Dimensions: 131 x 97 x 73 mm (5.16 x 3.82 x 2.87″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Weather and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, High speed, Rear curtain and Wireless
+    FlashRange: 13.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: Motion JPEG
+    GPS: Optional
+    GPSNotes: O-GPS1
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100 to 12800, in 1, 1/2, 1/3 EV steps (80 to 51200 Extended)
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Good, Better, Best
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3936 x 2624, 3072 x 2048, 1728 x 1152
+    Processor: Prime II
+    RemoteControl: Yes (optional, wired or wireless)
+    Resolutions: 1920 x 1080 (25 fps), 1280 x 720 (25, 30 fps), 640 x 424 (25, 30 fps)
+    ReviewPreview: "83%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 18, 2010"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes ( 2 or 12 seconds)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.7 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.92× (0.61× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "No"
+    WeightIncBatteries: 740 g (1.63 lb / 26.10 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,86 @@
+ProductCode: oly_fe350wide
+Award: ""
+ImageURL: /files/p/products/oly_fe350wide/66c499e0275148c7bb0b8073c619e722.png
+Name: Olympus FE-350
+ShortSpecs:
+    - 8 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe350wide
+ReviewData:
+    ExecutiveSummary: Keenly priced 8 megapixel compact with stylish design and wide angle (28-112mm equiv) 4x zoom lens. Large 3.0" screen rounds off an appealing ultra compact for anyone on a tight budget. April 2009
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0011E4N20
+        - B0011E679C
+        - B0012MZRGC
+Specs:
+    Announced: Jan 22, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (LI-42B) & charger
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (up to 4x)
+    Dimensions: 98 x 56 x 27 mm (3.86 x 2.2 x 1.06″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 3.60 m (ISO 400)
+    FocalLengthEquiv: 28–112 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (64 - 640), 80, 100, 200, 400, 640
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.7–5.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 40 cm (15.75″)
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 15 fps, 320 x 240, 15 fps, (for 29 min)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 20.5 MB Internal
+    StorageTypes: xD Picture Card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 178 g (0.39 lb / 6.28 oz)
+    WhiteBalancePresets: "6"

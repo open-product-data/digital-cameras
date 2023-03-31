@@ -1,0 +1,117 @@
+ProductCode: fujifilm_sl1000
+Award: ""
+ImageURL: /files/p/products/fujifilm_sl1000/1b6b1cfc48164688a26233f79e6dad4e.png
+Name: Fujifilm FinePix SL1000
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1200 mm (50×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_sl1000
+ReviewData:
+    ExecutiveSummary: The 16MP SL1000 features a 24-1200mm (equiv.) optical zoom lens and a newly developed image stabilization system. In addition to the exceptionally wide focal length range, the lens can focus as close 1cm (.39 inches). A 3" articulated rear LCD complements the camera's built-in 920k dot electronic viewfinder. The camera is capable of burst rates of up to 10fps at full resolution. The SL1000 records 1080i60 video alongside stereo audio.
+    ProductPhotos:
+        - /files/p/products/fujifilm_sl1000/shots/57a74615680448c9911d22402fd74c53.png
+        - /files/p/products/fujifilm_sl1000/shots/1be1a7344dc8466ebeecd20d49dccc6b.png
+        - /files/p/products/fujifilm_sl1000/shots/0382742c76ac4ad983054a0fe4153fc2.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1MVU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: ""
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - Programmed AE
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+        - RAW
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–1200 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 300, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: 'US: $399.95'
+    MacroFocusRange: 0 cm (0.15″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 50×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (30fps), 320 x 120 (480 fps), 640 x 480 (120, 30fps), 320 x 240 (240 fps), 640 x 480 (120 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

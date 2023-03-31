@@ -1,0 +1,153 @@
+ProductCode: leica_dlux6
+Award: ""
+ImageURL: /files/p/products/leica_dlux6/f453bdd49818431a991fa290386c33b9.png
+Name: Leica D-Lux 6
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 90 mm (3.8×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_dlux6
+ReviewData:
+    ExecutiveSummary: The Leica D-LUX 6 Digital Camera features a 10.1MP CMOS sensor and an ultra fast f/1.4 Leica Lens.
+    ProductPhotos:
+        - /files/p/products/leica_dlux6/shots/531f9add4f1e491dbf5e661b8caf0f78.png
+        - /files/p/products/leica_dlux6/shots/9ce488120ec74de186625be830121e9b.png
+        - /files/p/products/leica_dlux6/shots/b0e0e84d80394bf6b72c8b4ff25e3dae.png
+    ReviewSummary: null
+    ASIN:
+        - B009E3VFDA
+Specs:
+    AEBracketing: ""
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (up to 4.5x)
+    Dimensions: 111 x 68 x 46 mm (4.37 x 2.68 x 1.81″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Creative Video
+        - Creative Control
+        - Scene
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (DCF/Exif2.3)
+        - RAW
+        - MPO
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 8.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–90 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI TypeC)
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F1.4–2.3
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 3.8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3968 x 2232, 3776 x 2520, 3328 x 1872, 3168 x 2112, 3072 x 2304, 2784 x 1568, 2736 x 2736, 2656 x 1768, 2560 x 1920, 2304 x 2304, 2208 x 1248, 2112 x 1408, 2048 x 1536, 2048 x 1360, 1920 x 1920, 1920 x 1080, 1600 x 1200, 1536 x 1536, 640 x 480, 480 x 480
+    Processor: Venus Engine
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 50, 30, 25 fps), 1280 x 720p (60, 50, 30, 25 fps), 640 x 480 (30, 25 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama shot
+        - Sports
+        - Night Portrait
+        - Night Scenery
+        - Handheld Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - Glass Through
+        - 3D Photo
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images))
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x 1080 pixels, 60p, 50p (PSH: 28Mbps / AVCHD) (Sensor Output is 60, 50fps) ; 1920 x 1080 pixels, 60i, 50i (FSH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps) 1280 x 720 pixels, 60p, 50p (SH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps); 1920 x 1080 pixels, 25 fps (FHD: 20Mbps / MP4) (Sensor Output is 25fps) 1280 x 720 pixels, 30, 25 fps (HD: 10Mbps / MP4) (Sensor Output is 30, 25fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 298 g (0.66 lb / 10.51 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

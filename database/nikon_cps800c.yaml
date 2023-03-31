@@ -1,0 +1,145 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529095110/https://www.dpreview.com/reviews/nikon-coolpix-s800c
+ProductCode: nikon_cps800c
+Award: noAward
+ImageURL: /files/p/products/nikon_cps800c/3cbe8bfad41e4b30a12e5080630d04fb.png
+Name: Nikon Coolpix S800c
+ShortSpecs:
+    - 16 megapixels
+    - 3.5″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 67
+URL: /products/nikon/compacts/nikon_cps800c
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix S800c is the first compact camera from a major manufacturer to openly use the Android mobile operating system. On one side it's a 16MP BSI-CMOS compact camera with a 10x, 25-250mm lens built in, on the other it's a 3.5" OLED touchscreen device running Android 2.3 (Gingerbread).Overall, the Nikon S800c is an interesting hybrid of connected mobile device and traditional compact camera. The end result is a capable, but far from inspiring product which offers a lot of potential but not without some frustrations. Battery life is very poor, responsiveness isn't what we've come to expect (Android's 30 second startup time doesn't help) and image quality is only so-so.
+    ProductPhotos:
+        - /files/p/products/nikon_cps800c/shots/9876915952064e92b66ee9e68805f5b7.png
+        - /files/p/products/nikon_cps800c/shots/0cf21b1c83044c599f00060c164ffc77.png
+        - /files/p/products/nikon_cps800c/shots/585da4496b5c412ca85f2b52bdab0fec.png
+        - /files/p/products/nikon_cps800c/shots/78ddbf74c87741c295608794df3ea690.png
+    ReviewSummary:
+        GoodFor: The connected photographer will love having almost all of the functionality of a modern smartphone, attached to a much better lens and sensor.
+        NotSoGoodFor: Anything where you need endurance or critical image quality. The connectivity options are great, but overall, the sluggish S800c feels like a compromise.
+        Conclusion: The Nikon S800c is an interesting hybrid of connected mobile device and traditional compact camera. The end result is a capable, but far from inspiring product which offers a lot of potential but not without some frustrations. Battery life is very poor, responsiveness isn't what we've come to expect (Android's 30 second startup time doesn't help) and image quality is only so-so.
+    ASIN:
+        - B0090SLKUM
+        - B0090SLKFM
+Specs:
+    AEBracketing: ±2 (at 1/3 EV steps)
+    Announced: Aug 22, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion & charger included
+    BatteryLifeCIPA: "140"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (5.6m)
+    BuyingOptions: $289.99 - $349.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 111 x 60 x 27 mm (4.37 x 2.36 x 1.06″)
+    DriveModes:
+        - Best Shot Selector
+        - Continuous H
+        - Continuous H 60
+        - Continuous H 120
+        - Continuous L
+        - Multi-shot 16
+        - Single
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - Programmed Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG EXIF 2.3
+        - DPOF compliant
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    HDMI: Yes (Mini)
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: 'Suggested retail price : $349.95'
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–5.8
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Expeed C2
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "67%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 4, 2013"
+    SceneModes:
+        - Back Light
+        - Beach
+        - Black and White Copy
+        - Close Up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Snow
+        - Sports
+        - Sunset
+    ScreenDots: 819,000
+    ScreenSize: 3.5″
+    ScreenType: OLED panel with Anti-reflection coating
+    SelfTimer: Yes (10 or 2 seconds)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 1.7 GB
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 184 g (0.41 lb / 6.49 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: with built-in Android OS

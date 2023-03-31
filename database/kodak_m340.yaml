@@ -1,0 +1,97 @@
+ProductCode: kodak_m340
+Award: ""
+ImageURL: /files/p/products/kodak_m340/188b18536ec74e79bcdfd14f811636f1.png
+Name: Kodak EasyShare M340
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m340
+ReviewData:
+    ExecutiveSummary: The Kodak Easyshare M340 is another basic-specced M series camera with a 10MP sensor, 2.7 inch LCd and a 3x optical zoom lens. The slim compact comes in blue, blue-green, silver, and red colors.
+    ProductPhotos:
+        - /files/p/products/kodak_m340/shots/d88ca6af4d194f47aa8b18d0002597ed.png
+        - /files/p/products/kodak_m340/shots/2ac98d5a43c742eda3e22dc791067b16.png
+        - /files/p/products/kodak_m340/shots/b71241078d5c4afcaabf906985c4a1d1.png
+    ReviewSummary: null
+    ASIN:
+        - B001OC7ITY
+        - B001OC7IUI
+Specs:
+    Announced: Jan 5, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak KLIC-7001 Lithium-Ion & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 96 x 59 x 19 mm (3.78 x 2.32 x 0.75″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 35–105 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3664 x 2748
+    MaximumAperture: F3.1–5.7
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3664 x 2442, 3664 x 2062, 2592 x 1944, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 115 g (0.25 lb / 4.06 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

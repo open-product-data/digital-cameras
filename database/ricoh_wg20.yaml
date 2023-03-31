@@ -1,0 +1,120 @@
+ProductCode: ricoh_wg20
+Award: ""
+ImageURL: /files/p/products/ricoh_wg20/12f6737021614bb39dcbe6e2b23f2d0d.png
+Name: Ricoh WG-20
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_wg20
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Despite its compact, lightweight body, the Ricoh WG-20 offers outstanding specifications that outperform standard digital cameras and smartphones under a variety of demanding outdoor conditions. Empowering consumers to focus on the moment, the Ricoh WG-20 is waterproof to 33 feet, shockproof from drops of up to five feet, coldproof to 14 degrees Fahrenheit and crushproof, withstanding up to 220 foot-pounds of force. Thanks to a 14-megapixel sensor, the Ricoh WG-20 is capable of producing high-quality images ideal for printing and sharing. Powered by a state-of-the-art image processing engine and digital shake-reduction system, the Ricoh WG-20 creates sharp, blur-free images even in low-light or shake-prone conditions. Finally, capturing rich, detailed video is simple with the WG-20’s HD movie recording mode which offers a variety of movie editing functions, such as extracting a still image from movie data and inserting titles at the beginning and end of a movie clip.'
+    ProductPhotos:
+        - /files/p/products/ricoh_wg20/shots/f3d812c75e684837b5ed8b5217ed86b7.png
+        - /files/p/products/ricoh_wg20/shots/5d84aae0170f4eddb5473cb1c3609a11.png
+        - /files/p/products/ricoh_wg20/shots/25f304a1d8344349b277a74559ccb7c0.png
+        - /files/p/products/ricoh_wg20/shots/2505bd4a35014240b71004fb195ec95b.png
+        - /files/p/products/ricoh_wg20/shots/065fea6af49f48cc88d6e145e30aa197.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±2
+    Announced: Feb 5, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: D-LI92 lithium-ion battery and charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 114 x 58 x 28 mm (4.49 x 2.28 x 1.1″)
+    DriveModes:
+        - One-shot, self-timer, continuous, burst, remote control, interval, auto bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: Yes (waterproof to 10m, shockproof from 1.5m, freezeproof to -10C/+14F)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto Picture
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, flash off, flash on, auto + redeye
+    FlashRange: 4.00 m (Auto ISO)
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Digital only
+    JPEGQualityLevels: Best, better, good
+    LiveView: "Yes"
+    MSRP: $199.95 / £199.99
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4224 x 2376, 3216 x 3216, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (optional infrared)
+    Resolutions: 1280 x 720 (30p, 15p), 640 x 480 (30p, 15p), 320 x 240 (30p, 15p)
+    ReviewPreview: ""
+    SceneModes:
+        - Night Scene, Movie, Underwater, Underwater Movie, Digital Microscope, Landscape, Flower, Portrait, Digital Wide, Digital SR,  Surf & Snow, Kids, Pet, Sport, Fireworks, Candlelight, Night Scene Portrait, Text, Food, Digital Panorama, Frame Composite, Report
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 97MB
+    StorageTypes: SD/SDHC/SDXC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 164 g (0.36 lb / 5.78 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

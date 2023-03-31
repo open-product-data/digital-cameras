@@ -1,0 +1,75 @@
+ProductCode: kodak_dx6440
+Award: ""
+ImageURL: /files/p/products/kodak_dx6440/8ca728cb49904dc58a3f974f70b7e2f4.png
+Name: Kodak DX6440
+ShortSpecs:
+    - 4 megapixels
+    - 1.8″ screen
+    - 33 – 132 mm (4×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dx6440
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jun 2, 2003
+    AperturePriority: "Yes"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3.8 x)
+    Dimensions: 109 x 65 x 38 mm (4.29 x 2.56 x 1.5″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.70 m
+    FocalLengthEquiv: 33–132 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2304 x 1728
+    MaximumAperture: F2.2–5.6
+    MaximumShutterSpeed: 1/2200 sec
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 270 g (0.60 lb / 9.52 oz)
+    WhiteBalancePresets: "4"

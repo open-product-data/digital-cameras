@@ -1,0 +1,99 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220125175505/https://www.dpreview.com/reviews/fujifilmf200exr/
+ProductCode: fujifilm_f200exr
+Award: highlyRecommended
+ImageURL: /files/p/products/fujifilm_f200exr/e20a92f1564443099dcd7ffdc00b5523.png
+Name: Fujifilm FinePix F200EXR
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_f200exr
+ReviewData:
+    ExecutiveSummary: With the F200 EXR, Fujifilm is out to regain its low-light crown, based its unique new 'switcheable' EXR sensor technology, which allow you to tune the sensor for different shooting conditions. Even without the EXR modes, the F200 is a nice and well-specified camera. It's built around a very useful lens (28-140mm is not a range you'll find matched by many cameras this small), and offers image quality at least up to the standards of its contemporaries. And the EXR modes are worth having - the high-ISO 'SN' mode may not be world-beating, but the dynamic range mode is astonishingly capable if you're happy with the 6MP output (which is plenty for most applications).
+    ProductPhotos:
+        - /files/p/products/fujifilm_f200exr/shots/d1be7d1d524e43acbfd489c4742cc470.png
+        - /files/p/products/fujifilm_f200exr/shots/591af040606a4c20bf9ddd69784d54c2.png
+        - /files/p/products/fujifilm_f200exr/shots/885c4d7a2f2545e795418354d587dbd1.png
+        - /files/p/products/fujifilm_f200exr/shots/5a1575dd8f8044c681eee506d3e9d754.png
+    ReviewSummary: null
+    ASIN:
+        - B001R23JMQ
+Specs:
+    AEBracketing: ""
+    Announced: Feb 4, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Continuous
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-50 Li Ion battery
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.4x)
+    Dimensions: 98 x 59 x 23 mm (3.86 x 2.32 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Forced Flash, Suppressed Flash, Slow Synchro
+    FlashRange: 4.30 m (Auto ISO)
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, Auto (3200), Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600, 3200 (6400 and 12800 at 3MP)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.3–5.1
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2816 x 2112, 2816 x 1864, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Apr 30, 2009"
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/1.6" (8 x 6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 48 MB
+    StorageTypes: xD Picturecard/SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "7"

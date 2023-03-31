@@ -1,0 +1,179 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211207031649/https://www.dpreview.com/reviews/sony-a7s-iii-review
+ProductCode: sony_a7siii
+Award: gold
+ImageURL: /files/p/products/sony_a7siii/4e4e68a0ba0844419a4976362332d376.png
+Name: Sony a7S III
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/sony/slrs/sony_a7siii
+ReviewData:
+    ExecutiveSummary: The Sony a7S III is a video-focused full-frame mirrorless camera with a 12 Megapixel BSI CMOS sensor. It uses an all-new dual-chip Bionz XR processor, which offers considerably more horsepower, allowing for faster autofocus/auto-exposure as well as high bitrate video. The camera offers an ISO range of 80-102400, which expands to 40-409600. Sony claims that it captures 15 stops of dynamic range. The autofocus system has 759 on-sensor phase-detect points and supports eye and animal AF. The camera has in-body image stabilization that can reduce shake by up to 5.5 stops. It has the highest resolution electronic viewfinder on the market (as of July 2020), with 9.44 million dots. There's also a 3.2" fully articulating LCD. The camera has two memory card slots, both of which can accept SD (UHS-II) or CFexpress Type A cards. It has both USB 3.1/3.2 Type 1 and micro USB ports, and can be powered using an external power bank.Video is the big story, with the a7S III able to capture UHD 4K video at up to 120p without pixel binning.  The a7S III can also record high speed (240 fps) Full HD video. Sony claims that the a7S III can record for up to an hour at 4K/60p thanks to improved heat dissipation. The camera offers both Long GOP and All-Intra compression, with a maximum bit rate of 600Mbps. It can record 10-bit 4:2:2 footage, and both S-Log2/3 and HLG are supported. Full-frame, 16-bit Raw footage at up to 60p can be output to an external recording. A full-size HDMI port , as well as mic and headphone jacks, are are available, and an XLR adapter can be purchased separately.
+    ProductPhotos:
+        - /files/p/products/sony_a7siii/shots/16bf2f26f73945799f4475c11e88d5d3.png
+        - /files/p/products/sony_a7siii/shots/3ea1421725764a3b80904f2ef1e4b780.png
+        - /files/p/products/sony_a7siii/shots/191e8ac256694d12a9c6a5fd762666e1.png
+        - /files/p/products/sony_a7siii/shots/adee27c711484a54a55f8e7e943a6ef4.png
+        - /files/p/products/sony_a7siii/shots/eb9ebaf4e9d5439c99f5ac5941f7a834.png
+        - /files/p/products/sony_a7siii/shots/3f2cd88aafd544149dde2a107b9322e4.png
+        - /files/p/products/sony_a7siii/shots/bcb6fee5f2764f8f9207a80ebd976873.png
+        - /files/p/products/sony_a7siii/shots/8f60610834fa4444aee3526d82f74de6.png
+    ReviewSummary:
+        GoodFor: Run-and-gun video, all manner of 4K productions
+        NotSoGoodFor: Landscape photography
+        Conclusion: The Sony a7S III is a powerful video tool that can shoot 4K footage at up to 120p (up to 60p with no crop), in a variety of 10-bit formats to provide plenty of flexibility in terms of both grading and workflow. It has dependable autofocus, in-body stabilization and good battery life to boost its run-and-gun credentials. Its 12MP resolution means it's less impressive as a stills camera but it's a hugely powerful choice for independent video producers.
+    ASIN:
+        - B08DP4NKGN
+        - B0B7ZYK4FN
+        - B0B7ZZBJHG
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 28, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery  charger
+    BatteryLifeCIPA: "600"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "409600"
+    BoostedISOMinimum: "40"
+    BuiltInFlash: "No"
+    BuyingOptions: $3,747.99 - $4,096.00
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, BT.2020
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 129 x 97 x 81 mm (5.08 x 3.82 x 3.19″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Bracketing (AE/WB/DRO)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe)
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - HEIF
+        - Raw (ARW 4.0)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    HDMI: Yes (Standard)
+    HeadphonePort: "Yes"
+    ISO: Auto, 80-102400 (expands to 40-409600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $3499 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4240 x 2832
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 120p / 280 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 100p / 280 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 140 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 600 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 500 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 300 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 250 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 240 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 120p / 280 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 100p / 280 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 140 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 222 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 185 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 111 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 93 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 89 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "759"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz XR
+    RemoteControl: Yes (wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: "91%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 3, 2021"
+    SceneModes: ""
+    ScreenDots: 1,440,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual UHS-II SD/CFexpress Type A slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB PD supported)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.91×
+    ViewfinderResolution: 9,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 699 g (1.54 lb / 24.66 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual band) + Bluetooth

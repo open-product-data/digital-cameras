@@ -1,0 +1,121 @@
+ProductCode: canon_elph340hs
+Award: ""
+ImageURL: /files/p/products/canon_elph340hs/01b6d231cd9f49879c5d3357ccbefc17.png
+Name: Canon PowerShot ELPH 340
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 300 mm (12×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_elph340hs
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot ELPH 340 HS digital camera, successor to the ELPH 330 HS, features a 12x optical zoom lens which is equivalent to 25mm-300mm. Great for low-light scenes, the 16-Megapixel High-Sensitivity CMOS sensor and DIGIC 4+ Image Processor work together to create the Canon HS SYSTEM helping to ensure images are captured in detail in dimly lit situations.'
+    ProductPhotos:
+        - /files/p/products/canon_elph340hs/shots/a107bff75050478ea72d2a567f87dbd6.png
+        - /files/p/products/canon_elph340hs/shots/6e57be87c6f547cfab81626b03c7a40c.png
+        - /files/p/products/canon_elph340hs/shots/aad33090a30c4669b6bdfb254b869d77.png
+        - /files/p/products/canon_elph340hs/shots/8831af045423438cbf32d001507e96c6.png
+    ReviewSummary: null
+    ASIN:
+        - B00HLDFNKQ
+        - B00HLDFPA4
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable Li-ion Battery NB-11LH
+    BatteryLifeCIPA: "190"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 3.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 100 x 58 x 22 mm (3.93 x 2.27 x 0.88″)
+    DriveModes:
+        - Single, Continuous, Self-Timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Hybrid Auto, Creative Shot, SCN
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, Flash On, Slow Synchro, Flash Off
+    FlashRange: 4.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–300 mm
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Superfine, Fine
+    LiveView: "Yes"
+    MSRP: $199
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.6–7
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 12×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3264 x 2448, 2048 x 1536, 640 x 480, 4608 x 2592, 3264 x 1832, 1920 x 1080, 640 x 360, 4608 x 3072, 3264 x 2176, 2048 x 1368, 640 x 424, 3456 x 3456, 2448 x 2448, 1536 x 1536, 480 x 480
+    Processor: DIGIC 4+
+    RemoteControl: "No"
+    Resolutions: 1920 x 1280  (30fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait, Smart Shutter, High-Speed Burst, Handheld Night Scene, Low Light, Snow, Fireworks, Long Shutter
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 147 g (0.32 lb / 5.19 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n with NFC

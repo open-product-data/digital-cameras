@@ -1,0 +1,86 @@
+ProductCode: samsung_i80
+Award: ""
+ImageURL: /files/p/products/samsung_i80/d3f05ff9f5a243978604a1d76b3cef10.png
+Name: Samsung i80
+ShortSpecs:
+    - 8 megapixels
+    - 3″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_i80
+ReviewData:
+    ExecutiveSummary: Yet another Samsung all-in-one 'Personal Media Player' (PMP) / camera, the i80 offers a basic camera specification combined with a fairly basic MP3 and movie player wrapped up in a stylish sliding design that's packed with digital gadgets but has little to inspire the serious photographer. (April 2009).
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 7, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (up to 5x)
+    Dimensions: 90 x 62 x 22 mm (3.54 x 2.44 x 0.87″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto & Red-Eye reduction, Slow Sync, Fill-in Flash, Flash Off, Red-Eye Fix
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400, 800, 1600 (3200 upto 3M)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F3.5–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3264 x 2176, 3264 x 1824, 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 800 x 592 @ 20 fps,720 x 480, 640 x 480 @ 30/15 fps, 320 x 240 @ 60/30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: "6"

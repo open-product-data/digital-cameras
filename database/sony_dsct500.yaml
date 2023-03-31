@@ -1,0 +1,91 @@
+ProductCode: sony_dsct500
+Award: ""
+ImageURL: /files/p/products/sony_dsct500/7b4f82027fe445c89fde42fd58007710.png
+Name: Sony Cyber-shot DSC-T500
+ShortSpecs:
+    - 10 megapixels
+    - 3.5″ screen
+    - 33 – 165 mm (5×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsct500
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0027ZYPAM
+        - B001DTA7IW
+Specs:
+    Announced: Aug 28, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-FD1) & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 97 x 59 x 22 mm (3.82 x 2.32 x 0.87″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 3.50 m (Auto ISO)
+    FocalLengthEquiv: 33–165 mm
+    Format: ""
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–4.4
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 3648 x 2056, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 4 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "10"
+    Wireless: ""

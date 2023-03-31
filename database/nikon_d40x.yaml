@@ -1,0 +1,113 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220307020313/https://www.dpreview.com/reviews/nikond40x/
+ProductCode: nikon_d40x
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d40x/d0addc88065645748ece7d5c0372a053.png
+Name: Nikon D40X
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d40x
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000O161V2
+        - B000O19JF2
+        - B000NOEDGK
+Specs:
+    AEBracketing: ""
+    Announced: Mar 6, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL9 Lithium-Ion & charger included
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: $839.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 124 x 94 x 64 mm (4.88 x 3.7 x 2.52″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Front curtain, Rear curtain, Red-Eye, Slow, Red-Eye Slow
+    FlashRange: 17.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100 - 1600 (plus 3200 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 2896 x 1944, 1936 x 1296
+    Processor: Expeed
+    RemoteControl: Yes (Optional (ML-L3))
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        May 27, 2007"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 to 20 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (23.7 x 15.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.53× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 522 g (1.15 lb / 18.41 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

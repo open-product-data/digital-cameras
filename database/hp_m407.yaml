@@ -1,0 +1,79 @@
+ProductCode: hp_m407
+Award: ""
+ImageURL: /files/p/products/hp_m407/b899631ba73148dfa417b34a712ccb50.png
+Name: HP Photosmart M407
+ShortSpecs:
+    - 4 megapixels
+    - 1.8″ screen
+    - 40 – 111 mm (2.8×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_m407
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0002RRVQW
+        - B0002RSIXW
+        - B0002RS9A4
+Specs:
+    Announced: Aug 28, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (6x)
+    Dimensions: 109 x 53 x 37 mm (4.29 x 2.09 x 1.46″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 40–111 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 4 star, 3 star, 2 star, 1 star
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 2320 x 1744
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 2.8×
+    OrientationSensor: "No"
+    OtherResolutions: 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 288 x 216, 15 fps
+    ScreenDots: 130,000
+    ScreenSize: 1.8″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 172 g (0.38 lb / 6.07 oz)
+    WhiteBalancePresets: "5"

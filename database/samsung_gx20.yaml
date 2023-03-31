@@ -1,0 +1,111 @@
+ProductCode: samsung_gx20
+Award: ""
+ImageURL: /files/p/products/samsung_gx20/b05dcc3ba010427a8a69024e3a47038d.png
+Name: Samsung GX-20
+ShortSpecs:
+    - 15 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_gx20
+ReviewData:
+    ExecutiveSummary: Successor to the GX-10, the GX-20 is a Samsung-branded version of the well-respected Pentax K20D mid-range digital SLR.  Essentially it's the same camera with a very slightly different body design, different menus and - according to Samsung - it's own JPEG processing. Key changes over the GX-10; 14.6 megapixel CMOS sensor (jointly developed, manufactured by Samsung), live view and a larger 2.7 inch LCD.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jan 24, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 142 x 101 x 72 mm (5.59 x 3.98 x 2.83″)
+    DriveModes: ""
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, Red-Eye, Slow, Red-Eye Slow, Rear curtain, wireless
+    FlashRange: 13.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100 -3200 in 1/3EV or 1/2EV stops, plus 6400 as option
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 4688 x 3120
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "11"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4672 x 3120, 3872 x 2592, 3008 x 2000, 1824 x 1216
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/MMC/SDHC card
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (IR optional)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 800 g (1.76 lb / 28.22 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

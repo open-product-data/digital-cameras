@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529082011/https://www.dpreview.com/reviews/2017-roundup-consumer-long-zoom-compacts
+ProductCode: panasonic_dmcfz300
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfz300/c998e139b936460fb274f5efe40f2999png
+Name: Panasonic Lumix DMC-FZ300
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfz300
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-FZ300 is the update to the very popular FZ200.  It maintains the same 12MP sensor and fast 25-600mm equivalent F2.8 lens but adds a new image processor, weather-sealing and 4K video support. Photos can be composed on either a 3" tilting OLED display or a high resolution (2.36M dot) OLED EVF. The FZ300 uses Panasonic's latest autofocus system and can shoot continuously at up to 12 fps. It can shoot continuously at 12 fps with single AF and 6 fps in continuous AF.  In addition to capturing 4K/UHD video at 30p, the FZ300 can also grab high quality 8MP stills using its special 4K Photo mode. Wi-Fi is also built-in.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz300/shots/a355c674b45c487f8eae51dc9a9dcfe1png
+        - /files/p/products/panasonic_dmcfz300/shots/69d90a3daf2c4fd99d118a5c6aef5b56.png
+        - /files/p/products/panasonic_dmcfz300/shots/5c19b5aa79ec49ac9d619923ebf406a2png
+        - /files/p/products/panasonic_dmcfz300/shots/7fdaa1c11bce4ff39a97c0cbcc42e682png
+        - /files/p/products/panasonic_dmcfz300/shots/14d8812bcb834d2a9901f3943c78faebpng
+        - /files/p/products/panasonic_dmcfz300/shots/e4019114637741a9a1dca0799658c137png
+        - /files/p/products/panasonic_dmcfz300/shots/1ff63b9c1aac424794814bee9f1952c8png
+    ReviewSummary: null
+    ASIN:
+        - B011PKJI2Y
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 16, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion battery & charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $447.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 132 x 92 x 117 mm (5.2 x 3.62 x 4.61″)
+    DriveModes:
+        - Single
+        - Continuous (Super high, high, medium, low)
+        - Self-timer
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistent)
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic RW2)
+        - MPO
+    FlashModes: Auto, auto w/redeye reduction, forced on, forced on w/redeye reduction, slow sync, slow sync w/redeye reduction, forced off
+    FlashRange: 8.80 m (at Auto ISO)
+    FocalLengthEquiv: 25–600 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-axis hybrid IS in movie mode
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $599
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/16000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3264 x 2448, 2048 x 1536), 3:2 (4000 x 2672, 3264 x 2176, 2048 x 1360), 16:9 (4000 x 2248,  3840 x 2160, 1920 x 1080), 1:1 (2992 x 2992, 2448 x 2448, 1920 x 1920)
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: 3840 x 2160 (30p, 24p), 1920 x 1080 (60p, 60i, 30p, 24p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        May 26, 2017"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Handheld Night Shot
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 691 g (1.52 lb / 24.37 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

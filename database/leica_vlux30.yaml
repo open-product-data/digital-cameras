@@ -1,0 +1,127 @@
+ProductCode: leica_vlux30
+Award: ""
+ImageURL: /files/p/products/leica_vlux30/a87109dc30a54cc5a9f4fb0e0b5e342e.png
+Name: Leica V-Lux 30 / Panasonic Lumix DMC-TZ22
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 24 – 384 mm (16×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_vlux30
+ReviewData:
+    ExecutiveSummary: Leica V-Lux 30 superzoom compact features an image-stabilized wide-angle 16x zoom lens (24-384mm equivalent). The camera also offers 1080i Full HD movie recording in the AVCHD format, 10fps continuous shooting at full 14.1MP resolution, built-in GPS, and can generate 3D images. Rounding off the features set is a 3" touch-sensitive screen. The V-Lux 30 comes complete with Adobe Photoshop Elements 9 and Adobe Premiere Elements 9 software.
+    ProductPhotos:
+        - /files/p/products/leica_vlux30/shots/f7a58cb2460946228ed466efe2b9ac9e.png
+        - /files/p/products/leica_vlux30/shots/8436844275154bf09c3c11a0d0499ba2.png
+        - /files/p/products/leica_vlux30/shots/104dae11910a4734be300a1986d2f30e.png
+    ReviewSummary: null
+    ASIN:
+        - B0052P4572
+Specs:
+    AEBracketing: ""
+    Announced: May 26, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Continuous
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 105 x 58 x 43 mm (4.13 x 2.28 x 1.69″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 5.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–384 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 80, 100, 200, 400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 3240, 4320 x 2880, 4320 x 2432, 3648 x 2736, 3648 x 2432,  3648 x 2056, 3232 x 3232,3072 x 2048, 3072 x 2304, 3072 x 1728,  2736 x 2736, 2560 x 1920, 2560 x 1712, 2560 x 1440, 2304 x 2304, 2048 x 1536, 2048 x 1360,  1920 x 1920, 1920 x 1080, 1536 x 1536, 640 x 480, 640 x 424, 640 x 360, 480 x 480
+    Processor: Venus Engine FHD
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 18 MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 219 g (0.48 lb / 7.72 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

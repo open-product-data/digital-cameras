@@ -1,0 +1,81 @@
+ProductCode: epson_photopcl410
+Award: ""
+ImageURL: /files/p/products/epson_photopcl410/06c4d60672ba4a0b80b3452d372f1b83.png
+Name: Epson PhotoPC L-410
+ShortSpecs:
+    - 4 megapixels
+    - 1.5″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopcl410
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0002CZ82G
+Specs:
+    Announced: Jul 12, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3 x)
+    Dimensions: 92 x 62 x 32 mm (3.62 x 2.44 x 1.26″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Flash off, Red-eye reduction, Forced flash
+    FlashRange: ""
+    FocalLengthEquiv: 34–102 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 11 cm (4.33″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2304 x 1728
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 160 x 120 30 fps
+    ReviewPreview: ""
+    ScreenDots: 72,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB SD card
+    StorageTypes: SD card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 203 g (0.45 lb / 7.16 oz)
+    WhiteBalancePresets: "5"

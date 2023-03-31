@@ -1,0 +1,94 @@
+ProductCode: casio_exz35
+Award: ""
+ImageURL: /files/p/products/casio_exz35/069025ed5e994cd198e1b9922dcf96f2.png
+Name: Casio Exilim EX-Z35
+ShortSpecs:
+    - 12 megapixels
+    - 2.5″ screen
+    - 36 – 107 mm (3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz35
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-S7 offers a 12MP sensor, 2.5 inch LCD, 3x (35-106mm equiv.) zoom lens and features direct web upload options. It features a Dynamic Photo option that enables users to add graphics and create e-greetings in camera.
+    ProductPhotos:
+        - /files/p/products/casio_exz35/shots/11b034c7137247f7981b1e9e3ab98b7a.png
+        - /files/p/products/casio_exz35/shots/8f87b23148e242ab89c04180329b0c4b.png
+        - /files/p/products/casio_exz35/shots/360df0cc864942ca9925b4214eb29f1d.png
+        - /files/p/products/casio_exz35/shots/0989dbd53b4b419f81b46fd15239d3be.png
+    ReviewSummary: null
+    ASIN:
+        - B0031WFFBI
+        - B0031WRZES
+        - B004GUU7G2
+Specs:
+    Announced: Feb 21, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-82 rechargeable battery & charger
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 99 x 57 x 20 mm (3.9 x 2.24 x 0.79″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 35.5–106.5 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: Exilim Engine 5.0
+    RemoteControl: "No"
+    Resolutions: 848 x 480 (30 fps), 640 x 480 (30 fps), 320 x 240 (15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,160
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec, Triple Self-timer)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 16.9 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 124 g (0.27 lb / 4.37 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

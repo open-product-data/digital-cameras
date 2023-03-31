@@ -1,0 +1,148 @@
+ProductCode: samsung_nx1000
+Award: ""
+ImageURL: /files/p/products/samsung_nx1000/c2237de5c8c8450c9f6acaf1827bf3f7.png
+Name: Samsung NX1000
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_nx1000
+ReviewData:
+    ExecutiveSummary: The NX1000 broadens Samsung's range of Wi-Fi-connected cameras with a less expensive, entry-level option. It is built around the company's 20MP sensor, can shoot at up to 8fps and capture Full HD 1080p24 movies.
+    ProductPhotos:
+        - /files/p/products/samsung_nx1000/shots/4c206c915d2c490ab0711b075ac4fbd6.png
+    ReviewSummary: null
+    ASIN:
+        - B007XJG42E
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Apr 19, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BC1030 battery & charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (1.2x, 1.4, 1.7, 2.0 Intelli-Zoom)
+    Dimensions: 114 x 63 x 37 mm (4.49 x 2.48 x 1.46″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Burst (5M size only)
+        - Self-timer
+        - Bracket (AE/WB/PW)
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe, SEF8A)
+    FileFormat:
+        - RAW (SRW)
+        - JPEG (EXIF 2.21)
+        - DCF
+        - DPOF 1.1
+        - PictBridge 1.0
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, 1st/2nd Curtain, Smart Flash, Manual
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: WGS84
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "15"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 3888 x 2592, 3712 x 2088, 3648 x 3648, 2976 x 1984, 2944 x 1656, 2736 x 1824, 2640 x 2640, 2000 x 2000, 1920 x 1080, 1728 x 1152, 1024 x 1024
+    Processor: ""
+    RemoteControl: Yes (Optional SR2NX02)
+    Resolutions: 1920 x 1080 (30 fps), 1920 x 810 (24 fps) 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Live Panorama (2D, 3D)
+        - Beauty Shot
+        - Night
+        - Landscape
+        - Portrait
+        - Children
+        - Sports
+        - Close Up
+        - Text
+        - Sunset
+        - Dawn
+        - Backlight
+        - Fireworks
+        - Beach & Snow
+        - Sound Picture
+        - 3D Photo
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 sec to 30 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'Multi-motion recording : x0.25 (640, 320 only), x0.5 (1280, 640, 320 only), x5, x10, x20'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames from +/-1 to +/-3 in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 222 g (0.49 lb / 7.83 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: IEEE 802.11n support, Cloud, Email, Auto Backup, Remote Viewfinder, Mobile Link, Wi-Fi Direct, TV Link, Social Sharing

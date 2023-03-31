@@ -1,0 +1,109 @@
+ProductCode: sony_dsctx9
+Award: ""
+ImageURL: /files/p/products/sony_dsctx9/0ea2882f77014406b9650fb14a31ebfc.png
+Name: Sony Cyber-shot DSC-TX9
+ShortSpecs:
+    - 12 megapixels
+    - 3.5″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsctx9
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot TX9 incorporates what was (in July 2010) Sony's latest 12.2MP, 1/2.3" Exmor R back illuminated CMOS sensor. It features a 'Superior Auto' mode that shoots bursts of between 2 and 6 shots then combines them either to reduced noise or boost dynamic range, depending on the scene you're shooting. The TX9 is also equipped with a 3.5" touchscreen LCD and a 25-100mm equivalent lens. Other features include a Background Defocus mode, 3D Sweep Panorama mode and 1080i Full AVCHD video recording.
+    ProductPhotos:
+        - /files/p/products/sony_dsctx9/shots/5782c93f6c324507ba94e2c9bc093dbd.png
+        - /files/p/products/sony_dsctx9/shots/2d301c79317c4f0eb4b9b3e0da3ad46b.png
+        - /files/p/products/sony_dsctx9/shots/fac1fabc25ff47a2a298ea98ba635983.png
+        - /files/p/products/sony_dsctx9/shots/6b1af35d5565468f8b767882d7740f41.png
+        - /files/p/products/sony_dsctx9/shots/e22caadd38634461b69c7ddac15c0b55.png
+        - /files/p/products/sony_dsctx9/shots/bc10d7017f5f40528835c66c6c54e8f2.png
+        - /files/p/products/sony_dsctx9/shots/da40dd4114ef4385a490e289e4697ad2.png
+    ReviewSummary: null
+    ASIN:
+        - B003VC6Z4E
+Specs:
+    Announced: Jul 8, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 98 x 60 x 18 mm (3.86 x 2.36 x 0.71″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 25–100 mm
+    Format: AVCHD
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–4.6
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2248, 3264 x 2248, 2592 x 1944, 1920 x 1080, 640 x 480
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (50 fps), 1440 x 1080 (50, 25fps), 1280 x 720 (25 fps), 640 x 480 (25 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 sec or 10 sec, portrait1/  portrait2)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/ SDHC/ SDXC, Memory Stick Duo/Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 149 g (0.33 lb / 5.26 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Eye-Fi Connected

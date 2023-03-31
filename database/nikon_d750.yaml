@@ -1,0 +1,164 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220119161129/https://www.dpreview.com/reviews/nikon-d750
+ProductCode: nikon_d750
+Award: gold
+ImageURL: /files/p/products/nikon_d750/6b92ab171cfc403eaa2c91cc188e649f.png
+Name: Nikon D750
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/nikon/slrs/nikon_d750
+ReviewData:
+    ExecutiveSummary: The Nikon D750 borrows features from the D810 and marries them with a 24MP sensor, offering a faster frame rate than any non-professional full-frame Nikon DSLR since the D700. The D750 boasts a comprehensive video and still photography specification which includes a tilting rear LCD screen and an improved version of the 51-point AF system found in the D810 and D4s that now focuses down to EV -3. This means that every single AF point in the D750 focuses in lower light than any other Nikon DSLR.The D750 offers Nikon’s latest EXPEED 4 processor and is capable of ISO sensitivities expandable up to 51,200, with continuous shooting up to 6.5fps. This is the first Nikon full-framer to feature a tilting LCD screen; a 3.2” 1,229k dot LCD to be exact. Its 91k-pixel RGB metering sensor works in conjunction with the AF system to provide snappy AF with face-detection and industry-leading subject tracking that has an uncanny ability to accurately stick to moving subjects. The high-res metering sensor also ensures accurate exposure and white balance, with spot-metering linked to AF point, face-biased metering, and fine-tuning options for individual metering modes. Highlight-priority metering is a nice addition, and can be used to expose for and retain highlights while shadows remain relatively noise-free for pushing in post-processing due to the D750's remarkable dynamic range. Built-in Wi-Fi is a much-welcomed featured in a Nikon DSLR of this caliber, and almost everyone will appreciate the light body and improved grip that makes the camera much more one-hand-holdable than previous iterations.  Video is captured at up to 60fps, in 1080p, and features like flat picture control (also available for stills), zebra stripes and auto ISO in manual mode make the D750 a powerful tool for videography, as well as stills. In fact, although we must reserve final judgement for when we have the full results of our ongoing studio and real-world tests done, the D750 may just be the best all-round DSLR we’ve ever seen.
+    ProductPhotos:
+        - /files/p/products/nikon_d750/shots/64936d9704fa49a28eec5de3b2c5728b.png
+        - /files/p/products/nikon_d750/shots/06e56487687b4a4eb826ce5164484e11.png
+        - /files/p/products/nikon_d750/shots/644ceca2001a4e4f86eb5c1d58e5f4ea.png
+        - /files/p/products/nikon_d750/shots/d0363a0a25054e77af26c54007a737a1.png
+        - /files/p/products/nikon_d750/shots/929fd7f7f64545f0a50c6567ac45baa0.png
+        - /files/p/products/nikon_d750/shots/a2a9f40d4c9843b8bce5ea27d0d3e2c5.png
+        - /files/p/products/nikon_d750/shots/112315454be14e3db3a1c358ae547417.png
+    ReviewSummary:
+        GoodFor: Wedding/action photographers, video enthusiasts
+        NotSoGoodFor: Frequent live view users, those seeking robust camera control from smartphones
+        Conclusion: The D750 is an exceptional full-frame DSLR that deserves to appeal to enthusiasts and many professionals alike. It offers excellent image quality, an advanced autofocus system, fast continuous shooting, and a host of video features. The only real downsides are limited buffer capacity, slow live view AF, and poor camera control from a smartphone.
+    ASIN:
+        - B0060MVJ1Q
+        - B013WN8NPK
+        - B015JS4BX4
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15 lithium-ion battery & charger
+    BatteryLifeCIPA: "1230"
+    BodyMaterial: Magnesium alloy, carbon fiber
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,699.95 - $2,695.73
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.5 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: "No"
+    Dimensions: 141 x 113 x 78 mm (5.55 x 4.45 x 3.07″)
+    DriveModes:
+        - Single-frame [S] mode
+        - Continuous low-speed [CL]
+        - Continuous high-speed [CH]
+        - Quiet shutter release
+        - Quiet continuous
+        - Self-timer
+        - Mirror lockup
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, lossless compressed, compressed 12 or 14 bit)
+    FlashModes: Auto, Auto FP high-speed sync, auto w/redeye reduction, auto slow sync, auto slow sync w/redeye reduction, fill flash, rear-curtain sync, rear-curtain w/slow sync, redeye reduction, redeye reduction w/slow sync, slow sync, off
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1/GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800, expandable to 50-51200
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $2299.95 / £1799.99  / €2149 (body only), £2249.99 / €2679.00 (body + 24-85mm lens), €2799.00 (body + 24-120mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4016
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 'FX: 4512 x 3008, 3008 x 2008, 1.2x crop: 5008 x 3336, 3752 x 2504, DX: 3936 x 2624, 2944 x 1968, 1968 x 1312'
+    Processor: Expeed 4
+    RemoteControl: Yes (Wired or wireless)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 20, 2014"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Child
+        - Sports
+        - Close-up
+        - Night Portrait
+        - Night Landscape
+        - Party/Indoor
+        - Beach/Snow
+        - Sunset
+        - Dusk/Dawn
+        - Pet
+        - Candlelight
+        - Blossom
+        - Autumn Colors
+        - Food
+    ScreenDots: 1,229,000
+    ScreenSize: 3.2″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2, 5, 10, 20 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (dual slots)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2-9 exposures in 1, 2, or 3EV increments)
+    WeightIncBatteries: 750 g (1.65 lb / 26.46 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: ""

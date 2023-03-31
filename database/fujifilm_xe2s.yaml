@@ -1,0 +1,139 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210901153855/https://www.dpreview.com/reviews/fujifilm-x-e2s
+ProductCode: fujifilm_xe2s
+Award: ""
+ImageURL: /files/p/products/fujifilm_xe2s/5a21e909a1d8450f99d1b30e3ac28c82.png
+Name: Fujifilm X-E2S
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/fujifilm/slrs/fujifilm_xe2s
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-E2S is a modest update to the company's premium rangefinder-style mirrorless camera. New features include an improved AF system which has 49 points in single AF and 77 in continuous AF. An electronic shutter has been added, with a top speed of 1/32000 sec. Both the grip and user interface have also been refined.Continuing features include a 16 megapixel X-Trans II CMOS sensor with on-chip phase detection and has a 3" LCD with 1.04 million dots and an OLED electronic viewfinder with 2.36 million dots. The camera shoots at speeds of up to 7 fps and can record video at 1080/60p with AF tracking. The X-E2 also sports built-in Wi-Fi, which allows for easy photo sharing via your mobile device.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe2s/shots/ff7a36223a7a45fc95a2b9058b929417.png
+        - /files/p/products/fujifilm_xe2s/shots/9ae1be14c43d4f87bffda9f130acbd7c.png
+        - /files/p/products/fujifilm_xe2s/shots/3b7bef6be8754c16bc8d0f3c4d53bfc6.png
+        - /files/p/products/fujifilm_xe2s/shots/85f330c4a87446e9805bb52e55dab106.png
+    ReviewSummary:
+        GoodFor: Established photographers looking for a compact system or newcomers looking to grow, JPEG shooters and those looking for abundant manual controls.
+        NotSoGoodFor: People looking to shoot fast action or video.
+        Conclusion: The Fujifilm X-E2S is an engaging camera for those with some photographic experience, or for newcomers looking for a camera to grow into. The build quality, controls and handling are all excellent, the trademark Fujifilm JPEG output remains a staff favorite and the lens ecosystem offers a wide selection of quality lenses. The video specification, autofocus system and some aspects of operational speed are starting to show their age, but overall, the X-E2S has a lot to offer at its price point.
+    ASIN:
+        - B01A8DUR2O
+        - B01A8DURIS
+Specs:
+    AEBracketing: ±3 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 15, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-W126 rechargeable battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,249.95 - $1,399.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 129 x 75 x 37 mm (5.08 x 2.95 x 1.46″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Interval
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual exposure
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (RAF format)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Rear-curtain, Commander
+    FlashRange: 7.00 m (@ ISO 200)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expandable to 100-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $699/£549.00 (body only), $999/£749.00 (w/18-55 F2.8-4 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/32000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "77"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3456 x 2304, 2496 x 1664), 16:9 (4896 x 2760, 2304 x 2304), 1:1 (3264 x 3264, 2304 x 2304, 1664 x 1664)
+    Processor: EXR Processor II
+    RemoteControl: Yes (Wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "77%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 9, 2016"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 350 g (0.77 lb / 12.35 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

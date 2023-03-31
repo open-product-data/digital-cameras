@@ -1,0 +1,187 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206190900/https://www.dpreview.com/reviews/olympus-om-d-e-m10-mark-iv-review
+ProductCode: olympus_em10iv
+Award: silver
+ImageURL: /files/p/products/olympus_em10iv/fc21cb3b57b044169c98a0119f38a502.png
+Name: Olympus OM-D E-M10 IV
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 81
+URL: /products/olympus/slrs/olympus_em10iv
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M10 IV is an entry-level Micro Four Thirds camera with a 20 Megapixel Live MOS sensor and in-body image stabilization. It offers a selfie-friendly LCD that can flip down to face the subject, with dedicated controls on the display for easy shooting. The camera also offers a 2.36 million-dot OLED electronic viewfinder. Unlike previous E-M10 models, the Mark IV can have its battery charged over USB. Battery life is above average.The camera has a 121-pt contrast-detect autofocus system. It can shoot bursts as fast as 15 fps (5 fps with continuous autofocus), with a deep buffer and quick write times when using UHS-II SD cards. The E-M10 IV has a capable Auto mode, 28 scene modes, and numerous creative filters. It has a decent (but not overwhelming) set of manual controls. The E-M10 IV can capture 4K video at up to 30p. High speed 120 fps video is only available at HD (1280 x 720).
+    ProductPhotos:
+        - /files/p/products/olympus_em10iv/shots/04daa8562f124492bf815c5215a6b6b2.png
+        - /files/p/products/olympus_em10iv/shots/ebe4e4d1757040668c86dbe017f3e7cb.png
+        - /files/p/products/olympus_em10iv/shots/05912353687e4686956c0a0e705c31d3.png
+        - /files/p/products/olympus_em10iv/shots/a4ba0a82cbc341c28e128d09d32e670e.png
+    ReviewSummary:
+        GoodFor: Travel, family and documentary photography, portraits, and users that want to capture smooth 4K video with a minimum of fuss.
+        NotSoGoodFor: Those that need more reliable autofocus tracking and higher burst speeds for sports, action and wildlife.
+        Conclusion: The Olympus OM-D E-M10 Mark IV is a handsome entry-level camera with some helpful aids for new users, but with enough controls to provide room to grow. While its autofocus and burst speeds lag the competition, its stand-out feature is an effective in-body stabilizer, especially handy for low-light stills and handheld video shooting. In all, the E-M10 IV is a fine photographic companion for a variety of users.
+    ASIN:
+        - B08D629PN8
+        - B08D5XVHNM
+        - B08D619SLR
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 2/3 EV, 1 EV steps)
+    Announced: Aug 4, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Built-in
+    BatteryDescription: BLS-50 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Composite, metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $559.99 - $924.98
+    CIPAImageStabilizationRating: 4.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 122 x 84 x 49 mm (4.8 x 3.31 x 1.93″)
+    DriveModes:
+        - Single
+        - Single anti-shock
+        - Silent
+        - Sequential high
+        - Silent sequential high
+        - Sequential low
+        - Anti-shock sequential low
+        - Silent sequential low
+        - 12 sec self-timer
+        - 2 sec self-timer
+        - Custom self-timer (regular/anti-shock)
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (Olympus ORF, 12-bit lossless)
+    FlashModes: Redeye, fill-in, off, redeye slow-sync (1st-curtain), slow sync (1st-curtain), slow sync (2nd-curtain), manual
+    FlashRange: 7.20 m (at ISO 200)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $699 (body only), $799 (w/14-42mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 52 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "121"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VIII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 6, 2021"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape + Portrait
+        - Night + Portrait
+        - Children
+        - Night scene
+        - Sport
+        - Hand-held Starlight
+        - Fireworks
+        - Light trails
+        - Sports
+        - Panning
+        - Landscape
+        - Sunset
+        - Beach & Snow
+        - Backlight HDR
+        - Candlelight
+        - Silent
+        - Macro
+        - Nature Macro
+        - Documents
+        - Multi Focus Shot
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.62× (0.31× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

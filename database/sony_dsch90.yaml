@@ -1,0 +1,129 @@
+ProductCode: sony_dsch90
+Award: ""
+ImageURL: /files/p/products/sony_dsch90/25ec4d223179498484a210ac65f5f4c0.png
+Name: Sony Cyber-shot DSC-H90
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 384 mm (16×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsch90
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Snap incredible close-ups of distant subjects with this compact, easy-to-use Cyber-shot H90 camera. With stabilized 16x optical zoom, get up close to capture beautifully blur-free sports, wildlife and travel photos plus HD 720p video1. Easily compose shots and view footage on the big, bright 3.0" LCD, or try your hand at creative effects like Toy Camera and Pop Color that transform ordinary pictures into works of art.'
+    ProductPhotos:
+        - /files/p/products/sony_dsch90/shots/ac8b755918384e5e81dd8863380dcfb2.png
+        - /files/p/products/sony_dsch90/shots/5938671df6b34097816838922455dbe6.png
+        - /files/p/products/sony_dsch90/shots/37383570a8d04562b9dc502f85668630.png
+    ReviewSummary: null
+    ASIN:
+        - B006K552CU
+        - B006K552AC
+Specs:
+    Announced: Feb 28, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery and charger
+    BatteryLifeCIPA: "290"
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (20x)
+    Dimensions: 105 x 60 x 34 mm (4.13 x 2.36 x 1.34″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Easy Shooting
+        - Program Auto
+        - Movie Mode
+        - Panorama
+        - Manual Exposure
+        - Scene Selection
+        - Picture Effect
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.70 m
+    FocalLengthEquiv: 24–384 mm
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: Approx. $250
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Beach
+        - Snow
+        - Fireworks
+        - Advanced Sports Shooting
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: ClearPhoto TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 27 MB
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 222 g (0.49 lb / 7.83 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

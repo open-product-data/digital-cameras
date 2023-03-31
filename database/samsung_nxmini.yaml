@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210922150706/https://www.dpreview.com/reviews/samsung-nx-mini
+ProductCode: samsung_nxmini
+Award: noAward
+ImageURL: /files/p/products/samsung_nxmini/abfd9597a969447e81709e0999f1628c.png
+Name: Samsung NX mini
+ShortSpecs:
+    - 21 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 74
+URL: /products/samsung/slrs/samsung_nxmini
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The NX mini is the world''s slimmest and lightest interchangeable-lens camera (as of 3/19/14). The portable and stylish design of the SMART Camera NX mini, along with its stunning image quality makes it the “go-to” device for great photography, allowing users to capture special moments in stunning detail. With NFC and Wi-Fi capabilities, it allows users to take impressive shots that can then be shared quickly and easily, for friends to enjoy in real time.'
+    ProductPhotos:
+        - /files/p/products/samsung_nxmini/shots/de6ba20cf05441959a540360fd06b9aa.png
+        - /files/p/products/samsung_nxmini/shots/04f65199332f41e2992f32193e34b2cd.png
+        - /files/p/products/samsung_nxmini/shots/3ea9aaafc6b04672a3d18bb55796fb7c.png
+        - /files/p/products/samsung_nxmini/shots/124c7ae76f22464a8f0209e61e2357ff.png
+        - /files/p/products/samsung_nxmini/shots/29c5233672f94efaacfe0776845c6240.png
+        - /files/p/products/samsung_nxmini/shots/fc121c5bf4c14afaa615040b8795b527.png
+        - /files/p/products/samsung_nxmini/shots/cf8f015fc19d44728cfd0dc5f41a0d5e.png
+    ReviewSummary:
+        GoodFor: Smartphone upgraders looking for a step up in image quality from a pocketable camera
+        NotSoGoodFor: Enthusiasts who enjoy taking manual control
+        Conclusion: The Samsung NX mini is an impressive camera purely because of the amount of technology that Samsung has managed to place inside such a tiny body. The system may be small (no pun intended) for now but the lenses currently available for the mini are of a high quality, and the camera is capable of excellent results from its 1in sensor. Ultimately, our frustrations with the mini are almost all focused around its user interface, which needs some work before it will appeal to enthusiasts. Right now the mini is a great point-and-shoot with some slightly awkward manual controls but it has the potential to be much more.
+    ASIN:
+        - B00IVEHSV6
+        - B00IVEHT2Y
+        - B00IVEHT4C
+Specs:
+    AEBracketing: ±3
+    Announced: Mar 19, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: B740 lithium-ion battery and USB charger
+    BatteryLifeCIPA: "650"
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $599.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: Primary color filter
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 110 x 62 x 23 mm (4.33 x 2.44 x 0.91″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Smart
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via proprietary hotshoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (SRW v3.0)
+    FlashModes: Smart Flash, auto, auto + redeye reduction, fill-in, fill-in + redeye reduction, 1st curtain, 2nd curtain
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 160 - 12800 (extends to 100-25600)
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Saturation
+        - Color
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Samsung NX-M
+    LiveView: "Yes"
+    MSRP: $449 / €399 (with 9mm lens), $549 / €499 (with 9-27mm lens, external flash)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "21"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 3648 x 3648, 3888 x 2592, 3712 x 2088, 2640 x 2640, 2976 x 1984, 2944 x 1656, 2000 x 2000, 1728 x 1152, 1920 x 1080, 1024 x 1024
+    Processor: ""
+    RemoteControl: Yes (wired)
+    Resolutions: 1920 x 1080, 1280 x 720, 640 x 480, 320 x 240 (all 30 fps)
+    ReviewPreview: "74%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 26, 2014"
+    SceneModes:
+        - Beauty Face, Best Face, Landscape, Macro, Action Freeze, Rich Tone, Panorama, Waterfall, Silhouette, Sunset, Night, Firework, Light Trace, Continuous Shot, Kids Shot, Food, Parties and Indoors
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: TFT-LCD (180 degree tilt)
+    SelfTimer: Yes (2-30 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (Capacitive touchscreen)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 196 g (0.43 lb / 6.91 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with Smart Camera 3.0 features

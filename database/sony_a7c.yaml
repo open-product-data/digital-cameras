@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220108133936/https://www.dpreview.com/reviews/sony-a7c-review
+ProductCode: sony_a7c
+Award: silver
+ImageURL: /files/p/products/sony_a7c/ec80897a14ba49adbcf97b589e05838e.png
+Name: Sony a7C
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 86
+URL: /products/sony/slrs/sony_a7c
+ReviewData:
+    ExecutiveSummary: The Sony a7C is a compact full-frame mirrorless camera with a 24MP sensor and 5-axis image stabilization. It features the same hybrid autofocus system as higher-end models, with "Real-time Tracking" and Eye AF for both humans and animals. The camera can shoot bursts at 10 fps with autofocus.The a7C captures over-sampled 4K footage at 30p (with a 1.2x crop) and 24p. It supports HLG and S-Log2/3, Slow & Quick motion, Full HD / 120 fps capture, and its AF system has been optimized for video. The camera has both 3.5mm microphone and headphone sockets.The body has a sturdy built and is weather and dust resistant. The camera has a fully articulating touchscreen display and a 2.36M-dot electronic viewfinder. It uses the same NP-FZ100 battery as higher-end Alphas, and can shoot an estimated 680 photos with the viewfinder and 740 with the LCD. The camera can be charged over its USB Type C port.
+    ProductPhotos:
+        - /files/p/products/sony_a7c/shots/09450c195d7145258b1e20315d03069e.png
+        - /files/p/products/sony_a7c/shots/8f1bb0dc6d944b4295bcaeab7fe56093.png
+        - /files/p/products/sony_a7c/shots/02d496796d074b44bea8ace107e379a4.png
+        - /files/p/products/sony_a7c/shots/7d084920ebea488e9c259b1c2b6d4269.png
+        - /files/p/products/sony_a7c/shots/2c939fe766ad44f3aab8c7b15170c0b7.png
+        - /files/p/products/sony_a7c/shots/26e8614910ab4269ad21ff71b4234d90.png
+        - /files/p/products/sony_a7c/shots/87acc7923cb24b80ad6b586f19db48c1.png
+    ReviewSummary:
+        GoodFor: Travel photography, an always-with-you family camera
+        NotSoGoodFor: Dedicated videographers
+        Conclusion: The Sony a7C is gives up very little in the way of features in order to achieve its small size. Its image quality is very good and its AF is excellent, but its small viewfinder takes away from the experience a little. Its video and menus aren't as polished as its rivals but its size and battery life make for a powerful combination.
+    ASIN:
+        - B08HVYCP4G
+        - B08HW132XW
+        - B08HVXJZYY
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 15, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery & charger
+    BatteryLifeCIPA: "740"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,798.00 - $3,096.00
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 124 x 71 x 60 mm (4.88 x 2.8 x 2.36″)
+    DriveModes:
+        - Single
+        - Continuous (Hi+/Hi/Mid/Lo)
+        - Self-timer (Std/Cont.)
+        - Bracket (Single/Cont.)
+        - WB bracket
+        - DRO bracket
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - Raw (Sony ARW, 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, XAVC S, H.264
+    GPS: ""
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1799 (body only), $2099 (w/28-60mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "693"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: BIONZ X
+    RemoteControl: Yes (via smartphone or Bluetooth)
+    Resolutions: ""
+    ReviewPreview: "86%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 27, 2020"
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.59×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 509 g (1.12 lb / 17.95 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual-band) + Bluetooth + NFC

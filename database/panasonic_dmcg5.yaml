@@ -1,0 +1,161 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211203163822/https://www.dpreview.com/reviews/panasonic-lumix-dmc-g5
+ProductCode: panasonic_dmcg5
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcg5/9a2cf3a741194bd68cdb6de88e4082e1.png
+Name: Panasonic Lumix DMC-G5
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dmcg5
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-G5 is the ninth G-series Micro Four Thirds camera from Panasonic, and is built around a 16MP LiveMOS sensor that the company implies hasn't been used in a G-series camera before. This, combined with the company's latest 'Venus Engine' allows the capture of 1080p video at 60 frames per second (50p in European examples). It also gains an additional control lever, higher-resolution 920,000 dot rear LCD and regains the eye-sensor to automatically switch between LCD and electronic viewfinder. In principle the G5 will sit above the existing G3 in the company's lineup.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcg5/shots/47a0518a98664b97812211078dff34f8.png
+        - /files/p/products/panasonic_dmcg5/shots/1e002b5f520040ec9ed75966dc349f62.png
+        - /files/p/products/panasonic_dmcg5/shots/b7d76d1d75b1498fb3f23e07d60c5634.png
+    ReviewSummary: null
+    ASIN:
+        - B008MB71IS
+        - B008MD3RNY
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 18, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $649.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (2x, 4x)
+    Dimensions: 120 x 83 x 71 mm (4.72 x 3.27 x 2.8″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - RAW
+        - RAW + Fine
+        - RAW + Standard
+        - Fine
+        - Standard
+        - MPO + Fine
+        - MPO + Standard (with 3D lens in Micro Four Thirds System standard)
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 10.50 m
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (Mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, 160, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "23"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608x3456, 3264x2448, 2336x1752, 4608x3072, 3264x2176, 2336x1560, 4608x2592, 3264x1840, 1920x1080, 3456x3456, 2448x2448, 1744x1744, 1712x1712
+    Processor: Venus Engine VII FHD
+    RemoteControl: Yes (Optional DMW-RSL1)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25fps) 1280 x 720 (60, 50, 30, 25fps), 640 x 480 (30, 25fps
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Jul 17, 2012"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 or 10 sec, 10 sec (3 images))
+    SensorPhotoDetectors: 18 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x 1080, 60p, 50p (sensor output is 60p, 50p) (PSH: 28Mbps) ; 1920 × 1080, 60i,50i (sensor output is 60p, 50p) (FSH: 17Mbps) ; 1920 x 1080, 30p,25p (sensor output is 60p, 25p) (FPH: 17Mbps) ;  1280 x 720, 60p, 50p  (sensor output is 60p, 25p) (SH: 17Mbps)'
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.4× (0.7× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 396 g (0.87 lb / 13.97 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

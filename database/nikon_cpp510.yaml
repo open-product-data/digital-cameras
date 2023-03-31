@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107190504/https://www.dpreview.com/reviews/nikon-coolpix-p510
+ProductCode: nikon_cpp510
+Award: silver
+ImageURL: /files/p/products/nikon_cpp510/2cc8f07858894b39a1aff63742c0c3ab.png
+Name: Nikon Coolpix P510
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1000 mm (41.7×)
+ReviewScore: 75
+URL: /products/nikon/compacts/nikon_cpp510
+ReviewData:
+    ExecutiveSummary: The 16 megapixel Nikon Coolpix P510 is a compact camera in the superzoom class, that sports a 42X optical zoom, covering a currently unmatched focal range of 24-1000mm (equivalent), compared to 38X (23-810mm) from its predecessor the P500. As well as an extended zoom range, the new model also features a new 16MP CMOS sensor, and a handful of new features and enhancements, including GPS with logging and (according to Nikon) improved image stabilization compared to the P500.Ultimately, the P510 surprised us. It's not perfect, but it did exceed our expectations in some important respects. If you don't need the incredibly long reach of the P510's 24-1000mm zoom, the Panasonic Lumix DMC-FZ150 is arguably a better buy but if you want a small, portable, affordable super-zoom for travelling and everyday photography, and you don't mind being limited to JPEG capture, the Nikon Coolpix P510 should be high on your shortlist.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp510/shots/47139e7d78304ae98ea56c00415f20ba.png
+        - /files/p/products/nikon_cpp510/shots/cc5131fa6b654602a0de0461374a5b21.png
+    ReviewSummary:
+        GoodFor: General purpose daylight photography, where versatility is more important than critical image quality
+        NotSoGoodFor: Low light shooting and more critical work, where image quality is the priority.
+        Conclusion: The P510 is a well-featured little camera built around an incredible 42X zoom lens. The lens is the P510's main selling point and anyone looking for a go-everywhere camera for travel or general-purpose photography will be impressed by its versatility. Only sub-par image quality at high ISOs and slightly plasticky construction let the P510 down.
+    ASIN:
+        - B00CX52MVA
+        - B0073HSH8U
+        - B0073HSHEY
+Specs:
+    AEBracketing: ""
+    Announced: Feb 1, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL5 Lithium-Ion battery
+    BatteryLifeCIPA: "200"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 120 x 83 x 102 mm (4.72 x 3.27 x 4.02″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow-sync
+    FlashRange: ""
+    FocalLengthEquiv: 24–1000 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (Mini Connector)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 2000, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–5.9
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 41.7×
+    OrientationSensor: "No"
+    OtherResolutions: 4608 x 2592, 4608 x 3072, 3456 x 3456, 3264 x 2448, 1920 x 1080, 1600 X 1200, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (15, 30fps), 1280 x 720p (60, 30 fps), 640 x 480 (120, 30fps)
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 5, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 555 g (1.22 lb / 19.58 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

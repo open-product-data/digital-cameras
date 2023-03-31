@@ -1,0 +1,75 @@
+ProductCode: sony_dscp30
+Award: ""
+ImageURL: /files/p/products/sony_dscp30/a00a99c74fa844dda58605083fc48a6d.png
+Name: Sony Cyber-shot DSC-P30
+ShortSpecs:
+    - 1 megapixels
+    - 1.5″ screen
+    - 41 – 123 mm (3×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscp30
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00005I9PE
+Specs:
+    Announced: Feb 9, 2001
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 143 x 103 x 79 mm (5.63 x 4.06 x 3.11″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off
+    FlashRange: 2.00 m
+    FocalLengthEquiv: 41–123 mm
+    Format: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualFocus: Yes (5 presets)
+    MaxResolution: 1280 x 960
+    MaximumAperture: F3.8
+    MaximumShutterSpeed: 1/725 sec
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: MPEG EX (only storage limited - no audio
+    ReviewPreview: ""
+    ScreenDots: 123,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 4 MB Memory Stick
+    StorageTypes: Memory Stick
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 250 g (0.55 lb / 8.82 oz)
+    WhiteBalancePresets: "3"

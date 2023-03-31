@@ -1,0 +1,114 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107200411/https://www.dpreview.com/reviews/q311travelzoomgrouptest/
+ProductCode: samsung_wb210
+Award: ""
+ImageURL: /files/p/products/samsung_wb210/69e52a2f06424efaa7dcfa7205f07aab.png
+Name: Samsung WB210
+ShortSpecs:
+    - 14 megapixels
+    - 3.5″ screen
+    - 24 – 288 mm (12×)
+ReviewScore: 66
+URL: /products/samsung/compacts/samsung_wb210
+ReviewData:
+    ExecutiveSummary: The 14MP Samsung WB210 compact superzoom features a 12x optical zoom starting at useful 24mm plus a 21mm equiv. super-wide shot mode. It offers a large touch-sensitive 3.5 inch LCD, 720p HD recording and the company's Smart Filter 2.0 special effects filters including Half Tone Dot effect, Soft Focus and Old Movie. It is also one amongst the first compact cameras from Samsung to incorporate the company's smartphones styled Smart Access UI system that allows you to drag, click and control app-styled icons, easily flip through photos, and control camera’s features including aperture and shutter speed.In our testing we have found that the WB210's touch-sensitive screen can slow operation significantly, if you try to take manual control over the same. However, the WB210 is a fairly solid performer in terms of image quality and features. Image quality across its ISO span is very good, and in terms of detail reproduction and noise levels the WB210 sits towards the top of its class. The only major issues are pronounced corner softness towards the wide end of the camera's zoom, and slightly crude noise reduction at the top of its ISO sensitivity scale. Ultimately, despite its 'lifestyle' pretensions, the WB210 is a capable camera with a lot to recommend it. If however you value manual control and quick operation, you might be disappointed by the forced reliance on its somewhat quirky touch interface.
+    ProductPhotos:
+        - /files/p/products/samsung_wb210/shots/3d78430e684640d2ba43a85dd07bc2e5.png
+        - /files/p/products/samsung_wb210/shots/6f075ebdeba74577b9813ecbd5575fe6.png
+        - /files/p/products/samsung_wb210/shots/f48b8b939c154bc2b2274f8b3c92e436.png
+    ReviewSummary:
+        GoodFor: 21mm wide angle mode is great for landscapes. Intuitive interface is easy to navigate.
+        NotSoGoodFor: Operational control is complicated by being limited to a touch-screen only interface.
+        Conclusion: The WB210's touch screen-centric operation won't suit everyone, but as a point-and-shoot travelzoom it has a lot to recommend it. Image quality is competitive, and we like the 'Super Wide Shot' 21mm equivalent wideangle mode. The WB210 loses points for its sub-par images at high ISO settings and the slightly fussy, somewhat unresponsive touch interface.
+    ASIN:
+        - B004Z50AQA
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (5x)
+    Dimensions: 101 x 59 x 22 mm (3.98 x 2.32 x 0.87″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 24–288 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: Yes (in specific settings)
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.9–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 12×
+    OrientationSensor: ""
+    OtherResolutions: 4320 x 2880, 4224 x 2432, 3648 x 2736, 2592 x 1944, 1984 x 1488, 1920 x 1080, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (60, 30 fps)
+    ReviewPreview: "66%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jul 20, 2011"
+    SceneModes: ""
+    ScreenDots: 1,152
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Double)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 10MB Internal
+    StorageTypes: microSC/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 174 g (0.38 lb / 6.14 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

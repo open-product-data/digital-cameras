@@ -1,0 +1,84 @@
+ProductCode: panasonic_dmcfx12
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfx12/1c10d27429b744a59d675fdf8fa60e7c.png
+Name: Panasonic Lumix DMC-FX12
+ShortSpecs:
+    - 7 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfx12
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000MW3YAO
+        - B000MW8GTS
+Specs:
+    Announced: Jan 31, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BoostedISOMaximum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 94 x 51 x 24 mm (3.7 x 2.01 x 0.94″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye Auto, On, Red-Eye On, Red-Eye Slow Sync, Off
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1250, (3200 high mode)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F2.8–5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 848 x 480, 640 x 480, 320 x 240 @ 30/10 fps
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 27 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "4"

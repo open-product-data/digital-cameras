@@ -1,0 +1,97 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107191921/https://www.dpreview.com/reviews/q408budgetgroup
+ProductCode: kodak_c1013
+Award: ""
+ImageURL: /files/p/products/kodak_c1013/9f0348899aff4a78afef9d0f919ff7cc.png
+Name: Kodak EasyShare C1013
+ShortSpecs:
+    - 10 megapixels
+    - 2.4″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c1013
+ReviewData:
+    ExecutiveSummary: An uninspiring camera that struggles to produce anything but uninspiring results, it's hard to see how you would recommend the C1013 over similarly priced competitors that offer better styling and more reliable results. Kodak is capable of making great budget cameras, but unfortunately the C1013 simply isn't one of them. At its best, in the right conditions, the C1013 can produce appealing photos, but it's frustrating to use and is far too likely to mess up the exposure or color to be considered a reliable point and shoot camera. Our advice? Steer clear.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B002CBBNME
+Specs:
+    Announced: Sep 24, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 91 x 62 x 25 mm (3.58 x 2.44 x 0.98″)
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.00 m (ISO 160)
+    FocalLengthEquiv: 34–102 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 80, 100, 200, 400, 800, 1000
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3644 x 2748
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3664 x 2442, 3664 x 2062, 2592 x 1944, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Nov 27, 2008"
+    ScreenDots: 115,000
+    ScreenSize: 2.4″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "5"

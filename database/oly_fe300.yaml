@@ -1,0 +1,82 @@
+ProductCode: oly_fe300
+Award: ""
+ImageURL: /files/p/products/oly_fe300/16630bc387224685925816c27bfdac6d.png
+Name: Olympus FE-300
+ShortSpecs:
+    - 12 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe300
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000UW4RLQ
+Specs:
+    Announced: Aug 23, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 57 x 22 mm (3.7 x 2.24 x 0.87″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off
+    FlashRange: 6.10 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (64 - 3200), up to ISO 6400 in reduced pixel mode
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–4.7
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 @ 30 fps, 320 x 240 @ 15 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/1.72" (7.4 x 5.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 48 MB Internal
+    StorageTypes: xD Picture Card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 115 g (0.25 lb / 4.06 oz)
+    WhiteBalancePresets: "6"

@@ -1,0 +1,157 @@
+ProductCode: canon_eosra
+Award: ""
+ImageURL: /files/p/products/canon_eosra/70840962c4f9412994b5a2ed5390ed27.png
+Name: Canon EOS Ra
+ShortSpecs:
+    - 30 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eosra
+ReviewData:
+    ExecutiveSummary: The EOS Ra is a specialized version of Canon's EOS R full-frame mirrorless camera that is designed for astrophotography. Its infrared filter is four times more sensitive to hydrogen-alpha rays, making it ideal for capturing nebulae. The ability to enlarge the scene by up to 30X allows for precise focusing. Otherwise, the EOS Ra has the same features as the regular model, which include a 30.3MP CMOS sensor with Dual Pixel AF. The EOS R can record both 14-bit (CRW) and compressed (C-RAW) formats. It can shoot continuously at 8 fps in single AF and 5 fps with continuous AF. The Dual Pixel AF system has a whopping 5655 selectable AF points and it can function at light levels as low as -6EV.The compact body has a 3.69M-dot OLED electronic viewfinder with a 0.76x magnification, as well as a 3.2", 2.1M-dot fully-articulating touchscreen LCD. On the top plate is an OLED panel that displays current shooting information. The EOS R offers Mini-HDMI and USB-C ports, as well as a 3.5mm external mic socket. Battery life is CIPA-rated at 370 shots per charge (450 using Power Saving mode). A battery grip is available. The EOS R has a single memory card slot that supports UHS-II media.4K UHD video can be captured at up to 29.97 fps using ALL-I or IBP compression with a max bit rate of 480MBps. If you want 60p video you'll have to drop down to Full HD.
+    ProductPhotos:
+        - /files/p/products/canon_eosra/shots/d5e8f13f13554b41a7c05537d2d2bac5.png
+        - /files/p/products/canon_eosra/shots/bed4d57276134fa9b7b907ad31468abd.png
+        - /files/p/products/canon_eosra/shots/4fc63fb307de467b94903e7d485d8e2a.png
+        - /files/p/products/canon_eosra/shots/2c4489d6eb3a41f7b6cdce95f6a5a6cc.png
+    ReviewSummary: null
+    ASIN:
+        - B07ZTVWYLW
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Nov 5, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: "370"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 136 x 98 x 84 mm (5.35 x 3.86 x 3.31″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Self-timer
+    EffectivePixels: 30 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (14-bit Canon CRW)
+        - C-Raw (Canon compressed Raw)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-40000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $2499 (body only)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6720 x 4480
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 480 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 24p / 480 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 120 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 23.98p / 480 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 180 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 90 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 24p / 90 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 30 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 90 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 120p / 160 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "5655"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4176 x 2784 (1.6x crop)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 32 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD card (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (With some chargers)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.76×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.1 LE

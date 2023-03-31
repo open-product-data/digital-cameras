@@ -1,0 +1,153 @@
+ProductCode: ricoh_wg80
+Award: ""
+ImageURL: /files/p/products/ricoh_wg80/5cc73de62fc843a7bc437155ffeb9fea.png
+Name: Ricoh WG-80
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_wg80
+ReviewData:
+    ExecutiveSummary: The WG-80 is a rugged camera that's waterproof to 14m/46ft, shockproof from 1.6m/5ft and freezeproof to -10C/+14F. It features a 16MP CMOS sensor, 28-140mm equiv. lens, 2.7" LCD and 1080/30p video capture. Wi-Fi is not available. The only difference between the WG-80 and its predecessor, the WG-70, is the updated six-light LED array on the front of the camera, which is now twice as bright. The camera is available in black and orange.
+    ProductPhotos:
+        - /files/p/products/ricoh_wg80/shots/4a67816e117e4a739869f0893f84bda9.png
+        - /files/p/products/ricoh_wg80/shots/0b2e9485f0c84815b96105458171446a.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: May 19, 2022
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI92 lithium-ion battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: Composite, metal
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (7.2X)
+    Dimensions: 123 x 62 x 30 mm (4.84 x 2.44 x 1.18″)
+    DriveModes:
+        - Single
+        - Self-timer
+        - Continuous
+        - Burst
+        - Remote control
+        - Auto Bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: On, off
+    FlashRange: 5.50 m (at Auto ISO)
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Digital only
+    JPEGQualityLevels: Fine, normal, basic
+    LiveView: "Yes"
+    MSRP: $279
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 120p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p, MOV, H.264, Linear PCM
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Wireless)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Auto Picture
+        - Program
+        - HDR
+        - Handheld Night Snap
+        - Movie
+        - High Speed Movie
+        - Digital Microscope
+        - Landscape
+        - Flower
+        - Portrait
+        - Underwater
+        - Underwater Movie
+        - Interval Shot
+        - Interval Movie
+        - Surf & Snow
+        - Kids
+        - Pet
+        - Sport
+        - Night Scene
+        - Night Scene Portrait
+        - Fireworks
+        - Food
+        - Digital SR
+        - Report
+        - Green
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, remote)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 68MB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 193 g (0.43 lb / 6.81 oz)
+    WhiteBalancePresets: "6"
+    WirelessNotes: ""

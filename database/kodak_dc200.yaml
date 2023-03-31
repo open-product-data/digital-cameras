@@ -1,0 +1,75 @@
+ProductCode: kodak_dc200
+Award: ""
+ImageURL: /files/p/products/kodak_dc200/78a8e3adbdb7400aa1b798909155f5e9.png
+Name: Kodak DC200
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 39 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc200
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 29, 1998
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 131 x 47 x 81 mm (5.16 x 1.87 x 3.19″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 39 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "140"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 1152 x 864
+    MaximumAperture: F4–4.8
+    MaximumShutterSpeed: 1/362 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 4 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 400 g (0.88 lb / 14.11 oz)
+    WhiteBalancePresets: ""

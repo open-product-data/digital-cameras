@@ -1,0 +1,152 @@
+ProductCode: fujifilm_xp130
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp130/4959aa0f91d64b769608c64808174ab9.png
+Name: Fujifilm XP130
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp130
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix XP130 is a rugged camera that can go up to 20 metres (65 ft) underwater, fall from 1.75 meters (5.7 feet) and function in temperatures as low as -10C (+14F). It has a 16MP BSI-CMOS sensor paired with a 28-140mm F3.9-4.9 lens and a 3" LCD with a new electronic level function. Photos can be shared via Wi-Fi, with Bluetooth for easy pairing and image transfer. The XP130 can capture 1080/60p video, take 360 degree panoramas and produce still and video time-lapses.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp130/shots/a79c04dab37446bd99bedf5a54e4945e.png
+        - /files/p/products/fujifilm_xp130/shots/7fe483b304194942a70003398f5ff2a1.png
+        - /files/p/products/fujifilm_xp130/shots/68701139734e48c4a220cf31f8706df3.png
+        - /files/p/products/fujifilm_xp130/shots/e7356551cd73425cbf167e4106c7b662.png
+        - /files/p/products/fujifilm_xp130/shots/55831b5d60ae45c6840f77180b280150.png
+        - /files/p/products/fujifilm_xp130/shots/aebe905eac804566bb796242a081d58a.png
+    ReviewSummary: null
+    ASIN:
+        - B0797CV4B7
+        - B0797G9YGN
+        - B0797GG74B
+Specs:
+    AEBracketing: ""
+    Announced: Jan 24, 2018
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-45S lithium-ion battery & charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Metal, composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2x)
+    Dimensions: 110 x 71 x 28 mm (4.33 x 2.8 x 1.1″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Interval
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, Forced Flash, Suppressed Flash, Slow Synchro
+    FlashRange: 4.40 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200 (6400 available at lower resolutions)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $229
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p, MOV, H.264, Linear PCM
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Sunset
+        - Snow
+        - Beach
+        - Under water
+        - Under water (Macro)
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, group shot)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 96MB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 207 g (0.46 lb / 7.30 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.0

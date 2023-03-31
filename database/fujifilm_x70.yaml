@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220309031757/https://www.dpreview.com/reviews/fujifilm-x70-review
+ProductCode: fujifilm_x70
+Award: noAward
+ImageURL: /files/p/products/fujifilm_x70/339f62859668402f91a679c442b34558.png
+Name: Fujifilm X70
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+ReviewScore: 76
+URL: /products/fujifilm/compacts/fujifilm_x70
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Fujifilm X70 is a compact fixed lens camera with a design similar to the company''s X100 series. It has a fixed 28mm equivalent F2.8 lens paired with Fujifilm''s time-tested 16MP APS-C X-Trans CMOS II sensor. As with its big brother, the X70 is loaded with direct controls for aperture, shutter speed and exposure compensation. While it lacks the hybrid viewfinder of the X100 series, the X70 is the first Fujifilm X model to have a tilting touchscreen LCD.The X70 uses a new autofocus system with 49 points in single AF mode and 77 points in continuous AF. It has a fully electronic shutter which tops out at 1/32000 sec and a maximum ISO of 51,200. As with its X-series stablemates, the X70 has all of Fujifilm''s Film Simulation Modes, including Classic Chrome. The camera can capture video at 1080/60p with a 36MBps bit rate. As one would expect, Wi-Fi is also built in.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_x70/shots/db295dd65a2249eaac7ca40b90a68582.png
+        - /files/p/products/fujifilm_x70/shots/fdd878dff41249d5963beec25cd3ea41.png
+        - /files/p/products/fujifilm_x70/shots/3c6dcb830cf14d7e92fcf2932088e68f.png
+        - /files/p/products/fujifilm_x70/shots/d0fe418d33e543688bb9653803a05b47.png
+        - /files/p/products/fujifilm_x70/shots/6c69400411054833a2a96f9bdde7c13a.png
+    ReviewSummary:
+        GoodFor: Shooting at any and every angle and sharing from anywhere
+        NotSoGoodFor: Raw shooters who need the highest quality optics possible. Video shooters, and those looking to capture fast moving subjects.
+        Conclusion: The Fujifilm X70 is definitely one of the simplest 28mm-equivalent APS-C compact cameras on the market. It is well optimized for sharing and shooting, but falls a bit below the incredibly high Raw image quality bar set by the Ricoh GR. Even so, it presents a good value for those who want APS-C quality without investing in a set of lenses.
+    ASIN:
+        - B019Y5UBGY
+        - B019Y5UBPU
+Specs:
+    AEBracketing: ±1 (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 15, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-95 lithium-ion battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (35mm, 50mm digital teleconverter)
+    Dimensions: 113 x 64 x 44 mm (4.45 x 2.52 x 1.73″)
+    DriveModes:
+        - Single
+        - Continuous (hi/lo)
+        - Self-timer
+        - Interval
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (RAF format, 14-bit lossless compressed or uncompressed)
+    FlashModes: Auto,  Forced Flash, Slow Synchro , Suppressed Flash, Commander
+    FlashRange: 7.90 m (at ISO 1600 (5.5m at ISO 100))
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expandable to 100-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Unknown
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $799/£549
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumAperture: F2.8–16
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "77"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3456 x 2304, 2496 x 1664), 16:9 (4896 x 2760, 3456 x 1944, 2496 x 1408), 1:1 (3264 x 3264, 2304 x 2304, 1664 x 1664)
+    Processor: EXR Processor II
+    RemoteControl: Yes (Wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "76%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 18, 2016"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 340 g (0.75 lb / 11.99 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

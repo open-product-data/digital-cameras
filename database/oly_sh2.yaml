@@ -1,0 +1,142 @@
+ProductCode: oly_sh2
+Award: ""
+ImageURL: /files/p/products/oly_sh2/f7cfe5fb9f1c48ffb80ad555165009dc.png
+Name: Olympus Stylus SH-2
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sh2
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Olympus Stylus SH-2 features a 24x wide-angle optical zoom lens, built-in Wi-Fi connectivity for remote shooting and sharing with a smart device, RAW capture capability, and 5-Axis Image Stabilization that supports both still image and video capture. This sophisticated camera also adds new Nightscape Modes for stunning night scenes and portraits.Despite its compact size, the Olympus Stylus SH-2 captures excellent image quality with its 16-megapixel sensor and 24x optical zoom lens, which adjusts from 25mm wide-angle to 600mm telephoto. This camera is also equipped with tele-macro functionality that allows you to capture stunning detail from a distance of up to 40 cm (15.75 inches), perfect for shooting macro images in a variety of settings.The Olympus Stylus SH-2 is equipped with Advanced Movie Modes for powerful video recording functions, including Full HD 1080p captured at up to 60 frames per second for smooth motion playback of fast action footage. High-Speed Movie stretches scenes in slow (120 fps) or super-slow motion (240 fps), while Time Lapse Movie compresses up to five hours of action into a 20-second time-lapse video'
+    ProductPhotos:
+        - /files/p/products/oly_sh2/shots/0c58674922a14a2fbbd1ed6d01651648.png
+        - /files/p/products/oly_sh2/shots/95b7b5363286410ba91e2cb58dfdf9b4.png
+        - /files/p/products/oly_sh2/shots/96cf0985502f4ab08c7d7e94ca4e6213.png
+        - /files/p/products/oly_sh2/shots/2531ec498e984d43809c320d4cd5a0fc.png
+    ReviewSummary: null
+    ASIN:
+        - B00TYJRL5U
+        - B00TYJCW36
+Specs:
+    Announced: Mar 11, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LI-92B lithium-ion battery & USB charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Aluminum alloy
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 11.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 63 x 42 mm (4.29 x 2.48 x 1.65″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program Auto
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Olympus ORF format)
+    FlashModes: Auto, redeye reduction, fill-in, off
+    FlashRange: 8.30 m (at ISO 3200)
+    FocalLengthEquiv: 25–600 mm
+    Format: H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis (yaw, pitch, roll, up/down, left/right)
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $399
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VII
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Interval
+        - Sport
+        - Indoor
+        - Self portrait
+        - Sunset
+        - Cuisine
+        - Documents
+        - Beach & Snow
+        - Super macro
+        - Backlight HDR
+        - Night capture
+        - Night+portrait
+        - Night scene
+        - Fireworks
+        - Handheld star light
+        - Live composite
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 37MB
+    StorageTypes: SD, SDHC, SDXC, Internal Memory
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed: 120 fps (1280 x 720), 240 fps (432 x 324)'
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 271 g (0.60 lb / 9.56 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone app

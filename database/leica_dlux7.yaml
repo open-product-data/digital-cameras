@@ -1,0 +1,152 @@
+ProductCode: leica_dlux7
+Award: ""
+ImageURL: /files/p/products/leica_dlux7/9badc27b60604b6a97953075d014d0e4.png
+Name: Leica D-Lux 7
+ShortSpecs:
+    - 17 megapixels
+    - 3″ screen
+    - 24 – 75 mm (3.1×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_dlux7
+ReviewData:
+    ExecutiveSummary: The Leica D-Lux 7 is an enthusiast compact that's nearly identical to Panasonic's Lumix DC-LX100 II. Like that camera, it has a 17MP Four Thirds sensor that allows the camera to maintain the same field-of-view at 16:9, 3:2 and 4:3 aspect ratios. The D-Lux 7 sports a 24-75mm equivalent F1.7-2.8 Leica DC lens and has numerous dials for shutter speed and exposure compensation, plus a ring for adjusting the aperture. A custom control ring can also be found around the lens. The camera has a 1.24M-dot touchscreen LCD and 2.76M-dot equivalent electronic viewfinder. The D-Lux 7 can shoot continuously at 5.5 fps with continuous autofocus or 11 fps with AE/AF lock. It can also capture UHD 4K video, which also allows for 4K Photo, Post Focus and Sequence Composition features. The D-Lux has built-in Wi-Fi and Bluetooth, with the latter maintaining a constant connection that allows for quick remote control and auto image transfer using the company's FOTOS app.
+    ProductPhotos:
+        - /files/p/products/leica_dlux7/shots/4df832a7b0164d6384af0ac313c52c05.png
+        - /files/p/products/leica_dlux7/shots/6fef9f82be08431b92f1e3f03f3be45d.png
+        - /files/p/products/leica_dlux7/shots/a56fb1a172304ccfbc60f1e5f656b127.png
+        - /files/p/products/leica_dlux7/shots/e1106ddb62104d3b8dd2d3572692845c.png
+        - /files/p/products/leica_dlux7/shots/f88117e98c494a4b81d0125db9a90542.png
+    ReviewSummary: null
+    ASIN:
+        - B08BBHBPXT
+        - B08N6T16JS
+        - B073V5DH8X
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Nov 20, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DP-DC15 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4.3x - 6.2x)
+    Dimensions: 118 x 66 x 64 mm (4.65 x 2.6 x 2.52″)
+    DriveModes:
+        - Single
+        - Continuous (H/M/L)
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 17 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v.2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: 24–75 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to 100)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1195
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4736 x 3552
+    MaximumAperture: F1.7–2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1800 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 10 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 3.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4928 x 3288 (3:2), 5152 x 2904 (16:9), 3552 x 3552 (1:1)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,240,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 403 g (0.89 lb / 14.22 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

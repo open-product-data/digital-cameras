@@ -1,0 +1,139 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220127234441/https://www.dpreview.com/reviews/sony-alpha-a7r
+ProductCode: sony_a7r
+Award: gold
+ImageURL: /files/p/products/sony_a7r/0ca51337c3254e039b1f83f8ade0e1f6.png
+Name: Sony a7R
+ShortSpecs:
+    - 36 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 82
+URL: /products/sony/slrs/sony_a7r
+ReviewData:
+    ExecutiveSummary: The Sony Alpha 7R is a full-frame E-mount mirrorless camera. The A7R is very similar to its less-expensive sibling (the A7), except that it uses a 36 megapixel CMOS sensor with no optical low-pass filter. The A7 twins are the smallest and lightest full-frame cameras on the market. While the cameras can use any E-mount lens, there will be a crop factor involved (unless you don't mind vignetting). Sony is producing a new line of FE-series lenses that take advantage of the larger sensor.The A7's use the new Sony Bionz X processor, which produces images with better detail, less noise, and reduced diffraction. Other features include a 3-inch, tilting LCD, XGA OLED electronic viewfinder, Multi-interface (hot) shoe, Wi-Fi with NFC, and 1080/60p video recording.
+    ProductPhotos:
+        - /files/p/products/sony_a7r/shots/9cfc010c00c74393b05a4f65fbb24ba7.png
+        - /files/p/products/sony_a7r/shots/58183602f9c74e0da65399964c7bdf7b.png
+        - /files/p/products/sony_a7r/shots/dc9d2c92d67d42b4a91a20809ea8c7fe.png
+        - /files/p/products/sony_a7r/shots/c4a59ee45a6146ff8c6a779cd2549c30.png
+        - /files/p/products/sony_a7r/shots/c9b3983ba49e497b87dcbe24688a54b5.png
+    ReviewSummary:
+        GoodFor: Enthusiasts who shoot Raw, and are prepared to take the time required to make the most from the a7R's sensor
+        NotSoGoodFor: Snapshooting and capturing fast action
+        Conclusion: When it comes to getting high image quality from a small, full-frame camera, the Sony a7R has it wrapped up. It's worth the higher price and pairs well with Sony's impressive FE lenses.
+    ASIN:
+        - B00FRDUZUK
+        - B00V9LXKC4
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 16, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4)
+    Dimensions: 127 x 94 x 48 mm (5 x 3.7 x 1.89″)
+    DriveModes:
+        - Single, continuous, speed priority continuous, self-timer, bracketing (AE, white balance, DRO)
+    EffectivePixels: 36 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - RAW (ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4K still, uncompressed video output)
+    HeadphonePort: "Yes"
+    ISO: 100-25600
+    ImageParameters:
+        - Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn Leaves, Black & White, Sepia
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $2299.99 / £1699 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7360 x 4912
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "25"
+    OrientationSensor: "Yes"
+    OtherResolutions: 7360 x 4144, 4800 x 3200, 4800 x 2704, 3680 x 2072, 2400 x 1600
+    Processor: Bionz X
+    RemoteControl: Yes (wired)
+    Resolutions: 1920 x 1080 (60p, 60i, 24p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 13, 2014"
+    SceneModes:
+        - Portrait, Landscape, Macro, Sports Action, Sunset, Night Portrait, Night Scene, Hand-held Twilight, Anti Motion Blur
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: Xtra Fine LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 37 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: No optical low-pass filter
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: headphone and microphone ports, XLR support via adapter
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 465 g (1.03 lb / 16.40 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: with NFC and wireless control via PlayMemories Mobile app

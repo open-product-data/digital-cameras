@@ -1,0 +1,140 @@
+ProductCode: pentax_optiowg2gps
+Award: ""
+ImageURL: /files/p/products/pentax_optiowg2gps/c79e7e11716149ef9983cbcba720ef30.png
+Name: Pentax Optio WG-2 GPS
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optiowg2gps
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/pentax_optiowg2gps/shots/b8a9e624aa164de1a4f4b01356acf4a5.png
+        - /files/p/products/pentax_optiowg2gps/shots/94fc8dc775cf4ce7a39d8aa7d2eb08f7.png
+        - /files/p/products/pentax_optiowg2gps/shots/f7cf5d3b944f4a518903dffd7a7e84cf.png
+        - /files/p/products/pentax_optiowg2gps/shots/da3feae08ddb415f8cd0944708afca4c.png
+    ReviewSummary: null
+    ASIN:
+        - B0078KP38E
+Specs:
+    Announced: Feb 7, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI92 rechargeable battery & charger
+    BatteryLifeCIPA: "260"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 122 x 61 x 30 mm (4.8 x 2.4 x 1.18″)
+    DriveModes:
+        - One Shot
+        - Self-Timer (10s, 2s, Remote 3s)
+        - Continuous
+        - Burst
+        - Remote Control (3s, 0s)
+        - Auto Bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Crushproof, Waterproof, Shockproof, Dustproof, Freezeproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPG (EXIF 2.3)
+        - DCF 2.0
+        - PIM III
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 5.40 m
+    FocalLengthEquiv: 28–140 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    HDMI: Yes (Micro, Type-D)
+    ISO: Auto 125-6400, 125, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 3216, 4224 x 2376, 3216 x 3216, 3072 x 2304, 3072 x 1728, 2592 x 1944, 2592 x 1464, 2048 x 1536, 1920 x 1080, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Night Scene
+        - Handheld Night Snap (ISO 125-1600)
+        - Underwater
+        - Underwater Movie
+        - Digital Microscope (2M)
+        - Landscape
+        - Flower
+        - Portrait
+        - Interval Shot
+        - Interval Movie
+        - High Speed Movie (VGA, 120 FPS capture, 30 FPS playback)
+        - Digital SR
+        - Surf & Snow
+        - Kids
+        - Pet
+        - Sport
+        - Candlelight
+        - Fireworks
+        - Night Scene Portrait
+        - Text
+        - Food
+        - Digital Wide (5M)
+        - Digital Panorama (2M per frame)
+        - Frame Composite (3M or 2M)
+        - Report (1280x960, ISO 125-1600)
+        - Green (ISO 125-1600)
+        - Voice Recording
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: Widescreen TFT color LCD with anti-reflective coating
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 88.2 MB Internal
+    StorageTypes: SD/SDHC/SDXC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Interval shot mode for stills and movie)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 198 g (0.44 lb / 6.98 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Eye-Fi Connected

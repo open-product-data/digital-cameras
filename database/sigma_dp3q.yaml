@@ -1,0 +1,128 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210901163837/https://www.dpreview.com/reviews/2017-roundup-fixed-prime-lens-cameras
+ProductCode: sigma_dp3q
+Award: ""
+ImageURL: /files/p/products/sigma_dp3q/81937aa01d4b4d9da4f00e801d2294c9png
+Name: Sigma dp3 Quattro
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 75 mm
+ReviewScore: 0
+URL: /products/sigma/compacts/sigma_dp3q
+ReviewData:
+    ExecutiveSummary: The Sigma dp3 Quattro is the next generation of its DP series of APS-C sensor, fixed focal length cameras. The latest, 75mm-equivalent, model features dramatic styling and a fundamental re-think of the company's Foveon multi-layer sensor design. The Quattro sensor still uses three layers to detect color information but now only captures its full, 19.6 million pixel resolution in the top layer, with lower two layers capturing 4.9MP of information each. The sensor will also appear in 28mm and 45mm equivalent dp1 Quattro and dp2 Quattro models.
+    ProductPhotos:
+        - /files/p/products/sigma_dp3q/shots/bba79a96efc84fec8107970215c0ecd9png
+        - /files/p/products/sigma_dp3q/shots/5e84236dec0a43abae04a99cdcbe1871png
+        - /files/p/products/sigma_dp3q/shots/04a204893b354ca79f49a01e37b6f1c7png
+        - /files/p/products/sigma_dp3q/shots/1f82a27316814ce592104f1a5eab78afpng
+    ReviewSummary: null
+    ASIN:
+        - B00TXQ3JSM
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Feb 10, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-51 lithium-ion battery and charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: N/A
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 161 x 67 x 102 mm (6.34 x 2.64 x 4.02″)
+    DriveModes:
+        - Single, Continuous, Self Timer, Interval timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (14-bit, X3F)
+        - Raw (12-bit DNG)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 75 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Unknown
+    JPEGQualityLevels: Super-high, high, low
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (Focus Ring Type)
+    MaxResolution: 5424 x 3616
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 23 cm (9.06″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TRUE III engine
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Apr 28, 2017"
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: SD/SDHC/SDXC
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: ""

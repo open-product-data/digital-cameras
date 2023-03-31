@@ -1,0 +1,130 @@
+ProductCode: dxo_one_2016
+Award: ""
+ImageURL: /files/p/products/dxo_one_2016/1a95a5930cc44bc2b05e8b4d5067982f.png
+Name: DxO One (2016)
+ShortSpecs:
+    - 20 megapixels
+    - 32 mm
+ReviewScore: 0
+URL: /products/dxo_labs/compacts/dxo_one_2016
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The DxO ONE delivers DSLR image quality in an extremely compact size. It features an ultra-high quality f/1.8, 32mm equivalent aspherical lens with a variable 6- blade iris and a 1-inch 20.2MP CMOS BSI sensor capable of capturing high-resolution images even in very low light. It attaches via the Lightning connector, turning the beautiful iPhone display into the camera’s viewfinder. The camera swivels ±60°, enabling creative perspectives.A free iOS app enables control of the individual settings on the DxO ONE camera, including aperture (from f/1.8 to f/11), shutter speed (from 15s to 1/8000s), and ISO (from 100 to 51200). In addition to an Auto mode, the DxO ONE app offers various capture modes, including multiple Scene modes, Speed, Aperture Priority, or full Manual mode – and the camera interface automatically adapts to the selected mode for a unique user experience. The DxO ONE also records outstanding videos at 1080p/30fps or 720p/120fps.By default, the DxO ONE automatically keeps the valuable high-dynamic RAW ‘digital negative’ files, enabling post-production editing flexibility in RAW conversion programs like DxO OpticsPro and Adobe Lightroom. For the ultimate in noise-free image quality – even in very low light – users can choose to capture images in DxO’s new SuperRAW format. A SuperRAW file is the result of 4 RAW frames captured in quick succession. When the DxO ONE camera is connected to a Mac or PC, the DxO Connect companion software automatically merges the four images together using the very latest in spatial and temporal noise reduction.The 2016 edition of the One has support for Ad Hoc Wi-Fi, better power management and removable battery door so it can be used while plugged into the wall.'
+    ProductPhotos:
+        - /files/p/products/dxo_one_2016/shots/5597a82324e74a4bb112d4b982ef0451png
+        - /files/p/products/dxo_one_2016/shots/96d762eecc7f402a95adc77771ae08c1png
+        - /files/p/products/dxo_one_2016/shots/cb7e4c7257354cf4befcc2e1cbe8eabfpng
+        - /files/p/products/dxo_one_2016/shots/e49c54d7e1cd49659eac744cf2efa3e1png
+    ReviewSummary: null
+    ASIN:
+        - B07D3C96X1
+Specs:
+    Announced: Aug 31, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Aluminum
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "51200"
+    BuiltInFlash: "No"
+    BuyingOptions: $179.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3x)
+    Dimensions: 67 x 48 x 25 mm (2.64 x 1.89 x 0.98″)
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+        - DNG
+        - DXO (SuperRAW)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 32 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800 (expands to 51200)
+    ImageRatioWh: "3:2"
+    ImageStabilization: Digital only
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: $499
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–11
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 20 cm (7.87″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (120p)
+    ReviewPreview: ""
+    SceneModes:
+        - Sports
+        - Portrait
+        - Landscape
+        - Night
+        - Selfie
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: OLED
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: microSD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 108 g (0.24 lb / 3.81 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

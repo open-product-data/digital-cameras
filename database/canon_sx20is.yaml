@@ -1,0 +1,115 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220129071637/https://www.dpreview.com/reviews/q110superzoomgroup
+ProductCode: canon_sx20is
+Award: gold
+ImageURL: /files/p/products/canon_sx20is/dd090f5416cb49d8b93e23098b741beb.png
+Name: Canon PowerShot SX20 IS
+ShortSpecs:
+    - 12 megapixels
+    - 2.5″ screen
+    - 28 – 560 mm (20×)
+ReviewScore: 73
+URL: /products/canon/compacts/canon_sx20is
+ReviewData:
+    ExecutiveSummary: The 12MP Canon Powershot SX20 IS is the successor to the SX10 IS but constitutes only a fairly minor upgrade. It is essentially the same camera (both have a 28-560mm equivalent lens) with a slightly increased megapixel count (12.1 vs 10 MP) and a new 720p HD video mode. Lens, screen and most other items on the spec sheet remain unchanged. As such, the camera is the latest incarnation of Canon's popular series of superzoom cameras that can trace its ancestry right back to the PowerShot S1 IS of 2004. Like its predecessor the SX20 IS uses CCD technology to capture its images. When we tested it we found that the SX20 IS is one of the best performers amongst its competition across the ISO range, both in terms of performance and responsiveness. Its metering is excellent and the output features natural colors and very good sharpness across the frame.
+    ProductPhotos:
+        - /files/p/products/canon_sx20is/shots/750878e0261e4d5a9664bda991f257ae.png
+        - /files/p/products/canon_sx20is/shots/4c1526b5eb0b495981c687696b2bf111.png
+        - /files/p/products/canon_sx20is/shots/afdf002dbb4540708459192aaeea7fab.png
+        - /files/p/products/canon_sx20is/shots/1a1251f36c9440ab80fb2d43a4f8d7f5.png
+    ReviewSummary:
+        GoodFor: Photographers who like to use the viewfinder and set their shooting parameters manually
+        NotSoGoodFor: Maximum zoom range applications such as shooting birds in the sky
+        Conclusion: The SX20 IS a solid performer that combines SLR-like styling, extensive manual controls and a good HD video mode. If you don't find it too large and can live with the, compared to some rivals, slightly shorter zoom you cannot go wrong with the Canon.
+    ASIN:
+        - B002LITT3I
+        - B003E6NWJS
+Specs:
+    Announced: Aug 19, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA batteries (Alkaline or  NiMH)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 128 x 88 x 87 mm (5.04 x 3.46 x 3.43″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, Fill-in
+    FlashRange: 6.80 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–560 mm
+    Format: H.264
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.7
+    MaximumShutterSpeed: 1/3200 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3840 x 2160, 3264 x 2448, 2592 x 1944, 1600 x 1200, 640 x 480, 320 x 240
+    Processor: Digic 4
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: "73%Gold Award\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jul 6, 2010"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD / SDHC / MMC / MMC Plus / HC MMC Plus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 600 g (1.32 lb / 21.16 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

@@ -1,0 +1,84 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210923042121/https://www.dpreview.com/reviews/fujifilms5000
+ProductCode: fuji_finepixs5000
+Award: average
+ImageURL: /files/p/products/fuji_finepixs5000/a3f9acf4812c4a4ab5341fac7d445cc0.png
+Name: Fujifilm FinePix S5000 Zoom
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 37 – 370 mm (10×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixs5000
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00009VSBE
+        - B0007GIXSI
+Specs:
+    Announced: Jul 29, 2003
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (lower res only)
+    Dimensions: 113 x 81 x 79 mm (4.45 x 3.19 x 3.11″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 6.00 m
+    FocalLengthEquiv: 37–370 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (160-200), 200, 400, 800 (1MP only)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2816 x 2120
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 90 cm (35.43″)
+    OpticalZoom: 10×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1600x1200, 1280x960
+    RemoteControl: "No"
+    Resolutions: 30 fps, unlimited, audio
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Sep 17, 2003"
+    ScreenDots: 114,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic
+    WeightIncBatteries: 430 g (0.95 lb / 15.17 oz)
+    WhiteBalancePresets: "7"

@@ -1,0 +1,83 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211022155616/https://www.dpreview.com/reviews/samsungpro815
+ProductCode: samsung_pro815
+Award: recommended
+ImageURL: /files/p/products/samsung_pro815/afd4c5c417d040f5a1cb3a1ae54dbfee.png
+Name: Samsung Pro815
+ShortSpecs:
+    - 8 megapixels
+    - 3.5″ screen
+    - 28 – 420 mm (15×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_pro815
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000BBF2XI
+Specs:
+    Announced: Jun 2, 2005
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 136 x 87 x 79 mm (5.35 x 3.43 x 3.11″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.70 m
+    FocalLengthEquiv: 28–420 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.2–4.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 10 cm (3.94″)
+    OpticalZoom: 15×
+    OrientationSensor: "No"
+    OtherResolutions: 2400 x 1800, 1632 x 1224, 1024 x 768, 640 x 480
+    RemoteControl: ""
+    Resolutions: 640 x 480, 320 x 240, 160 x 120, 25/15 fps
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Dec 7, 2005"
+    ScreenDots: 235,000
+    ScreenSize: 3.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: Unknown
+    StorageTypes: Compact Flash Type I or II
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: ""
+    ViewfinderType: Electronic
+    WeightIncBatteries: 910 g (2.01 lb / 32.10 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

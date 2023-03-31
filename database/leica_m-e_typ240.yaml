@@ -1,0 +1,123 @@
+ProductCode: leica_m-e_typ240
+Award: ""
+ImageURL: /files/p/products/leica_m-e_typ240/d063162fb89442f0a685ab718d6f712c.png
+Name: Leica M-E
+ShortSpecs:
+    - 24 megapixels
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m-e_typ240
+ReviewData:
+    ExecutiveSummary: The Leica M-E (Typ 240) is an 'entry-level' model in Leica's venerable M-series of rangefinder cameras. It features a 24MP full-frame CMOS sensor (with a top ISO of 6400), Leica's Maestro processor, and a 2GB buffer for sustained burst capture. Video can be captured at 1080/30p. As with all Leica M-series models, the camera is hand-built and weather-sealed.
+    ProductPhotos:
+        - /files/p/products/leica_m-e_typ240/shots/9f21b694e1bb436b9421cbe2cb4385ee.png
+        - /files/p/products/leica_m-e_typ240/shots/21a8faa8b5b14db6bfcf85d1e48bd32c.png
+        - /files/p/products/leica_m-e_typ240/shots/eab0c6538c724c968ebab9d93bf98bd7.png
+        - /files/p/products/leica_m-e_typ240/shots/ac2f8b77bf414547ad9a9730d8166b62.png
+        - /files/p/products/leica_m-e_typ240/shots/5390be0e874d46c083c81aa8cb6b1bb3.png
+    ReviewSummary: null
+    ASIN:
+        - B07T9NT4NV
+        - B08W8TN582
+        - B08BBHBPXT
+Specs:
+    AEBracketing: ""
+    Announced: Jun 24, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: ""
+    DriveModes:
+        - Single
+        - Continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $3999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5976 x 3992
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5952 x 3968 (JPEG)
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

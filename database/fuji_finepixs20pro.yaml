@@ -1,0 +1,82 @@
+ProductCode: fuji_finepixs20pro
+Award: ""
+ImageURL: /files/p/products/fuji_finepixs20pro/bc46b1fc387d4da7bd4b3bceccb96537.png
+Name: Fujifilm FinePix S20 Pro
+ShortSpecs:
+    - 6 megapixels
+    - 1.8″ screen
+    - 35 – 210 mm (6×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixs20pro
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0001GV5FW
+Specs:
+    Announced: Feb 5, 2004
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries included
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (lower res only)
+    Dimensions: 121 x 82 x 97 mm (4.76 x 3.23 x 3.82″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 35–210 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 160, 200, 400 (higher from 3mp down)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2832 x 2128
+    MaximumAperture: F2.8–3.1
+    MaximumShutterSpeed: 1/10000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 6×
+    OrientationSensor: "No"
+    OtherResolutions: 2016 x 1512, 1600 x 1200, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 30 fps, unlimited, audio
+    ReviewPreview: ""
+    ScreenDots: 118,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card, Compact Flash Type I or II
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic
+    WeightIncBatteries: 597 g (1.32 lb / 21.06 oz)
+    WhiteBalancePresets: "7"

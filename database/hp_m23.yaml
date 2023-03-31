@@ -1,0 +1,76 @@
+ProductCode: hp_m23
+Award: ""
+ImageURL: /files/p/products/hp_m23/4a05031c68d74615a10a59fa96552e62.png
+Name: HP Photosmart M23
+ShortSpecs:
+    - 4 megapixels
+    - 1.5″ screen
+    - 37 mm
+ReviewScore: 0
+URL: /products/hp/compacts/hp_m23
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 18, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (6 x)
+    Dimensions: 96 x 33 x 49 mm (3.78 x 1.3 x 1.93″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 2.80 m
+    FocalLengthEquiv: 36.7 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: 4 star, 3 star, 2 star, 1 star
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 2320 x 1744
+    MaximumAperture: F2.8–6.5
+    MaximumShutterSpeed: 1/1800 sec
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1260, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 25 fps
+    ScreenDots: 61,600
+    ScreenSize: 1.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 170 g (0.37 lb / 6.00 oz)
+    WhiteBalancePresets: "5"

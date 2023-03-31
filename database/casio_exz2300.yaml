@@ -1,0 +1,93 @@
+ProductCode: casio_exz2300
+Award: ""
+ImageURL: /files/p/products/casio_exz2300/c46b949c8aed4661af4ad5a289f292d5.png
+Name: Casio Exilim EX-Z2300
+ShortSpecs:
+    - 14 megapixels
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz2300
+ReviewData:
+    ExecutiveSummary: Similar to the Z2000 introduced in January 2010,the Exilim EX-Z3000 is built around a 14MP sensor, 26-130mm optical zoom lens, a 3.0" LCD, and records 720p HD videos. It features the company'sSingle Frame SR Zoom feature that extends the camera's zoom range while claiming to maintain high resolution image quality. Its 'Dynamic Photo' option enables users to add preset graphics to images, including a monkey doing a handstand and a dog riding a bicycle (yes really).
+    ProductPhotos:
+        - /files/p/products/casio_exz2300/shots/3ceb0c7b70cf4b52bcd2cf0b467299a1.png
+        - /files/p/products/casio_exz2300/shots/d689e5e6dfe641a4a10a09cbc2b5e94f.png
+        - /files/p/products/casio_exz2300/shots/fc28c2e22e4842e5bf957e272a59793f.png
+        - /files/p/products/casio_exz2300/shots/ffa01c30c3a04862a69242376fcc9da8.png
+    ReviewSummary: null
+    ASIN:
+        - B009VSO46I
+        - B00B7D7P2K
+        - B00F29UKW2
+Specs:
+    Announced: Sep 20, 2010
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6x)
+    Dimensions: 101 x 59 x 20 mm (3.98 x 2.32 x 0.79″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, flash off, flash on, red eye reduction
+    FlashRange: ""
+    FocalLengthEquiv: 26–130 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: Auto, 50, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: "16:9"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.2–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648, 2736, 2816 x 2112
+    Processor: Exilim Engine 5.0
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected

@@ -1,0 +1,88 @@
+ProductCode: canon_sd770is
+Award: ""
+ImageURL: /files/p/products/canon_sd770is/1990605a5fc446c793d6f40b0b953bb5.png
+Name: Canon PowerShot SD770 IS (Digital IXUS 85 IS)
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd770is
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0015DPJ5W
+        - B0015DNIKU
+Specs:
+    Announced: Mar 13, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 86 x 54 x 20 mm (3.39 x 2.13 x 0.79″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, FE Lock, Slow, Red Eye Reduction, Auto Red Eye Correction
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, High Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2648 x 2048, 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 @ 30/1/0.5 fps, 320 x 240 @ 30 fps, 160 x 120 @ 15 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 32 MB SD card
+    StorageTypes: SD/SDHC/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 170 g (0.37 lb / 6.00 oz)
+    WhiteBalancePresets: "5"

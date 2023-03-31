@@ -1,0 +1,77 @@
+ProductCode: hp_e337
+Award: ""
+ImageURL: /files/p/products/hp_e337/3261919d849040fba78307281b6def05.png
+Name: HP Photosmart E337
+ShortSpecs:
+    - 5 megapixels
+    - 1.5″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/hp/compacts/hp_e337
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000QY6S2E
+Specs:
+    Announced: Jun 22, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 95 x 32 x 63 mm (3.74 x 1.26 x 2.48″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: ""
+    FocalLengthEquiv: 36 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 60, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "Yes"
+    MaxResolution: 2576 x 1920
+    MaximumAperture: F4.5
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 100 cm (39.37″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 24 fps
+    ScreenDots: 61,600
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 231 g (0.51 lb / 8.15 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,151 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211027190614/https://www.dpreview.com/videos/9825412546/dpreview-tv-panasonic-bs1h-review-is-boxy-better
+ProductCode: panasonic_dcbs1h
+Award: ""
+ImageURL: /files/p/products/panasonic_dcbs1h/6d2b74f4c3b1437fb2bd67a6f1e80bf0.png
+Name: Lumix BS1H
+ShortSpecs:
+    - 24 megapixels
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcbs1h
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DC-BS1H is a video-centric full-frame mirrorless camera with a 'box' shape meant to be rigged up for various types of video shooting applications. Sharing a similar design as the DC-BGH1, this camera will be able to capture video at 6K/24p (3:2 aspect ratio), 5.9K/30p (16:9) and 10-bit 4K/60p. It features a V-Log/V-Gamut that can capture around 14 stops of dynamic range which, along with color and skin tones, is virtually the same as the company's professional VariCam. The BS1H has no recording limit for any of its video modes and takes larger Panasonic batteries for extended stamina.In addition to the lenses on Panasonic's L-mount roadmap, EF and PL-mount adapters will allow the use of additional lenses.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcbs1h/shots/c4c4badce4904ede88359e4412d0d7df.png
+        - /files/p/products/panasonic_dcbs1h/shots/05e5c589f88143c38934edd34a6550e6.png
+        - /files/p/products/panasonic_dcbs1h/shots/2f823c1535274327a302ef321effd07b.png
+        - /files/p/products/panasonic_dcbs1h/shots/6d5c5348f79043759f75d0d2a4eac065.png
+        - /files/p/products/panasonic_dcbs1h/shots/d1faa8de137d4855b2721ee1f910f291.png
+        - /files/p/products/panasonic_dcbs1h/shots/62d7d38db59545c2ae319907ce3734ee.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Oct 7, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: AG-VBR59, AG-VBR89, AG-VBR118 (sold separately)
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 93 x 93 x 79 mm (3.66 x 3.66 x 3.1″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2)
+        - HLG photo (CTA-2072)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (10-bit 4:2:2 output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "No"
+    MSRP: $3499
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 8192 x 4320 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5376 x 3584 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Oct 7, 2021"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 585 g (1.29 lb / 20.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

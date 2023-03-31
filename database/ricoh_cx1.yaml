@@ -1,0 +1,114 @@
+ProductCode: ricoh_cx1
+Award: ""
+ImageURL: /files/p/products/ricoh_cx1/0ecf7d060b614f188d94401dacb0794d.png
+Name: Ricoh CX1
+ShortSpecs:
+    - 9 megapixels
+    - 3″ screen
+    - 28 – 200 mm (7.1×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_cx1
+ReviewData:
+    ExecutiveSummary: Latest version of Ricoh's slimline big zoom cameras, the CX1 puts a new generation 9 megapixel CMOS sensor in a R10-like body offering a 28-200mm equivalent zoom range and increasing the screen resolution to 920,000 dots (unusually good for a compact camera). The new sensor allows high-speed continuous shooting (up to 120 frames per second at 640x480 pixel resolution), and offers increased dynamic range by taking two pictures at different exposure settings in rapid succession.
+    ProductPhotos:
+        - /files/p/products/ricoh_cx1/shots/cb2bd2b6c2d44f10bcfeee04f61b11dd.png
+        - /files/p/products/ricoh_cx1/shots/1d10270e964143358f19f5bf890149bc.png
+        - /files/p/products/ricoh_cx1/shots/a798e991ef174f95b4bbc3cc9528245e.png
+    ReviewSummary: null
+    ASIN:
+        - B002ENASEY
+        - B003NVMAWE
+Specs:
+    AEBracketing: ""
+    Announced: Feb 19, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion DB-70 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4.8 x)
+    Dimensions: 102 x 58 x 28 mm (4.02 x 2.28 x 1.1″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 3.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–200 mm
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Auto Hi, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.3–5.2
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 7.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 3072 x 2304, 2592 x 2592, 2592 x 1944, 2048 x 1536, 1728 x 1296, 1280 x 960, 640 x 480
+    Processor: Smooth Imaging Engine IV
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 88 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

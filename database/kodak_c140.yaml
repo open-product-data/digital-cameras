@@ -1,0 +1,103 @@
+ProductCode: kodak_c140
+Award: ""
+ImageURL: /files/p/products/kodak_c140/f1c3b9ce281b46dfbb515a3ebc63ab62.png
+Name: Kodak EasyShare C140
+ShortSpecs:
+    - 8 megapixels
+    - 2.7″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c140
+ReviewData:
+    ExecutiveSummary: Easy-to-use and affordable EasyShare C140 digital camera from Kodak. With very basic specifications that includes a 8.2MP sensor and 3x optical zoom it is ideal fro camera shopping on a budget.
+    ProductPhotos:
+        - /files/p/products/kodak_c140/shots/4f8d83bae9dd4e8f9bf778bcde7c29a6.png
+        - /files/p/products/kodak_c140/shots/dc9fe0c90e72429bb0aa80c7ae094778.png
+        - /files/p/products/kodak_c140/shots/ee1f46cb6beb4f5a928e15d00fdb18c2.png
+        - /files/p/products/kodak_c140/shots/d0a1ccc47c4c4ee684e87e5e1db98ddf.png
+        - /files/p/products/kodak_c140/shots/f9b49e07221c4094b3b4011eb5d419cb.png
+    ReviewSummary: null
+    ASIN:
+        - B003AY22FY
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) NiMH Rechargeable batteries
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 92 x 63 x 22 mm (3.62 x 2.48 x 0.87″)
+    Durability: ""
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 36–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (80-240), 80, 100, 200, 400, 800, 1000
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "0"
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3264 x 2176, 3264 x 1836, 2592 x 1944, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"

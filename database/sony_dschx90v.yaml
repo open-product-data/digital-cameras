@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529082011/https://www.dpreview.com/reviews/2017-roundup-consumer-long-zoom-compacts
+ProductCode: sony_dschx90v
+Award: ""
+ImageURL: /files/p/products/sony_dschx90v/82a9f4bec5fe4b04b9216d8d2ead9e9f.png
+Name: Sony Cyber-shot DSC-HX90V
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dschx90v
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-HX90V is, at the time of its release, the world's smallest superzoom camera (along with its sibling, the WX500). It features a 30X zoom equivalent to 24-720mm, optical image stabilization, and an 18.2MP BSI CMOS sensor. It sports the same pop-up OLED electronic viewfinder as Sony's RX100 III along with a 3" LCD that tilts upward 180 degrees. Also borrowed from the RX100 is a customizable ring around the front of the lens. The HX90V can record video at 1080/60p using the XAVC S codec, which allows for bit rates up to 50MBps. The camera also has built-in Wi-Fi with NFC as well as a GPS.
+    ProductPhotos:
+        - /files/p/products/sony_dschx90v/shots/1ed6257f466c473491eff3c0beb600c4png
+        - /files/p/products/sony_dschx90v/shots/7e5aacde83f94ae6a84c588fbe23acb7png
+        - /files/p/products/sony_dschx90v/shots/444a96f87901410198e98c0087e1e3bfpng
+        - /files/p/products/sony_dschx90v/shots/e91cdcd09ad44732a7d518edffbd280cpng
+        - /files/p/products/sony_dschx90v/shots/32bf6310ba744f1194deed263a73ad60png
+        - /files/p/products/sony_dschx90v/shots/aa2f910a879942be950f494bc328d99apng
+    ReviewSummary: null
+    ASIN:
+        - B00VWJOK7M
+Specs:
+    AEBracketing: ±3 (at 1/3 EV steps)
+    Announced: Apr 14, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X-4X)
+    Dimensions: 102 x 58 x 36 mm (4.02 x 2.28 x 1.42″)
+    DriveModes:
+        - Single
+        - Continuous shooting
+        - Self-timer
+        - Cont. bracketing
+        - Single bracketing
+        - WB bracketing
+        - DRO bracketing
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Superior Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter priority
+        - Manual exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, flash on, slow sync, flash off, rear sync
+    FlashRange: 5.40 m (with Auto ISO)
+    FocalLengthEquiv: 24–720 mm
+    Format: AVCHD, XAVC S
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-12800
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+        - Creative Style
+        - Quality
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $430
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.5–6.4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896 x 3264, 4896 x 2752, 3664 x 3664, 3648 x 2736, 3648 x 2432, 3648 x 2056, 2736 x 2736, 2592 x 1944, 2592 x 1728, 1920 x 1920, 1920 x 1080, 640 x 480
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 60i, 30p, 24p), 1280 x 720 (30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        May 26, 2017"
+    SceneModes:
+        - Portrait
+        - Advanced Sports Shooting
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Soft Skin
+        - High Sensitivity
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 638,400
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 245 g (0.54 lb / 8.64 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: with NFC

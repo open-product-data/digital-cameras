@@ -1,0 +1,130 @@
+ProductCode: nikon_cpw150
+Award: ""
+ImageURL: /files/p/products/nikon_cpw150/41f10f7e962343978b812ee7eeaa0170.png
+Name: Nikon Coolpix W150
+ShortSpecs:
+    - 13 megapixels
+    - 2.7″ screen
+    - 30 – 90 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpw150
+ReviewData:
+    ExecutiveSummary: The Coolpix W150 is an entry-level rugged camera with a smartphone-sized 13MP sensor and 30-90mm equivalent lens. It's waterproof to 10m (33ft), shockproof from 1.8m (6ft) and freezeproof to -10°C/+14°F. The camera has simple controls and a 2.7", 230k-dot LCD. It can capture Full HD video and offers Wi-Fi and Bluetooth for wireless connectivity.
+    ProductPhotos:
+        - /files/p/products/nikon_cpw150/shots/af027443d588463d856d313ae296b82a.png
+        - /files/p/products/nikon_cpw150/shots/c44bf52bda00463fb1e2f4303c699eaf.png
+        - /files/p/products/nikon_cpw150/shots/8e2968f385b04af492d2b26d7c8f87e0.png
+        - /files/p/products/nikon_cpw150/shots/ce8623f53b0f4afabc799441050a809c.png
+        - /files/p/products/nikon_cpw150/shots/3d3f18260244487dacdaa0c2e36f8fd1.png
+        - /files/p/products/nikon_cpw150/shots/b415ddcd78e04ed3a82b725e4088f42e.png
+        - /files/p/products/nikon_cpw150/shots/9e6cac0afd574a7eb1a149f6f70f0240.png
+    ReviewSummary: null
+    ASIN:
+        - B07VL56RWF
+Specs:
+    AEBracketing: ""
+    Announced: Apr 23, 2019
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL19 lithium-ion battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: 110 x 67 x 38 mm (4.33 x 2.64 x 1.5″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: -2–1.5 (at 2/3 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: 3.10 m (w/Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 30–90 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Digital only
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: £149
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4160 x 3120
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1 sec
+    Modes:
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/3.1" (4.7 x 3.5 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 21MB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 177 g (0.39 lb / 6.24 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

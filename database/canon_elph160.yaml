@@ -1,0 +1,131 @@
+ProductCode: canon_elph160
+Award: ""
+ImageURL: /files/p/products/canon_elph160/6559b6f661274432afdc40cf082f2bd2.png
+Name: Canon PowerShot ELPH 160 (IXUS 160)
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 28 – 224 mm (8×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_elph160
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot ELPH 160 digital camera delivers high-quality imaging capabilities with a powerful 8x Optical Zoom lens (equivalent to 28-224mm) and 20-Megapixel CCD sensor. The PowerShot ELPH 160 digital camera features smooth 720p HD video capabilities with a dedicated movie button, Smart AUTO mode and ECO mode to preserve battery life. Being the low-end ELPH, it''s not a surprise that the 160 lacks optical image stabilization.'
+    ProductPhotos:
+        - /files/p/products/canon_elph160/shots/748853c6726b4df78b80d333637866a5.png
+        - /files/p/products/canon_elph160/shots/973706206fac44c0a5959fd8147eaff9.png
+    ReviewSummary: null
+    ASIN:
+        - B00RKNMORM
+        - B00RKNMR8S
+        - B00RKNMLRU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-11L/LH lithium-ion battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 95 x 54 x 22 mm (3.74 x 2.13 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, off, slow synchro
+    FlashRange: 3.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–224 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Digital only
+    JPEGQualityLevels: Fine
+    LiveView: "Yes"
+    MSRP: $119 / £99 / €129
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.2–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5152 x 2896 (16:9), 3648 x 2736, 2048 x 1536, 640 x 480
+    Processor: DIGIC 4+
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (25p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Live View Control
+        - Face Self- Timer
+        - Low Light
+        - Digital IS
+        - Snow
+        - Fireworks
+        - Long shutter
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorSizeNotes: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 127 g (0.28 lb / 4.48 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,132 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220127010339/https://www.dpreview.com/videos/2449124160/dpreview-tv-hasselblad-x1d-ii-50c-review
+ProductCode: hasselblad_x1d50c_ii_50c
+Award: ""
+ImageURL: /files/p/products/hasselblad_x1d50c_ii_50c/b16d01b0550543c397dd1fbfd9d06505.png
+Name: Hasselblad X1D II 50C
+ShortSpecs:
+    - 50 megapixels
+    - 3.6″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/hasselblad/slrs/hasselblad_x1d50c_ii_50c
+ReviewData:
+    ExecutiveSummary: The Hasselblad X1D II 50C is a relatively compact medium format camera. It has a 50 Megapixel CMOS sensor that can produce 16-bit Raws and a capture a claimed 14 stops of dynamic range. It features a high resolution 3.6" touchscreen LCD, large 3.69M-dot EVF, dual SD card slots, and a USB-C connector. In addition to Wi-Fi, the X1D II has a built-in GPS.
+    ProductPhotos:
+        - /files/p/products/hasselblad_x1d50c_ii_50c/shots/f4d43e554d2b4e179c8daf66c46b8084.png
+        - /files/p/products/hasselblad_x1d50c_ii_50c/shots/e41ba583ab05442b94d81d50bf33c828.png
+        - /files/p/products/hasselblad_x1d50c_ii_50c/shots/6570ebd4a6704bbe982646fba9c4ffa1.png
+    ReviewSummary: null
+    ASIN:
+        - B09PQCTC29
+        - B082HDYR35
+        - B08TZRRCQX
+Specs:
+    Announced: Jun 19, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: 3400 mAh li-ion battery
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 2.7 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 148 x 97 x 70 mm (5.83 x 3.82 x 2.76″)
+    Durability: ""
+    EffectivePixels: 50 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Nikon compatible)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (16-bit 3FR format)
+        - TIFF
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 0.79×
+    Format: ""
+    GPS: Built-in
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Hasselblad X
+    LiveView: "Yes"
+    MSRP: $5750/£6400/€6000
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8272 x 6200
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/10000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 4080 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "117"
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: "Yes"
+    Resolutions: to be added later
+    ReviewPreview: "Read video review ...\n                                    \n                                    \n                                        Dec 21, 2019"
+    ScreenDots: 2,360,000
+    ScreenSize: 3.6″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.87× (1.1× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WeightIncBatteries: 766 g (1.69 lb / 27.02 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11ac

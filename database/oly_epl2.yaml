@@ -1,0 +1,131 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107211327/https://www.dpreview.com/reviews/olympusepl2/
+ProductCode: oly_epl2
+Award: silver
+ImageURL: /files/p/products/oly_epl2/32c21a528fec466c89bb7bc1d6f70795.png
+Name: Olympus PEN E-PL2
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 71
+URL: /products/olympus/slrs/oly_epl2
+ReviewData:
+    ExecutiveSummary: The E-PL2 is the second easy and accessible but fully-featured interchangeable lens compact in the Olympus PEN series. It features the same 12MP Four Thirds sensor that has been used in the rest of PEN series but features ergonomics greatly improved by the addition of a control dial and more substantial construction. It also tends to come fitted with the faster focusing Mark II version of the retractable 14-42mm kits lens, offering a real benefit over the E-PL1. Beyond this it offers a higher resolution screen (460k dots), and a revised accessory socket (called AP2) that allows the use of an even wider selection of add-ons. At the heart of it, though, is a camera that produces attractive, DSLR-standard images in a relatively compact body and offers something both for experienced photographers and beginners.
+    ProductPhotos:
+        - /files/p/products/oly_epl2/shots/92d00f0d737149389023028733452849.png
+        - /files/p/products/oly_epl2/shots/be371d22e9f146029c172371b3414689.png
+        - /files/p/products/oly_epl2/shots/d91f522305c242f9a69e2a4bd74cdb9b.png
+        - /files/p/products/oly_epl2/shots/dc9cc3e75b8146db8a6842adef463934.png
+        - /files/p/products/oly_epl2/shots/88a8069eda044912a7df216c926c4480.png
+    ReviewSummary:
+        GoodFor: Anyone who wants a large sensor in a small package
+        NotSoGoodFor: Photographers who frequently change exposure settings or shoot a large proportion of their images in low light
+        Conclusion: If you frequently change your exposure settings or shoot in low light, you might want to try the E-PL2 out before you commit to a purchase, but for everyone else, the Olympus is a great combination of image quality and portability.
+    ASIN:
+        - B004L9IXWI
+        - B004LERUUY
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 6, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BLS-5 rechargeable battery & charger
+    BatteryLifeCIPA: "280"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 114 x 72 x 42 mm (4.49 x 2.83 x 1.65″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync, Manual (3 levels)
+    FlashRange: 10.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-C)
+    HeadphonePort: ""
+    ISO: Auto ISO (200 - 6400), Manual ISO (100 - 6400), 1/3 or 1 EV steps
+    ImageParameters: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4032 x 3024
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "No"
+    OtherResolutions: 3200 x 2400, 2560 x 1920,  1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: Truepic V
+    RemoteControl: Yes (Optional RM-UC1)
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "71%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 12, 2011"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: HyperCrystal LCD AR(Anti-Reflective) coating
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 362 g (0.80 lb / 12.77 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,137 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128172718/https://www.dpreview.com/reviews/canon-powershot-g1-x-mark-ii/
+ProductCode: canon_g1xii
+Award: silver
+ImageURL: /files/p/products/canon_g1xii/d35405d36ed743349bec4b58caf9c7eb.png
+Name: Canon G1 X II
+ShortSpecs:
+    - 13 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 77
+URL: /products/canon/compacts/canon_g1xii
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Boasting a sensor that is 4.5x larger than a 1/1.7" sensor found in professional level point-and-shoot cameras, the PowerShot G1 X Mark II camera can produce high-quality images with a wide dynamic range. The G1 X II improves upon its predecessor in many ways. It''s smaller, features a faster 24-120mm F2.0-3.9 lens (with closer focusing distances), a 31-point AF system, dual lens rings, a touchscreen LCD that can tilt upward by 180°, and Wi-Fi with NFC. While its 1.5"-type is a bit smaller than on the original, the G1 X II can shoot at 3:2 or 4:3 with the same field-of-view. The catch? No more optical viewfinder (though an EVF is optional).'
+    ProductPhotos:
+        - /files/p/products/canon_g1xii/shots/beaf54984e6e4b5aabb227ab3cd6befd.png
+        - /files/p/products/canon_g1xii/shots/79c381501b7f4a94b7d157c438261d82.png
+        - /files/p/products/canon_g1xii/shots/648de4c13ceb464588944d8465bc0274.png
+        - /files/p/products/canon_g1xii/shots/ffd7ed1ed82d4d24ae12c13000e592c6.png
+    ReviewSummary:
+        GoodFor: "Those desiring a flexible compact camera that's even good for portrait \nphotography."
+        NotSoGoodFor: Photographers who demand wide dynamic range. Auto/Program mode shooters. Videographers.
+        Conclusion: The PowerShot G1 X Mark II is an enthusiast compact whose fast lens and large sensor allow it to produce impressive photos in both bright and low light. Its well-built body offers three dials, and numerous controls can be customized. That said, there are numerous improvements that could be made, especially in terms of dynamic range and responsiveness.
+    ASIN:
+        - B00I58M1VK
+        - B00PG4EYXY
+Specs:
+    AEBracketing: ""
+    Announced: Feb 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-12L lithium-ion battery and charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 5.2 fps
+    CustomWhiteBalance: Yes (2 Custom settings)
+    DigitalZoom: Yes (4X)
+    Dimensions: 116 x 74 x 66 mm (4.57 x 2.91 x 2.6″)
+    DriveModes:
+        - Single, auto drive, continuous, continuous AF, self-timer
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Hybrid Auto
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - RAW (14-bit Canon CR2)
+    FlashModes: Auto, On, Slow Synchro, Off
+    FlashRange: 6.80 m
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: 24–120 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Superfine, fine
+    LiveView: "Yes"
+    MSRP: $799.99
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4160 x 3120
+    MaximumAperture: F2–3.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "31"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4352 x 2904, 4352 x 2448, 3120 x 3120, 2496 x 3120, 3072 x 2304, 3072 x 2048, 3072 x 1728, 2304 x 2304, 1840 x 2304, 2048 x 1536, 2048 x 1368, 1920 x 1080, 1536 x 1536, 1232 x 1536
+    Processor: Digic 6
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 7, 2014"
+    SceneModes:
+        - Portrait, Smart Shutter, Star, Handheld Night Scene, Underwater, Snow, Fireworks
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: sRGB PureColor II Touchscreen LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1.5″ (18.7 x 14 mm)
+    SensorSizeNotes: |-
+        13.1 megapixel at 4:3
+        12.8 megapixel at 3:2
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: Yes (Capacitive)
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 'Star Time-Lapse: 1920 x 1080 (15 or 30 fps), Digest Movie: 1280 x 720 (30 fps), Minature Effect: 1280 x 720 or 640 x 480 (1.5 - 6 fps)'
+    ViewfinderCoverage: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 553 g (1.22 lb / 19.51 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: with NFC

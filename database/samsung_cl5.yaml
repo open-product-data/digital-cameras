@@ -1,0 +1,115 @@
+ProductCode: samsung_cl5
+Award: ""
+ImageURL: /files/p/products/samsung_cl5/6896607452d249ebb83fd27cc5672c36.png
+Name: Samsung CL5 (PL10)
+ShortSpecs:
+    - 9 megapixels
+    - 2.7″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_cl5
+ReviewData:
+    ExecutiveSummary: Samsung has been pushing the idea of an all-in-one 'Personal Media Player' (PMP) / camera for several years now. The CL5's funky design and range of bold color options can't hide the fact that it's a budget 9MP camera with basic MP3 and MPEG movie playback functionality. Great for teens; the rest of us would be better paying for a proper camera and leaving the media playing to a dedicated device. (April 2009).
+    ProductPhotos:
+        - /files/p/products/samsung_cl5/shots/34ecb0250f134b1b946a359898ae80b8.png
+        - /files/p/products/samsung_cl5/shots/1a458144aace4b65b227c9fb35f12e30.png
+        - /files/p/products/samsung_cl5/shots/ed36578bb26541b39abb8bc688b255ca.png
+        - /files/p/products/samsung_cl5/shots/8faa2d3e8b624186b5e1e4a126180bd6.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Feb 23, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 93 x 60 x 19 mm (3.66 x 2.36 x 0.75″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash off, Red eye fix
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 38–114 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200 (Up to 3M)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.5–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 16 sec
+    Modes: ""
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2592 x 1944, 2048 x 1536, 1024 x 768
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (60, 30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec, Double, Motion Timer)
+    SensorPhotoDetectors: 9 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: TBC
+    StorageTypes: SC/SDHC/MMC/MMCplus, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 141 g (0.31 lb / 4.97 oz)
+    WhiteBalancePresets: "5"
+    WirelessNotes: ""

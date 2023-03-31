@@ -1,0 +1,120 @@
+ProductCode: ricoh_wgm1
+Award: ""
+ImageURL: /files/p/products/ricoh_wgm1/d94758708a474462aecad54e08e79722.png
+Name: Ricoh WG-M1
+ShortSpecs:
+    - 14 megapixels
+    - Compact sensor
+ReviewScore: 0
+URL: /products/ricoh/actioncams/ricoh_wgm1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The RICOH WG-M1 is WiFi enabled, waterproof to an impressive depth of 32 feet without requiring a  protective housing, shock-resistant against a fall from 6 feet, and cold-resistant to temperatures as low as -10°C. With its ultra-wide-angle lens, this extraordinary camera captures dynamic Full HD movies with a realistic sense of depth. Approximately 14.0 effective megapixels captures vibrant, high-resolution still images, while its high-speed, continuous shooting capability records subjects at a speed of roughly 10 images per second. Combining the WG-M1 with an array of newly introduced camera-mount accessories opens many options and creative solutions in capturing adventure-packed images and movies.'
+    ProductPhotos:
+        - /files/p/products/ricoh_wgm1/shots/11b5dac763f54786ba07240b4d8cca7e.png
+        - /files/p/products/ricoh_wgm1/shots/17b82d46716e4fbb8b5a5703b1b895c4.png
+        - /files/p/products/ricoh_wgm1/shots/ffce52b9210d4d7c9a5ede2a72f24384.png
+        - /files/p/products/ricoh_wgm1/shots/fe93f18520e146908d5ef0a980c1158e.png
+        - /files/p/products/ricoh_wgm1/shots/cf45468388bc4ea4b8c8cda07221d277.png
+    ReviewSummary: null
+    ASIN:
+        - B00NLJ3PAE
+Specs:
+    AEBracketing: ""
+    Announced: Sep 10, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: DB-65 lithium ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Metal, rubber, composite
+    BodyType: Compact
+    BuiltInFlash: "No"
+    BuyingOptions: $199.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 66 x 43 x 89 mm (2.6 x 1.69 x 3.5″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: Yes (waterpr0of to 10m, shockproof from 2m, coldproof to -10c)
+    ExposureCompensation: ""
+    ExposureModes:
+        - Still
+        - Movie
+        - Time lapse
+        - Loop recording
+        - Motion detection
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (EXIF v2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 16.8 mm
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto (100-800)
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $299 / £199
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 2432, 2592 x 1944
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30p), 1280 x 960 (50p), 1280 x 720 (60p, 30p), 848 x 480 (60p, 120p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 115,000
+    ScreenSize: 1.5″
+    ScreenType: TFT-LCD
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 100MB
+    StorageTypes: microSD/microSDHC, internal
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: 120fps high speed mode (60 sec limit)
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 190 g (0.42 lb / 6.70 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: ""

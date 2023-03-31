@@ -1,0 +1,120 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529125404/https://www.dpreview.com/reviews/pentaxk2000
+ProductCode: pentax_km
+Award: recommended
+ImageURL: /files/p/products/pentax_km/3e9c8e753c4d4b0293af267808ea131d.png
+Name: Pentax K-m (K2000)
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - APS-C sensor
+ReviewScore: 65
+URL: /products/pentax/slrs/pentax_km
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary:
+        GoodFor: Pentax users on a tight budget
+        NotSoGoodFor: Absolute beginners or JPEG shooters
+        Conclusion: Although the overall specification is pretty good for this level of camera, the K-m/K2000 struggles to stand out from the crowd given the mediocre JPEG quality and poorly implemented autofocus system.
+    ASIN:
+        - B001VY9AD2
+Specs:
+    AEBracketing: ±1.5 (at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 22, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 123 x 92 x 68 mm (4.84 x 3.62 x 2.68″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, Flash On, Red-Eye, Wireless Sync
+    FlashRange: 11.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (custom), 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Best, Better, Good
+    LensMount: Pentax KAF2
+    LiveView: "No"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "5"
+    OrientationSensor: "No"
+    OtherResolutions: 3008 x 2000, 1824 x 1216
+    Processor: ""
+    RemoteControl: Yes (Wireless Optional)
+    Resolutions: ""
+    ReviewPreview: "65%Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 30, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.85× (0.57× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 590 g (1.30 lb / 20.81 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,137 @@
+ProductCode: sony_dschx50v
+Award: ""
+ImageURL: /files/p/products/sony_dschx50v/58c46d7970974d4885c759e7c3f11bca.png
+Name: Sony Cyber-shot DSC-HX50V
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 720 mm (30×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dschx50v
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-HX50V is a 30x compact superzoom camera that includes both Wi-Fi and GPS. It's built around a 20.4MP 1/2.3" BSI CMOS sensor, sitting behind a 24-720mm F3.5-6.3 lens. It includes 3-axis SuperSteady Shot image stabilization and can shoot at up to 10 frames per second for 10 frames. Its battery is rated at around 400 shots-per-charge and the Wi-Fi can be used for both file transfer and remote control.
+    ProductPhotos:
+        - /files/p/products/sony_dschx50v/shots/7ae79b0040f84723a5d04726166c76f2.png
+    ReviewSummary: null
+    ASIN:
+        - B00CDIK48U
+Specs:
+    AEBracketing: ""
+    Announced: Apr 24, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BX1 battery and charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 108 x 64 x 38 mm (4.25 x 2.52 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync, Rear Sync, Advanced Flash
+    FlashRange: 5.60 m
+    FocalLengthEquiv: 24–720 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, (6400, 12800 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Optical SteadyShot Image Stabilization with 3-way Active mode
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $450
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 2920
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 30×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60fps), 1440 x 1080 (30fps), 1280 x 720 (30fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Soft snap
+        - Soft Skin
+        - Landscape
+        - Night Portrait
+        - Night Scene
+        - Handheld Twilight
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Pet mode
+        - Anti-motion blur
+        - Backlight Correction HDR
+        - Advanced Sports Shooting
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: XtraFine LCD display
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: '60i/60p: 28M PS (1,920x1,080/60p) / 24M FX / 17M FH (1,920x1,080/60i) / 9M HQ (1,440x1,080/60i), MP4: 12M (1,440x1,080/30fps) / 6M (1,280x720/30fps) / 3M VGA (640x480/30fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 272 g (0.60 lb / 9.59 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: ""

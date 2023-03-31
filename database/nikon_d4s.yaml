@@ -1,0 +1,140 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211017184208/https://www.dpreview.com/reviews/nikon-d4s
+ProductCode: nikon_d4s
+Award: ""
+ImageURL: /files/p/products/nikon_d4s/69306eddf28a4f3ab658352b55c7af31.png
+Name: Nikon D4S
+ShortSpecs:
+    - 16 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d4s
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: While the D4S may look very similar to the D4, Nikon has included a long list of improvements over its flagship predecessor. The EXPEED4 image processing engine allows the D4S to shoot more stills and video per battery charge, support 1080 video at 60p, and improves video quality at higher ISOs. The camera features a processing time that is 30% faster, in addition to a 200-shot buffer (JPEG) at full resolution at the maximum continuous mode. Wedding photographers will appreciate the addition of 12-bit uncompressed small RAW files, which are half the size (2464 x1640) of a standard RAW file.The D4S now lets the user record simultaneously to an external recorder and memory card, and continues to facilitate simultaneous viewing of live view output and recording of uncompressed video via HDMI. The Nikon D4S aligns 15 cross-type sensors in the center to detect contrast data in both vertical and horizontal planes. In addition to detecting each AF-NIKKOR lens with an aperture of f/5.6 or lower, the camera also utilizes nine cross-type sensors that are fully functional when using compatible NIKKOR lenses and a teleconverter with a combined aperture value up to f/8, a great advantage to those photographing sports and wildlife from extreme distances.Designed for the most demanding photographers and multimedia professionals in the world, the Nikon D4S improves upon the revered D4 to give users enhanced image and video quality, improved autofocus (AF), faster performance during and after capture in addition to an astonishing ISO range.'
+    ProductPhotos:
+        - /files/p/products/nikon_d4s/shots/75b945d38a4e493f8cc96755a97e8f2f.png
+        - /files/p/products/nikon_d4s/shots/65041dceb3fa4916bac4cec830b7cebd.png
+        - /files/p/products/nikon_d4s/shots/a1ca44d185de4567babb4c6b0c7b61b2.png
+        - /files/p/products/nikon_d4s/shots/a86b4a8cc68845a891d36980f6e80ad9.png
+        - /files/p/products/nikon_d4s/shots/86f98f0e2a3e49c2ab1cfb10aa7b4510.png
+        - /files/p/products/nikon_d4s/shots/bf4cd9ddea1946b99da7dccbf9096abe.png
+        - /files/p/products/nikon_d4s/shots/512220068c0b4c8ba2f232d3a75d33b6.png
+    ReviewSummary: null
+    ASIN:
+        - B00IMOB5SW
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 25, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL18a rechargeable battery & charger
+    BatteryLifeCIPA: "3020"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large SLR
+    BoostedISOMaximum: "409600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $4,799.95
+    ColorFilterArray: RGB Color Filter Array
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: "No"
+    Dimensions: 160 x 157 x 91 mm (6.3 x 6.18 x 3.58″)
+    DriveModes:
+        - Single frame
+        - Continuous low speed
+        - Continuous high speed
+        - Quiet shutter-release
+        - Self-timer
+        - Mirror up
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Programmed auto with flexible program (P)
+        - Shutter-priority (S)
+        - Aperture-priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (via hotshoe, flash sync port)
+    FileFormat:
+        - NEF (12-bit or 14-bit, compressed or lossless compressed RAW)
+        - NEF + JPEG
+        - TIFF
+        - JPEG
+    FlashModes: Auto FP high-speed sync, front-curtain, rear-curtain, redeye reduction, redeye reduction w/slow sync, slow rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: via GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, ISO 100-25600 (expands to 50-409600)
+    ImageRatioWh: 5:4, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'US: $6499.95, UK: £5,199.99'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3280
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4096 x 2720, 4096 x 3280, 3696 x 2456, 3200 x 2128, 3072 x 2456, 3072 x 2040, 2464 x 1640, 2400 x 1592, 2048 x 1360, 2048 x 1640, 1600 x 1064
+    Processor: Expeed 4
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: "Read first impressions review ...\n                                    \n                                    \n                                        Feb 25, 2014"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD with brightness and color adjustment
+    SelfTimer: Yes (2-20 seconds, 1-9 exposures at intervals of 0.5, 1, 2, or 3 seconds)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Full frame (36 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: CompactFlash, XQD
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (9999 shots)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: 'Bit rates for 1080/60p: 42Mbps (10 min limit), 24Mbps (20 min limit)'
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2-9 frames in steps of 1, 2, or 3)
+    WeightIncBatteries: 1350 g (2.98 lb / 47.62 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: via WT-5A or WT-4A

@@ -1,0 +1,88 @@
+ProductCode: fuji_mx1200
+Award: ""
+ImageURL: /files/p/products/fuji_mx1200/d28ca37aaf2c4a32a07b2849716b4ddd.png
+Name: FujiFilm MX-1200 (Finepix 1200)
+ShortSpecs:
+    - 1 megapixels
+    - 1.6″ screen
+    - 38 mm
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_mx1200
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Sep 15, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (2) batteries & charger (supplied)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (1.6 x)
+    Dimensions: 110 x 77 x 33 mm (4.33 x 3.03 x 1.3″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -0.9–1.5 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 38 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F4.5–11
+    MaximumShutterSpeed: 1/750 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 70 cm (27.56″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 4 MB SmartMedia
+    StorageTypes: SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 240 g (0.53 lb / 8.47 oz)
+    WhiteBalancePresets: "6"

@@ -1,0 +1,90 @@
+ProductCode: canon_a495
+Award: ""
+ImageURL: /files/p/products/canon_a495/64b1a8a58281483eb56826ac60b44c47.png
+Name: Canon PowerShot A495
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 37 – 122 mm (3.3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a495
+ReviewData:
+    ExecutiveSummary: Replacement for the A480, the A495 was launched at CES 2010 along with sister model the A490 (which is only available in one color and has minor spec differences - most notably a lower-spec 5 point AF system). Offering a relatively slim plastic body, 2.5" LCD, Smart Auto mode, 3.3x zoom and lots of automatic shooting modes, the A495 is typical entry-level stuff. silver, red and blue
+    ProductPhotos:
+        - /files/p/products/canon_a495/shots/7156986e3718489583d437f48cda3ed2.png
+        - /files/p/products/canon_a495/shots/45d0b32a028b42329b1fd35b97e603b9.png
+    ReviewSummary: null
+    ASIN:
+        - B0032JRRXY
+        - B0032JRRYI
+        - B0032JRRY8
+Specs:
+    Announced: Jan 5, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: 2 x AA batteries (Alkaline or NiMH)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 62 x 31 mm (3.7 x 2.44 x 1.22″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 37–122 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3.3×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2048, 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480, 320 x 240
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec, Custom, Face)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/MMC/MMCplus/HC MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: "5"

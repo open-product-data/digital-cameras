@@ -1,0 +1,87 @@
+ProductCode: canon_sd30
+Award: ""
+ImageURL: /files/p/products/canon_sd30/f090869a2aa84a1d829402aaba0e64fa.png
+Name: Canon PowerShot SD30 (IXY Digital L3 / Digital IXUS i Zoom)
+ShortSpecs:
+    - 5 megapixels
+    - 1.8″ screen
+    - 38 – 90 mm (2.4×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd30
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000AZ519K
+Specs:
+    Announced: Aug 22, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-4L battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 96 x 45 x 24 mm (3.78 x 1.77 x 0.94″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Manual (Red Eye On/Off)
+    FlashRange: 2.00 m
+    FocalLengthEquiv: 38–90 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F3.2–5.4
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 2.4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2048 x 1536, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 10 fps, 320 x 240, 20 fps, up to 1 GB, 160 x 120, 15 fps up to 3 min
+    ReviewPreview: ""
+    ScreenDots: 118,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB SD card
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 120 g (0.26 lb / 4.23 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

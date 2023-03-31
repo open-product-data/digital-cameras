@@ -1,0 +1,187 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220126180135/https://www.dpreview.com/reviews/olympus-om-d-e-m10-mark-iii/
+ProductCode: oly_em10iii
+Award: silver
+ImageURL: /files/p/products/oly_em10iii/dc88e2ca11754395b258e30d5547f2d5.png
+Name: Olympus OM-D E-M10 III
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 80
+URL: /products/olympus/slrs/oly_em10iii
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M10 Mark III is a low-cost, SLR-style mirrorless camera that's both powerful and easy-to-use. It sports a 16MP Live MOS sensor paired with the company's latest TruePic VIII processor and has 5-axis image stabilization built right into the body. Entry-level users have four "shooting assist" modes to making taking photos easy, and the tilting 3" touchscreen display lets you snap a picture with the tap of your finger. The E-M10 III has numerous customizable buttons, twin control dials and a handy shortcut button. It has a 121-point contrast-detect AF system and can shoot at 4.8 fps with continuous AF. It can also capture 4K/UHD video at 24p and 30p, and a high-speed 120 fps mode is available at the 720p setting.
+    ProductPhotos:
+        - /files/p/products/oly_em10iii/shots/cbc9b1e95d4a4dd2bcecad2e36163af8.png
+        - /files/p/products/oly_em10iii/shots/1de2a82c4e4d4a86b2c1ddf643169f48.png
+        - /files/p/products/oly_em10iii/shots/b2674a3bd2d046f1af136e49121f0222.png
+        - /files/p/products/oly_em10iii/shots/6467b462cc4b472683f578f8ee2ef325.png
+        - /files/p/products/oly_em10iii/shots/870738b0474844c895f9580a75765719.png
+        - /files/p/products/oly_em10iii/shots/b24cb60b17be4891b89f5d83f6490aec.png
+    ReviewSummary:
+        GoodFor: Increasingly keen beginner photographers
+        NotSoGoodFor: Sports shooters or anyone demanding dependable autofocus
+        Conclusion: The E-M10 III is an attractive camera that does a good job of making its range of capabilities accessible. It's flexible and enjoyable and relatively easy to shoot good 4K video with. Its unreliable focus tracking and modest resolution take a little gloss off a camera that gives plenty of room to grow into.
+    ASIN:
+        - B0751MNKLB
+        - B0751NNZ7S
+        - B0751B835L
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 2/3 EV, 1 EV steps)
+    Announced: Aug 31, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: Metal, Composite
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.6 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 122 x 84 x 50 mm (4.8 x 3.31 x 1.97″)
+    DriveModes:
+        - Single
+        - Anti-shock
+        - Sequential high
+        - Sequential low
+        - Anti-shock sequential low
+        - 12 sec self-timer
+        - 12 sec anti-shock self-timer
+        - 2 sec self-timer
+        - 2 sec anti-shock self-timer
+        - Custom self-timer
+        - Custom anti-shock self-timer
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Olympus 12-bit lossless compressed)
+    FlashModes: Auto, redeye, slow sync, 2nd-curtain slow sync, redeye slow sync, fill-in, manual, off
+    FlashRange: 5.80 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageParameters: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $649 (body only), $799 (w/14-42mm PZ lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 102 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 102 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 52 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 120p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 14 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 25p / 14 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 24p / 14 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "121"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic VIII
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 6, 2017"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape + Portrait
+        - Night + Portrait
+        - Children
+        - Night scene
+        - Sport
+        - Hand-held Starlight
+        - Fireworks
+        - Light trails
+        - Sports
+        - Panning
+        - Landscape
+        - Sunset
+        - Beach & Snow
+        - Backlight HDR
+        - Candlelight
+        - Silent
+        - Macro
+        - Nature Macro
+        - Documents
+        - Multi Focus Shot
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I/II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.23× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 410 g (0.90 lb / 14.46 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

@@ -1,0 +1,120 @@
+ProductCode: samsung_wb800f
+Award: ""
+ImageURL: /files/p/products/samsung_wb800f/04ffacb81cc44ea48ddec702a461ceb7.png
+Name: Samsung WB800F
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 23 – 483 mm (21×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_wb800f
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Samsung WB800F features a 21x optical zoom (24-240mm equivalent) lens and a 16.3 Megapixel BSI CMOS sensor. The hybrid user interface allows photographers the choice of controlling the camera via the touchscreen or a five way manual key.'
+    ProductPhotos:
+        - /files/p/products/samsung_wb800f/shots/e79fb9a1ba614349b0ce4aeeff78645b.png
+    ReviewSummary: null
+    ASIN:
+        - B00BBFL2X2
+        - B00BBFLZ4S
+        - B00E0NX9EM
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 111 x 65 x 22 mm (4.37 x 2.56 x 0.87″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF) EXIF 2.21
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 23–483 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (D-type)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 21×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 218 g (0.48 lb / 7.69 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: ""

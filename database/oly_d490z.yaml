@@ -1,0 +1,77 @@
+ProductCode: oly_d490z
+Award: ""
+ImageURL: /files/p/products/oly_d490z/99d89f6822fb40cdaf638ad2c9bf77cb.png
+Name: Olympus D-490 Zoom (C990Z)
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_d490z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004WHE5
+Specs:
+    Announced: Aug 1, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (1.6 x, 2 x, 2.5 x)
+    Dimensions: 127 x 67 x 54 mm (5 x 2.64 x 2.13″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Fill-in, Auto, Auto red-eye, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35–105 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High, TIFF
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: Yes (but only 2.5m and infinity)
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210901153413/https://www.dpreview.com/reviews/2015-round-up-interchangeable-lens-cameras-under-500
+ProductCode: nikon_s2
+Award: ""
+ImageURL: /files/p/products/nikon_s2/acf1c6c6f0a645899e34a2c5632885ac.png
+Name: Nikon 1 S2
+ShortSpecs:
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_s2
+ReviewData:
+    ExecutiveSummary: The Nikon 1 S2 is a compact, inexpensive interchangeable lens that uses the company's 1 System (CX-format) lenses. It features a 14.2MP CMOS sensor and ultra-fast hybrid AF system, allowing for 20fps continuous shooting with autofocus. Other features include a 3" 480k dot LCD, 1/16000 sec maximum shutter speed, 1080/60p video recording, and optional Wi-Fi.
+    ProductPhotos:
+        - /files/p/products/nikon_s2/shots/578ce250a01e4c27a80fc57380e63caa.png
+        - /files/p/products/nikon_s2/shots/78d80492405a4471b922cf1284a5df8c.png
+        - /files/p/products/nikon_s2/shots/7f1e0a49b39441d6ad79510420c79a6f.png
+    ReviewSummary: null
+    ASIN:
+        - B00KBC1MR2
+        - B00KBC1RC2
+        - B00KBC1NQM
+Specs:
+    AEBracketing: ""
+    Announced: May 14, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN-EL22 lithium-ion battery and charger
+    BatteryLifeCIPA: "270"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $399.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 101 x 61 x 29 mm (3.98 x 2.4 x 1.14″)
+    DriveModes:
+        - Single-frame
+        - Continuous
+        - Self-timer
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3, DCF v2.0)
+        - NEF (compressed 12-bit Raw)
+    FlashModes: Fill, fill w/slow sync, rear curtain sync, rear curtain w/ slow sync, redeye reduction, redeye reduction w/slow sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/60 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: ""
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "171"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed 4A
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 3, 2015"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.1 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "7"
+    Wireless: Optional
+    WirelessNotes: via WU-1a

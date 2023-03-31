@@ -1,0 +1,75 @@
+ProductCode: kodak_dx3215
+Award: ""
+ImageURL: /files/p/products/kodak_dx3215/e4c4d1dd60fd4a339a22b07562550e1e.png
+Name: Kodak DX3215
+ShortSpecs:
+    - 1 megapixels
+    - 1.6″ screen
+    - 30 – 60 mm (2×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dx3215
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 14, 2001
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 121 x 70 x 46 mm (4.76 x 2.76 x 1.81″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.40 m
+    FocalLengthEquiv: 30–60 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Good
+    LiveView: "Yes"
+    MacroFocusRange: 22 cm (8.66″)
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F4.5–9
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 75 cm (29.53″)
+    OpticalZoom: 2×
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 260 g (0.57 lb / 9.17 oz)
+    WhiteBalancePresets: ""

@@ -1,0 +1,175 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211205064310/https://www.dpreview.com/reviews/fujifilm-x-t30-review
+ProductCode: fujifilm_xt30
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt30/a7eb01ed1b974e57816a54ef60a9b7fc.png
+Name: Fujifilm X-T30
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/fujifilm/slrs/fujifilm_xt30
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T30 provides many of the features found in the higher-end X-T3, including its 26.1MP X-Trans sensor and X-Processor 4 Quad Core-CPU. It offers a hybrid AF system with 425 points across the entire frame, and boasts faster face detection compared to its X-T20 predecessor.The X-T30 is an altogether smaller and lighter camera than the X-T3 (383 g / 13.5 oz compared to 539 g / 19 oz) and offers a smaller, lower-resolution viewfinder. A 3" 1.04M-dot touchscreen tilts on one axis, and a single card slot is offered. Burst shooting with continuous AF tops out at 20 fps (8 fps with mechanical shutter) and a lower native ISO of 160 is offered.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt30/shots/a6138923c06c482ebaca070f0c6eb644.png
+        - /files/p/products/fujifilm_xt30/shots/3f29f307a56543929c7ade3a5270dc9f.png
+        - /files/p/products/fujifilm_xt30/shots/cc2de7abaafa4e7c91dbb452ef0ef853.png
+        - /files/p/products/fujifilm_xt30/shots/10921937d18e4408b340bc51fb146b24.png
+        - /files/p/products/fujifilm_xt30/shots/42e8b181bc3146bc863e6f9c2b27896d.png
+    ReviewSummary:
+        GoodFor: Those seeking a lightweight camera with great out-of-camera image quality, flexible Raw files and top-notch video
+        NotSoGoodFor: Those seeking best face and eye AF performance. Serious videographers who need the very best spec.
+        Conclusion: The Fujifilm X-T30 is an exceptional value for the money, offering excellent image quality, a (generally) well-designed body with plenty of direct controls, and an autofocus system that handles most situations with ease, with face detection being a weak point. Video is a real highlight, in terms of both quality and controls, and offers features previously found on more expensive cameras. All-in-all, it's hard to go wrong with the X-T30, one of the best midrange cameras we've tested in a long time.
+    ASIN:
+        - B07NQ8MQXV
+        - B07NQGRWSF
+        - B07NQBKMR4
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 14, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & Charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 118 x 83 x 47 mm (4.65 x 3.27 x 1.85″)
+    DriveModes:
+        - Single
+        - Continuous H
+        - Continuous L
+        - Bracket
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v.2.3)
+        - Raw (Fujifilm 14-bit RAF)
+    FlashModes: Auto, on, slow sync, manual, commander
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $899 (body only), $999 (w/15-45mm lens), $1299 (w/18-55mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 4096 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 17, 2019"
+    SceneModes:
+        - SR Auto
+        - Portrait
+        - Portrait Enhancer
+        - Landscape
+        - Sport
+        - Night
+        - Night (tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Underwater
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

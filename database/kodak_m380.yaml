@@ -1,0 +1,96 @@
+ProductCode: kodak_m380
+Award: ""
+ImageURL: /files/p/products/kodak_m380/4ba4390a085d467aa76577146b3f6ed9.png
+Name: Kodak EasyShare M380
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 38 – 190 mm (5×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m380
+ReviewData:
+    ExecutiveSummary: The Kodak Easyshare M380 is an M series camera with a 14MP sensor, 3.0inch LCD and a 8x optical zoom lens. It also includes 720p HD recording and image stabilization. A Perfect Touch mode enables users to quickly retouch captured images within the camera.
+    ProductPhotos:
+        - /files/p/products/kodak_m380/shots/854ba63197914885b8959e80454f7186.png
+        - /files/p/products/kodak_m380/shots/7d5babafdd8347f394251bec4b5e9c45.png
+    ReviewSummary: null
+    ASIN:
+        - B001OC7IVM
+        - B001OC7IX0
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Continuous
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable KLIC-7003 battery and charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 100 x 60 x 20 mm (3.94 x 2.36 x 0.79″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38–190 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/1448 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2432, 3648 x 2048, 2592 x 1936, 2048 x 1536, 1824 x 1216, 1920 x 1088, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,90 @@
+ProductCode: oly_fe45
+Award: ""
+ImageURL: /files/p/products/oly_fe45/dbbb723945bf4dd18664d5b4dacdf7f6.png
+Name: Olympus FE-45
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe45
+ReviewData:
+    ExecutiveSummary: The 10MP FE-45 budget compact incorporates a 3x optical zoom lens and a 2.5 inch LCD. Its Intelligent Auto Mode detects the five most commonly used scenes and adjusts settings, focus and exposure automatically. It incorporates the company's "One button, one function" design principle and in-camera help guide and for easy operation.
+    ProductPhotos:
+        - /files/p/products/oly_fe45/shots/3b560e8fe21f4f80a6355a883414f540.png
+        - /files/p/products/oly_fe45/shots/6e0a08d54486496a8ef0b4a03cd66f0a.png
+        - /files/p/products/oly_fe45/shots/bf9ebffff2784d6dba5451ddabc0ebff.png
+        - /files/p/products/oly_fe45/shots/3c109a988cdb4b8a8815d9bddc1cfb62.png
+    ReviewSummary: null
+    ASIN:
+        - B001P06KA8
+        - B001P06K80
+Specs:
+    Announced: Jan 7, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 94 x 62 x 23 mm (3.7 x 2.44 x 0.91″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off, On
+    FlashRange: ""
+    FocalLengthEquiv: 36–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, High Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480, 1920 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (12 seconds)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 19 MB
+    StorageTypes: xD-Picture Card, microSD, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 142 g (0.31 lb / 5.01 oz)
+    WhiteBalancePresets: "7"

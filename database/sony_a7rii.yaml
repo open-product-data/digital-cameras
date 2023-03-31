@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529130115/https://www.dpreview.com/reviews/sony-alpha-7r-ii
+ProductCode: sony_a7rii
+Award: gold
+ImageURL: /files/p/products/sony_a7rii/b958398685a841cdacd6498454cf8c61.png
+Name: Sony a7R II
+ShortSpecs:
+    - 42 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/sony/slrs/sony_a7rii
+ReviewData:
+    ExecutiveSummary: The Sony Alpha 7R II is Sony's flagship mirrorless interchangeable lens camera, featuring a 42.4MP image stabilized full-frame BSI CMOS sensor. At the point of announcement, this sensor is by far the largest backside illuminated CMOS chip ever to be released, allowing the maximum expanded ISO to rise two stops to 102,400. The a7R II's 5-axis image stabilization that is rated at 4.5 stops, according to CIPA standard. The a7R II boats a highly advanced 399-point phase-detection autofocus system, which is capable of incredoble accuracy when tracking moving subjects. As well as stills, the a7R II can capture 4K (UHD) video at 30p/25p or 24p in the XAVC S 4K format. 4K video can be taken either from the full sensor width or from a Super 35 crop.
+    ProductPhotos:
+        - /files/p/products/sony_a7rii/shots/9605511ea101478d894041c6ff84b608png
+        - /files/p/products/sony_a7rii/shots/1dacc518473e4e7d84fb3e9589f45202png
+        - /files/p/products/sony_a7rii/shots/89b4173c80a94f93a2b45d8b56f475bbpng
+        - /files/p/products/sony_a7rii/shots/572e34cd773045e39d18ba217d4861f6png
+        - /files/p/products/sony_a7rii/shots/63c18308dccc4e039f169a5a80a602b4png
+        - /files/p/products/sony_a7rii/shots/405f142e05b94cdb872e1a067da9acadpng
+        - /files/p/products/sony_a7rii/shots/6ead6ea49dcb4385b5916b0e9bde7739png
+    ReviewSummary:
+        GoodFor: Portrait, wedding, event, newborn and, generally, photojournalistic shooters with heavy demands on accurate AF with fast lenses. Landscape shooters wanting the freedom of various lens families.
+        NotSoGoodFor: Sports photographers, wildlife shooters, and anyone looking to follow subjects meticulously during continuous bursts.
+        Conclusion: The a7R II brings 42MP stills and 4K video to a small, lightweight body. Electronic shutter and in-body image stabilization make for high quality images and video you'll work harder to get, if you get it at all, from comparable DSLRs. BSI-CMOS gives the a7R II class-leading low light performance and respectable dynamic range. The a7R II also introduces disruptive on-sensor phase detection AF, with the widest coverage of any full-frame camera, precise focus on eyes, professional AF results in video, and the ability to focus non-native lenses.
+    ASIN:
+        - B083R2V6DQ
+        - B00ZDWGFR2
+        - B013WOFNXE
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jun 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 127 x 96 x 60 mm (5 x 3.78 x 2.36″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer (single/continuous)
+        - Bracketing (single/continuous)
+        - WB bracketing
+        - DRO bracketing
+    EffectivePixels: 42 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - RAW (ARW 2.3)
+    FlashModes: Flash off, Autoflash, Fill-flash, Rear Sync, Slow Sync, Red-eye reduction, Hi-speed sync, Wireless
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4K still, uncompressed video output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-25600 (expands to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis (4.5 stops per CIPA standard)
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $3199/ €3500 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7952 x 5304
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "399"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2, full-frame (5168 x 3448, 3984 x 2656), APS-C (5168 x 3448, 3984 x 2656, 2592 x 1728); 16:9, 35mm (7952 x 4472, 5168 x 2912, 3984 x 2240), APS-C (5168 x 2912, 3984 x 2240, 2592 x 1456)
+    Processor: Bionz X
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p, 24p), 1920 x 1080 (60p, 60i, 24p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "90%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 17, 2015"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Sports Action
+        - Sunset
+        - Night Portrait
+        - Night Scene
+        - Hand-held Twilight
+        - Anti Motion Blur
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 44 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: BSI-CMOS full-frame sensor. No optical low-pass filter
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (via downloadable app)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: headphone and microphone ports, XLR support via adapter
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 625 g (1.38 lb / 22.05 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

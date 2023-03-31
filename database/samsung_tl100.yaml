@@ -1,0 +1,96 @@
+ProductCode: samsung_tl100
+Award: ""
+ImageURL: /files/p/products/samsung_tl100/5706ff2d278a4cc8b28e455923d3f3d8.png
+Name: Samsung TL100 (ST50)
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_tl100
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/samsung_tl100/shots/2aa46517ae1e475ab6c3424d0ddc81a6.png
+        - /files/p/products/samsung_tl100/shots/12908b7114c142df81ee2940bc90f6a2.png
+        - /files/p/products/samsung_tl100/shots/18da919549374d1c94f6fb23d794953f.png
+        - /files/p/products/samsung_tl100/shots/947d441e8e6d4c4db72b21cc3072bfce.png
+    ReviewSummary: null
+    ASIN:
+        - B003Q32MWW
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (5x)
+    Dimensions: 105 x 61 x 37 mm (4.13 x 2.4 x 1.46″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash off, Red eye fix
+    FlashRange: ""
+    FocalLengthEquiv: 35–105 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200 (At 3M Size)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3–5.6
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3984 x 2656, 3968 x 2232, 3264 x 2448, 2592 x 1944, 2048, 1536, 1024 x 768
+    RemoteControl: "Yes"
+    Resolutions: 800 x 592 (20 fps) , 640 x 480 (30,15 fps) , 320 x 240 (30, 15 fps)
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2, 10 or Custom)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/MMC/SDHC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 219 g (0.48 lb / 7.72 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""

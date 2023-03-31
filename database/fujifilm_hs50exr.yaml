@@ -1,0 +1,118 @@
+ProductCode: fujifilm_hs50exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_hs50exr/7bcf5f5182874555b06a362ad992c97d.png
+Name: Fujifilm FinePix HS50 EXR
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1000 mm (41.7×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_hs50exr
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The HS50 EXR features a 42x 24-1000mm (equiv.) optical zoom lens and a new EXR CMOS II sensor. A 3" articulated rear LCD complements the camera''s built-in 920k dot electronic viewfinder. The HS50 records 1080p60 video alongside stereo audio. An ''Intelligent'' hybrid autofocus system allows for automatic switching between contrast and phase-detection AF operation. Burst modes as high as 11 fps are possible in full resolution mode.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_hs50exr/shots/3b25886e257042eba19df40185b4c87f.png
+        - /files/p/products/fujifilm_hs50exr/shots/f938da203daf4e778a18d8c3bb14971b.png
+        - /files/p/products/fujifilm_hs50exr/shots/8f6a61a4e7be4b35a8f37793e750d1c2.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1MGA
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "500"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (20x)
+    Dimensions: ""
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - Programmed AE
+        - Aperture Priority
+        - Shutter Priority AE
+        - Manual
+    ExternalFlash: Yes (via Hot-shoe)
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+        - RAW (RAF format)
+        - RAW+JPEG
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–1000 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (mini)
+    ISO: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: 'US: $549.95'
+    MacroFocusRange: 0 cm (0.15″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 41.7×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3264 x 1840, 2304 x 1728, 2304 x 1536, 1920 x 1080
+    Processor: EXR Processor II
+    RemoteControl: "Yes"
+    Resolutions: 1920 x 1080 (60 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

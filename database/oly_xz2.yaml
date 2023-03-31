@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220524032140/https://www.dpreview.com/reviews/enthusiast-compact-camera-roundup
+ProductCode: oly_xz2
+Award: ""
+ImageURL: /files/p/products/oly_xz2/827481dbab404a0f9deeb68d6e04b6e6.png
+Name: Olympus XZ-2 iHS
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_xz2
+ReviewData:
+    ExecutiveSummary: The Olympus XZ-2 enthusiast compact camera features a 12MP 1/1.7" back-illumination CMOS sensor and touch-screen. The XZ-2 features the same 28-112mm equivalent F1.8-2.5 lens as the XZ-1 but adds a more modern sensor, screw-on hand grips, tilting touch-screen and a two-mode control dial around the lens. In one mode the dial features click-stops, allowing control over discrete features such as aperture or exposure compensation, but flip the switch on the front of the camera and the ring rotates smoothly, and switches to controlling zoom or manual focus.
+    ProductPhotos:
+        - /files/p/products/oly_xz2/shots/82b63a1ef81c4b7b9060378aa950ad61.png
+        - /files/p/products/oly_xz2/shots/e51ea1a48e6f43a7802f386c1809bdfe.png
+        - /files/p/products/oly_xz2/shots/ca25ec8c2e28494da4a4de1154f11f97.png
+        - /files/p/products/oly_xz2/shots/fd30e7c70964433f917afcce3187e45a.png
+    ReviewSummary: null
+    ASIN:
+        - B009AYJQ2U
+Specs:
+    AEBracketing: (2 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Li-90B rechargeable battery & charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 113 x 65 x 48 mm (4.45 x 2.56 x 1.89″)
+    DriveModes:
+        - Single-frame shooting
+        - Sequential shooting
+        - High-speed shooting
+        - BKT
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - iAuto
+        - Programme
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Scene select  AE
+        - Art Filter
+    ExternalFlash: Yes (via hot-shoe, wireless)
+    FileFormat:
+        - RAW (12-bit lossless compression)
+        - JPEG
+        - RAW+JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Wireless
+    FlashRange: 8.60 m (ISO 800)
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-D)
+    HeadphonePort: ""
+    ISO: Auto (100 -1600), 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters:
+        - 4 levels (Auto, Normal, High key, Low key)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3968 x 2976
+    MaximumAperture: F1.8–2.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "35"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2560 x 1920, 1280 x 960
+    Processor: ""
+    RemoteControl: Yes (Optional RM-UC1)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Apr 1, 2014"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Sport
+        - Night
+        - Night + Portrait
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Multiplex exposure
+        - Beach & Snow
+        - Underwater - Wide
+        - Underwater - Macro
+        - HDR
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 55 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (-/+ 7 steps in A-B/G-M axis)
+    WeightIncBatteries: 346 g (0.76 lb / 12.20 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

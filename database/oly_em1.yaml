@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206190629/https://www.dpreview.com/reviews/olympus-om-d-e-m1
+ProductCode: oly_em1
+Award: gold
+ImageURL: /files/p/products/oly_em1/06fe7449a8694bd3895b86d9caec6159.png
+Name: Olympus E-M1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 84
+URL: /products/olympus/slrs/oly_em1
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The OM-D E-M1 interchangeable lens camera is now the flagship of Olympus''s Micro Four Thirds lineup. Rather than calling it the follow-up to the E-M5, Olympus says that the E-M1 is actually the ''successor'' to the E-5, a Four Thirds DSLR introduced back in 2010. The E-M1''s 16.3-megapixel Live MOS sensor has on-chip 37-point phase detection, which allows the E-M1 to focus legacy Four Thirds lenses (using the optional MMF-3 adapter) at much faster speeds than previous Olympus m4/3 cameras. When you''re using Micro Four Thirds lenses, focusing is handled by the EM-1''s 81-point contrast detect AF system.The EM-1 is weather, dust, splash and freezeproof, with a large high resolution touch LCD and electronic viewfinder. It retains the E-M5''s built-in 5-axis image stabilization, plenty of customizable controls, and Wi-Fi image transfer and camera controls via Olympus''s Image Share 2.0 smartphone app.'
+    ProductPhotos:
+        - /files/p/products/oly_em1/shots/35cdbd38a0d749849bbc843dba112e85.png
+        - /files/p/products/oly_em1/shots/09d82a9ecc544d98a9628389aeae5c2b.png
+        - /files/p/products/oly_em1/shots/2c9c65ab3e504cf0bb59c15523b5412a.png
+        - /files/p/products/oly_em1/shots/9fa39c6fca284b959362fd2ca49a8b81.png
+        - /files/p/products/oly_em1/shots/c2b8894861c94836ae620b8eae6c856c.png
+    ReviewSummary:
+        GoodFor: Those who prefer viewfinder shooting, want a relatively compact system camera without sacrificing external controls of a DSLR.
+        NotSoGoodFor: Sports and fast action demanding very fast burst rates, very low light, and users with little interest in customizing camera functions.
+        Conclusion: In most respects the E-M1 does a good job bridging the gap between a traditional DSLR and a Micro Four Thirds camera. Its controls and customizability may overwhelm less hands-on users, but those who don't mind tinkering will love its flexibility. The improved autofocus tracking and performance with original Four Thirds lenses adds to the appeal of a camera with blazingly fast AF acquisition speeds with its native lenses.
+    ASIN:
+        - B00EQ07PG2
+        - B01KY2993C
+        - B00NGSLTBC
+Specs:
+    AEBracketing: ±2 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 10, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLN-1 lithium-ion battery pack
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: No (compact external flash included)
+    BuyingOptions: $1,099.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 130 x 94 x 63 mm (5.13 x 3.68 x 2.48″)
+    DriveModes:
+        - Single, sequential H, sequential L, self-timer (2 or 12 secs, custom)
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Dust, splash, freeze resistent)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program AE
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Bulb
+        - Time
+        - Scene Select
+        - Art Filter
+    ExternalFlash: Yes (hot-shoe, wireless)
+    FileFormat:
+        - JPEG (DCF/Exif)
+        - Raw (ORF)
+        - MPO
+    FlashModes: Flash Auto, Redeye, Fill-in, Flash Off, Red-eye Slow sync (1st curtain), Slow sync (1st curtain), Slow sync (2nd curtain), Manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/320 sec
+    FocalLengthMultiplier: 2×
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: ""
+    ISO: 100-25600 in 1/3EV or 1EV increments
+    ImageParameters:
+        - Sharpness, contrast, saturation
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: '''5-axis'' IS'
+    JPEGQualityLevels: Super Fine, Fine, Normal, Basic
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1399/£1299
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (with focus peaking)
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "81"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePIC VII
+    RemoteControl: Yes (optional RM-UC1 wired remote)
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 28, 2013"
+    SceneModes:
+        - Portrait, e-Portrait, Landscape, Landscape + Portrait, Sport, Night, Night + Portrait, Children, High Key, Low Key, DIS mode, Macro, Nature Macro, Candle, Sunset, Documents, Panorama, Fireworks, Beach & Snow, Fisheye conversion lens, Wide conversion lens, Macro Conv., 3D
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 secs, custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74× (0.37× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in each A-B/G-M axis)
+    WeightIncBatteries: 497 g (1.10 lb / 17.53 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with smartphone connectivity

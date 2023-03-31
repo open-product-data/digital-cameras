@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211122190654/https://www.dpreview.com/reviews/panasonic-lumix-dmc-fz1000
+ProductCode: panasonic_dmcfz1000
+Award: gold
+ImageURL: /files/p/products/panasonic_dmcfz1000/c72429f120db4d168cf397e0502d9db0.png
+Name: Panasonic FZ1000
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 400 mm (16×)
+ReviewScore: 82
+URL: /products/panasonic/compacts/panasonic_dmcfz1000
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-FZ1000 is a superzoom camera that features a 1"-type, 20.1 megapixel CMOS sensor along with an F2.8-4.0 25-400mm lens. The lens uses Depth from Defocus technology, which allows extremely fast autofocus speeds, according to Panasonic. The FZ1000 is powered by the same quad-core Venus Engine processor used by the DMC-GH4, which not only allows for fast performance, but also 4K video recording at 30fps. Photos can be composed on a 3" fully articulating 921k dot or an OLED electronic viewfinder with 2.4 million dots. The FZ1000 also has built-in Wi-Fi with NFC for easy photo sharing via your smartphone.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz1000/shots/3bbc78d5dff640439e881342c5bbb69c.png
+        - /files/p/products/panasonic_dmcfz1000/shots/6174185483e64da799dd74bb56d30947.png
+        - /files/p/products/panasonic_dmcfz1000/shots/1293ac9b0e464267a3cf5db606be8e71.png
+        - /files/p/products/panasonic_dmcfz1000/shots/ee94a09a177345aaa7b6bdfaae2fa0f4.png
+        - /files/p/products/panasonic_dmcfz1000/shots/66819a217cb14b5285d0be176a1ddb95.png
+        - /files/p/products/panasonic_dmcfz1000/shots/e2e598437d484af6aeb3247dc84e63eb.png
+    ReviewSummary:
+        GoodFor: Travelers who want great photo quality and a powerful, fast lens. Video enthusiasts who want to be on the cutting edge.
+        NotSoGoodFor: Those desiring a big zoom in a smaller package. Advanced videographers desiring Auto ISO and headphone output.
+        Conclusion: The Panasonic Lumix DMC-FZ1000 is a very impressive superzoom camera with an F2.8-4, 25-400mm lens and a one-inch sensor. Both photo and video quality are impressive, and support for 4K videos make the camera futureproof. The FZ1000 has a beautiful XGA EVF and a fully articulating LCD. Handling and build quality aren't perfect, but the camera's features make up for it.
+    ASIN:
+        - B00XW4422S
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Jun 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLC12PP lithium-ion battery and charger
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Metal, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4x)
+    Dimensions: 137 x 99 x 131 mm (5.39 x 3.9 x 5.16″)
+    DriveModes:
+        - Single-shot
+        - Continuous
+        - AE bracket
+        - Self-timer
+        - Interval
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG (DCF, Exif v2.3)
+        - RAW (ARW)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync/Red-eye Reduction, Forced Off
+    FlashRange: 13.50 m (at Auto ISO)
+    FocalLengthEquiv: 25–400 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (microHDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800 (expands to 80-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $899 / £749
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–4
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 16×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (wired)
+    Resolutions: 3840x2160 (30p), 1920 x 1080 (60p, 60i, 30p, 24p) 1280x720 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 21, 2014"
+    SceneModes:
+        - Clear Portrait, Silky Skin, Backlit Softness, Clear in Backlight, Relaxing Tone, Sweet Child's Face, Distinct Scenery, Bright Blue Sky, Romantic Sunset Glow, Vivid Sunset Glow, Glistening Water, Clear Nightscape, Cool Night Sky, Warm Glowing Nightscape, Artistic Nightscape, Glittering Illuminations, Handheld Night Shot, Clear Night Portrait, Soft Image of a Flower, Appetizing Food, Cute Dessert, Freeze Animal Motion, Clear Sports Shot, Monochrome, Panorama
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 4K video uses MP4 (100Mbps), 1080p/720p use AVCHD (10-28Mbps)
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 831 g (1.83 lb / 29.31 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

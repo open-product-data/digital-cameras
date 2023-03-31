@@ -1,0 +1,143 @@
+ProductCode: canon_sx520hs
+Award: ""
+ImageURL: /files/p/products/canon_sx520hs/4e92ff3da5f5405e8692eeb802b2b0da.png
+Name: Canon PowerShot SX520
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1008 mm (42×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx520hs
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot SX520 HS digital camera incorporates a 42x Optical Zoom with Canon''s Optical Image Stabilization, ideal for active families that want to take high-quality close-up shots of their children''s soccer game or dance recitals. In addition to featuring a powerful optical zoom range, the SX520 HS digital camera combines a 16 Megapixel High-Sensitivity CMOS sensor and Canon''s DIGIC 4+ Image Processor to create the Canon HS SYSTEM allowing for excellent low-light performance. Giving users the ability to capture life in motion, the camera features a dedicated movie button so users can easily record 1080p Full HD video utilizing the camera''s full 42x optical zoom capability.'
+    ProductPhotos:
+        - /files/p/products/canon_sx520hs/shots/3ec48f4a48474f64ab0bf15274d6ec7a.png
+        - /files/p/products/canon_sx520hs/shots/52ee7be75d0d4a56a2b7c665bc2f7e8c.png
+        - /files/p/products/canon_sx520hs/shots/b3c6fbbc0a2b44ce8bdb555a7990940f.png
+    ReviewSummary: null
+    ASIN:
+        - B00M0QVTOS
+Specs:
+    AEBracketing: ""
+    Announced: Jul 29, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6LH rechargeable battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 120 x 82 x 92 mm (4.72 x 3.23 x 3.62″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+        - Shutter priority AE
+        - Aperture priority AE
+        - Manual
+        - Hybrid Auto
+        - Live View Control
+        - Creative Shot
+        - Scene
+        - Movie
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF v2.3 / DPOF v1.1)
+    FlashModes: Auto, on, off, slow synchro
+    FlashRange: 5.50 m
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 24–1008 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, Fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $399.99
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.4–6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 42×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 4+
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Smart Shutter
+        - High-speed Burst
+        - Low Light
+        - Snow
+        - Fireworks
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 441 g (0.97 lb / 15.56 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

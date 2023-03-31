@@ -1,0 +1,78 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220206135910/https://www.dpreview.com/reviews/minolta1500
+ProductCode: minolta_1500zoom
+Award: belowAverage
+ImageURL: /files/p/products/minolta_1500zoom/2a61c9075ca44dacb54f209db2ef91ef.png
+Name: Minolta DiMAGE EX 1500 Zoom
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 38 – 115 mm (3×)
+ReviewScore: 0
+URL: /products/konicaminolta/compacts/minolta_1500zoom
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000067DKI
+        - B00005NHAC
+        - B00005MA7J
+Specs:
+    Announced: Aug 31, 1998
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "No"
+    Dimensions: 128 x 68 x 59 mm (5.04 x 2.68 x 2.32″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Red-eye-fill-in, Off
+    FlashRange: 11.00 m (F3.5 ISO 125)
+    FocalLengthEquiv: 38–115 mm
+    HDMI: "No"
+    ISO: "125"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Standard, Economy
+    LiveView: "Yes"
+    MacroFocusRange: 35 cm (13.78″)
+    ManualFocus: "No"
+    MaxResolution: 1344 x 1008
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Feb 6, 1999"
+    ScreenDots: 110,000
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: Yes (- 1s - 9hours)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 380 g (0.84 lb / 13.40 oz)
+    WhiteBalancePresets: "3"

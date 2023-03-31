@@ -1,0 +1,127 @@
+ProductCode: sony_dscw690
+Award: ""
+ImageURL: /files/p/products/sony_dscw690/825c96f6ad624c8aaf6d1d34177484a4.png
+Name: Sony Cyber-shot DSC-W690
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw690
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_dscw690/shots/d2ceb0d18cbd4a04bc5ce1759ac24174.png
+        - /files/p/products/sony_dscw690/shots/6b1fa4cf20414b5fbdcfcf155e73c91d.png
+        - /files/p/products/sony_dscw690/shots/1a6dbcc573d5471ba8fa117a5a173d6c.png
+    ReviewSummary: null
+    ASIN:
+        - B006K554I2
+        - B006K554SM
+Specs:
+    Announced: Feb 28, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN battery and charger
+    BatteryLifeCIPA: "220"
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (20x)
+    Dimensions: 94 x 56 x 22 mm (3.7 x 2.2 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Easy Shooting
+        - Program Auto
+        - Movie Mode
+        - Panorama
+        - Manual Exposure
+        - Scene Selection
+        - Picture Effect
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 3.30 m
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: Approx. $180
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Beach
+        - Snow
+        - Fireworks
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ClearPhoto TFT LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 27 MB
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 142 g (0.31 lb / 5.01 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

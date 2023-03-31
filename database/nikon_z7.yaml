@@ -1,0 +1,158 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211110213509/https://www.dpreview.com/reviews/nikon-z7
+ProductCode: nikon_z7
+Award: silver
+ImageURL: /files/p/products/nikon_z7/c5855b93d95c45a69820af5bc3e8301a.png
+Name: Nikon Z7
+ShortSpecs:
+    - 46 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_z7
+ReviewData:
+    ExecutiveSummary: The Nikon Z 7 is the company's high-end full-frame mirrorless camera. It features a 45.7MP BSI-CMOS sensor, a hybrid AF system with 493 points and 90% coverage and 5-axis in-body image stabilization. The rugged body is similar in design to the D850 DSLR and is fully sealed against dust and moisture. It features a 3.68M-dot electronic viewfinder and tilting 3.2", 2.1M-dot touchscreen LCD. An OLED panel on the top plate displays current shooting settings. Photos are stored on an XQD card.The Z 7 can shoot continuously at 9 fps with AE locked and 5.5 fps with continuous AF/AE. The buffer is relatively small, topping out at 18-23 Raw and 25 JPEG images. It can capture 4K video using the full width of the sensor, or users can switch to a DX crop mode where the entire sensor is sampled. You can use the same features for videos as you can for stills, including 5-axis IS and the hybrid AF system (with 435 points here). The Z 7 supports focus peaking, zebra patterns, time code and 10-bit Log output over HDMI. The camera can record 8-bit video internally and externally at the same time. Connectivity options include Wi-Fi (802.11ac) with Bluetooth as well as the ability to connect directly to a PC.
+    ProductPhotos:
+        - /files/p/products/nikon_z7/shots/15141092c0714540ae7b10ef9b6dfc19.png
+        - /files/p/products/nikon_z7/shots/8541e5fc7a604656b993f0da557dabf0.png
+        - /files/p/products/nikon_z7/shots/f6a9f37bc5434506a01b8268308c4bf6.png
+        - /files/p/products/nikon_z7/shots/ae9a0b1cc1e44e719b2b4db057bdb197.png
+        - /files/p/products/nikon_z7/shots/94b771d946b14f6da07cd4d0b03c75e6.png
+        - /files/p/products/nikon_z7/shots/4efec875c15c4f8fb4f1b7516fc443a4.png
+    ReviewSummary:
+        GoodFor: Hybrid stills and video shooters, photographers looking for a versatile tool for a wide range of subjects in a compact package.
+        NotSoGoodFor: Those needing class-leading autofocus performance, faster burst rates, or greater buffer depth.
+        Conclusion: The Nikon Z7 is an extremely well-rounded digital camera and suitable for a wide range of photographic and video needs. It packs outstanding image quality and very good 4K video in a lightweight, well-built package with in-body image stabilization. Autofocus is less reliable than the competition and the buffer can be limiting for fast action, but overall, the Z7 is a pleasure to shoot with.
+    ASIN:
+        - B07GPRBGQ2
+        - B07GQ3HVW1
+        - B07GSJNWG2
+Specs:
+    AEBracketing: ""
+    Announced: Aug 23, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15b lithium-ion battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "32"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,796.95 - $3,396.95
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 134 x 101 x 68 mm (5.28 x 3.98 x 2.68″)
+    DriveModes: ""
+    EffectivePixels: 46 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (NEF, 12 or 14-bit)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 64-25600 (expands to 32-102400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $3399 (body only), $3999 (w/24-70 F4 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 5504
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 144 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 144 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 56 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 28 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "493"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5408 x 3600 (DX crop), 6880 x 5504 (5:4), 5504 x 5504 (1:1), 8256 x 4640 (16:9)
+    Processor: Expeed 6
+    RemoteControl: Yes (via MC-DC2 or smartphone)
+    Resolutions: ""
+    ReviewPreview: "89%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 5, 2018"
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10 or 20 secs)
+    SensorPhotoDetectors: 47 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: XQD card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 675 g (1.49 lb / 23.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

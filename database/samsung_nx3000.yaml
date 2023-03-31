@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023162747/https://www.dpreview.com/reviews/entry-level-mirrorless-camera-roundup-2014
+ProductCode: samsung_nx3000
+Award: ""
+ImageURL: /files/p/products/samsung_nx3000/974441c5ace34a08a8c9d315d65dd1bc.png
+Name: Samsung NX3000
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_nx3000
+ReviewData:
+    ExecutiveSummary: The Samsung NX3000 is a rangefinder-style mirrorless interchangeable lens camera that sports a 20.3MP APS-C CMOS sensor, a 3" flip-up LCD, 5 fps continuous shooting, and Wi-Fi with NFC. Photos are stored on a microSD card, as opposed to a traditional SD card on previous models. This compact camera comes in white, brown, and black and comes bundled with Samsung's new 16-50mm F3.5-5.6 power zoom lens as well as a small external flash. A copy of Adobe Lightroom 5 is thrown in, as well.
+    ProductPhotos:
+        - /files/p/products/samsung_nx3000/shots/2fe4236d29bb4dbf8a896dbacf617ceb.png
+        - /files/p/products/samsung_nx3000/shots/9adc7a04586e450b8c63ffa2a75fbd8f.png
+        - /files/p/products/samsung_nx3000/shots/b4f5115b55cb4603b0c0346715acc83e.png
+        - /files/p/products/samsung_nx3000/shots/805140aed5e34b219c8db42544f7ab78.png
+        - /files/p/products/samsung_nx3000/shots/d1e3a6808c6e4f93812af51c12883884.png
+        - /files/p/products/samsung_nx3000/shots/afe6a262d4654f289401c4109113a004.png
+    ReviewSummary: null
+    ASIN:
+        - B00K88XMHC
+        - B00K88XMI6
+        - B00K88XMRW
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: May 8, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: B740 lithium-i0n battery & charger
+    BatteryLifeCIPA: "370"
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: No (External flash included)
+    BuyingOptions: $649.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 117 x 66 x 39 mm (4.61 x 2.6 x 1.54″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG
+        - Raw (SRW)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: $479 (w/20-50mm lens and flash), $529 (w/16-50 PZ lens and flash)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "35"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720, 640 x 480, 320 x 240
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Dec 17, 2014"
+    SceneModes:
+        - Beauty Face
+        - Best Face
+        - Continuous Shot
+        - Kids Shot
+        - Landscape
+        - Macro
+        - Food
+        - Parties & Indoors
+        - Action Freeze
+        - Rich Tones
+        - Waterfall
+        - Silhouette
+        - Sunset
+        - Night
+        - Fireworks
+    ScreenDots: 460,800
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2-30 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

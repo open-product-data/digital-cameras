@@ -1,0 +1,104 @@
+ProductCode: casio_qv5500
+Award: ""
+ImageURL: /files/p/products/casio_qv5500/7b7cbde0284c4e4eab148edf896fbccd.png
+Name: Casio QV-5500SX
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 36 mm
+ReviewScore: 0
+URL: /products/casio/compacts/casio_qv5500
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 20, 1999
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x, 4 x)
+    Dimensions: 131 x 69 x 50 mm (5.16 x 2.72 x 1.97″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Red-eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 36 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Unknown
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Economy, Normal, Fine, Super
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–16
+    MaximumShutterSpeed: 1/500 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/8 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 10 fps
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/3" (4.8 x 3.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 320 g (0.71 lb / 11.29 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

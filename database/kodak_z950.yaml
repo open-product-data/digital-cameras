@@ -1,0 +1,102 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210928124905/https://www.dpreview.com/reviews/q210grouptravelzoom
+ProductCode: kodak_z950
+Award: ""
+ImageURL: /files/p/products/kodak_z950/f04cfd2d3fe642fe83600a7ee02e418e.png
+Name: Kodak EasyShare Z950
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 35 – 350 mm (10×)
+ReviewScore: 68
+URL: /products/kodak/compacts/kodak_z950
+ReviewData:
+    ExecutiveSummary: Ergonomically, the 12MP Kodak EasyShare Z950 is reminiscent of compact digital cameras of a generation or two ago. This shouldn't be taken as a criticism though - it is nice to see a camera with a bit of meat on it these days, and to   some photographers, a heavier camera is a nicer one to hold. It is always good to see 'true' manual control on a camera of this type, and the Z950's full complement of PASM exposure modes represents an unusual amount of versatility which will no doubt appeal to experienced photographers and ambitious beginners. Pixel-level detail is impressively high throughout the zoom range, and although image quality drops off   higher up the ISO sensitivity scale, the Z950 still holds it own against more expensive competitors. Our biggest problems with the Z950 are its relatively restrictive zoom range, of 35-350mm (equivalent) and its sub-par LCD screen.
+    ProductPhotos:
+        - /files/p/products/kodak_z950/shots/d5c126e82fa94354ae52f7358057a42f.png
+        - /files/p/products/kodak_z950/shots/017a5232a9c142ef8c384806019d3f10.png
+        - /files/p/products/kodak_z950/shots/b64f1e73b8334c86aab8ebb4e88b9dc3.png
+        - /files/p/products/kodak_z950/shots/2764a84c0be345c789fb384319ba2baf.png
+        - /files/p/products/kodak_z950/shots/dd61bb53169e49a4a56e7cca8666973d.png
+    ReviewSummary:
+        GoodFor: Traditionalists that like a camera with a bit of meat on it. Excellent sharpness means that the Z950 can be used for letter-size+ prints.
+        NotSoGoodFor: Wideangle fans. 35mm is significantly less wide than the competition.
+        Conclusion: The Kodak EasyShare Z950 is a camera cast in a more traditional mold than most of the others in this group. You'll either love or hate the chunky ergonomics, but the only serious problem with the Z950 is its lack of a true wideangle setting. If 35mm is wide enough for you, you'll find that the Z950 is capable of excellent results.
+    ASIN:
+        - B003SSQO0G
+        - B002IVVD8C
+Specs:
+    AEBracketing: ""
+    Announced: Jul 29, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion  KLIC-7003 rechargeable battery & charger
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (10x)
+    Dimensions: 110 x 67 x 36 mm (4.33 x 2.64 x 1.42″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye
+    FlashRange: 5.40 m
+    FocalLengthEquiv: 35–350 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard, Basic
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–4.8
+    MaximumShutterSpeed: 1/1250 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1/8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2264, 4000 x 2256, 2832 x 2128, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "68%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jun 16, 2010"
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 243 g (0.54 lb / 8.57 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,110 @@
+ProductCode: samsung_wb700
+Award: ""
+ImageURL: /files/p/products/samsung_wb700/c40dd17bb3024cfba35f411addd0691a.png
+Name: Samsung WB700
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_wb700
+ReviewData:
+    ExecutiveSummary: The Samsung WB700 travel zoom features an 18x optical zoom lens starting at a wide 24mm equivalent. It offers features such as optical image stabilization, P/A/S/M shooting modes and Smart Filters. It can also shoot 720p HD movies in H.264 format and offers HD output.
+    ProductPhotos:
+        - /files/p/products/samsung_wb700/shots/95c7de41617240618058124251406c12.png
+        - /files/p/products/samsung_wb700/shots/55eebd793ce3412688731927874d3ff9.png
+        - /files/p/products/samsung_wb700/shots/9f9b08d855b34aeaa0b217c9a75daa4e.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Dec 28, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 100 x 59 x 22 mm (3.94 x 2.32 x 0.87″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: ""
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,78 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220521055649/https://www.dpreview.com/reviews/kodakdc265
+ProductCode: kodak_dc265
+Award: aboveAverage
+ImageURL: /files/p/products/kodak_dc265/9bc43bb444af49e8ae6cd3f6df5e2feb.png
+Name: Kodak DC265
+ShortSpecs:
+    - 2 megapixels
+    - 2″ screen
+    - 38 – 115 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc265
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B09ZRN1N3Z
+        - B07BB5FDS2
+        - B06Y185XZW
+Specs:
+    Announced: Feb 26, 1999
+    AperturePriority: "No"
+    Autofocus:
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries included
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 118 x 57 x 106 mm (4.65 x 2.24 x 4.17″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: Yes (synch cable)
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.00 m (F3.0)
+    FocalLengthEquiv: 38–115 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best, Super
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 1536 x 1024
+    MaximumAperture: F3–14
+    MaximumShutterSpeed: 1/400 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 30 cm (11.81″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 768 x 512
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 24, 1999"
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: Yes (- 1min - 24hours)
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 550 g (1.21 lb / 19.40 oz)
+    WhiteBalancePresets: "5"

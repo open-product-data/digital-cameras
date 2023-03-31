@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220525170844/https://www.dpreview.com/reviews/rx1r-ii-review
+ProductCode: sony_dscrx1rii
+Award: silver
+ImageURL: /files/p/products/sony_dscrx1rii/a6dce16b6fae46bbb5161dc574f6dc99.png
+Name: Sony RX1R II
+ShortSpecs:
+    - 42 megapixels
+    - 3″ screen
+    - 35 mm
+ReviewScore: 82
+URL: /products/sony/compacts/sony_dscrx1rii
+ReviewData:
+    ExecutiveSummary: The RX1R II features the same high resolution 42.4 MP full-frame sensor and BIONZ X processor  as the a7R II along with a large aperture, fixed focal length ZEISS Sonnar T* 35mm F2 lens.  The camera’s sensor features 399 phase-detection AF points and focus response is about 30% faster than the original model. A unique feature is the RX1R II's optical variable low pass filter that can be set to “off”, “standard” or “high” based on user preference, with low pass filter bracketing available.  The RX1R II also has a convenient retractable XGA OLED viewfinder for eye-level shooting. The viewfinder features ZEISS T* Coating and four glass elements including two aspherical lenses that work together to deliver a magnification of 0.74 and clear corner-to-corner visibility with minimal distortion. On the video side the RX1R II is able to support full HD 1920x1080 video recording at frame rates of 60p, 30p or 24p through use of the versatile XAVC S movie recording format.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx1rii/shots/391d7fb3b7c445f09528a4132b1937d9.png
+        - /files/p/products/sony_dscrx1rii/shots/dde09048ccc94d4ab65dc276a78a299e.png
+        - /files/p/products/sony_dscrx1rii/shots/b459fdd3a6e549afa546841a1e394cc7.png
+        - /files/p/products/sony_dscrx1rii/shots/47d7c379408849ae983cb38f6c46fb3a.png
+        - /files/p/products/sony_dscrx1rii/shots/6e6f5960ae854d3a8e30495aeb61f779.png
+        - /files/p/products/sony_dscrx1rii/shots/658b0392b0464f878a0d780ee2e9580d.png
+        - /files/p/products/sony_dscrx1rii/shots/fd99b0ad67c5419f9da742b62703deac.png
+        - /files/p/products/sony_dscrx1rii/shots/77f66584b81e4a9f8faf0dabbc62022e.png
+        - /files/p/products/sony_dscrx1rii/shots/03e85646cc404da49ae3497d496f521b.png
+    ReviewSummary:
+        GoodFor: Those who demand ultimate image quality wherever they go, and appreciate a solid camera with lots of external controls.
+        NotSoGoodFor: Cold weather photography (bring a spare battery), action or video shooting.
+        Conclusion: The Sony Cyber-shot RX1R II is the world's smallest full-frame camera, featuring a 42MP sensor, fixed ZEISS 35mm F2 lens, pop-up electronic viewfinder and excellent autofocus system. It promises absolutely excellent image quality in a package that fits into your coat pocket, but so-so handling, large file sizes, a clunky user interface and short battery life will turn off some users.
+    ASIN:
+        - B016N39J0O
+        - B077HH7GH6
+Specs:
+    AEBracketing: ""
+    Announced: Oct 14, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BX1 battery and charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $3,298.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (with fine-tuning)
+    DigitalZoom: Yes (4x)
+    Dimensions: 113 x 65 x 72 mm (4.45 x 2.56 x 2.83″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Speed priority continuous
+        - Self-timer
+        - Continuous bracketing
+        - Single bracketing
+        - WB bracketing
+        - DRO bracketing
+        - LPF bracketing
+    EffectivePixels: 42 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter speed priority
+        - Manual
+        - Memory Recall
+    ExternalFlash: Yes (via hot-shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DCF 2.0)
+        - Raw (Sony ARW, 14-bit uncompressed)
+    FlashModes: Off, auto, fill flash, slow sync, rear sync, wireless
+    FlashRange: ""
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S, H.264
+    GPS: None
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600, expandable to 50-102400
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+        - Color Space
+        - Creative Style
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard
+    LiveView: "Yes"
+    MSRP: $3299
+    MacroFocusRange: 14 cm (5.51″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7952 x 5304
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 24 cm (9.45″)
+    NumberOfFocusPoints: "399"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: BIONZ X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 60i, 30p, 24p), 1280 x 720 (120p, 30p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 15, 2016"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2,5, 10 sec)
+    SensorPhotoDetectors: 44 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Pro Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: Supports bit rates as high as 50Mbps using XAVC S codec
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 507 g (1.12 lb / 17.88 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

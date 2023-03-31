@@ -1,0 +1,133 @@
+ProductCode: leica_dlux109
+Award: ""
+ImageURL: /files/p/products/leica_dlux109/43d2b5058bd7420fa3b4b1044bfcd0d0.png
+Name: Leica D-Lux (Typ 109)
+ShortSpecs:
+    - 13 megapixels
+    - 3″ screen
+    - 24 – 75 mm (3.1×)
+ReviewScore: 0
+URL: /products/leica/compacts/leica_dlux109
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Combining a superior high performance lens, a larger sensor, and an improved processor, the Leica D-Lux is perfect for capturing stunning images on the go. The built-in Leica DC Vario-Summilux 10.9–34 mm f/1.7–2.8 ASPH. lens pairs a fast aperture with an impressive zoom range equivalent to 24mm - 75 mm on a 35 mm format sensor. This new model offers a larger Four Thirds sensor that provides a much higher image quality than its predecessor. While the D-Lux’s easy to use automatic modes, manual settings, and video capability are familiar elements from the last model, a new integrated electronic viewfinder with 2.8 MP resolution, Wi-Fi module, and upgraded video quality are sure to set this camera apart from its competitors. These new features combined with a classically elegant design make the new D- Lux a versatile tool to capture impressive images and video.The Leica DC Vario-Summilux 10.9–34 mm f/1.7–2.8 ASPH zoom lens is perfectly matched to the camera’s larger sensor. With an impressive maximum ISO sensitivity of 25600, the D-Lux guarantees pictures with natural colors and exceptional quality. The zoom increases the capabilities for the camera making it ideal for a wide range of photographic applications. The camera also boasts an improved video function of 4k high definition video, a resolution four times higher than full HD.The Leica D-Lux’s integrated Wi-Fi module allows remote control from a smartphone or tablet to wirelessly transfer still images and videos using a Wi-Fi connection. The free Leica Image Shuttle app enables this feature and is available for all iOS and Android devices. An integrated NFC (Near Field Communication) module quickly and easily sets up a Wi-Fi connection with an NFC-compatible smartphone when the phone is within range.The effortless transition from automatic to manual settings simplifies image capture. The camera’s integrated electronic viewfinder displays exposure settings identical to those found on the monitor screen ensuring correct exposure. The high-resolution 3” LCD monitor screen is viewable even in bright sunlight.'
+    ProductPhotos:
+        - /files/p/products/leica_dlux109/shots/ddf6e28567424e67bff2b11266f02e6a.png
+        - /files/p/products/leica_dlux109/shots/d59be37f68c148a09852bc9016f0bf85.png
+        - /files/p/products/leica_dlux109/shots/12de2cf42e58410fb8af0161725ba920.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 15, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "300"
+    BodyMaterial: Aluminum
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4X)
+    Dimensions: 118 x 66 x 55 mm (4.65 x 2.6 x 2.17″)
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (DCF/EXIF v2.3)
+        - Raw (DNG)
+    FlashModes: Auto, auto w/redeye reduction, on, on w/redeye reduction, slow sync, slow sync w/redeye reduction, off
+    FlashRange: 7.00 m (with included external flash at ISO 100)
+    FocalLengthEquiv: 24–75 mm
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Noise Reduction
+        - Saturation
+        - Color Tone
+        - Filter Effect
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: £895, $1195
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4112 x 3088
+    MaximumAperture: F1.7–2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 3.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4112 x 3088, 4272 x 2856, 4480 x 2520, 3088 x 3088, 2976 x 2232, 3120 x 2086, 3840 x 2160, 2240 x 2240, 2048 x  1536, 2112 x 1408, 1920 x 1080, 1536 x 1536
+    RemoteControl: "No"
+    Resolutions: 3840 x 2160 (30p, 24p), 1920 x 1080 (60p, 60i, 30p, 24p), 1280 x 720 (30p), 640 x 480
+    ReviewPreview: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.39× (0.7× 35mm equiv.)
+    ViewfinderResolution: 2,764,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 405 g (0.89 lb / 14.29 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

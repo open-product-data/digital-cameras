@@ -1,0 +1,105 @@
+ProductCode: fujifilm_jv200
+Award: ""
+ImageURL: /files/p/products/fujifilm_jv200/ef828dfed2514c808d05ca718e3fa23c.png
+Name: FujiFilm FinePix JV200 (FinePix JV205)
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_jv200
+ReviewData:
+    ExecutiveSummary: Fujifilm's JV series are intended to appeal to style - as well as budget - conscious photographers, and Heading up the JV series is the JV200. Available in five colors (varying by territory) the metal-bodied JV200 certainly cuts a dash that belies its low pricepoint. As far as specification is concerned, the 12MP JV200 matches its near-neighbors the JV100 and JV150 in most respects, but trumps them by offering a 3x optical zoom, with a meaningful wideangle setting of 28mm (equivalent).
+    ProductPhotos:
+        - /files/p/products/fujifilm_jv200/shots/6c88bd0f88924b57af23e9b0a4857429.png
+        - /files/p/products/fujifilm_jv200/shots/2bf7183f91db4ba0a4fbaa0cc28e7b7f.png
+        - /files/p/products/fujifilm_jv200/shots/d1c3b9abd084449b9258182150a331dc.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO58JS
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: Lithium-ion rechargeable battery & charger
+    BatteryLifeCIPA: "180"
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BoostedISOMinimum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (6.7x)
+    Dimensions: 94 x 56 x 21 mm (3.7 x 2.2 x 0.83″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 36–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, (3200 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F3.1–5.6
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 4288 x 2864, 4288 x 2416, 3072 x 2304, 3072 x 1728, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD / SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 125 g (0.28 lb / 4.41 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

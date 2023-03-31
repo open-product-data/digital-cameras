@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175714/https://www.dpreview.com/reviews/sony-alpha-slt-a99
+ProductCode: sony_slta99
+Award: gold
+ImageURL: /files/p/products/sony_slta99/119371be598f4069b9febc43b48f6210.png
+Name: Sony Alpha a99
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 84
+URL: /products/sony/slrs/sony_slta99
+ReviewData:
+    ExecutiveSummary: The Sony SLT A99 is Sony's flagship full frame interchangeable lens camera, and nominally replaces the A900, which was released all the way back in 2008. It uses Sony's 'SLT' design with a 2.3M dot OLED electronic viewfinder, and has a fully-articulated 1.2M dot 3" rear LCD. Its in-body image stabilisation system works with all lenses, new or old.The thoroughly modern A99 features a 24MP 36x24mm CMOS sensor that features on-sensor phase detection, creating a dual AF system that promises improved focus tracking and focus precision. It also includes Sony's Quick Navi interactive status panel and a host of features for video shooters, including a 'silent' control dial, mic and headphone sockets and focus peaking, to make the most of its 1080p60 HD video capability.
+    ProductPhotos:
+        - /files/p/products/sony_slta99/shots/5c0ab50f20ac41bf9adaf35a6f3d46e8.png
+        - /files/p/products/sony_slta99/shots/3984387abffc4435994d34d48c1ddcc4.png
+        - /files/p/products/sony_slta99/shots/13039c07ddac4cf38efbf02452ac3223.png
+        - /files/p/products/sony_slta99/shots/46c2cc14fc1a47f3b0c5b0bf03a21006.png
+        - /files/p/products/sony_slta99/shots/d488d027f6e4440faa2dd2b87df8038b.png
+    ReviewSummary:
+        GoodFor: Photographers looking for outstanding high ISO performance. DSLR enthusiasts who want the option to shoot using live view without sacrificing AF performance.
+        NotSoGoodFor: Dedicated sports shooters and those who prefer an optical viewfinder.
+        Conclusion: The SLT-A99 is a feature-rich camera that still provides a wealth of easily accessed manual user controls. It stands out as the only full-frame camera to offer in-body stabilization, an EVF, and an articulated rear screen. Budding videographers will enjoy brisk AF performance, as well as the option to output uncompressed video.
+    ASIN:
+        - B0096W1P6G
+Specs:
+    AEBracketing: (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 12, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FM500H rechargeable battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Magnesium Alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: Yes (3)
+    DigitalZoom: "Yes"
+    Dimensions: 147 x 111 x 78 mm (5.79 x 4.37 x 3.07″)
+    DriveModes:
+        - Single-frame advance
+        - Continuous advance
+        - Continuous adv Priority AE
+        - Speed Priority Continuous
+        - Self-timer
+        - Self Portrait Self-timer
+        - Continuous Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Dust and moisture resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - iAuto
+        - Superior Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority, Manual
+    ExternalFlash: Yes (via Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, High Speed Sync, Rear Curtain, Fill-in, Wireless
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, H.264
+    GPS: Built-in
+    HDMI: Yes (mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters:
+        - Contrast -3 to +3 steps
+        - Saturation -3 to +3 steps
+        - Sharpness -3 to +3 steps
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra Fine, Fine, Standard
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: $2,800/£2,480 body only
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "19"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 3936 x 2624, 3936 x 2216, 2640 x 1760, 2640 x 1488
+    Processor: Bionz
+    RemoteControl: Yes (Wired or Wireless (Optional))
+    Resolutions: 1920 x 1080 (60, 24 fps), 1440 x 1080 (30fps), 640 x 424 (29.97 fps)
+    ReviewPreview: "84%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 12, 2012"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Hand-held Twilight (6 shot layering)
+        - Night Portrait
+    ScreenDots: 1,229,000
+    ScreenSize: 3″
+    ScreenType: TFT Xtra Fine color LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.8 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: Memory Stick PRO Duo/Pro-HG Duo; SD, SDHC and SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes ( 3 frames, H/L selectable)
+    WeightIncBatteries: 812 g (1.79 lb / 28.64 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

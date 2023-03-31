@@ -1,0 +1,112 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107200411/https://www.dpreview.com/reviews/q311travelzoomgrouptest/
+ProductCode: fujifilm_f550exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_f550exr/946179eda84742ba9e1954ad9f85edcd.png
+Name: Fujifilm FinePix F550 EXR
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 360 mm (15×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_f550exr
+ReviewData:
+    ExecutiveSummary: Built around the same design and core feature set as its F300 EXR camera, the F550 EXR offers the company's latest 16Mp EXR CMOS sensor that allows full 1080p HD video recording and full-resolution 8fps continuous shooting. It includes the same 15x (24-360mm) optical zoom lens and 460K 3.0" LCD screen as the F300 EXR. The key differences between the F550 EXR and the F500 EXR (released at the same time) are the F550's GPS and RAW shooting capabilities.
+    ProductPhotos:
+        - /files/p/products/fujifilm_f550exr/shots/48df59d290864771aa3acc64ea7a222d.png
+        - /files/p/products/fujifilm_f550exr/shots/7a5a34e2ee0941c99e429a5e4714a1aa.png
+        - /files/p/products/fujifilm_f550exr/shots/9de5c1a1bc81428280f0ed8fb8616a71.png
+        - /files/p/products/fujifilm_f550exr/shots/e3154c8cedb3445e9f5ea026ffaa3be3.png
+    ReviewSummary: null
+    ASIN:
+        - B004HO58KW
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 5, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-50 rechargeable battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "6400"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (5x)
+    Dimensions: 104 x 63 x 33 mm (4.09 x 2.48 x 1.3″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG Exif Ver 2.3
+        - RAW (RAF format)
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 24–360 mm
+    Format: AVI MPEG4
+    GPS: Built-in
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–5.3
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 15×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3264 x 2448, 3264 x 1840, 2304 x 1728, 2304 x 1536, 1920 x 1080
+    Processor: EXR
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (FHD 30 fps), 1280 x 720 (HD 30 fps), 640 x 480 (30 fps), High Speed Movie (80 / 160 / 320 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Jul 20, 2011"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec, Auto shutter(Dog, Cat))
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: EXRCMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 39 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 215 g (0.47 lb / 7.58 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

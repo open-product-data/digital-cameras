@@ -1,0 +1,82 @@
+ProductCode: fuji_finepixj250
+Award: ""
+ImageURL: /files/p/products/fuji_finepixj250/153e194e2f5040d3ba63986b890e516f.png
+Name: Fujifilm FinePix J250
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixj250
+ReviewData:
+    ExecutiveSummary: The FinePix J250 features is a fairly well specced J series compact featuring a 16MP CCD sensor, 2.7inch LCD and 3x optical zoom lens. It can record 720p HD videos and comes with a variety of scene modes, easy shooting modes and in-camera editing features.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001R23JMG
+Specs:
+    Announced: Aug 12, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: NP-45 Li Ion battery
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.7 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.7x)
+    Dimensions: 92 x 58 x 23 mm (3.62 x 2.28 x 0.91″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–140 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200 (at 3 MP)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.3–5.2
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 2592 x 1944, 2048 x 1944, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 30 fps, 320 x 240 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 23 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 171 g (0.38 lb / 6.03 oz)
+    WhiteBalancePresets: "6"

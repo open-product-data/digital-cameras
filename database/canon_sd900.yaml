@@ -1,0 +1,88 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210925222113/https://www.dpreview.com/reviews/canonsd900/
+ProductCode: canon_sd900
+Award: recommended
+ImageURL: /files/p/products/canon_sd900/eaea04e6b9d7453a9bfc6f7de53c20cf.png
+Name: Canon PowerShot SD900 (Digital IXUS 900 Ti)
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - 37 – 111 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd900
+ReviewData:
+    ExecutiveSummary: Announced just before Photokina in September 2006, the SD900  / IXUS 900Ti sat for a long time at the top of Canon's successful ELPH / IXUS range and was the first to reach the  10 megapixels mark (on a 1/1.8" CCD). It also features Canon's new DIGIC III processor and another first; a solid titanium body, which as well as adding a touch of class makes for a lighter, more durable camera. We were impressed by the low ISO output and fast, reliable focus, superb build quality and external ISO control, but found it suffered from the usual smearing problems at higher ISO settings.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000HAQ8EK
+Specs:
+    Announced: Sep 14, 2006
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-5L battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.1 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 91 x 57 x 28 mm (3.58 x 2.24 x 1.1″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow, Manual (Red Eye On/Off)
+    FlashRange: 5.10 m
+    FocalLengthEquiv: 37–111 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1024 x 768 @ 15 fps, 640 x 480 @ 30/15 fps, 320 x 240 @ 30/15 fps, 160 x 120 @ 15 fps
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 29, 2007"
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB SD card
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,149 @@
+ProductCode: nikon_cpp600
+Award: ""
+ImageURL: /files/p/products/nikon_cpp600/654dc0de5f6848dcac0f47051d6b1440.png
+Name: Nikon Coolpix P600
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1440 mm (60×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp600
+ReviewData:
+    ExecutiveSummary: 'The bridge-style Nikon Coolpix P600 camera features a 24-1440mm zoom lens with lens-shift vibration reduction and a 16MP BSI CMOS sensor. It offers built-in Wi-Fi, letting you wirelessly share your photos to an Android or iOS device. The P600 will let you have full control with P, S, A, M modes or full auto and scene modes for quick snapshots. The P600''s scene modes also include two new modes: new Moon and Bird Watching.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpp600/shots/a0598105e5a84c5e8150c9e6212a9b27.png
+        - /files/p/products/nikon_cpp600/shots/49d82b44c79846b695ceb8f9ed5fcc30.png
+        - /files/p/products/nikon_cpp600/shots/4a34ff56174c427f827bf9aa8bf28bb0.png
+        - /files/p/products/nikon_cpp600/shots/e53c0c6da6f845a89d1dc642c0c66bb5.png
+    ReviewSummary: null
+    ASIN:
+        - B00IA9LOZS
+        - B00IA9LPPM
+Specs:
+    AEBracketing: ""
+    Announced: Feb 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion EN-EL23
+    BatteryLifeCIPA: "330"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 125 x 85 x 107 mm (4.92 x 3.35 x 4.21″)
+    DriveModes:
+        - Single, Continuous L, Continuous H, Best Shot Selector, Multi-shot 16, Continuous 120fps, Continuous 60fps, Pre-shooting cache
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Scene Mode
+        - Custom User
+        - Auto Mode
+        - Special Effects Mode
+        - Program Auto
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+        - Scene Auto Selector
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+        - DCF
+        - Exif 2.3
+        - DPOF compliant
+    FlashModes: TTL auto flash with monitor preflashes
+    FlashRange: 7.50 m
+    FocalLengthEquiv: 24–1440 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $499.95
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 60×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30/25p, 60/50i) 1280 x 720 (60/50/30/25/15/12.5p) 960 x 540 (30/25p) 640 x 480 (120/100/30/25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Black and White Copy
+        - Close-up
+        - Dusk/Dawn
+        - Panorama asist
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Museum
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 56MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 565 g (1.25 lb / 19.93 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

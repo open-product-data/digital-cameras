@@ -1,0 +1,149 @@
+ProductCode: leica_q-p
+Award: ""
+ImageURL: /files/p/products/leica_q-p/72911da021de494ca64f5704423bb1de.png
+Name: Leica Q
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/leica/compacts/leica_q-p
+ReviewData:
+    ExecutiveSummary: The Leica Q-P is a high-end full-frame enthusiast compact with a 24MP CMOS sensor with no anti-aliasing filter. It's an update to the original Q, which removes the trademark 'red dot' on the front plate with Leica script on the top. The shutter is quieter than on the Q and the on/off switch has been refined, as well. The Q-P features a 28mm F1.7 ASPH lens with aperture and manual focus rings, as well as a clever distance guide that slides into place when in macro mode. The camera has an ultra-high-res 3.68 million-dot electronic and a 3" touchscreen LCD. Other features include 1080/60p video recording, 10 fps continuous shooting, and built-in Wi-Fi that works with the company's FOTOS app. Being a Leica, it shouldn't come as a surprise that the body (made in Germany) is machined from a solid block of aluminum.
+    ProductPhotos:
+        - /files/p/products/leica_q-p/shots/97bccafd9278438a8d60cc0945a47ce6.png
+        - /files/p/products/leica_q-p/shots/c907bd1c0f594b7da85154078fe3a22a.png
+        - /files/p/products/leica_q-p/shots/15f32e8f23fc4ff399e038afb93153d1.png
+    ReviewSummary: null
+    ASIN:
+        - B09RMWFQL1
+        - B08W8TN582
+        - B08BBHBPXT
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Nov 6, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC12
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, ECI RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: Yes (1.2x (35mm equiv), 1.5x (50mm equiv))
+    Dimensions: 130 x 80 x 93 mm (5.12 x 3.15 x 3.66″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 28 mm
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $4995
+    MacroFocusRange: 17 cm (6.69″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: F1.7–16
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Maestro II
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - sport
+        - portrait
+        - landscape
+        - night portrait
+        - snow/beach
+        - candlelight
+        - sunset
+        - digiscoping,
+        - miniature effect
+        - panorama
+        - time lapse
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 640 g (1.41 lb / 22.58 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC

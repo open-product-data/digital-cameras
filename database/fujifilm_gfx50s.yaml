@@ -1,0 +1,143 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529062429/https://www.dpreview.com/reviews/fujifilm-gfx-50s
+ProductCode: fujifilm_gfx50s
+Award: gold
+ImageURL: /files/p/products/fujifilm_gfx50s/85ac9a164ad9471b80b5f851375d5ec1.png
+Name: Fujifilm GFX 50S
+ShortSpecs:
+    - 51 megapixels
+    - 3.2″ screen
+    - Medium format sensor
+ReviewScore: 85
+URL: /products/fujifilm/slrs/fujifilm_gfx50s
+ReviewData:
+    ExecutiveSummary: The Fujifilm GFX 50S is the company's first medium format digital camera. It offers a 43.8 x 32.9mm 51.4MP CMOS sensor and uses new G-mount lenses, with a crop factor of 0.79x. It uses the same X Processor Pro as the X-Pro2 and X-T2 and has an 117-point contrast-detect autofocus system. The body is compact and lightweight for a medium format camera and it sports a 3.2" touchscreen LCD which can articulate in three directions. An ultra-high-resolution 3.69M-dot OLED electronic viewfinder is detachable and an optional adapter lets it tilt and twist. On the top of the camera is a smaller LCD that displays shooting information. The GFX has the usual Fujifilm Film Simulation modes, plus a new Color Chrome Effect option. It's also capable of capturing Full HD video at up to 30p. A battery grip is optional.
+    ProductPhotos:
+        - /files/p/products/fujifilm_gfx50s/shots/ca6f4837838d44a5b4d9987491331b4d.png
+        - /files/p/products/fujifilm_gfx50s/shots/983b468f5bdc423ebe888a0101d82fe3.png
+        - /files/p/products/fujifilm_gfx50s/shots/35eacc1687a64a3d8b859f545e34a291.png
+        - /files/p/products/fujifilm_gfx50s/shots/624b0f2e3370424882cb586804d374c5.png
+        - /files/p/products/fujifilm_gfx50s/shots/6843e55a8a3447dab11e2e2bd45beb74.png
+    ReviewSummary:
+        GoodFor: Studio, portrait and landscape photographers seeking a high-resolution camera with outstanding ergonomics, plus excellent image quality, dynamic range and out of camera JPEGs.
+        NotSoGoodFor: Sports or action shooters. Anyone needing a camera with usable continuous autofocus.
+        Conclusion: The Fujifilm GFX 50S represents the company's entrance into the medium format digital market. It takes the ethos of APS-C X-series cameras and combines it with a larger sensor. Control points are plentiful, image quality is exceptional and autofocus is precise, just don't expect it to focus on moving subjects. The only thing truly holding back the GFX 50S from reaching its potential is a limited lens selection (at launch) with slow maximum apertures. Still, it is capable of the best image quality we've tested to date and is all around a lovely camera to shoot with.
+    ASIN:
+        - B01MZARM64
+        - B0767ZBTZZ
+        - B0767VJKGT
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 19, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-T125 lithium-ion battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $5,499.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 148 x 94 x 91 mm (5.83 x 3.7 x 3.58″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Remote
+    EffectivePixels: 51 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync terminal)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit RAF)
+        - TIFF (via Raw conversion)
+    FlashModes: Auto, standard, slow sync, manual, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/125 sec
+    FocalLengthMultiplier: 0.79×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800 (expands up to 102400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Fujifilm G
+    LiveView: "Yes"
+    MSRP: $6499/£6199
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 6192
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 360 sec
+    Modes: ""
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X Processor Pro
+    RemoteControl: Yes (via cable or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 5, 2017"
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.2″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (dual slots, UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.67× (0.85× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 920 g (2.03 lb / 32.45 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

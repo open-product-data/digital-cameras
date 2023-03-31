@@ -1,0 +1,125 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211115030331/https://www.dpreview.com/reviews/nikonv1j1
+ProductCode: nikon_j1
+Award: noAward
+ImageURL: /files/p/products/nikon_j1/b76159b93b084cf9ac17ceb75dfc6f6c.png
+Name: Nikon 1 J1
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 67
+URL: /products/nikon/slrs/nikon_j1
+ReviewData:
+    ExecutiveSummary: The Nikon 1 J1 represents Nikon's first foray into the mirrorless camera market, alongside the similarly specified Nikon 1 V1. The J1 features a 10MP 1" CMOS sensor and hybrid autofocus, combining both phase and contrast detection technologies. Full resolution burst shooting is available at 60 frames per second. The J1 offers a built-in flash rather than an accessory port for an external flash, and J1 users will rely solely on a 3.0 inch, 460,000 dot LCD for image composition. Other features geared toward the beginning photographer are available, including Motion Snapshot mode, which automatically captures short slow-motion video clips each time an photo is taken, compiling them into a single video file put to music.
+    ProductPhotos:
+        - /files/p/products/nikon_j1/shots/d96dad366cd64226a6065081ac5d41d6.png
+        - /files/p/products/nikon_j1/shots/34e3f978b70d4c06951f93f73ce0b4d5.png
+        - /files/p/products/nikon_j1/shots/dd536cec7a80450e81a09aaf6d6380ee.png
+        - /files/p/products/nikon_j1/shots/be953db0fab34fa0b80a7c0f857aad15.png
+    ReviewSummary:
+        GoodFor: Compact camera upgraders who prefer an uncomplicated control layout
+        NotSoGoodFor: Users who want a pocketable camera that will allow them to easily take control of camera settings as they gain experience
+        Conclusion: The J1 will reward point-and-shoot upgraders with a noticeable bump in image quality, but it often fails to deliver acceptable results in lower-light settings when operated in its fully automated mode.
+    ASIN:
+        - B005OGQXJW
+        - B005OGQY5U
+Specs:
+    AEBracketing: ""
+    Announced: Sep 21, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL20 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: $449.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 106 x 61 x 30 mm (4.17 x 2.4 x 1.18″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -3–5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 5.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "135"
+    OrientationSensor: ""
+    OtherResolutions: 3840 x 2160, 2896 x 1944, 1936 x 1296
+    Processor: ""
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60 fps), 1072 x 720 (60 fps) 640 x 240 (400), 320 x 120 (1200)
+    ReviewPreview: "67%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 20, 2012"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 234 g (0.52 lb / 8.25 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

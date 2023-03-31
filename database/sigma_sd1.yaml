@@ -1,0 +1,120 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127022834/https://www.dpreview.com/reviews/sigmasd1
+ProductCode: sigma_sd1
+Award: ""
+ImageURL: /files/p/products/sigma_sd1/21d6e8d6d826456ca62d6b412aeeebb7.png
+Name: Sigma SD1
+ShortSpecs:
+    - 15 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 71
+URL: /products/sigma/slrs/sigma_sd1
+ReviewData:
+    ExecutiveSummary: The Sigma SD1 digital SLR is a significant departure from previous SD-series DSLRs in that rather than being limited to 4MP or less, it uses a brand new 15.3MPx3 1.5x crop Foveon X3 sensor (4800 x 3200 x 3 layers). Designed as the company's flagship camera, the SD1 has a weatherproof magnesium alloy body, 3" 460k dot LCD, and new 11-point twin-cross AF system. Image processing is in the hands of a 'Dual True II' engine that promises improved speed and image quality, and the camera is compatible with the full range of Sigma lenses.
+    ProductPhotos:
+        - /files/p/products/sigma_sd1/shots/63fbfdb4dde94cc6b47b46b535037a66.png
+    ReviewSummary:
+        GoodFor: Photographers looking for exceptional low ISO image quality, and willing to spend the time processing RAW to achieve it.
+        NotSoGoodFor: Sports, action, or any kind or photography requiring high ISOs
+        Conclusion: The SD1 is a no-frills SLR with a very basic feature set that offers exceptional image quality at low ISOs (100-400). However, it's let down by slow file write times and erratic control behaviour during this process. High ISO image quality is unremarkable, and there's no live view for tripod shooting. It's a specialist tool, but if you can live with its limitations it's capable of excellent results.
+    ASIN:
+        - B007C1KYWE
+        - B007CO24C4
+        - B07YV8R6B1
+Specs:
+    AEBracketing: ""
+    Announced: Sep 21, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 146 x 113 x 80 mm (5.75 x 4.45 x 3.15″)
+    DriveModes: ""
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: Yes (Weatherproof body)
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Sigma SA Bayonet
+    LiveView: ""
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4800 x 3200
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Dual True II
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "71%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 10, 2012"
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 46 megapixels
+    SensorSize: APS-C (24 x 16 mm)
+    SensorType: CMOS (Foveon X3)
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I, UDMA compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

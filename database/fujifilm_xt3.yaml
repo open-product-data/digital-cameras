@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220520084833/https://www.dpreview.com/reviews/fujifilm-x-t3
+ProductCode: fujifilm_xt3
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt3/d12aa0431a4f4b5fbae1f98350c4467e.png
+Name: Fujifilm X-T3
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 88
+URL: /products/fujifilm/slrs/fujifilm_xt3
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T3 is an enthusiast SLR-style mirrorless camera with a new 26MP BSI CMOS X-Trans sensor and updated hybrid AF system with 425 phase-detect points and nearly 100% coverage. The camera has the same analog controls for shutter speed, ISO and exposure compensation as the X-T2 before it, and nine buttons and dials are customizable. The X-T3 has a 3.69M-dot electronic viewfinder with a large 0.75x magnification as well as a touchscreen LCD that tilts on two axes. The tough magnesium-alloy body is sealed against dust and moisture and features twoSD cards that support UHS-II media.The camera shoots continuously at 20 fps (e-shutter) or 11 fps (mechanical shutter) at full resolution, or up to 30 fps in a 1.25x crop mode. Video can be captured at both DCI and UHD 4K at up to 60p, with a top bit rate of 400Mbps. The camera supports the H.265 codec and can output 10-bit video at 4:2:2 over HDMI, or record internal 10-bit at 4:2:0. Both F-Log and HLG are supported.Note that there is an "X-T3 WW" model that does not include a charger but costs $100 less.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt3/shots/c41d51eb25bb4325ba8e12c06db7f722.png
+        - /files/p/products/fujifilm_xt3/shots/365658b123a54a8d9d22859e2c2131a7.png
+        - /files/p/products/fujifilm_xt3/shots/4bf39f03aee54dd889e1c3fc98b19861.png
+        - /files/p/products/fujifilm_xt3/shots/56b49d0d94d048a5b582fc231411cee6.png
+        - /files/p/products/fujifilm_xt3/shots/cf633841fa914d6d99919bc6a4f1ae42.png
+        - /files/p/products/fujifilm_xt3/shots/25a54224503c48dd825d55e0c8dbbe5f.png
+        - /files/p/products/fujifilm_xt3/shots/cb6ecc3d3d9f40c0b47937d6303a32b1.png
+    ReviewSummary:
+        GoodFor: A bit of everything, especially if that everything includes video.
+        NotSoGoodFor: Sports shooting at the highest levels.
+        Conclusion: As a stills camera the X-T3 is a pleasant update to one of our favorite APS-C cameras, significantly improving the autofocus. If you're interested in stills and video, though, it's knockout. The lack of stabilization holds the video back a touch but as a compact, relatively affordable do-everything camera, it's impressive.
+    ASIN:
+        - B09DTL986M
+        - B09DTK9VBB
+        - B08161BBNS
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 6, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger (non-WW model only)
+    BatteryLifeCIPA: "390"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 133 x 93 x 59 mm (5.24 x 3.66 x 2.32″)
+    DriveModes:
+        - Single
+        - Continuous (L/H)
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1499 (body only), $1899 (w/18-55mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4416 x 2944, 3120 x 2080
+    Processor: X-Processor 4
+    RemoteControl: Yes (via smartphone or cable release)
+    Resolutions: 4096 x 2160 (60p, 50p, 30p, 25p, 24p, 23.98p), 3840 x 2160 (60p, 50p, 30p, 25p, 24p, 23.98p)
+    ReviewPreview: "88%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 22, 2018"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.125× (0.75× 35mm equiv.)
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 539 g (1.19 lb / 19.01 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

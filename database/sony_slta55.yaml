@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211120161432/https://www.dpreview.com/reviews/sonyslta55
+ProductCode: sony_slta55
+Award: gold
+ImageURL: /files/p/products/sony_slta55/b143c58ca1494f7e9df50695b7a7b8c0.png
+Name: Sony SLT-A55
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 76
+URL: /products/sony/slrs/sony_slta55
+ReviewData:
+    ExecutiveSummary: The Sony ALpha SLT-A33 and A55, are the first cameras to incorporate Sony's translucent mirror design. The Single Lens Translucent (SLT) cameras offer live view with full-time fast phase-detection AF whether in stills or movie shooting. This is achieved by having a fixed, semi-transparent mirror that redirects a small amount of light onto the AF sensor while allowing the rest through onto the main imaging sensor. The A55 is built around a 16.2MP sensor while the A33 features a 14.2MP unit. Both feature 3.0" articulated LCDs, full HD video recording and ISO sensitivity up to 12,800, while the A55 also features built-in GPS. As well as being highly innovative, both cameras are fast, responsive and capable of excellent image quality.
+    ProductPhotos:
+        - /files/p/products/sony_slta55/shots/30e6561d4f3a449287309f38fc143daf.png
+        - /files/p/products/sony_slta55/shots/c6e7045462244e018de644284016d130.png
+        - /files/p/products/sony_slta55/shots/420cb00ff6c74cc996fb13344191f65f.png
+        - /files/p/products/sony_slta55/shots/f5203df45bd9423784e1b1390b03bc1b.png
+        - /files/p/products/sony_slta55/shots/ff4917ce4def481189f0e78467e93e3d.png
+        - /files/p/products/sony_slta55/shots/81787733f8084214879c5d872ceaa62b.png
+    ReviewSummary:
+        GoodFor: Feature-hungry photographers from entry- to enthusiast level
+        NotSoGoodFor: Anyone who expects real pro-level sports camera performance at a budget price
+        Conclusion: The Sony SLT-A55 is an excellent all-rounder with a comprehensive feature set. The translucent mirror technology gives it an innovative touch and the best live view AF on the market. Continuous-shooting performance is the best in its class--just don't plan on shooting the Olympics with it.
+    ASIN:
+        - B0043DKBTK
+        - B0043V2PW8
+Specs:
+    AEBracketing: (3 frames at 1/3 EV, 2/3 EV steps)
+    Announced: Aug 24, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable NP-FW50 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 124 x 92 x 85 mm (4.88 x 3.62 x 3.35″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync, High Speed Sync, Rear Curtain, Fill-in, Wireless
+    FlashRange: 10.00 m (@ ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: Built-in
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, (25600 with boost)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4912 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "15"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3568 x 2368, 3568 x 2368, 2448 x 1624, 2448 x 1376
+    Processor: Bionz
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (60, 29.97 fps), 1440 x 1080 (30fps), 640 x 424 (29.97 fps)
+    ReviewPreview: "76%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 24, 2010"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.1× (0.73× 35mm equiv.)
+    ViewfinderResolution: 1,150,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (Lo 10 mired or Hi 20 mired)
+    WeightIncBatteries: 500 g (1.10 lb / 17.64 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

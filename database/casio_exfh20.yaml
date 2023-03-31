@@ -1,0 +1,103 @@
+ProductCode: casio_exfh20
+Award: ""
+ImageURL: /files/p/products/casio_exfh20/2b677eb2cab74b1283f36b7d23c4cce7.png
+Name: Casio Exilim EX-FH20
+ShortSpecs:
+    - 9 megapixels
+    - 3″ screen
+    - 26 – 520 mm (20×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exfh20
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001HCTKZQ
+        - B001G0N5H8
+Specs:
+    AEBracketing: ""
+    Announced: Sep 16, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: AA (4) batteries (NiMH recommended),AA-size alkaline battery (LR6) x 4
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 123 x 81 x 85 mm (4.84 x 3.19 x 3.35″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 26–520 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Economy
+    LiveView: "Yes"
+    MacroFocusRange: 12 cm (4.72″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F2.8–4.5
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 20×
+    OrientationSensor: "No"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 3072 x 2304, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps) 320 x 240 (30 fps), 224 x 168 (420 fps), 224 x 56 (1000 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, Triple Self-timer)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 31.9 MB Internal
+    StorageTypes: SD/SDHC/MMC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 513 g (1.13 lb / 18.10 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529082011/https://www.dpreview.com/reviews/2017-roundup-consumer-long-zoom-compacts
+ProductCode: panasonic_dmcfz80
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfz80/e7aac72a8fa740f081f0620cb8018281.png
+Name: Panasonic FZ80/FZ82
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 20 – 1200 mm (60×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfz80
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix FZ80 brings 4K video and 4K Photo capabilities to the budget superzoom segment, combining the high-resolution video modes with its 20-1200mm equivalent (60X) zoom and 18.1MP 1/2.3"-type BSI-CMOS sensor. It also features a a 1,040K-dot touch screen on the back, and a 0.2-inch 1,170K-dot (equivalent) EVF.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz80/shots/84446ed9ce4948b6acc7d49402987ab5.png
+        - /files/p/products/panasonic_dmcfz80/shots/74a086e1eb364c3181decf3082204a52.png
+        - /files/p/products/panasonic_dmcfz80/shots/511ea72c632b4449b7a0ed5a77450991.png
+        - /files/p/products/panasonic_dmcfz80/shots/ab7f1a10a6a7451db7fbb18abcb2550c.png
+        - /files/p/products/panasonic_dmcfz80/shots/6698c823494b4dac8e5b97c3b2e0326d.png
+    ReviewSummary: null
+    ASIN:
+        - B01MS16V42
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 4, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "330"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "6400"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $397.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4x)
+    Dimensions: 130 x 94 x 119 mm (5.12 x 3.7 x 4.69″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic RW2)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced Off, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync/Red-eye Reduction, 1st Curtain Sync, 2nd Curtain Sync
+    FlashRange: 14.10 m (at Auto ISO)
+    FocalLengthEquiv: 20–1200 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-3200 (expands to 6400)
+    ImageParameters: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $399
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 30p / 10 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 60×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        May 26, 2017"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Handheld Night Shot
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 3 images x 10 secs)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.46×
+    ViewfinderResolution: 1,166,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 616 g (1.36 lb / 21.73 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

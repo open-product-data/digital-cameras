@@ -1,0 +1,162 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211105222507/https://www.dpreview.com/reviews/canon-eos-rebel-t7i-800d
+ProductCode: canon_eos800d
+Award: gold
+ImageURL: /files/p/products/canon_eos800d/62425fbf2acc497c8ff54e10fe581d01.png
+Name: Canon EOS Rebel T7i / EOS 800D / Kiss X9i
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/canon/slrs/canon_eos800d
+ReviewData:
+    ExecutiveSummary: The Canon EOS Rebel T7i (800D in Europe, Kiss X9i in Japan) is the top-end camera in Canon's compact DSLR lineup. It features the same 24MP APS-C CMOS sensor and Dual Pixel AF system as the pricier EOS 77D and 80D, along with a 45-point all cross-type AF for shooting with the viewfinder, which is assisted by a 7650-pixel RGB+IR metering sensor. The T7i has a 3" fully articulating LCD with a touchscreen and a redesigned user interface for those not ready for a full-on DSLR experience. The camera captures 1080/60p video and has Wi-FI, NFC and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eos800d/shots/7491fed536bf42bcbaabad3aeaf1ced6.png
+        - /files/p/products/canon_eos800d/shots/497e789bbb8d41969805bf1da4e6aef5.png
+        - /files/p/products/canon_eos800d/shots/134ef9fc77b54234809bc9744b2a08a4.png
+        - /files/p/products/canon_eos800d/shots/3eb384324f9d4f9cacc05a1c8e23443c.png
+        - /files/p/products/canon_eos800d/shots/bf9b5298046e4ad2a68b5cbee858f8a1.png
+        - /files/p/products/canon_eos800d/shots/dc28bf56f15248d99cab5c513e0a8388.png
+        - /files/p/products/canon_eos800d/shots/84721c83e30a4a5eab9710bc8a4f0b68.png
+    ReviewSummary:
+        GoodFor: Casual and beginner photographers looking for an easy-to-use and relatively easy-to-learn DSLR.
+        NotSoGoodFor: Enthusiast users, who will eventually hit the camera's limitations. Dedicated video shooters have better choices for the money.
+        Conclusion: The Canon EOS Rebel T7i/800D is arguably the best ever Rebel. Its Dual Pixel autofocus allows it to offer similarly fast performance whether you shoot through the viewfinder or in live view mode, helping make it one of the most accessible DSLRs we've ever encountered.
+    ASIN:
+        - B071RS1HHH
+        - B06W2GT5FT
+        - B06VT2NQD8
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 15, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (flash)
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "600"
+    BodyMaterial: Composite
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,099.95 - $1,349.95
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 131 x 100 x 76 mm (5.16 x 3.94 x 2.99″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Self-timer
+        - Self-timer + continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit Canon CR2)
+    FlashModes: ""
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (expands to 51200)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $749 (body only), $899 (w/18-55 F4-5.6 IS STM lens), $1299 (w/18-135mm F3.5-5.6 IS STM lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p / 26 Mbps, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 4 Mbps, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "45"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 7
+    RemoteControl: Yes (via smartphone or Bluetooth remote)
+    Resolutions: ""
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 3, 2017"
+    SceneModes:
+        - Group Photo
+        - Kids
+        - Food
+        - Candlelight
+        - Night Portrait
+        - Handheld Night Scene
+        - HDR Backlight Control
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.82× (0.51× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 532 g (1.17 lb / 18.77 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: Includes Bluetooth LE and NFC

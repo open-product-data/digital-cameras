@@ -1,0 +1,165 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220309194248/https://www.dpreview.com/reviews/canon-eos-6d-mark-ii-review
+ProductCode: canon_eos6dmkii
+Award: noAward
+ImageURL: /files/p/products/canon_eos6dmkii/5e720868021f42adabdb0992a8bd924d.png
+Name: Canon 6D Mark II
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 80
+URL: /products/canon/slrs/canon_eos6dmkii
+ReviewData:
+    ExecutiveSummary: The 6D Mark II is Canon's 'entry-level' full-frame digital SLR. It uses an all-new 26.2MP CMOS sensor and Canon's DIGIC 7 processor. It features Dual Pixel AF which allows for very responsive autofocus when shooting live view or video. When using the optical viewfinder you'll have a 45-point all-cross-type AF system at your disposal. The camera can shoot at up to 6.5 fps with Servo AF and has a top ISO of 40,000. The 6D II has a 3" fully articulating touchscreen LCD and a weather and dust-resistant body. It captures 1080/60p video and can create 4K time-lapse movies. It also has Wi-Fi, Bluetooth and NFC support for easy camera control and photo-sharing.
+    ProductPhotos:
+        - /files/p/products/canon_eos6dmkii/shots/c30a5442aae54c2594cffd61f1319916.png
+        - /files/p/products/canon_eos6dmkii/shots/2dfbbf479b374a6db03e72a5427b697f.png
+        - /files/p/products/canon_eos6dmkii/shots/d4eaa4d8862142f08a356ea48a998bf2.png
+        - /files/p/products/canon_eos6dmkii/shots/e259543d7f0e4a7ba36ddbc9de43a552.png
+        - /files/p/products/canon_eos6dmkii/shots/b2b60f0ada9440ef9d60d63f8c6708a2.png
+        - /files/p/products/canon_eos6dmkii/shots/6ffe5406a83a441e8eb42a79d0189734.png
+    ReviewSummary:
+        GoodFor: Social and general use, easy capture of casual video clips and those looking for a backup body for Canon full-frame glass.
+        NotSoGoodFor: Photographers needing the best image quality for landscape work, or sports and action photographers needing a more capable autofocus system.
+        Conclusion: As it should be, the EOS 6D II is a better camera than its predecessor in almost every way. With plenty of resolution, respectable burst shooting speeds and pleasing Canon color, it's a camera that's capable of producing great images in a variety of situations. Despite this, it is simply overshadowed by competition that is made up of more capable cameras at similar or lower prices.
+    ASIN:
+        - B071K62DZT
+        - B071K62DPM
+        - B072MZCJKN
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jun 29, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: "1200"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,399.00 - $2,788.29
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 6.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 144 x 111 x 75 mm (5.67 x 4.37 x 2.95″)
+    DriveModes:
+        - Single
+        - High-speed continuous
+        - Low-speed continuous
+        - Silent single
+        - Silent continuous
+        - Self-timer (10 sec/remote control)
+        - Self-timer (2 sec/remote control)
+        - Self-timer (continuous shooting)
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit Canon CR2)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (Mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-40000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF
+    LiveView: "Yes"
+    MSRP: $1999 (body only), $2599 (with 24-105mm 3.5-5.6 IS STM lens), $3099 (with 24-105 F4L II lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 60 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 12 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 30 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 60p / 26 Mbps, MOV, H.264, AAC
+        - 1280 x 720 @ 30p / 4 Mbps, MOV, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "45"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 7
+    RemoteControl: Yes (wired, wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: "80%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 8, 2017"
+    SceneModes:
+        - Portrait
+        - Group photo
+        - Landscape
+        - Sports
+        - Kids
+        - Panning
+        - Close-up
+        - Food
+        - Candlelight
+        - Night portrait
+        - Handheld night scene
+        - HDR backlight control
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 98%
+    ViewfinderMagnification: 0.71×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 765 g (1.69 lb / 26.98 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC + Bluetooth

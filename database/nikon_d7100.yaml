@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175652/https://www.dpreview.com/reviews/nikon-d7100
+ProductCode: nikon_d7100
+Award: gold
+ImageURL: /files/p/products/nikon_d7100/7aa55ee1c5594fe69bfe74b9539de6aa.png
+Name: Nikon D7100
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/nikon/slrs/nikon_d7100
+ReviewData:
+    ExecutiveSummary: The Nikon D7100 looks a lot like the popular D7000 but has been completely overhauled internally. Interestingly, in a first for Nikon, the D7100 does not have an optical low-pass filter, promising optimal resolution from its 24MP CMOS sensor. The D7100 also gains a 51-point autofocus system, 1.3x crop mode for both stills and video capture, and multiple other upgrades, making it one of the most competitive cameras in its class, on specification alone.The D7100 may sit below the full frame D800 and D600 in terms of price, but it gives both a run for their money in terms of features, handling and performance. In fact, if you don't have a compelling reason to shoot with a full frame DSLR, or have no need for 36MP output, the APS-C D7100 offers a largely similar shooting experience, great looking images and a smaller, lighter body to carry on your shoulder.
+    ProductPhotos:
+        - /files/p/products/nikon_d7100/shots/7d16bf62a9fe46c5bffeef668701fc0f.png
+        - /files/p/products/nikon_d7100/shots/cbe8b7dd93ef4106a192a11233cb0ca8.png
+        - /files/p/products/nikon_d7100/shots/4ee8e458867f430ea362fd9ea636b14d.png
+        - /files/p/products/nikon_d7100/shots/dc21357ef8374825b1ede4dcd7408006.png
+        - /files/p/products/nikon_d7100/shots/e02733ead3b7421eaf8f487436c22fee.png
+    ReviewSummary:
+        GoodFor: Landscape and nature photographers who prize fine detail at low ISO sensitivities and D7000 owners looking for greater image quality with comparable handling and ergonomics.
+        NotSoGoodFor: Videographers or sports/action photographers who want to shoot in Raw mode.
+        Conclusion: The D7100 is a well-built enthusiast DSLR that offers impressive image quality and easy access to shooting parameters along with a high degree of customization options. Video output is a bit disappointing and a very small image buffer limits sports shooters to JPEG-only mode.
+    ASIN:
+        - B00F5E3N46
+        - B00BI9X7UC
+        - B0196WLB2S
+Specs:
+    AEBracketing: (2, 3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Feb 21, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion  EN-EL15 rechargeable battery & charger
+    BatteryLifeCIPA: "950"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $664.95 - $999.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 6.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 136 x 107 x 76 mm (5.35 x 4.21 x 2.99″)
+    DriveModes:
+        - Single-frame [S] mode
+        - Continuous low-speed [CL]
+        - Continuous high-speed [CH]
+        - Quiet Shutter Release
+        - Self-timer mode
+        - Mirror-up [Mup] mode
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Aperture-Priority (A)
+        - Manual (M)
+        - Programmed auto with flexible program (P)
+        - Shutter-Priority (S)
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat:
+        - JPEG
+        - NEF (RAW)
+        - NEF (RAW) + JPEG
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: "Yes"
+    ISO: ISO 100 – 6400, Lo-1 (ISO 50), Hi-1 (ISO 12,800), Hi-2 (ISO 25,600)
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'Body only: $1199.95/£1099.99/€1179, With 18-105mm F3.5-5.6 VR lens : $1,599/£1,299/€1399'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3368, 4800 x 3200, 4800 x 2696, 4494 x 3000, 4496 x 2528, 3600 x 2400, 3600 x 2024, 2992 x 2000, 2992 x 1680, 2400 x 1600, 2400 x 1344
+    Processor: ""
+    RemoteControl: Yes (Optional, wired MC-DC2 or wireless WR-1 and WR-R10 )
+    Resolutions: 1920 x 1080 (60, 50, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 24 fps)
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 26, 2013"
+    SceneModes:
+        - Autumn Colors
+        - Beach / Snow
+        - Blossom
+        - Candlelight
+        - Child
+        - Close-up
+        - Dusk / Dawn
+        - Food
+        - Landscape
+        - Night
+        - Landscape
+        - Night Portrait
+        - Party / Indoor
+        - Pet Portrait
+        - Portrait
+        - Sports
+        - Sunset
+    ScreenDots: 1,228,800
+    ScreenSize: 3.2″
+    ScreenType: Wide Viewing Angle TFT-LCD monitor
+    SelfTimer: Yes (2 or 10 seconds)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC x 2 slots
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1080i60, 1080p25 in NTSC countries, 1080i50, 1080p24 in PAL countries
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.94×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 765 g (1.69 lb / 26.98 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: ""

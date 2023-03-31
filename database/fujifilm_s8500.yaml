@@ -1,0 +1,115 @@
+ProductCode: fujifilm_s8500
+Award: ""
+ImageURL: /files/p/products/fujifilm_s8500/05c03077969e4ce1baec922577055516.png
+Name: Fujifilm FinePix S8500
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1104 mm (46×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_s8500
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Europe-only S8500 offers a 24-1104mm equivalent range, and shares a 16MP BSI-CMOS sensor and 460k dot rear screen with its close relatives the S8300 (available ain North America only) and S8200.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_s8500/shots/7c6026ccadc6479682bf565cf713f3ba.png
+    ReviewSummary: null
+    ASIN:
+        - B00ATM1NAU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: 4 x AA type alkaline batteries
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: ""
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - Programmed AE
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+        - exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24–1104 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 64, 100, 200, 300, 400, 800, 1600, 3200, 6400, 12800
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: ""
+    MacroFocusRange: 0 cm (0.15″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumAperture: F2.9–6.5
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 46×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60 fps), 320 x 120 (480 fps), 320 x 240 (240 fps), 640 x 480 (120 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 200,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

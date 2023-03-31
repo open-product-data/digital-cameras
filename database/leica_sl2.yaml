@@ -1,0 +1,160 @@
+ProductCode: leica_sl2
+Award: ""
+ImageURL: /files/p/products/leica_sl2/4815c9899b5944aaa8e4c80350be656a.png
+Name: Leica SL2
+ShortSpecs:
+    - 47 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_sl2
+ReviewData:
+    ExecutiveSummary: The Leica SL2 is a 47 Megapixel full-frame camera that uses the L-mount that the company co-developed with Panasonic and Sigma. It has sensor-shift image stabilization built right in, and the camera can move the sensor in order to produce 187 Megapixel images. The SL2's body has been completely redesigned since its predecessor, making it easier to hold and operate, with the majority of the controls on its touchscreen. It has earned an IP54 rating for weather-sealing, as well.Its new 'Maestro III' processor allows for faster AF than its predecessor as well as 20 fps burst shooting with the electronic shutter or 10 fps with the mechanical shutter. The camera's touchscreen LCD is now 3.2" in size and sports 2.1 million dots, while the EVF's resolution has been boosted to 5.76 million dots. The SL2 has two SD card slots, both of which are compatible with high-speed UHS-II media.The SL2 can capture DCI and UHD 4K video at 60 frames/sec and up to 180 fps in Full HD mode. When placed into 'Cine' mode, the terminology and displays on the SL2 become video-specific. The SL2 has both mic and headphone sockets, as well as a full-size HDMI port.
+    ProductPhotos:
+        - /files/p/products/leica_sl2/shots/3cf509d66ec6435db6c2debb6fee07c3.png
+        - /files/p/products/leica_sl2/shots/b0bd606078c348c89102f826db9f0e18.png
+        - /files/p/products/leica_sl2/shots/e311f7a04e1e42619551be4acb9c5b21.png
+        - /files/p/products/leica_sl2/shots/5493d4903cfd49888340f7ed2f577ec8.png
+        - /files/p/products/leica_sl2/shots/fac0f195200549c2a819ec730fbb0d08.png
+    ReviewSummary: null
+    ASIN:
+        - B087JVNJ4X
+        - B08W8TN582
+        - B0BMQRG9YD
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV steps)
+    Announced: Nov 6, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL4
+    BatteryLifeCIPA: "370"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 146 x 107 x 83 mm (5.75 x 4.21 x 3.27″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Interval
+        - Exposure bracketing
+        - Multishot
+    EffectivePixels: 47 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: -3–5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - DNG (14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (10-bit output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-50000 (expands to 50-50000)
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $5999
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8368 x 5584
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/40000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1800 sec
+    Modes:
+        - 4096 x 2160 @ 60p, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Maestro III
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: Dual SD card slots (UHS-II supported)
+    StorageTypes: ""
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 916 g (2.02 lb / 32.31 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

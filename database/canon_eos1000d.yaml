@@ -1,0 +1,116 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211122130032/https://www.dpreview.com/reviews/canoneos1000d
+ProductCode: canon_eos1000d
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_eos1000d/1ee8f50df27d43c0b4683aa39f9a0cf0.png
+Name: Canon EOS 1000D (EOS Rebel XS / Kiss F Digital)
+ShortSpecs:
+    - 10 megapixels
+    - 2.5″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos1000d
+ReviewData:
+    ExecutiveSummary: Introduced as an entry-level model (below the EOS 450D (Rebel Xsi), the EOS 1000D (Rebel Xs) offered a slightly cut-down spec (fewer megapixels, smaller screen, slightly downgraded AF and metering, slower burst mode), but in our tests showed itself capable of excellent results across the ISO range, and even today stands up well against the latest entry-level products. The biggest downsides are the slightly dated spec, which lacks any of the live view and movie mode bells and whistles now common, and the sluggish burst mode.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001KAK1LW
+Specs:
+    AEBracketing: ""
+    Announced: Jun 10, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 126 x 98 x 65 mm (4.96 x 3.86 x 2.56″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe, E-TTL II)
+    FileFormat: ""
+    FlashModes: Auto, On, Red-eye reduction, Off
+    FlashRange: 13.00 m (ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200,  400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3888 x 2592
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "7"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 2816 x 1880, 1936 x 1288
+    Processor: ""
+    RemoteControl: Yes (E3 connector)
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 22, 2008"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec (2 sec with mirror lock-up))
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: APS-C (22.2 x 14.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.81× (0.51× 35mm equiv.)
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 502 g (1.11 lb / 17.71 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

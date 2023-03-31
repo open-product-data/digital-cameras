@@ -1,0 +1,91 @@
+ProductCode: fuji_finepixz300
+Award: ""
+ImageURL: /files/p/products/fuji_finepixz300/fda30eb0866c4311a114c2d518499574.png
+Name: Fujifilm FinePix Z300
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 36 – 180 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixz300
+ReviewData:
+    ExecutiveSummary: The Fujifilm Finepix Z300 is Fujifilm's first camera to offer touchscreen shooting. With this new feature, users can focus and shoot images by touching the subject on the LCD screen. This 10MP camera with its 3.0" LCD and 5x (36-180mm equiv.) optical zoom incorporates features such as Image Stabilisation, an improved macro mode and Infrared Connectivity. The camera is available in Pink, White Gold, Purple and Glossy Black.
+    ProductPhotos:
+        - /files/p/products/fuji_finepixz300/shots/add5697d6d774bc8b0049bef47c37598.png
+        - /files/p/products/fuji_finepixz300/shots/29fd1b7aeabe4bf3a0aa93db5572323f.png
+        - /files/p/products/fuji_finepixz300/shots/2180c86e244b4e79918d453b6360ece1.png
+        - /files/p/products/fuji_finepixz300/shots/2ae366bf6dd94b978dcc6a951be44f19.png
+    ReviewSummary: null
+    ASIN:
+        - B002M2RLBU
+Specs:
+    Announced: Jun 12, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Touch
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-45 rechargeable battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5.4x)
+    Dimensions: 92 x 57 x 19 mm (3.62 x 2.24 x 0.75″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 36–180 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Basic, Normal, Fine
+    LiveView: "No"
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.9–6.4
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2056, 2592 x 1944, 2048 x 1944, 1920 x 1080  1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec, Couple Timer, Group Timer)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 31 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "6"

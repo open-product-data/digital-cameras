@@ -1,0 +1,105 @@
+ProductCode: samsung_wb350f
+Award: ""
+ImageURL: /files/p/products/samsung_wb350f/816303ed3e814eba921ffe405b5d8ba2.png
+Name: Samsung WB350F
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 23 – 483 mm (21×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_wb350f
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/samsung_wb350f/shots/af6607daf0934655ae0a7f26fa188f10.png
+        - /files/p/products/samsung_wb350f/shots/25dae95f8d6e4575a754d1a68696fcd6.png
+        - /files/p/products/samsung_wb350f/shots/2262a8d84122483e9d2ecb73a211416d.png
+        - /files/p/products/samsung_wb350f/shots/91e5e90cf25f4fe689b73f92f246a6dd.png
+    ReviewSummary: null
+    ASIN:
+        - B00HV6KK0G
+        - B00HV6KJM0
+        - B00HV6KJPM
+Specs:
+    Announced: Jan 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: SLB-10A
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 114 x 65 x 25 mm (4.49 x 2.56 x 0.98″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 23–483 mm
+    Format: ""
+    GPS: None
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: 80-3200
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $259.99
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 21×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: MicroSD, MicroSDHC, MicroSDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: 1080 30p
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 276 g (0.61 lb / 9.74 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: With NFC

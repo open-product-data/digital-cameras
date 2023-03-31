@@ -1,0 +1,229 @@
+ProductCode: panasonic_dcs5iix
+Award: ""
+ImageURL: /files/p/products/panasonic_dcs5iix/a344ceed5b224056894f4b21c0038f3d.png
+Name: Panasonic Lumix DC-S5IIX
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcs5iix
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/panasonic_dcs5iix/shots/26a383cf9c004d35a6662ab8dd474edb.png
+    ReviewSummary: null
+    ASIN:
+        - B0BR8H6S81
+        - B0BR8G2F5K
+        - B09T2RJ27P
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 4, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Li-ion Battery Pack (7.2V, 2200mAh, 16Wh)
+    BatteryLifeCIPA: "370"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (AWB, AWBc, AWBw, Daylight, Cloudy, Shade, Incandescent, Flash, White Set 1, 2, 3, 4, Color temperature setting 1, 2, 3, 4)
+    DigitalZoom: ""
+    Dimensions: 134 x 102 x 90 mm (5.29 x 4.03 x 3.55″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (TTL External Flash)
+    FileFormat:
+        - JPEG (DCF, Exif 2.31), RAW
+    FlashModes: Auto*, Auto/Red-eye Reduction*, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off     *For iA only.
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    HDMI: Yes (TypeA)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $2199.99
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 60 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1/8000 sec
+    Modes:
+        - 5952 x 3968 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5952 x 3968 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 150 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 150 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 5952 x 3968 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p / 150 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.265, Linear PCM
+        - 5952 x 3968 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5888 x 3312 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 72 Mbps, MP4, H.265, AAC
+        - 3840 x 2160 @ 24p / 72 Mbps, MP4, H.265, AAC
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 24 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p / 72 Mbps, MP4, H.265, AAC
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 48p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 48p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 72 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 72 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 72 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.265, Linear PCM
+    NumberOfFocusPoints: "779"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (2.5mm)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Standard, Vivid, Natural, L. Classic Neo, Flat, Landscape, Portrait, Monochrome, L. Monochrome, L. Monochrome D, L. Monochrome S, Cinelike D2, Cinelike V2, Like709, V-Log, REAL TIME LUT, Like2100 (HLG), Like2100 (HLG) Full Range*, My Photo Style 1-4 (5-10)*
+        - '*Set to ON from Show/Hide Photo Style to select.'
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor with static touch control
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD card slots
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: "4"
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 images in blue/amber axis or in magenta/green axis, color temperature setting)
+    WeightIncBatteries: 740 g (1.63 lb / 26.10 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

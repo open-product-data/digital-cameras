@@ -1,0 +1,100 @@
+ProductCode: samsung_v6
+Award: ""
+ImageURL: /files/p/products/samsung_v6/baf6521d4ea24c85a8888873b4543bd4.png
+Name: Samsung Digimax V6
+ShortSpecs:
+    - 6 megapixels
+    - 1.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_v6
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 5, 2004
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 106 x 55 x 38 mm (4.17 x 2.17 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 38–114 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 2816 x 2112
+    MaximumAperture: F2.7–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2272 x 1704, 2048 x 1536, 1280 x 960, 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 115,200
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 220 g (0.49 lb / 7.76 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

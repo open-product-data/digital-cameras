@@ -1,0 +1,74 @@
+ProductCode: sony_dscp41
+Award: ""
+ImageURL: /files/p/products/sony_dscp41/41834472e85943de8765c85ec5702e4a.png
+Name: Sony Cyber-shot DSC-P41
+ShortSpecs:
+    - 4 megapixels
+    - 1.5″ screen
+    - 33 mm
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscp41
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 11, 2004
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3.6 x (VGA))
+    Dimensions: 106 x 58 x 40 mm (4.17 x 2.28 x 1.57″)
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow, Red-eye reduction
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 33 mm
+    Format: MPEG VX
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 2272 x 1704
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/1000 sec
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: 10 cm (3.94″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 1600 x 1200, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: MPEG VX (640 x 480, 16/30 fps, unlimited)
+    ReviewPreview: ""
+    ScreenDots: 67,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Memory Stick
+    StorageTypes: Memory Stick / Pro
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: ""
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023202827/https://www.dpreview.com/reviews/canon-powershot-g5-x-mark-ii-review
+ProductCode: canon_g5xii
+Award: silver
+ImageURL: /files/p/products/canon_g5xii/1a1567691234445dacbf7c5c73102fc1.png
+Name: Canon G5 X II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 82
+URL: /products/canon/compacts/canon_g5xii
+ReviewData:
+    ExecutiveSummary: The Canon PowerShot G5 X Mark II is a premium compact camera with a 1"-type, 20MP Stacked CMOS sensor and a stabilized 24-120mm equiv. F1.8-2.8 lens. The design is nearly identical to the G7 X Mark III that was announced at the same time. The G5 X has a 3" touchscreen display, which can flip upward by 180° for selfies and vlogging, and a pop-up 2.36M-dot OLED EVF. The camera can capture cropped 4K/30p and uncropped 1080 video at up to 120p. Impressively, the G5 X III can shoot Raw images at up to 30 fps with focus locked and Raw+JPEG with continuous AF at 8 fps. The camera can be powered over its USB-C port and has built-in Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_g5xii/shots/b6d214d2886548439fe9faddbb092afd.png
+        - /files/p/products/canon_g5xii/shots/03f86ca308f7425398f91a7acf74d9c6.png
+        - /files/p/products/canon_g5xii/shots/c2f787aecbda4fbba6499e6e293642d8.png
+        - /files/p/products/canon_g5xii/shots/f521706c4aba441fa548d6bc4eb30fd7.png
+    ReviewSummary:
+        GoodFor: Enthusiast photographers looking for a pocketable option without compromising on handling, as well as travel, street and some landscape photographers looking for a compact but capable stills camera.
+        NotSoGoodFor: Photographers that need the best autofocus for action or family photography, as well as video shooters who may want a stronger feature set and better video quality.
+        Conclusion: The Canon PowerShot G5 X II is a solid, likable compact camera that has a lot to offer for enthusiast photographers searching for a carry-everywhere solution. It's lacking in autofocus and video chops, but this is somewhat mitigated by the excellent handling and controls, snappy performance and pleasing image quality. If you're in the market for a compact zoom camera, the G5 X II isn't the best possible option for every use case, but it is absolutely worth your consideration.
+    ASIN:
+        - B07TMRQ72F
+Specs:
+    AEBracketing: ""
+    Announced: Jul 9, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-13L lithium-ion battery and charger
+    BatteryLifeCIPA: "230"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 111 x 61 x 46 mm (4.37 x 2.4 x 1.81″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 7.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–120 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $899
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/25600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 8
+    RemoteControl: Yes (via smartphone or wireless remote)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 12, 2019"
+    SceneModes:
+        - Self Portrait
+        - Portrait
+        - Panning
+        - Star Portrait
+        - Star Nightscape
+        - Star Trails
+        - Star Time-Lapse Movie
+        - Handheld Night Scene
+        - High Dynamic Range
+        - Fireworks
+        - Standard Movie
+        - Short Clip
+        - Manual Movie
+        - Time-Lapse Movie
+        - iFrame Movie
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 340 g (0.75 lb / 11.99 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

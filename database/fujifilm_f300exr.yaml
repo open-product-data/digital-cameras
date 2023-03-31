@@ -1,0 +1,96 @@
+ProductCode: fujifilm_f300exr
+Award: ""
+ImageURL: /files/p/products/fujifilm_f300exr/70d3d463bd6f4602b0f4902013a22cde.png
+Name: FujiFilm FinePix F300EXR (FinePix F305EXR)
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 360 mm (15×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_f300exr
+ReviewData:
+    ExecutiveSummary: The Fujifilm F300 EXR debuts a new Hybrid autofocus system that the company claims is as fast as that on DSLRs. The camera automatically chooses between using the contrast-detection AF method used in compact cameras and the phase-detection method usually used in DSLRs. In addition the F300 offers a 15x optical zoom lens starting at a wide 24mm, a 1/2" 12MP Super CCD EXR sensor and a 460k 3.0" LCD. The image stabilization system has also been tweaked, adding a 'Gyro' sensor to detect a wider range of camera movements that can contribute to shaky images. Other features include manual exposure modes, 360 degrees Motion Panorama and a Super Intelligent flash that attempts to balance flash illumination across the foreground and background.
+    ProductPhotos:
+        - /files/p/products/fujifilm_f300exr/shots/84b66777e32841c88bc3a2cf8026a5e3.png
+        - /files/p/products/fujifilm_f300exr/shots/c20762762e4d422d96b4fcf908c1d395.png
+        - /files/p/products/fujifilm_f300exr/shots/3b37074eb10644258355b3173b76eae5.png
+        - /files/p/products/fujifilm_f300exr/shots/3a790c4e8b964ccc8daddbb119575fcc.png
+        - /files/p/products/fujifilm_f300exr/shots/a507984eb5214a868acb4a45397d3668.png
+    ReviewSummary: null
+    ASIN:
+        - B003VYB1KK
+Specs:
+    AEBracketing: ""
+    Announced: Jul 21, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-50 battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 59 x 33 mm (4.09 x 2.32 x 1.3″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 24–360 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, Auto (1600), Auto (800), Auto (400), 100, 200, 400, 800, 1600, 3200 (6400 and 12800 with boost)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.3
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 45 cm (17.72″)
+    OpticalZoom: 15×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2664, 4000 x 2248, 2816 x 2112, 2816 x 2112, 2816 x 1584, 2048 x 1536, 2048 x 1360, 1920 x 1080
+    Processor: EXR
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 40 MB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 215 g (0.47 lb / 7.58 oz)
+    WhiteBalancePresets: "7"

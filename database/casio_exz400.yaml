@@ -1,0 +1,90 @@
+ProductCode: casio_exz400
+Award: ""
+ImageURL: /files/p/products/casio_exz400/004d0b0c45764e6c9a6ae77727264027.png
+Name: Casio Exilim EX-Z400
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exz400
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B009VSO46I
+        - B00F29UKW2
+        - B00B7D7P2K
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-40)
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 95 x 60 x 23 mm (3.74 x 2.36 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 28–112 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.6–7
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: ""
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SDHC Memory Card, SD Memory Card, Eye-Fi Wireless Card compatible
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 130 g (0.29 lb / 4.59 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""

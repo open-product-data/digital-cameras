@@ -1,0 +1,104 @@
+ProductCode: panasonic_dmcfp7
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcfp7/c39775f071fa4226943ec284589ffcbe.png
+Name: Panasonic Lumix DMC-FP7
+ShortSpecs:
+    - 16 megapixels
+    - 3.5″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmcfp7
+ReviewData:
+    ExecutiveSummary: The DMC-FP7 card styled camera with a glossy finish. It features a Leica branded 4x zoom periscopic lens starting at 28mm, a 16MP sensor and a large 3.5" touchscreen LCD. The stylish compact body offers touch-based controls and features such as 720p HD recording, image stabilization and SDXC compatibility. For Facebook and YouTube fans there is an easy upload and share option, and yes a Cosmetic mode that promise to make you look sun-tanned or wrinkle-free even if you are not.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfp7/shots/0fd1be5e614d495387f667720eb98cb0.png
+        - /files/p/products/panasonic_dmcfp7/shots/306aa64159f346b28e88a92e211cc92b.png
+        - /files/p/products/panasonic_dmcfp7/shots/c4e680480fb347e8afb7c01c001dbca4.png
+        - /files/p/products/panasonic_dmcfp7/shots/30c66e50a3c545368c45e1b6a3acc571.png
+    ReviewSummary: null
+    ASIN:
+        - B005TF51S2
+        - B004HW7KA0
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "240"
+    BodyType: Ultracompact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 4.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 101 x 59 x 18 mm (3.98 x 2.32 x 0.71″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction
+    FlashRange: 4.90 m
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.5–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: Venus Engine IV
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3.5″
+    ScreenType: TFT Touch Screen LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 70 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 147 g (0.32 lb / 5.19 oz)
+    WhiteBalancePresets: "4"

@@ -1,0 +1,179 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211208111305/https://www.dpreview.com/reviews/panasonic-lumix-dmc-zs200-tz200
+ProductCode: panasonic_dczs200
+Award: silver
+ImageURL: /files/p/products/panasonic_dczs200/ae42bb32aa074795b0a9a6917b6ee04d.png
+Name: Panasonic ZS200
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 360 mm (15×)
+ReviewScore: 81
+URL: /products/panasonic/compacts/panasonic_dczs200
+ReviewData:
+    ExecutiveSummary: Panasonic's ZS200/TZ200 is a 20MP 1"-sensor compact that updates the existing ZS100 and its 25-250mm equiv. zoom with a 24-360mm equiv. F3.3-6.4 lens that's both slightly wider and much longer (though a bit slower). Like its predecessor the ZS200 offers a 3" touchscreen, accompanied by an upgraded 2.3 million-dot EVF with 0.53x magnification. Contrast detect autofocus is aided by Panasonic's very good Depth from Defocus technology, and up to 10 fps burst shooting is available with AF-S (6 fps in AF-C). Rounding out a travel-friendly feature set are 4K video, Wi-Fi with Bluetooth, 5-axis image stabilization and a new L.Monochrome Photo Style for a black-and-white film look.
+    ProductPhotos:
+        - /files/p/products/panasonic_dczs200/shots/a3a584e2d2b04a7faf05a4fa3644dd6a.png
+        - /files/p/products/panasonic_dczs200/shots/28879ce1277e4d7e854301612e1cdc84.png
+        - /files/p/products/panasonic_dczs200/shots/dc353d8b7d194148af4458035219bb9f.png
+        - /files/p/products/panasonic_dczs200/shots/458ccadd02904cee90a00fb0e7ef3d58.png
+        - /files/p/products/panasonic_dczs200/shots/7c57375db1294fe7b9644a07e0117d79.png
+    ReviewSummary:
+        GoodFor: Travelers who want a telephoto lens in a small package, and to be able to share photos quickly and easily.
+        NotSoGoodFor: Those who wish to capture video at wide-angles. Sports, portrait or low light shooters. Those sensitive to field sequential EVFs.
+        Conclusion: The Panasonic Lumix DC-ZS200/TZ100 packs a 24-360mm equiv. lens into a body that fill fit into all but the skinniest pockets. Its time-tested sensor produces high quality photos, its autofocus system is snappy, 4K video generally good and battery life strong. However, there is a 1.5X crop in 4K video that also increases noise, a lens that tends to be soft, and an EVF that some may find bothersome. For those who want a long lens, compact body and 1" sensor, the ZS200 is one of the better choices out there.
+    ASIN:
+        - B079QYMWZX
+        - B079QNXFCC
+        - B08FC59NGK
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Feb 13, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLG10 lithium-ion battery & charger
+    BatteryLifeCIPA: "370"
+    BodyMaterial: Metal
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $597.99
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2X)
+    Dimensions: 111 x 66 x 45 mm (4.37 x 2.6 x 1.77″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2 format)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off
+    FlashRange: 6.80 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–360 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (microHDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800 (expands to 80-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Hybrid 5-axis available in movie mode
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $799
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F3.3–6.4
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 20 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 10 Mbps, MOV, H.264, AAC
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 15×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 16, 2018"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water*
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Handheld Night Shot
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 1,240,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 3 shots @ 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.53×
+    ViewfinderResolution: 2,330,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 340 g (0.75 lb / 11.99 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2 LE

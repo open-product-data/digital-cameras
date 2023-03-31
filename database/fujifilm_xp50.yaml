@@ -1,0 +1,149 @@
+ProductCode: fujifilm_xp50
+Award: ""
+ImageURL: /files/p/products/fujifilm_xp50/364bef9e2cf34e2298792883177e472a.png
+Name: Fujifilm FinePix XP50
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xp50
+ReviewData:
+    ExecutiveSummary: The Fujifilm FinePix XP50 is a tough compact camera with 14MP CMOS sensor. The XP50 it's not as durable as the XP150 and XP100 that were co-announced but, being waterproof to a depth of 5m and shockproof from a height of 1.5m, it's still a lot more resilient than most compacts. It's built around the same 28-140mm equivalent zoom as its tougher brothers and, thanks to its use of the same CMOS sensor, is able to capture 1080p movies.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xp50/shots/c710f7704de9408a9b6bc89a8146c574.png
+        - /files/p/products/fujifilm_xp50/shots/cbd765c3da97423bbf2cbbde2a4cc117.png
+        - /files/p/products/fujifilm_xp50/shots/a259a7ac5df145d8a508511d72cee64b.png
+    ReviewSummary: null
+    ASIN:
+        - B006T7QVLU
+        - B006T7QYZS
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion NP-45A rechargeable battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (6.8x)
+    Dimensions: 99 x 68 x 26 mm (3.9 x 2.68 x 1.02″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - SR Auto
+        - Auto
+        - Low-Light
+        - Motion
+        - Dynamic Range
+        - Motion Panorama 360
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif Ver 2.3 )
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    FocalLengthMultiplier: ""
+    Format: H.264, Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 300, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3072
+    MaximumAperture: F3.9–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4320 x 3240, 4320 x 2432, 3072 x 2304, 3072 x 1728, 2048 x 1532, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Natural Light
+        - Natural Light with Flash
+        - Portrait
+        - Portrait Enhancer
+        - Dog
+        - Cat
+        - Landscape
+        - Sport
+        - Night
+        - Night (Tripod)
+        - Fireworks
+        - Sunset
+        - Snow
+        - Beach
+        - Party
+        - Flower
+        - Text
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec, Auto release, Auto shutter (Dog, Cat), Couple, Portrait)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 95 MB
+    StorageTypes: SD/ SDHC/ SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 175 g (0.39 lb / 6.17 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

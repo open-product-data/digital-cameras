@@ -1,0 +1,108 @@
+ProductCode: hp_c20
+Award: ""
+ImageURL: /files/p/products/hp_c20/ea6d65748ae849cb835fcf882202dd72.png
+Name: HP Photosmart C20
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 39 mm
+ReviewScore: 0
+URL: /products/hp/compacts/hp_c20
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 12, 1998
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 127 x 89 x 48 mm (5 x 3.5 x 1.89″)
+    Durability: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: ""
+    FlashModes: Auto, Off, Red-eye reduction
+    FlashRange: 2.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 39 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1152 x 872
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/500 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 2 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 576 x 436
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 4 MB CompactFlash
+    StorageTypes: Compact Flash
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 300 g (0.66 lb / 10.58 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

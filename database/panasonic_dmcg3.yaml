@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211106195908/https://www.dpreview.com/reviews/panasonicdmcg3
+ProductCode: panasonic_dmcg3
+Award: silver
+ImageURL: /files/p/products/panasonic_dmcg3/e4500e4f32d54eef9aa9411283c627db.png
+Name: Panasonic Lumix DMC-G3
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 75
+URL: /products/panasonic/slrs/panasonic_dmcg3
+ReviewData:
+    ExecutiveSummary: The G3 is the smallest interchangeable lens camera to feature an electronic viewfinder. It carries over much of the specification of the very likeable G2 but adds a 15.8MP sensor. It also boasts an accessible interface that combines a balance of hard buttons and touch-screen to make it easier for beginners to get the most out of the camera. The 460k dot rear screen is fully articulated, as well as being touch-sensitive, and can be used to position focus or fire the shutter. The G3 also gains the fast autofocus of the more expensive GH2, making it one of the fastest-focusing cameras in its class.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcg3/shots/c8e8fcfab65145f0a86f8f6de7708e89.png
+        - /files/p/products/panasonic_dmcg3/shots/9655f067bc444399a64e390478d9f60a.png
+        - /files/p/products/panasonic_dmcg3/shots/d0ba2c1cb3ee405dad834fbc5eff3fc4.png
+        - /files/p/products/panasonic_dmcg3/shots/4d88a2fc71cd4db5bdd85494e8b99c54.png
+    ReviewSummary:
+        GoodFor: Users upgrading from a point-and-shoot, low light shooters, photographers who shoot video regularly
+        NotSoGoodFor: Anyone that prefers lots of direct control points, or enjoys shooting sports/action
+        Conclusion: The G3 is a camera that is easy to use and produces excellent image quality--a step up from previous G-series models. Its overall handling and touchscreen interface have distinct appeal for users moving up from a point-and-shoot. Yet it offers the manual controls and custom parameters that enthusiasts in the market for a smaller, lighter body would expect.
+    ASIN:
+        - B005058BRY
+        - B005058BTW
+        - B005058BS8
+Specs:
+    AEBracketing: ±2 (3, 5, 7 frames at 1/3 EV, 2/3 EV steps)
+    Announced: May 12, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 115 x 84 x 47 mm (4.53 x 3.31 x 1.85″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 11.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: AVCHD, Motion JPEG
+    GPS: None
+    HDMI: Yes (Mini HDMI Type C)
+    HeadphonePort: ""
+    ISO: Auto, Intelligent ISO, 160, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3448
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: ""
+    OrientationSensor: "No"
+    OtherResolutions: 4576 x 3056, 4576 x 2576, 3424 x 3424, 3232 x 2424, 3232 x 2160, 3232 x 1824, 2416 x 2416, 2272 x 1704, 2272 x 1520, 1920 x 1080, 1824 x 1368, 1824 x 1216, 1824 x 1024 , 1712 x 1712, 1712 x 1712
+    Processor: Venus Engine FHD
+    RemoteControl: Yes (Optional DMW-RSL1)
+    Resolutions: 1920 x 1080 (60fps) 1280 x 720 (60, 30 fps), 640 x 480 (30fps), 320 x 240 (30fps))
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 11, 2011"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT Color LCD with wide-viewing angle
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.4× (0.7× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 336 g (0.74 lb / 11.85 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

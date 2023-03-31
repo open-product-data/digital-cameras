@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220124164013/https://www.dpreview.com/reviews/canon-eos-m3-review
+ProductCode: canon_eosm3
+Award: noAward
+ImageURL: /files/p/products/canon_eosm3/f39742a607c94040ba89e92cc93056f3.png
+Name: Canon EOS M3
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 75
+URL: /products/canon/slrs/canon_eosm3
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Fusing Canon’s unrivalled image quality and DSLR-levels of control in a compact body, the EOS M3 offers the ability to capture the world around you in exceptional detail. At the heart of the EOS M3 is Canon''s first 24.2 megapixel APS-C CMOS sensor and its most advanced image processor, DIGIC 6, delivering premium quality stills and Full HD Movies. Combined with super-fast AF performance, thanks to a new Hybrid CMOS AF III and 49-point AF System, this camera gives you the freedom to capture the beauty of movement. As an advanced photographer you’ll find everything you need at your fingertips, with intuitive DSLR-like dials and control, as well as the flexibility to change your lens, all shrunk down into a compact, ergonomic body to take with you wherever you go.'
+    ProductPhotos:
+        - /files/p/products/canon_eosm3/shots/d285ffa12b3e47e3b098b9293cf28300.png
+        - /files/p/products/canon_eosm3/shots/a241e8a44665414d8c925dd65a59c3f7.png
+        - /files/p/products/canon_eosm3/shots/4e5bbe486d824c7e854c8aafcdf5ae0f.png
+        - /files/p/products/canon_eosm3/shots/2b49d8679b14413d9851d9fd69034c77.png
+        - /files/p/products/canon_eosm3/shots/c45b238e8cf94c99b3823b6a563f499c.png
+        - /files/p/products/canon_eosm3/shots/d6f3bafdf7f347cf9ffaddc8f05c461b.png
+    ReviewSummary:
+        GoodFor: Those seeking a well-built, compact ILC for studio and landscape photography. People who wish to adapt non-native lenses to a modern camera.
+        NotSoGoodFor: Photographers hoping to capture photos of kids and fast action. Those who want to shoot all day without carrying spare batteries.
+        Conclusion: With so many great mirrorless cameras on the market, the EOS M3 just isn't competitive. While it's well-designed and easy-to-use, important features like autofocus and battery life disappoint. For scenery and portraits it'll do the job, but if your subject is in-motion there are better choices.
+    ASIN:
+        - B01H8CWSK2
+        - B014EOMGTA
+        - B014EOM7QW
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Feb 6, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 4.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 111 x 68 x 44 mm (4.37 x 2.68 x 1.73″)
+    DriveModes:
+        - Program
+        - Continuous
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Creative Assist
+        - Hybrid Auto
+        - SCN
+        - Creative Filters
+        - Program AE
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Custom
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DPOF v2.0)
+        - Raw (Canon CR2, 14-bit)
+    FlashModes: Auto, on, off, slow synchro
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: None
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-12800 (expandable to 25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF-M
+    LiveView: "Yes"
+    MSRP: $679/£489/€599 (with 18-55mm STM lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p, 25p, 24p), 1280 x 720 (60p, 50p), 640 x 480 (30p, 25p)
+    ReviewPreview: "75%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 16, 2016"
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+        - Handheld Night Scene
+        - Food
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ClearView II TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 366 g (0.81 lb / 12.91 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

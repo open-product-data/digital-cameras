@@ -1,0 +1,135 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107185147/https://www.dpreview.com/reviews/olympusepl1/
+ProductCode: oly_epl1
+Award: silver
+ImageURL: /files/p/products/oly_epl1/64f5ad2f4da441f38cf45408a8672d12.png
+Name: Olympus PEN E-PL1
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - Four Thirds sensor
+ReviewScore: 69
+URL: /products/olympus/slrs/oly_epl1
+ReviewData:
+    ExecutiveSummary: The PEN E-PL1 is a simplified, less expensive addition in Olympus's Micro-Four Thirds camera range. The E-PL1 includes many of the features of its big brothers, the EP-1 and EP-2 and also adds a built-in flash. Compared to the PEN E-P1 and E-P2, the E-PL1's simplified, button-press based interface dictates that it'll be best suited to compact camera users who want to get better photos straight away and learn about things such as apertures in their own time. Experienced users who regularly want to take control of individual shooting parameters are likely to find themselves frustrated by the sheer amount of button-pressing induced by the loss of control dials. That said, the most important aspect of any camera is its image quality and it is, without question, the E-PL1's strongest point. By just about any measure, the E-PL1's image quality is very good indeed and, thanks to one the most capable JPEG engines we've come across, is easily accessible to everybody.
+    ProductPhotos:
+        - /files/p/products/oly_epl1/shots/35961ee9e9434180a9556c14fe99f5c3.png
+        - /files/p/products/oly_epl1/shots/98894131c5454ced8bc54a769a0e9700.png
+        - /files/p/products/oly_epl1/shots/b63f2e9d110b4ed482dbe4a7ab85a505.png
+        - /files/p/products/oly_epl1/shots/23703bc26c5f405eac0584229bdd825a.png
+        - /files/p/products/oly_epl1/shots/42c1eb5e45be4fa6b0ae3f4e4fb01523.png
+        - /files/p/products/oly_epl1/shots/6cf60ad5e3484a39a2787a3bca71b002.png
+        - /files/p/products/oly_epl1/shots/f04408613feb456eb5b5bcac6f100436.png
+        - /files/p/products/oly_epl1/shots/470ec21489284ed2bdb621d7ab3066e5.png
+    ReviewSummary:
+        GoodFor: Compact camera users who want the image quality of a DSLR but with the additional level of control remaining optional.
+        NotSoGoodFor: Those wanting to regularly use manual control or supplement their DSLR. Continuous shooting of moving subjects.
+        Conclusion: Olympus adds point-and-shootability to its retro mirrorless PEN range. A vast array of custom options don't undermine its out-of-the-box capability. Only compact-camera-like controls and build prevent it being a PEN for everyone.
+    ASIN:
+        - B0037VVWBK
+        - B0035LBRKS
+        - B0035LBRJO
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Feb 3, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BLS-1 rechargeable battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 115 x 72 x 42 mm (4.53 x 2.83 x 1.65″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync, Manual (3 levels)
+    FlashRange: 10.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2×
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini HDMI type-C)
+    HeadphonePort: ""
+    ISO: Auto ISO (200 - 3200), Manual ISO (100 - 3200), 1/3 or 1 EV steps
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4032 x 3024
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "No"
+    OtherResolutions: 3200 x 2400, 2560 x 1920,  1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: Truepic V
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "69%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 17, 2010"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: HyperCrystal LCD AR (Anti-Reflective) coating
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: Yes (3 frames in 2, 4, 6 steps selectable in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 334 g (0.74 lb / 11.78 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

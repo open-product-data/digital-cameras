@@ -1,0 +1,76 @@
+ProductCode: kodak_dc3200
+Award: ""
+ImageURL: /files/p/products/kodak_dc3200/b2e8d3799c4940f4abe0e9f4150994bd.png
+Name: Kodak DC3200
+ShortSpecs:
+    - 1 megapixels
+    - 1.6″ screen
+    - 39 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc3200
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004YRVY
+Specs:
+    Announced: Sep 23, 2000
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 113 x 81 x 53 mm (4.45 x 3.19 x 2.09″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.40 m (F3.6)
+    FocalLengthEquiv: 39 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 1152 x 864
+    MaximumAperture: F3.6–8
+    MaximumShutterSpeed: 1/500 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 576 x 432
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 2 MB Internal
+    StorageTypes: Compact Flash Type I, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 240 g (0.53 lb / 8.47 oz)
+    WhiteBalancePresets: "3"

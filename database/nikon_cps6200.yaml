@@ -1,0 +1,105 @@
+ProductCode: nikon_cps6200
+Award: ""
+ImageURL: /files/p/products/nikon_cps6200/99d5bc9ead18430da447dc7fe242b260.png
+Name: Nikon Coolpix S6200
+ShortSpecs:
+    - 16 megapixels
+    - 2.7″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps6200
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/nikon_cps6200/shots/c2d0ad951ea547429bd95082936dab1c.png
+        - /files/p/products/nikon_cps6200/shots/b01f9972fc0c4bf3a0ce6d311d8f7fb0.png
+        - /files/p/products/nikon_cps6200/shots/ca5427d541c84f8f8064d30dce856f79.png
+    ReviewSummary: null
+    ASIN:
+        - B005IGVXQQ
+        - B005IGVXU2
+        - B005IGVXRU
+Specs:
+    Announced: Aug 24, 2011
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "250"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 93 x 58 x 26 mm (3.66 x 2.28 x 1.02″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye
+    FlashRange: ""
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, Motion JPEG
+    GPS: None
+    HDMI: Yes (Mini Connector)
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.2–5.6
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+    Microphone: Stereo
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3264 x 2448 , 1600 X 1200, 640 x 480
+    Processor: Expeed C2
+    RemoteControl: "No"
+    Resolutions: 1280 x 720p (30fps), 640 x 480 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT  LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 74MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

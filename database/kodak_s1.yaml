@@ -1,0 +1,129 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210926193140/https://www.dpreview.com/reviews/kodak-pixpro-s-1
+ProductCode: kodak_s1
+Award: ""
+ImageURL: /files/p/products/kodak_s1/a1181b54fda049ef81b1c163ac49533e.png
+Name: Kodak Pixpro S-1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_s1
+ReviewData:
+    ExecutiveSummary: The Kodak-branded S-1 produced by licensee JK Imaging is a Micro Four Thirds camera with a 16MP sensor. It offers 5 fps burst shooting, 3.0-inch 920k-dot monitor and a 12-45mm F3.5-5.6 kit lens. Although pitched as an entry-level offering, the S-1 does offer a decent feature set, including film emulation modes and RAW capture in the DNG format.
+    ProductPhotos:
+        - /files/p/products/kodak_s1/shots/b1b122bfaf1c405cb88588253aaef7a1.png
+        - /files/p/products/kodak_s1/shots/9b9a9031cb0a4f7185dd1b9a310d31b1.png
+        - /files/p/products/kodak_s1/shots/2824b34d18a04164bbcc7e556a2953f4.png
+        - /files/p/products/kodak_s1/shots/8dbc0cc56dae40e6929050e49767e93f.png
+        - /files/p/products/kodak_s1/shots/2a17dec7c85b4696bb8e690bf9caf1e4.png
+    ReviewSummary: null
+    ASIN:
+        - B0B8PD8TTP
+        - B09ZRN1N3Z
+        - B01CG62CCE
+Specs:
+    AEBracketing: ±3 (at 1/3 EV steps)
+    Announced: Jan 18, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LB-070 lithium-ion battery and charger
+    BatteryLifeCIPA: "410"
+    BodyType: Rangefinder-style mirrorless
+    BuiltInFlash: No (bundled external flash)
+    BuyingOptions: Check prices
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X, 4X)
+    Dimensions: 116 x 68 x 36 mm (4.57 x 2.68 x 1.42″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe)
+    FileFormat:
+        - JPEG (Exif 2.3),
+        - RAW (DNG format)
+        - RAW+JPEG
+    FlashModes: Auto, Red-Eye Reduction, Fill Flash, Flash Off, Slow Sync, Rear Curtain Sync, Slow Sync+ Red-Eye Reduction
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: H.264
+    GPS: None
+    HDMI: ""
+    ISO: Auto, 200-12800
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4640 x 3480
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2736, 2336 x 1752, 2048 x 1536, 640 x 480, 4608 x 3072, 4608 x 2592, 1920 x 1080
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30, 120 fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Jun 24, 2014"
+    SceneModes:
+        - Panorama
+        - Face Beautifier
+        - Sport
+        - Fireworks
+        - Children
+        - Sunset
+        - Landscape
+        - Night Portrait
+        - Pet Multi Exposure
+        - Handheld Night
+        - Snow
+        - Party
+        - Portrait
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 290 g (0.64 lb / 10.23 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n

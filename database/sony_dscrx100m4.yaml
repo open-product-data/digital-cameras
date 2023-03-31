@@ -1,0 +1,162 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220525041120/https://www.dpreview.com/reviews/sony-cybershot-dsc-rx100-iv
+ProductCode: sony_dscrx100m4
+Award: gold
+ImageURL: /files/p/products/sony_dscrx100m4/fc073e9b12c8484ca18a57507bc164db.png
+Name: Sony RX100 IV
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 70 mm (2.9×)
+ReviewScore: 85
+URL: /products/sony/compacts/sony_dscrx100m4
+ReviewData:
+    ExecutiveSummary: The Sony Cyber-shot DSC-RX100 IV is the fourth generation of a popular and critically-acclaimed series of enthusiast compacts. This iteration brings with it a new 1” type 20MP stacked CMOS Exmor RS sensor. Its stacked design frees up more space for high speed circuitry allowing for more sophisticated functions, and is a next generation of the familiar backside illuminated (BSI) design. The RX100 IV is capable of 4K video recording (with clips limited to a 5 minute maximum), slow motion 40x video recording with 960 fps capture and up to 16 fps continuous shooting. Like its predecessor the RX100 IV offers a 24-70mm equivalent F1.8-2.8 lens and continues the tradition of a pop-up electronic viewfinder, upgrading the OLED panel to a 2.35 million dot resolution.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx100m4/shots/4e59075aeced48639a2f1167bf61d2cbpng
+        - /files/p/products/sony_dscrx100m4/shots/c3f4971541b04373b8639eb4a532925dpng
+        - /files/p/products/sony_dscrx100m4/shots/31d711a29d3f4efa9543780de9d01381png
+        - /files/p/products/sony_dscrx100m4/shots/7116ebf171ef461a88faf24c3dbd076dpng
+        - /files/p/products/sony_dscrx100m4/shots/c6dcdab772cc46c281d0967fa61bea09png
+        - /files/p/products/sony_dscrx100m4/shots/eea31895656b4e62b8bb5ff82db94771png
+        - /files/p/products/sony_dscrx100m4/shots/e094c20dd65a4ddaa9252aa84d122eddpng
+        - /files/p/products/sony_dscrx100m4/shots/520e8bcfbfde42cbabc7d7c3734ced53png
+    ReviewSummary:
+        GoodFor: Photographers looking for the best image quality and video from a responsive camera that fits in a pocket.
+        NotSoGoodFor: Shooters on a budget or users looking for long telephoto focal lengths.
+        Conclusion: The RX100 IV gains some headline-grabbing features such as high frame rate and 4K video but it's the smaller features that most impressed us. Continuous eye tracking, fast Raw burst modes with AF, and small user-interface changes have made the Mark IV the most responsive and enjoyable RX100 yet. It's the most expensive in the series but is peerless in terms of capability.
+    ASIN:
+        - B00ZDWGM34
+Specs:
+    AEBracketing: ±3 (3 frames )
+    Announced: Jun 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "280"
+    BodyMaterial: Aluminum
+    BodyType: Compact
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 16.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (3.8x)
+    Dimensions: 102 x 58 x 41 mm (4.02 x 2.28 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Speed priority continuous
+        - Self-timer (single, continuous)
+        - Single/continuous bracketing
+        - WB bracketing
+        - DRO bracketing
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program Auto
+        - Aperture Priority
+        - Shutter Priority
+        - Manual Exposure
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+        - Raw (Sony ARW v2.3)
+    FlashModes: ""
+    FlashRange: 10.20 m (at Auto ISO)
+    FocalLengthEquiv: 24–70 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI with uncompressed 4K/30p output)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Extra fine, fine, standard
+    LiveView: "Yes"
+    MSRP: $1000/€1150
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: 2.9×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3888 x 2592, 2736 x 1824), 4:3 (4864 x 3648, 3648 x 2736, 2592 x 1944), 16:9 (5472 x 3080, 3648 x 2056, 2720 x 1528), 1:1 (3648 x 3648, 2544 x 2544, 1920 x 1920)
+    Processor: Bionz X
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 3840 x 2160 (30p, 25p, 24p), 1920 x 1080 (60p/60i/24p), 1280 x 720 (60p/30p/24p/120p), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 28, 2015"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Anti Motion Blur
+        - Pet Mode
+        - Gourmet
+        - Fireworks
+        - High Sensitivity
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.59×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 298 g (0.66 lb / 10.51 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

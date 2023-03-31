@@ -1,0 +1,75 @@
+ProductCode: kodak_dc5000
+Award: ""
+ImageURL: /files/p/products/kodak_dc5000/efc66993de6044c589c68a8b346bf5a5.png
+Name: Kodak DC5000
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 30 – 60 mm (2×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc5000
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00004W18U
+Specs:
+    Announced: Jun 6, 2000
+    AperturePriority: "No"
+    Autofocus:
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (1.1x - 3x)
+    Dimensions: 140 x 89 x 83 mm (5.51 x 3.5 x 3.27″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 30–60 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "No"
+    MaxResolution: 1760 x 1168
+    MaximumAperture: F3–7.6
+    MaximumShutterSpeed: 1/400 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 2×
+    OrientationSensor: "No"
+    OtherResolutions: 896 x 592
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 459 g (1.01 lb / 16.19 oz)
+    WhiteBalancePresets: "4"

@@ -1,0 +1,159 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220121183813/https://www.dpreview.com/reviews/nikon-d850
+ProductCode: nikon_d850
+Award: gold
+ImageURL: /files/p/products/nikon_d850/0c80b1b6415f4ab4b8e49e4b13a14e52.png
+Name: Nikon D850
+ShortSpecs:
+    - 45 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 89
+URL: /products/nikon/slrs/nikon_d850
+ReviewData:
+    ExecutiveSummary: The D850 is Nikon's next-generation high resolution, full-frame DSLR. It features a 45.7 Megapixel BSI CMOS sensor with no optical low-pass filter and an Expeed 5 image processor, which allow for fast burst rates and 4K video capture. The D850 has an ISO range of 64-25,000, expandable to 32-120,400 and a burst rate of 7 fps with continuous AF, and 9 fps with the optional battery grip and EN-EL18a/b battery. You'll find the same AF system on the D850 as on the flagship Nikon D5, which means 153 points, of which 99 are cross-type, and the company's effective 3D Tracking. Design-wise, the D850 is lightweight for its class, with a redesigned grip similar to that of the D750. The body is sealed against dust and moisture and has illuminated buttons for shooting at night. It has the 'widest and brightest' viewfinder of any Nikon DSLR as well as a tilting 3.2" touchscreen display with 2.4 million dots. It has dual memory card slots, supporting both UHS-II  and XQD media. Battery life is rated at over 1800 shots straight out of the box, and over 5100 shots with the optional grip and EN-EL18a/b battery. Video features include UHD 4K video capture, slow motion and 4K/8K time-lapse models, focus peaking and more. The D850 has built-in Wi-Fi, NFC and Bluetooth, which the company brands 'SnapBridge'.
+    ProductPhotos:
+        - /files/p/products/nikon_d850/shots/84c4c893c5d443489fc02b0965c3cb64.png
+        - /files/p/products/nikon_d850/shots/bf1dd2bddf6a4e6db8b7eabe757ba96f.png
+        - /files/p/products/nikon_d850/shots/32bf96775f8e404a9bc75ca15f601181.png
+        - /files/p/products/nikon_d850/shots/5f9065cbabd340dbaf1b30da5a590dc3.png
+        - /files/p/products/nikon_d850/shots/be5f152c995045949bd62782c64f187b.png
+        - /files/p/products/nikon_d850/shots/55cf5e113c8b45f18e554966f5f9d8a4.png
+    ReviewSummary:
+        GoodFor: Photographers who photograph anything from landscapes to sports and want the best possible image quality in a DSLR.
+        NotSoGoodFor: Those shooting incredibly fast action that requires higher burst speeds and those who require a more refined video feature set.
+        Conclusion: With expansive resolution, a capable autofocus system, fast burst shooting and great image quality under almost any situation, the D850 is the best DSLR on the market today, and among the best all-around stills cameras we've ever tested. Live view autofocus and video modes could still use some work, but the camera's capabilities handily outshine those deficiencies.
+    ASIN:
+        - B07524LHMT
+        - B0756W1JK4
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 25, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15a lithium-ion battery & charger
+    BatteryLifeCIPA: "1840"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "32"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,796.95
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 146 x 124 x 79 mm (5.75 x 4.88 x 3.11″)
+    DriveModes:
+        - Single-frame
+        - Self-timer
+        - Quiet shutter
+        - Quiet continuous
+        - Mirror-up
+        - Continuous low
+        - Continuous high
+    EffectivePixels: 45 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - TIFF (RGB)
+        - Raw (Nikon NEF, 12 or 14 bit, lossless compressed, compressed or uncompressed)
+    FlashModes: Front-curtain sync (normal), Rear-curtain sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 64-25600 (expands to 32-102400)
+    ImageRatioWh: 1:1, 5:4, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $3299
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 5504
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 60p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 50p, MOV, H.264, Linear PCM
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "151"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed 5
+    RemoteControl: Yes (wired, wireless, smartphone)
+    Resolutions: ""
+    ReviewPreview: "89%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 16, 2017"
+    SceneModes: ""
+    ScreenDots: 2,359,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 5, 10, 20 secs)
+    SensorPhotoDetectors: 47 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported) + XQD
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (4K movies or '8K' stills)
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.75×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2-9 exposures in 1, 2, or 3EV increments)
+    WeightIncBatteries: 1005 g (2.22 lb / 35.45 oz)
+    WhiteBalancePresets: "14"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g + NFC + Bluetooth 4.1 LE

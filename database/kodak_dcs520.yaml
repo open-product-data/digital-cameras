@@ -1,0 +1,92 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220519225135/https://www.dpreview.com/reviews/kodakdcs520
+ProductCode: kodak_dcs520
+Award: highlyRecommended
+ImageURL: /files/p/products/kodak_dcs520/bc2b041302d44c60b738ced1d07b6ea7.png
+Name: Kodak DCS520 / Canon D2000
+ShortSpecs:
+    - 2 megapixels
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs520
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B09ZRN1N3Z
+        - B07BB5FDS2
+        - B01CG62CCE
+Specs:
+    AEBracketing: ""
+    Announced: Feb 3, 1998
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Kodak NiCD
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 161 x 92 x 174 mm (6.34 x 3.62 x 6.85″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 200, 400, 800, 1600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Uncompressed
+    LensMount: Canon EF
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1728 x 1152
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Feb 17, 1999"
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: PCMCIA (2 x type II / 1 x type III)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1650 g (3.64 lb / 58.20 oz)
+    WhiteBalancePresets: ""

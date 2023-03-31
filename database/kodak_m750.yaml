@@ -1,0 +1,114 @@
+ProductCode: kodak_m750
+Award: ""
+ImageURL: /files/p/products/kodak_m750/35cf992de3d04ba190fd78c2d3be9ea7.png
+Name: Kodak EasyShare M750
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 26 – 130 mm (5×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m750
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/kodak_m750/shots/5405ed7a9f7f40a5ae0fd3c674ed35bd.png
+        - /files/p/products/kodak_m750/shots/47287a997f71438797b8be8f3e6d11c1.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 10, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable Battery KLIC-7006 & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 99 x 58 x 20 mm (3.9 x 2.28 x 0.79″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG v2.3
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.20 m
+    FocalLengthEquiv: 26–130 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 2456
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 2880 x 2160, 2048 x 1536
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps)
+    SceneModes:
+        - Portrait
+        - Sport
+        - Landscape
+        - Close-up
+        - Sunset
+        - Backlight
+        - Candlelight
+        - Children
+        - Bright
+        - Fireworks
+        - Self-portrait
+        - Night portrait
+        - night landscape
+        - Blur reduction
+        - High ISO
+        - Panorama
+        - Long-time exposure
+        - Text
+        - Photo booth
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 136 g (0.30 lb / 4.80 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: With direct share to social media sites

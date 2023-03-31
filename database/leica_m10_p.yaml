@@ -1,0 +1,133 @@
+ProductCode: leica_m10_p
+Award: ""
+ImageURL: /files/p/products/leica_m10_p/2a8a5393ad87408987a38f1c98c8656b.png
+Name: Leica M10-P
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m10_p
+ReviewData:
+    ExecutiveSummary: Leica's M10-P is the more expensive sibling to the M10. The differences between the M10-P and M10 include the lack of a 'red dot' on the front as well as the addition of a touchscreen LCD, electronic level and quieter shutter mechanism. The M10 comes with a 24MP sensor with a top ISO of 50000. The Maestro II processor has 2GB of buffer to provide 30 Raw images or 100 JPEG images to be captured at 5 fps. The M10-P has some degree of environmental sealing and lacks any I/O ports. It does have Wi-Fi support, however.
+    ProductPhotos:
+        - /files/p/products/leica_m10_p/shots/7f74f5a9106f4189b3eb6640e08c0cac.png
+        - /files/p/products/leica_m10_p/shots/df6b6a503cda4388b9651a5fb7742e23.png
+        - /files/p/products/leica_m10_p/shots/c84c2e5c12c748d19922c3f6e0ee1182.png
+        - /files/p/products/leica_m10_p/shots/811bbb9c35c440f9a1b915ec1a887e49.png
+        - /files/p/products/leica_m10_p/shots/429e8f4335f6476c96cfd8fb9f51ea1d.png
+        - /files/p/products/leica_m10_p/shots/7d7c8e56793e47dba28ce706631b9e2d.png
+    ReviewSummary: null
+    ASIN:
+        - B09RMWFQL1
+        - B08N6T16JS
+        - B07PPJ915T
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Aug 21, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Touch
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL5 lithium-ion battery & charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 39 x 80 mm (5.47 x 1.54 x 3.15″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Interval
+        - Exposure bracketing
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - Raw (DNG)
+    FlashModes: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: via optional Visoflex EVF
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $7995
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5952 x 3992
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5952 x 3968 (JPEG, 24MP), 4256 x 2932 (12MP), 2976 x 1984 (6MP)
+    Processor: Maestro II
+    RemoteControl: Yes (via cable trigger)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.73×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220414180009/https://www.dpreview.com/reviews/canon-eos-80d-review
+ProductCode: canon_eos80d
+Award: silver
+ImageURL: /files/p/products/canon_eos80d/709ffe1426854e628128143f2b8f67ad.png
+Name: Canon EOS 80D
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/canon/slrs/canon_eos80d
+ReviewData:
+    ExecutiveSummary: The Canon EOS 80D features an all-new 24.2MP APS-C CMOS sensor, 45-point all cross-type autofocus system, and the company's DIGIC 6 processor. When using live view or recording video users can take advantage of the 80D's Dual Pixel CMOS AF for fast and smooth autofocus. Photos can be composed on an 'Intelligent' optical viewfinder or a flip-out-and-rotate 3" touchscreen LCD. The 80D can record 1080/60p video and offers sockets for both a microphone and headphones. Wi-Fi is also built in, with support for NFC technology.
+    ProductPhotos:
+        - /files/p/products/canon_eos80d/shots/a33b83d07c2e45e0a5febfa8e3aab6aa.png
+        - /files/p/products/canon_eos80d/shots/83f2eafa86f04db19c9f88074d5e842d.png
+        - /files/p/products/canon_eos80d/shots/8dd0bdb507d843978a056289bd38df07.png
+        - /files/p/products/canon_eos80d/shots/7e2b86d937964cfc9a752610182ffed7.png
+        - /files/p/products/canon_eos80d/shots/834a6206b1a148a1a1924097cd7e7db4.png
+        - /files/p/products/canon_eos80d/shots/e8a2931ec4fd4ed0bb6a39c53b7d7c67.png
+        - /files/p/products/canon_eos80d/shots/204395a3631246f9a10d4ab2b7ca6733.png
+    ReviewSummary:
+        GoodFor: Any enthusiast seeking a camera that can handle both still and video capture with great ease.
+        NotSoGoodFor: Sports and action shooters needing reliable subject tracking capabilities.
+        Conclusion: The Canon 80D centers around ease of use. It offers the best dynamic range of any APS-C Canon camera to date and features dual pixel AF, allowing for continuous focus during both video and still capture. The articulating touchscreen is especially handy in  live view mode. And while the camera's  image quality and video resolution lag behind the competition, the 80D is still a solid choice for enthusiasts.
+    ASIN:
+        - B01H8CWRBM
+        - B01BUYJX6G
+        - B01BUYJXMA
+Specs:
+    AEBracketing: ""
+    Announced: Feb 18, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: "960"
+    BodyMaterial: Composite
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 105 x 79 mm (5.47 x 4.13 x 3.11″)
+    DriveModes:
+        - Single
+        - High speed continuous
+        - Low speed continuous
+        - Silent single shooting
+        - Silent continuous shooting
+        - 10/2 sec self-timer/remote ctrl
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Bulb
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Canon 14-bit CRW)
+    FlashModes: ""
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-16000 (expands to 25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $1199 (body only), $1799 (w/18-135 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "45"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 6
+    RemoteControl: Yes (Wired, wireless, or via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p, 24p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "84%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 27, 2016"
+    SceneModes:
+        - Food
+        - Kids
+        - Candlelight
+        - Night Portrait
+        - Handheld Night Scene
+        - HDR Backlight Control
+        - Portrait
+        - Landscape
+        - Close-up
+        - Sports
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.5 x 15 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I support)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Choice of ALL-I or IPB codecs
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.59× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 730 g (1.61 lb / 25.75 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n with NFC

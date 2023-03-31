@@ -1,0 +1,140 @@
+ProductCode: casio_ex10
+Award: ""
+ImageURL: /files/p/products/casio_ex10/c35b911f88cc4510a33b06998c3e0f37.png
+Name: Casio Exilim EX-10
+ShortSpecs:
+    - 12 megapixels
+    - 3.5″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_ex10
+ReviewData:
+    ExecutiveSummary: The Casio EX-10 enthusiast compact camera features a 12MP 1/1.7" back-illuminated CMOS sensor and 3.5-inch touchscreen display that rotates upward by 180 degrees. The EX-10 features the same 28-112mm equivalent F1.8-2.5 lens as the Olympus XZ-2 and Pentax MX-1. The camera has a dial around the lens whose function can be customized. You'll find not one, but two shutter release buttons, one of which (on the front) can function differently than the main one.  It also offers a 'dual-combination bracket function', which varies a pair of shooting parameters over three shots, resulting in a total of nine images.
+    ProductPhotos:
+        - /files/p/products/casio_ex10/shots/a55a9ccf37d444f7aa4ffecafb928c00.png
+        - /files/p/products/casio_ex10/shots/5e28ee9f385749758b0b1fbcb76961fa.png
+    ReviewSummary: null
+    ASIN:
+        - B00GMY4RGG
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Nov 14, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Li-130A rechargeable battery & charger
+    BatteryLifeCIPA: "455"
+    BodyMaterial: Magnesium and aluminum alloy
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $405.39
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (2X/4X)
+    Dimensions: 120 x 68 x 49 mm (4.72 x 2.67 x 1.91″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Premium Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Custom
+        - Time-lapse
+        - Bracket
+        - Art Shot
+        - Best Shot
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3, DCF 2.0)
+        - Raw (DNG)
+        - Raw + JPEG
+    FlashModes: Auto, off, fill-in, redeye reduction
+    FlashRange: 10.90 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–112 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 80 - 12800
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F1.8–2.5
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 250 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2056 x 1536
+    Processor: Exilim Engine HS 3
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3.5″
+    ScreenType: Super Clear LCD with 180 degree upward tilt
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 49.9 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed: 224 x 64 (1000 fps), 224 x 160 (480 fps), 512 x 384 (240 fps), 640 x 480 (120 fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 384 g (0.85 lb / 13.55 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: via smartphone app

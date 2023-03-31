@@ -1,0 +1,84 @@
+ProductCode: epson_rd1x
+Award: ""
+ImageURL: /files/p/products/epson_rd1x/0e636f78df924eb18ea5a5f066449d5f.png
+Name: Epson R-D1x
+ShortSpecs:
+    - 6 megapixels
+    - 2.5″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/epson/slrs/epson_rd1x
+ReviewData:
+    ExecutiveSummary: Latest version of the world's first (and until recently the only) digital rangefinder, originally launched in 2004 and amazingly still in production (albeit only for sale in Japan). The new R-D1x model maintains most of the features of the previous camera including a 6Mp APS-C sensor, but adds a larger 2.5" LCD screen, support for the higher-capacity SD-HC card format and a removable handgrip. Based around a Cosina rangefinder camera with Leica M mount, the RD-1 combines classic camera styling with digital capture - and it still costs a lot less than the Leica M8.
+    ProductPhotos:
+        - /files/p/products/epson_rd1x/shots/0cb1fe6375964441b271200680176c1b.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 27, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Multi-area
+        - Selective single-point
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Rangefinder-style mirrorless
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 142 x 89 x 40 mm (5.59 x 3.5 x 1.57″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Unknown
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: Motion JPEG
+    HDMI: "No"
+    ISO: 200, 400, 800, 1600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LensMount: Leica M
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 3008 x 2000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: 2240 x 1488
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: 235,000
+    ScreenSize: 2.5″
+    SelfTimer: "No"
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: APS-C (23.7 x 15.6 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (rangefinder)
+    WeightIncBatteries: 620 g (1.37 lb / 21.87 oz)
+    WhiteBalancePresets: "6"

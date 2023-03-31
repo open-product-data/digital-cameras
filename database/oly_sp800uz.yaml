@@ -1,0 +1,115 @@
+ProductCode: oly_sp800uz
+Award: ""
+ImageURL: /files/p/products/oly_sp800uz/d634df1b38a44af489b75813c4450eb4.png
+Name: Olympus SP-800 UZ
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 28 – 840 mm (30×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sp800uz
+ReviewData:
+    ExecutiveSummary: The DSLR-styled Olympus SP-800UZ has a 30x ultra-telephoto optical zoom (28-840mm equiv.), 2GB internal memory, 3 inch LCD and a 14MP sensor. Images are recorded onto SD media, and the SP-800UZ also offers dual Image stabilization, HD video recording and AF tracking.
+    ProductPhotos:
+        - /files/p/products/oly_sp800uz/shots/841c3edb6e2948858fdf87df95517c28.png
+        - /files/p/products/oly_sp800uz/shots/8cbeaea1e8f640c7a0716bd99d495821.png
+        - /files/p/products/oly_sp800uz/shots/eab64139f6ca49d49154743a21e45dbe.png
+    ReviewSummary: null
+    ASIN:
+        - B0031RGEVS
+Specs:
+    AEBracketing: ""
+    Announced: Feb 2, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LI-50B rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "10000"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 110 x 90 x 91 mm (4.33 x 3.54 x 3.58″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–840 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, High Auto, 64, 100, 200, 400, 800, 1600, 3200 (6400 and 10000 with boost)
+    ImageRatioWh: ""
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4288 x 3216
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 12 sec
+    NormalFocusRange: 18 cm (7.09″)
+    NumberOfFocusPoints: "143"
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2416, 3264 x 2448, 2560 x 1920, 2048 x 1536, 1920 x 1080, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: TruePic III
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (12 or 2 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: 2 GB Internal
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 455 g (1.00 lb / 16.05 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

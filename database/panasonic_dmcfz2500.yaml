@@ -1,0 +1,178 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210919054212/https://www.dpreview.com/reviews/panasonic-lumix-dmc-fz2500-fz2000
+ProductCode: panasonic_dmcfz2500
+Award: silver
+ImageURL: /files/p/products/panasonic_dmcfz2500/ae54c86fc60f453c8cf78778bb4c764c.png
+Name: Panasonic FZ2500
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 480 mm (20×)
+ReviewScore: 82
+URL: /products/panasonic/compacts/panasonic_dmcfz2500
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-FZ2500 (FZ2000 in some markets) is the company's video-centric superzoom camera. It features a 20MP 1"-type CMOS sensor, 24-480mm equiv. F2.8-4.5 lens, a 3" fully articulating LCD and large electronic viewfinder. The camera can shoot continuously at 7 fps with live view and continuous AF and uses Panasonic's impressive Depth from Defocus autofocus system. While the FZ2500 has a ton of features related to stills shooting, including a clever new Focus Stacking option, the 'focus' is on video. The camera can capture both DCI and UHD 4K video at both 30p and 24p. There's a full suite of capture tools available, ranging from zebra patterns to SMPTE color bars.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz2500/shots/dbc4e1d4111f438e91472211099a931a.png
+        - /files/p/products/panasonic_dmcfz2500/shots/d7e24767cf1d4355bde452b8841241b0.png
+        - /files/p/products/panasonic_dmcfz2500/shots/5a88228da73441d49f5613e1085affc0.png
+        - /files/p/products/panasonic_dmcfz2500/shots/e64e46d8c6204f2e8779037d2f6c39c5.png
+        - /files/p/products/panasonic_dmcfz2500/shots/e1ca30838c1741ce8e56a55a8ffabc04.png
+        - /files/p/products/panasonic_dmcfz2500/shots/41c8778e13a24089bc97eacf99dba227.png
+        - /files/p/products/panasonic_dmcfz2500/shots/4aa4c1bcaa2b4756aef6385a160fffb6.png
+    ReviewSummary:
+        GoodFor: Video enthusiasts who want extensive controls, inputs, and outputs.
+        NotSoGoodFor: Those 'focused' mainly on still photography. There are better choices in this class for less money.
+        Conclusion: The Panasonic Lumix DMC-FZ2500/FZ2000 is a well-designed enthusiast bridge camera focused on video, and it offers capture tools that you won't find on any other camera in its class. 4K video quality is excellent, though there's a substantial crop factor, essentially knocking out the wide end of the lens. Still image quality is decent, though it's hampered by a so-so lens and JPEG engine that could use a tune-up. If you're a videophile then it's a top choice. If not, there are cheaper options out there.
+    ASIN:
+        - B01LX7JSPJ
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 19, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLC12 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Metal, composite
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $897.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2x)
+    Dimensions: 138 x 102 x 135 mm (5.42 x 4.01 x 5.3″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic CR2)
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync, Slow Sync/Red-eye Reduction, Forced Off
+    FlashRange: 13.20 m (at Auto ISO)
+    FocalLengthEquiv: 24–480 mm
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 125-12800 (expands to 80-25600)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: Hybrid 5-axis available in movie mode
+    JPEGQualityLevels: Fine, standard
+    LiveView: "Yes"
+    MSRP: $1199
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F2.8–4.5
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, MP4, H.264, Linear PCM
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3888 x 2592, 2736 x 1824), 16:9 (5472 x 3080, 3840 x 2160, 1920 x 1080), 4:3 (4864 x 3648,  3456 x 2592, 2432 x 1824), 1:1 (3648 x 3648, 2592 x 2592, 1824 x 1824)
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: ""
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 17, 2017"
+    SceneModes:
+        - Clear Portrait
+        - Silky Skin
+        - Backlit Softness
+        - Clear in Backlight
+        - Relaxing Tone
+        - Sweet Child's Face
+        - Distinct Scenery
+        - Bright Blue Sky
+        - Romantic Sunset Glow
+        - Vivid Sunset Glow
+        - Glistening Water
+        - Clear Nightscape
+        - Cool Night Sky
+        - Warm Glowing Nightscape
+        - Artistic Nightscape
+        - Glittering Illuminations
+        - Handheld Night Shot
+        - Clear Night Portrait
+        - Soft Image of a Flower
+        - Appetizing Food
+        - Cute Dessert
+        - Freeze Animal Motion
+        - Clear Sports Shot
+        - Monochrome
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 3 shots @ 10 sec)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.74×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 915 g (2.02 lb / 32.28 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

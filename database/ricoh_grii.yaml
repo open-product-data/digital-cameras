@@ -1,0 +1,133 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210901163837/https://www.dpreview.com/reviews/2017-roundup-fixed-prime-lens-cameras
+ProductCode: ricoh_grii
+Award: ""
+ImageURL: /files/p/products/ricoh_grii/5e87aea8f5234e15afd757e313eacd4dpng
+Name: Ricoh GR II
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_grii
+ReviewData:
+    ExecutiveSummary: The pocketable RICOH GR II features the same core specifications as the older GR, which means the same excellent 28mm equivalent F2.8 lens and 16MP APS-C sensor. The white-balance algorithm of the Mark II has been tweaked to improve the precision of Auto White Balance control and fine-tuning of the compensation program to prevent high-sensitivity noise. It has also been designed to accommodate a wider variety of scenes and subjects by adding new creative tools, including six effect modes and a wireless flash discharge function in combination with an external flash unit. The GR II is also the first GR-series model to feature Wi-Fi and NFC (Near Field Communication) functions for easy pairing with smartphones and other mobile devices.
+    ProductPhotos:
+        - /files/p/products/ricoh_grii/shots/1667b33e4f2b4df5b583083d837af62epng
+        - /files/p/products/ricoh_grii/shots/3c6a98bc5f03413abb89cb24f8064e89png
+        - /files/p/products/ricoh_grii/shots/1af53c830f4b41e1893878984134c1d9png
+        - /files/p/products/ricoh_grii/shots/93975e773ce144abb4ab75167dc509b6png
+        - /files/p/products/ricoh_grii/shots/8e4c5e67ab1642d09a1ca176e4ae4c80png
+        - /files/p/products/ricoh_grii/shots/690dc615b4f7475384bfbca7e9819507png
+    ReviewSummary: null
+    ASIN:
+        - B00ZY9JJEU
+        - B07DMM588M
+        - B07DML9S5G
+Specs:
+    AEBracketing: ±4
+    Announced: Jun 17, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-65 lithium-ion battery & charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 117 x 63 x 35 mm (4.61 x 2.48 x 1.38″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±4 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Aperture & shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG)
+    FlashModes: Auto, Flash On, Flash Synchro., Manual Flash, Red-Eye Flash Auto, Red-Eye Flash On, Red-Eye Flash Synchro, Wireless
+    FlashRange: 3.00 m (at Auto ISO)
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthEquiv: 28 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $799/£599
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumAperture: F2.8–16
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 300 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (3936 x 2608, 2912 x 1936, 1280 x 864), 4:3 (4352 x 3264, 3488 x 2068, 2592 x 1936x 1152 x 864), 1:1 (3264 x 3264, 1936 x 1936, 864 x 864)
+    Processor: GR Engine V
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (30p, 25p, 24p), 1280 x 720 (60p, 50p, 30p, 25p, 24p), 640 x 480 (30p, 25p, 24p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Apr 28, 2017"
+    SceneModes: ""
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.7 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 54MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (optional)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 251 g (0.55 lb / 8.85 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

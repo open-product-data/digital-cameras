@@ -1,0 +1,184 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220414150514/https://www.dpreview.com/reviews/nikon-z9-review-a-dslr-like-stills-video-monster
+ProductCode: nikon_z9
+Award: gold
+ImageURL: /files/p/products/nikon_z9/7d2c13cfb36646d9ba7551176502c1ff.png
+Name: Nikon Z9
+ShortSpecs:
+    - 46 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 94
+URL: /products/nikon/slrs/nikon_z9
+ReviewData:
+    ExecutiveSummary: The Nikon Z9 is one of the most powerful cameras on the market, capable of up to 30 fps shooting in JPEG or 20 with Raw capture, and able to record 8K/30 video, with the promise of 12-bit Raw 8K/60 capture in a future firmware update. It's also one of relatively few cameras on the market to completely forego a mechanical shutter, a design decision made possible by the impressively fast read-out speed of the new sensor.The Z9 becomes the first Nikon mirrorless camera to offer the company's 3D Tracking AF system, which can be combined with the camera's machine-learning trained subject recognition system. The autofocus system has been trained to recognize three sets of subjects, covering people, animals and vehicles. In 'Auto' mode the Z9 analyzes the scene to detect subjects automatically, without you having to specify.The Z9 adopts the dual-grip form factor of a D6-level DSLR but shares the slightly more angular look of the existing Z-series cameras. Fully loaded with cards and batteries, the Z9 is around 8% lighter than Nikon's existing D6, and it is around 20% smaller in volume. It has a pull-out 2.1M-dot touchscreen that hinges both vertically and horizontally, for portrait or landscape orientation shooting.
+    ProductPhotos:
+        - /files/p/products/nikon_z9/shots/c1a08651ea0d4179bb0f458c0d48dd4b.png
+        - /files/p/products/nikon_z9/shots/3a075a92ae4e45459a10ec5ea4b0dab9.png
+        - /files/p/products/nikon_z9/shots/e5811063c46f4906ba6628fe0aad9697.png
+        - /files/p/products/nikon_z9/shots/1ef738b8dfcf4ee3809b870f83949dfa.png
+        - /files/p/products/nikon_z9/shots/fbd2dd94247c42e98e849e6d6297a6ec.png
+        - /files/p/products/nikon_z9/shots/6b312366691444008615a34749d86686.png
+    ReviewSummary:
+        GoodFor: Sports, photojournalism, wedding and events, video
+        NotSoGoodFor: Travel photography where size and weight are critical.
+        Conclusion: The Nikon Z9 is perhaps the most complete camera we've ever tested. It shoots excellent 45MP images at up to 30fps (20 with Raw), it captures 8K video in everything from 8-bit MP4s to 12-bit N-Raw. Its autofocus system is both powerful and easy to use and works well for both stills and video. It's larger and heavier than some of its rivals, which make it less well suited to some applications, but overall it combines the best of a DSLR and a video camera in a single body.
+    ASIN:
+        - B09KHC4XCT
+        - B08L614R6K
+        - B0BL6W96BR
+Specs:
+    AEBracketing: ""
+    Announced: Oct 28, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL18d
+    BatteryLifeCIPA: "740"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "32"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 6 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 149 x 150 x 91 mm (5.87 x 5.91 x 3.58″)
+    DriveModes:
+        - Single frame, Continuous L, Continuous H, High-speed frame capture, Self-timer
+    EffectivePixels: 46 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG
+        - NEF Raw 14-bit (Lossless, HE*, HE)
+    FlashModes: Front-curtain sync, Rear-curtain sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: Built-in
+    GPSNotes: GPS, GLONASS, QZSS
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageParameters:
+        - Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat. Selected Picture Control can be modified, Storage for custom Picture Controls
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Synchro VR with select lenses
+    JPEGQualityLevels: ""
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $5500 (body only)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 5504
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/32000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 7680 x 4320 @ 30p, MOV, H.265, Linear PCM
+        - 7680 x 4320 @ 25p, MOV, H.265, Linear PCM
+        - 7680 x 4320 @ 23.98p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 120p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 120p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 120p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 100p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 100p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 100p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 60p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 50p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 30p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, ProRes, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 100p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "493"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Via app)
+    Resolutions: ""
+    ReviewPreview: "94%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 14, 2022"
+    SceneModes: ""
+    ScreenDots: 2,088,960
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 52 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.8×
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 1340 g (2.95 lb / 47.27 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 2.4, 5Ghz

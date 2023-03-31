@@ -1,0 +1,133 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211115030331/https://www.dpreview.com/reviews/nikonv1j1
+ProductCode: nikon_v1
+Award: noAward
+ImageURL: /files/p/products/nikon_v1/d6d7d5d8e6004c518bdd9f3d828a7e05.png
+Name: Nikon 1 V1
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 69
+URL: /products/nikon/slrs/nikon_v1
+ReviewData:
+    ExecutiveSummary: The Nikon V1 enthusiast small sensor mirrorless camera is built around what the company is calling a 'CX' format 10MP CMOS sensor. The camera is part of the company's new Nikon 1 line. The V1 is intended as the higher-end model in the lineup and features a magnesium alloy construction and a 1.4M dot electronic viewfinder. It also has an accessory port allowing the connection of the SB-N5 mini speedlight or GP-N100 GPS unit. It can shoot 1080i60 video and combines both phase detection and contrast detection autofocus. The 1" type sensor (13.2mm x 8.8mm) gives a 2.7x crop.Right now by far the biggest advantage that either 1 System camera has over the competition is their adaptive hybrid AF systems. Unless this is of specific interest to you, given the strength of the competition it is very hard to recommend that you go out and buy a V1.
+    ProductPhotos:
+        - /files/p/products/nikon_v1/shots/4d08acfa494041dfbb5d31ef8cb92504.png
+        - /files/p/products/nikon_v1/shots/51789b1919814e4186d87febbfdd27a1.png
+        - /files/p/products/nikon_v1/shots/39c360f3d4194b16bc94afc07c9bd6a7.png
+        - /files/p/products/nikon_v1/shots/4ec7c02550da4829a8d493b4f70029ad.png
+    ReviewSummary:
+        GoodFor: '''Soccer moms'' who shoot fast action outdoors and those who prefer the ergonomic handling of a larger camera body.'
+        NotSoGoodFor: Photographers working indoors in low-light and those who like to work creatively with shallow depth of field.
+        Conclusion: The Nikon V1 has appealing specifications for compact camera owners ready to get serious expensive and users ready to take control over camera settings may be frustrated with a camera designed primarily to be operated in fully automated mode.
+    ASIN:
+        - B005OGR3DM
+        - B0071J3YQU
+        - B005OGR3QY
+Specs:
+    AEBracketing: ""
+    Announced: Sep 21, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL15 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 113 x 76 x 44 mm (4.45 x 2.99 x 1.71″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -3–5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Optional SB-N5 mini speedlight )
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-N100 GPS unit
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3872 x 2592
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "135"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: 3840 x 2160, 2896 x 1944, 1936 x 1296
+    Processor: ""
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60 fps), 1072 x 720 (60 fps) 640 x 240 (400), 320 x 120 (1200)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 20, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

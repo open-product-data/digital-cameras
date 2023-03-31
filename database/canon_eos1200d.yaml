@@ -1,0 +1,126 @@
+ProductCode: canon_eos1200d
+Award: noAward
+ImageURL: /files/p/products/canon_eos1200d/e1b4c6c9596d48f0859fd7500d0353e1.png
+Name: Canon EOS 1200D (EOS Rebel T5 / EOS Kiss X70)
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eos1200d
+ReviewData:
+    ExecutiveSummary: The Canon EOS Rebel T5 is a solid entry-level DSLR with a price that will please the budget-conscious. It improves upon its predecessor, the T3, by upping the HD video resolution to 1080 x 1920 and the sensor's resolution to 18 megapixels. The EOS T5 is also outfitted with a 3-inch, 460,000 dot LCD. Beginners will like the Basic+ control menu, Creative Auto, and Creative Filters, while more advanced shooters will appreciate the T5's manual controls and customization options. Frequently accessed settings are available through the camera's Q-menu, and shooters of all skill levels will find their way around the T5's interface quickly.
+    ProductPhotos:
+        - /files/p/products/canon_eos1200d/shots/099a59e634fe45ab95f7a27022223b40.png
+        - /files/p/products/canon_eos1200d/shots/54f1ed0703f84eadb24fe526b800315c.png
+        - /files/p/products/canon_eos1200d/shots/087ed4ab189540e6b66cb0f3d24944a4.png
+    ReviewSummary: null
+    ASIN:
+        - B00L8CZZQ8
+        - B00IB1BTWI
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Feb 12, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E10 rechargeable battery & charger
+    BatteryLifeCIPA: "500"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $659.99
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 130 x 100 x 78 mm (5.12 x 3.94 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Intelligent Auto
+        - Program
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe, E-TTL II)
+    FileFormat:
+        - JPEG
+        - RAW (CR2)
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 9.20 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200,  400, 800, 1600, 3200, 6400
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $549.99 (with 18-55 F3.5-5.6 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 2592 x 1728
+    Processor: Digic 4
+    RemoteControl: Yes (E3 connector)
+    Resolutions: 1920 x 1080 (30, 25 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT color LCD, liquid-crystal monitor
+    SelfTimer: Yes (10 sec (2 sec with mirror lock-up))
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.8× (0.5× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 images at -/+ 3 steps)
+    WeightIncBatteries: 480 g (1.06 lb / 16.93 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

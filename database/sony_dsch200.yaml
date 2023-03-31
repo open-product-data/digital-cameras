@@ -1,0 +1,120 @@
+ProductCode: sony_dsch200
+Award: ""
+ImageURL: /files/p/products/sony_dsch200/d53a6f498eb0445dbb5ff467d7cc86ab.png
+Name: Sony Cyber-shot DSC-H200
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 24 – 633 mm (26.4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsch200
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Sony Cyber-shot H200 camera features DSLR-like styling and grip design modeled after Sony’s popular range of Alpha interchangeable lens cameras. The H200 features a 26x optical zoom Sony lens, a 20.1 MP Super HAD CCD sensor, 720p HD movie shooting and a bright 3.0” LCD screen.  It is powered by AA batteries.'
+    ProductPhotos:
+        - /files/p/products/sony_dsch200/shots/79d0857bc75d404bade5f64736fdb2cd.png
+        - /files/p/products/sony_dsch200/shots/e65c0a98542e470db1e97529379d5484.png
+        - /files/p/products/sony_dsch200/shots/0a3df3451a5c4b77bd17946e6ff3f8c4.png
+    ReviewSummary: null
+    ASIN:
+        - B00AQDG96K
+Specs:
+    Announced: Jan 8, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Touch
+        - Face Detection
+    Battery: AA
+    BatteryDescription: 4 x AA Alkaline / NiMH batteries
+    BatteryLifeCIPA: "240"
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: "Yes"
+    BuyingOptions: $399.99
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "Yes"
+    Dimensions: 123 x 83 x 87 mm (4.84 x 3.27 x 3.43″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program AE
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+    FlashModes: Auto, On, Off, Slow Sync, Advanced Flash
+    FlashRange: 6.80 m
+    FocalLengthEquiv: 24–633 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5184 x 2920
+    MaximumAperture: F3.1–5.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 26.4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 5184 x 3888, 3648 x 2736, 2592 x 1944, 1920 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Soft snap
+        - Soft Skin
+        - Landscape
+        - Night Portrait
+        - Night Scene
+        - Gourmet
+        - Beach
+        - Snow
+        - Fireworks
+        - Pet mode
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ClearPhoto LCD display
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 530 g (1.17 lb / 18.70 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""

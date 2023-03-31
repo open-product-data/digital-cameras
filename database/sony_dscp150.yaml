@@ -1,0 +1,76 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127001122/https://www.dpreview.com/reviews/sonydscp150/
+ProductCode: sony_dscp150
+Award: highlyRecommended
+ImageURL: /files/p/products/sony_dscp150/f6a37d6f92da425da4f70420bf5de5f6.png
+Name: Sony Cyber-shot DSC-P150
+ShortSpecs:
+    - 7 megapixels
+    - 1.8″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscp150
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0002SQEWS
+Specs:
+    Announced: Jul 21, 2004
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: InfoLithium (NP-FR1) & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 108 x 52 x 27 mm (4.25 x 2.05 x 1.06″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow, Red-eye reduction
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 38–114 mm
+    Format: MPEG VX
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 6 cm (2.36″)
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F2.8–5.2
+    MaximumShutterSpeed: 1/1000 sec
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2592 x 1944, 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: MPEG VX (640 x 480, 16/30 fps, unlimited)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Sep 23, 2004"
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 32 MB Memory Stick
+    StorageTypes: Memory Stick / Pro
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 180 g (0.40 lb / 6.35 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,221 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220117165423/https://www.dpreview.com/reviews/panasonic-lumix-dc-gh5
+ProductCode: panasonic_dcgh5
+Award: gold
+ImageURL: /files/p/products/panasonic_dcgh5/2a6919875a2641fea11e539b745ca9e4.png
+Name: Panasonic GH5
+ShortSpecs:
+    - 20 megapixels
+    - 3.2″ screen
+    - Four Thirds sensor
+ReviewScore: 85
+URL: /products/panasonic/slrs/panasonic_dcgh5
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DC-GH5 is the company's flagship mirrorless camera and one that is focused more toward video than stills. It features a 20.3MP Four Thirds sensor, updated Venus Engine processor, ultra-high resolution EVF and a fully articulating LCD. The rugged body is sealed against the elements and has 5-axis in-body image stabilization. It has an updated Depth from Defocus AF system which can track subjects at 9 fps and offers 225 focus points. The camera has Panasonic's usual stable of features that take advantage of its video capabilities, including Post Focus, Focus Stacking and both 4K and a new 6K Photo mode.The GH5 is a videophile's dream. It can capture 4K/60p footage with no crop, 10-bit 4:2:2 internal recording, optional V-LogL support, a waveform monitor, adjustable luminance levels and much more. An optional adapter adds XLR jacks and numerous audio controls.As expected, the GH5 has built-in Wi-Fi (high-speed 802.11ac in this case) along with NFC and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgh5/shots/ccb21e1d03d64cae94789da7d37c8ab3.png
+        - /files/p/products/panasonic_dcgh5/shots/663dd63bd9514bef8f038ff7cec53c48.png
+        - /files/p/products/panasonic_dcgh5/shots/a3d65186339a40f88936f1381cd271b0.png
+        - /files/p/products/panasonic_dcgh5/shots/aa8a3a2e5f3c4ed99a02e5ee5b7674a0.png
+        - /files/p/products/panasonic_dcgh5/shots/21e1d863140249769e09de1165edf30a.png
+        - /files/p/products/panasonic_dcgh5/shots/231623c252e149068b69e8b2b8d4a585.png
+    ReviewSummary:
+        GoodFor: Videographers who need high-spec video features, photographers who need to capture both stills and video
+        NotSoGoodFor: Photographers who require the highest resolution images
+        Conclusion: The Panasonic GH5 is a camera oriented at videographers, and includes features often found on more expensive pro video gear. It captures video at up to 4K/60p resolution, including 4:2:2 10-bit color up to 4K/30p, and has useful tools like waveforms and built in LUT display to assist with shooting. The body is very solid, includes several custom function buttons, and a very good EVF, though autofocus can hunt a bit in video. It shoots stills as well, producing very good images for a Micro Four Thirds camera.
+    ASIN:
+        - B073X756P6
+        - B01MZ3LQQ5
+        - B07HRLSBQD
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 4, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLF19 lithium-ion battery & charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,397.99 - $3,595.98
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2x, 4x)
+    Dimensions: 139 x 98 x 87 mm (5.47 x 3.86 x 3.43″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Panasonic RW2)
+    FlashModes: Auto, Auto/Redeye Reduction, Forced On, Forced On w/Redeye Reduction, Slow Sync, Slow Sync w/Redeye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    HDMI: Yes (4:2:2 10-bit output up to 30p. (4:2:2 10-bit w/o internal recording, 4:2:2 8-bit with internal recording, at >30p 4K))
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands to 100-25600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis; Supports Dual IS 2
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1999 (body only)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 400 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 72 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 72 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 400 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 72 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 23.98p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "225"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine 10
+    RemoteControl: Yes (via cable release or smartphone)
+    Resolutions: 4096 x 2160 (24p), 3840 x 2160 (60p, 50p, 30p, 25p, 24p), 1920 x 1080 (60p, 50p, 30p, 25p, 24p)
+    ReviewPreview: "85%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 11, 2017"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs; 10 secs w/3 shots)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/SDHC/SDXC (UHS-II compatible)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.52× (0.76× 35mm equiv.)
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 725 g (1.60 lb / 25.57 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/ac with Bluetooth 4.2 LE

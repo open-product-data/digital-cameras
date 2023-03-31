@@ -1,0 +1,141 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220127010346/https://www.dpreview.com/reviews/panasonic-lumix-dmc-gx85-gx80
+ProductCode: panasonic_dmcgx85
+Award: silver
+ImageURL: /files/p/products/panasonic_dmcgx85/def44d4716be4f8992499728f6b8bc97.png
+Name: Panasonic Lumix DMC-GX85
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 82
+URL: /products/panasonic/slrs/panasonic_dmcgx85
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-GX85 is the 'little brother' to the enthusiast-grade GX8, offering the majority of the same features but with a fixed EVF and lower resolution Live MOS sensor. Some of the inherited features include Dual IS, which combines in-body 5-axis and in-lens image stabilization, the company's impressive Depth from Defocus AF system, 4K photo and Post Focus and, of course 4K video capture. New to the GX85 are a 16:9 fixed electronic viewfinder with 2.75 million dots (equivalent) and a tilting 3" touchscreen display. The GX85 also supports Wi-Fi and battery charging over USB.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcgx85/shots/daa5dd56019145209fa901d036a1536e.png
+        - /files/p/products/panasonic_dmcgx85/shots/fc56d222dacb443a82b49d7596c26e59.png
+        - /files/p/products/panasonic_dmcgx85/shots/0951685599bb4815a9057832ad4d968b.png
+        - /files/p/products/panasonic_dmcgx85/shots/c888bfba15754915955d2c1be5fca2dc.png
+        - /files/p/products/panasonic_dmcgx85/shots/8272921ade7b49a2b085701f7975a0b7.png
+        - /files/p/products/panasonic_dmcgx85/shots/b619c27c99e142768fb007772159e41a.png
+        - /files/p/products/panasonic_dmcgx85/shots/bdb2a42bbb8440b99c233beb0729caec.png
+    ReviewSummary:
+        GoodFor: Street, travel and general-use photography. Casual sports shooting. 4K video shooting. Easy social sharing.
+        NotSoGoodFor: Large-handed shooters. Serious videographers needing microphone and/or headphone ports.
+        Conclusion: The GX85 is a sound choice for those seeking a lightweight interchangeable lens camera offering excellent stills and video quality, good ergonomics and solid autofocus. It is also jam packed with useful features like 5-axis sensor-based image stabilization, 4K video capture, a tilting touchscreen, dual control dials and easy-to-use Wi-Fi connectivity.
+    ASIN:
+        - B079VDF7ZG
+        - B01DOKHSH0
+        - B01DOKHS8E
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Apr 5, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $597.99 - $642.94
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 122 x 71 x 44 mm (4.8 x 2.8 x 1.73″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic RW2)
+        - MPO
+    FlashModes: Auto, auto w/redeye reduction, forced on, forced on w/redeye reduction, slow sync, slow sync w/redeye reduction, forced off
+    FlashRange: 6.00 m (at ISO 200)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Dual IS uses sensor and lens-shift (when available)
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: £509 (body only), $799/£599 (w/12-32mm lens), £729 (w/12-32 and 35-100mm lenses)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3448
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3232 x 2424, 2272 x 1704), 3:2 (4592 x 3064, 3232 x 2160, 1824 x 1216), 16:9 (4592 x 2584, 3840 x 2160, 1920 x 1080), 1:1 (3424 x 3424, 2416 x 2416, 1712 x 1712)
+    Processor: Venus Engine
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 3840 x 2160 (30p, 24p), 1920 x 1080 (60p, 60i, 30p, 24p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 14, 2016"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 100Mbps bit rate for 4K
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.39× (0.7× 35mm equiv.)
+    ViewfinderResolution: 2,764,800
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 426 g (0.94 lb / 15.03 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210831233740/https://www.dpreview.com/reviews/sony-cybershot-dsc-hx20v
+ProductCode: sony_dschx20v
+Award: ""
+ImageURL: /files/p/products/sony_dschx20v/1e191f5c7f0043c0a3f18739c00335ad.png
+Name: Sony Cyber-shot DSC-HX20V
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 25 – 500 mm (20×)
+ReviewScore: 74
+URL: /products/sony/compacts/sony_dschx20v
+ReviewData:
+    ExecutiveSummary: The travel-ready Sony Cyber-shot DSC-HX20V is equipped with an 18.2MP CMOS sensor, a compact 20x optical zoom lens and built-in GPS. It offers automatic and a full manual exposure mode alongside popular Sony shooting features like Sweep Panorama. Like many of its Cyber-shot peers it boasts 10 frames per second full-resolution burst shooting and full 1080p HD video. Both stereo sound recording and optical image stabilization are provided in video mode. Advanced shooters will be pleased to find that the HX20V offers white balance bracketing and manual focus, and users of any skill level can appreciate the camera's best-in-class auto focus speed and battery life. Overall the HX20V is incredibly feature-rich and provides enough manual input and automatic shooting features to appeal to a wide range of photographers.
+    ProductPhotos:
+        - /files/p/products/sony_dschx20v/shots/6c008e938468402e90e18e3eb5868295.png
+        - /files/p/products/sony_dschx20v/shots/91325e18777b4028914c93850228fb67.png
+        - /files/p/products/sony_dschx20v/shots/d822997746534324a2a7bd23582247fc.png
+    ReviewSummary:
+        GoodFor: Photographers who want a big lens in a small package, with useful features like HDR, Anti Motion Blur, and Sweep Panorama that make your pictures a lot more interesting. Movie lovers will also enjoy the HX20V's impressive video specification.
+        NotSoGoodFor: Those planning on making large prints or inspecting images at 100% on their computer screen. Manual control and burst mode enthusiasts may also find the HX20V a bit lacking.
+        Conclusion: The Cyber-shot DSC-HX20V features great automatic shooting modes (plus limited manual controls), several gimmicky-sounding features that are actually useful, a GPS that works quietly in the background, and 1080/60p movie mode. Image quality isn't class leading when viewed full size, but the HX20V's target audience probably won't be doing much of that.
+    ASIN:
+        - B006K551WQ
+Specs:
+    AEBracketing: ""
+    Announced: Feb 28, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery and charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (40x)
+    Dimensions: 107 x 62 x 35 mm (4.21 x 2.44 x 1.38″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Superior Auto
+        - Intelligent Auto
+        - Easy Shooting
+        - Program Auto
+        - Movie Mode
+        - Panorama
+        - Manual Exposure
+        - Scene Selection
+        - Picture Effect
+        - 3D
+        - Background Defocus
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - '3D: MPF'
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 7.10 m
+    FocalLengthEquiv: 25–500 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: with GPS Log Recording function
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: Approx. $400
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.2–5.8
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 20×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4912 x 1080, 4896 x 2752, 3648 x 2736, 3424 x 1920, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (30 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "74%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 21, 2012"
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Soft Snap
+        - Soft Skin
+        - Anti Motion Blur
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Advanced Sports Shooting
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: XtraFine TruBlack TFT LCD
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 105 MB
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 254 g (0.56 lb / 8.96 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

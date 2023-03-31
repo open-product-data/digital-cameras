@@ -1,0 +1,148 @@
+ProductCode: panasonic_dcgf10
+Award: ""
+ImageURL: /files/p/products/panasonic_dcgf10/49194711a7a24d1da9c784ae08fb00bc.png
+Name: Panasonic Lumix DC-GF10 (GF90)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcgf10
+ReviewData:
+    ExecutiveSummary: The Panasonic DC-GF10 (also known as the GF90 in Japan) is a compact Micro Four Thirds camera with an emphasis on style and self-portraits. The camera sports a 16MP Live MOS Four Thirds sensor, with no optical low-pass filter. It uses Panasonic's Depth From Defocus AF system and is capable of 5 fps bursts with continuous autofocus. You can now use continuous shooting in 'Self Shot' mode, with a rate of 15 fps. A touch-sensitive 3-inch 1.04M-dot tilting monitor can be flipped up 180-degrees for selfies and a variety of modes and functions are available to aide the selfie-obsessed. It can capture 4K/UHD (30p/24p) video; a 4K Photo function allows for 8MP still extraction from video while Post Focus and Focus Stacking allow users to select what area(s) they want in focus. Built-in Wi-Fi allows for easy transfer of images to ones devices as well as remote shooting capabilities.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgf10/shots/601a3ef5d07b425b923b87016945d3d1.png
+        - /files/p/products/panasonic_dcgf10/shots/5f6a849c1cf240c9a5e4e15c4f5ad69a.png
+        - /files/p/products/panasonic_dcgf10/shots/d879598915144b5ab825f3c6f919de8e.png
+    ReviewSummary: null
+    ASIN:
+        - B09T2RJ27P
+        - B08FCYFL42
+        - B08B7W6L82
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Feb 1, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BLH7
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Composite
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2X - 4X)
+    Dimensions: 107 x 65 x 33 mm (4.21 x 2.56 x 1.3″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic RW2)
+        - MPO
+    FlashModes: Auto, auto w/redeye reduction, on, on w/redeye reduction, slow sync, slow sync w/redeye reduction
+    FlashRange: 4.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/50 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (extends down to 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3448
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/500 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, MP4, H.264, AAC
+        - 3840 x 2160 @ 24p / 100 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 20 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 30p / 10 Mbps, MP4, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2, 10 sec, 3 images/10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 270 g (0.60 lb / 9.52 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

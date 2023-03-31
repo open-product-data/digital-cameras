@@ -1,0 +1,164 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211123044038/https://www.dpreview.com/reviews/sony-a1-review
+ProductCode: sony_a1
+Award: gold
+ImageURL: /files/p/products/sony_a1/0520313482f541178ce2cd6382f08129.png
+Name: Sony a1
+ShortSpecs:
+    - 50 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 93
+URL: /products/sony/slrs/sony_a1
+ReviewData:
+    ExecutiveSummary: The Sony Alpha 1 (a1) is a high-end full-frame mirrorless camera with a 50MP Stacked BSI-CMOS sensor and in-body image stabilization. The a1 offers blackout-free shooting on its giant 9.44M-dot (240 fps) EVF at burst rates of up to 30 fps. It has Sony's latest autofocus system, with fast processing and face/eye/animal detection. The electronic shutter is designed to eliminate flicker and offers a flash sync of 1/200 sec (it's an impressive 1/400 sec with the mechanical shutter).A 'Pixel Shift Multi Shooting' mode combines 16 exposures into a 199MP image, which must be processed on a PC. Speaking of which, the camera can be controlled over dual band Wi-Fi, or tethered to a PC via USB or Ethernet. In addition to supporting the standard HEIF format, Sony has added a 'Light HIEF/JPEG' option for smaller file sizes.The a1 captures oversampled 8K/30p at a bit rate of 400Mbps as well as oversampled 4K at up to 120 fps. The camera can record 10-bit 4:2:2 video, and supports S-Cinetone, S-Log2/3, and HLG Log formats. 16-bit Raw recording to compatible external recorders is also available. The a1's body is designed to allow 30 minutes of continuous 8K recording.The a1 uses the NP-FZ100 battery with up to 530 shots/charge with the LCD and 430 with the EVF. A battery grip is optional.
+    ProductPhotos:
+        - /files/p/products/sony_a1/shots/6e803e000613403d9b4a3c31105d66ad.png
+        - /files/p/products/sony_a1/shots/e61c46b9567648f5b6f7c8eb8985f7fc.png
+        - /files/p/products/sony_a1/shots/cff330f13c424203900a6920ac7096c9.png
+        - /files/p/products/sony_a1/shots/a3af55fbbf6b4f08a76fdc4e511c71d9.png
+        - /files/p/products/sony_a1/shots/548d3534c0dc44ba895ebb931515b0c1.png
+        - /files/p/products/sony_a1/shots/07fc97bd199940ca935900b4b446bc81.png
+        - /files/p/products/sony_a1/shots/bb1a555413f64569a904a871a983cc6c.png
+    ReviewSummary:
+        GoodFor: Photographers capturing fast action, landscapes, weddings and events, portraiture and studio work or high-quality video.
+        NotSoGoodFor: Photographers that don't need (or won't benefit from) the a1's combination of abilities. Those that need maximum resolution and dynamic range.
+        Conclusion: The Sony a1 is the most refined Alpha-series interchangeable lens camera yet. Its combination of speed and resolution for both stills and video set it apart in a crowded field of excellent options, though that combination is also responsible for the price it commands. But the fact remains, most any professional photographer will be able to use the a1 for most anything they'd think to shoot.
+    ASIN:
+        - B08V226T8Q
+        - B08V4JXS8W
+        - B0B811TCDN
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Jan 26, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery & charger
+    BatteryLifeCIPA: "530"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $6,747.99 - $7,096.00
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, Rec. 2020
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 129 x 97 x 81 mm (5.08 x 3.82 x 3.19″)
+    DriveModes: ""
+    EffectivePixels: 50 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - HEIF
+        - Raw (Sony ARW v4.0)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/400 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    HDMI: Yes (Standard)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-32000 (expands to 50-102400)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard, light
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $6500 (body only)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 8640 x 5760
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 7680 x 4320 @ 30p / 400 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 7680 x 4320 @ 25p / 400 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 7680 x 4320 @ 24p / 400 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 120p / 280 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 100p / 280 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "759"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Dual Bionz XR
+    RemoteControl: Yes (via Bluetooth or tethered PC)
+    Resolutions: ""
+    ReviewPreview: "93%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 22, 2021"
+    SceneModes: ""
+    ScreenDots: 1,440,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 51 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: Dual SD/CFexpress Type A slots (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.9×
+    ViewfinderResolution: 9,437,184
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 737 g (1.62 lb / 26.00 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (Dual Band)

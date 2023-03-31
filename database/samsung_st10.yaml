@@ -1,0 +1,94 @@
+ProductCode: samsung_st10
+Award: ""
+ImageURL: /files/p/products/samsung_st10/f63b313ee90046fc957def47b79cabda.png
+Name: Samsung ST10 (CL50)
+ShortSpecs:
+    - 9 megapixels
+    - 3″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_st10
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/samsung_st10/shots/a2483ba20d8a40c8a6fea1de09eccdd6.png
+        - /files/p/products/samsung_st10/shots/cf2299bea2ea4c75ba6d7b6c2b69bf8c.png
+        - /files/p/products/samsung_st10/shots/0408f0a433b84e18b697743c360badbd.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Touch
+        - Face Detection
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (5x)
+    Dimensions: 90 x 60 x 19 mm (3.54 x 2.36 x 0.75″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, Auto & Red-eye reduction, Fill-in flash, Slow sync, Flash off, Red eye fix
+    FlashRange: 3.10 m
+    FocalLengthEquiv: 38–114 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200 (Up to 3M)
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.7–4.9
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2592 x 1944, 2048 x 1536, 1024 x 768
+    RemoteControl: "No"
+    Resolutions: 800 x 600 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec, 2 sec, Double, Motion Timer)
+    SensorPhotoDetectors: 9 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/MMC/MMCplus card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

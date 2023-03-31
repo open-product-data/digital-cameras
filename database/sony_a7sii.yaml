@@ -1,0 +1,136 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210924223502/https://www.dpreview.com/reviews/2015-roundup-high-end-interchangeable-lens-cameras-2000
+ProductCode: sony_a7sii
+Award: ""
+ImageURL: /files/p/products/sony_a7sii/248ea6398ded4f12b6b12c2ead4fca08.png
+Name: Sony a7S II
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_a7sii
+ReviewData:
+    ExecutiveSummary: The 12MP a7S II is Sony's flagship 'hybrid' stills and video mirrorless interchangeable lens camera. Offering ultra-high sensitivity and wide dynamic range across the entire ISO range plus 5-axis image stabilization for greater shooting control, the a7S II is ideally suited to capturing stills and video in challenging lighting conditions. Full-frame 4K video can be recorded internally with full pixel readout and no pixel binning, and full HD video can be captured at 120fps at 100Mbps. The a7S II delivers an ISO sensitivity range of ISO 50-4096001 for both stills and video capture.
+    ProductPhotos:
+        - /files/p/products/sony_a7sii/shots/1d35e3940f7448738c0f3cd7c8309381.png
+        - /files/p/products/sony_a7sii/shots/dcfd9b8c720b487dae1f258d6b052817.png
+        - /files/p/products/sony_a7sii/shots/9179ad248eb0468c8e61589401ba5b4e.png
+        - /files/p/products/sony_a7sii/shots/88971af32b0743dd831c7c6d397deac3.png
+    ReviewSummary: null
+    ASIN:
+        - B0158SRJVQ
+        - B07KBQZN2Q
+        - B08D4PM8HQ
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 11, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "370"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "409600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 127 x 96 x 60 mm (5 x 3.78 x 2.36″)
+    DriveModes:
+        - Single, continuous, speed priority continuous, self-timer, bracketing (AE, white balance, DRO)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat:
+        - JPEG (Exif v2.3, DCF 2.0)
+        - RAW (ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4:2:2 8-bit 4K or 1080 video output)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-102400 (expands to 50-409600)
+    ImageParameters:
+        - Contrast, saturation, sharpness
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $3000
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4240 x 2832
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "169"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4240 x 2384, 2768 x 1848, 2768 x 1560, 2128 x 1416, 2128 x 1200, 1376 x 920, 1376 x 776
+    Processor: Bionz X
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: 4K (3840 x 2160 @ 30p/24p [60-100Mbps]), Full HD (1920 x 1080 @ 120p/60p/60i/30p/24p [50-100Mbps]), 720p (30p [16Mbps])
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 25, 2015"
+    SceneModes:
+        - Portrait, Landscape, Macro, Sports Action, Sunset, Night Portrait, Night Scene, Hand-held Twilight, Anti Motion Blur
+    ScreenDots: 1,228,800
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: XLR support via adapter
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.78×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 627 g (1.38 lb / 22.12 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

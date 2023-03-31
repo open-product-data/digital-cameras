@@ -1,0 +1,117 @@
+ProductCode: nikon_cps80
+Award: ""
+ImageURL: /files/p/products/nikon_cps80/baf056bfbc864638b0d327348f20a9c2.png
+Name: Nikon Coolpix S80
+ShortSpecs:
+    - 14 megapixels
+    - 3.5″ screen
+    - 35 – 175 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps80
+ReviewData:
+    ExecutiveSummary: The stylish Nikon CoolPix S80 is a touch-screen card-style compact camera. It features a multi-touch OLED screen to offer both improved responsiveness and image contrast. The 17mm deep S80 is based around a 14.1MP sensor and a stabilized 5x optical zoom that offers a 35-175mm equivalent range. It also includes stereo microphones to complement its 720p movie recording capability.
+    ProductPhotos:
+        - /files/p/products/nikon_cps80/shots/606b2f621bee434aa98e4d752d816c2c.png
+        - /files/p/products/nikon_cps80/shots/b51ed521684f43799e617e519fda91a1.png
+        - /files/p/products/nikon_cps80/shots/c71f10e3a1ef4d96aa371205c36bc845.png
+        - /files/p/products/nikon_cps80/shots/dbb5166ecd254b2d8656ab9964ee1856.png
+        - /files/p/products/nikon_cps80/shots/ee0da065c87d4d2f8268dca0271c5b82.png
+    ReviewSummary: null
+    ASIN:
+        - B00427ZLTW
+Specs:
+    AEBracketing: ""
+    Announced: Sep 8, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL10
+    BatteryLifeCIPA: "150"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4 x)
+    Dimensions: 99 x 63 x 17 mm (3.9 x 2.48 x 0.67″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 35–175 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 80, 100, 200, 400, 800, 1600 (3200 and 6400 at 3.1MP)
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MSRP: ""
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.6–4.8
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Expeed C2
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 819,000
+    ScreenSize: 3.5″
+    ScreenType: OLED
+    SelfTimer: ""
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 79 MB
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 133 g (0.29 lb / 4.69 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,89 @@
+ProductCode: kodak_dcs315
+Award: ""
+ImageURL: /files/p/products/kodak_dcs315/0c9f650f33c14755842a1205ea69f282.png
+Name: Kodak DCS315
+ShortSpecs:
+    - 2 megapixels
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs315
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jul 13, 1998
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: AA
+    BatteryDescription: AA (6) batteries (Lithium / NiMH)
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 137 x 76 x 174 mm (5.39 x 2.99 x 6.85″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.7×
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: n/a
+    LensMount: Nikon F
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1520 x 1008
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1″ (13.8 x 9.2 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: PCMCIA (type II or III)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (??)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1800 g (3.97 lb / 63.49 oz)
+    WhiteBalancePresets: "8"

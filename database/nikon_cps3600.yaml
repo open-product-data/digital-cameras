@@ -1,0 +1,119 @@
+ProductCode: nikon_cps3600
+Award: ""
+ImageURL: /files/p/products/nikon_cps3600/a339ab9bec38472db5978bf4f5119762.png
+Name: Nikon Coolpix S3600
+ShortSpecs:
+    - 20 megapixels
+    - 2.7″ screen
+    - 25 – 200 mm (8×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cps3600
+ReviewData:
+    ExecutiveSummary: The Nikon S3600 features an 8x optical zoom, a 20.1 megapixel CCD sensor and a 2.7-inch LCD screen.  It also include 18 scene modes and 720p HD video with Hybrid VR.
+    ProductPhotos:
+        - /files/p/products/nikon_cps3600/shots/4fdcde956dbc429aa36abbec32c0c101.png
+    ReviewSummary: null
+    ASIN:
+        - B00HQ4W58I
+        - B00HQ4W5HO
+        - B00HQ4W6BY
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL19 rechargeable battery
+    BatteryLifeCIPA: "230"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "3200"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 58 x 20 mm (3.82 x 2.28 x 0.78″)
+    DriveModes:
+        - Best Shot Selector, Continuous, Multi-shot 16, Single
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto, Scene, Scene Auto Selector, Smart Portrait
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+    FlashModes: ""
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 25–200 mm
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 80-1600 (3200 in Auto mode)
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $139.95
+    MacroFocusRange: 2 cm (0.59″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 5152 x 3864
+    MaximumAperture: F3.7–6.6
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280x720p (30fps) , 1280x720 (25p), 640x480 (30fps )
+    ReviewPreview: ""
+    SceneModes:
+        - Back Light, Beach, Black and White Copy, Close Up, Dusk/Dawn, Fireworks Show, Food, Museum, Night Landscape, Night Portrait, Panorama Assist, Party/Indoor, Pet Portrait, Portrait, Snow, Sports, Sunset
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: Yes (10 or 2 seconds)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 125 g (0.28 lb / 4.41 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

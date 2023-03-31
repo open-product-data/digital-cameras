@@ -1,0 +1,80 @@
+ProductCode: epson_cp850z
+Award: ""
+ImageURL: /files/p/products/epson_cp850z/131e3ae8c48a47e1a96007e16fa22e6d.png
+Name: Epson PhotoPC 850 Zoom
+ShortSpecs:
+    - 2 megapixels
+    - 2″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/epson/compacts/epson_cp850z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Aug 30, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: ""
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/5 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Unknown
+    FlashRange: ""
+    FocalLengthEquiv: 35–105 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: HyPict, Super Fine, Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2–2.8
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: Unknown
+    StorageTypes: Compact Flash (Type I or II)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (10s - 24hours)
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

@@ -1,0 +1,80 @@
+ProductCode: epson_photopc750z
+Award: ""
+ImageURL: /files/p/products/epson_photopc750z/193f4361e3ac49d7a6c348dfe6355981.png
+Name: Epson PhotoPC 750 Zoom
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/epson/compacts/epson_photopc750z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Nov 9, 1998
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA NiMH (4) batteries & charger (supplied)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (3 x)
+    Dimensions: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Forced, Off, Slow sync
+    FlashRange: ""
+    FocalLengthEquiv: 34–102 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    HDMI: "No"
+    ISO: 90, 180, 360
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: HyPict, Super Fine, Fine, Standard
+    LensMount: ""
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/750 sec
+    MeteringModes: ""
+    MinimumShutterSpeed: 1/4 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash, Internal 4MB
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

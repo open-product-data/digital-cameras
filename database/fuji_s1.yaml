@@ -1,0 +1,119 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210926231830/https://www.dpreview.com/reviews/fujis1pro/
+ProductCode: fuji_s1
+Award: recommended
+ImageURL: /files/p/products/fuji_s1/319a8851016c46bc84ac4c123ba30b80.png
+Name: Fujifilm FinePix S1 Pro
+ShortSpecs:
+    - 3 megapixels
+    - 2″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fuji_s1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B08KYH5Q24
+        - B084ZTV3QK
+        - B084B3Z8FX
+Specs:
+    AEBracketing: ""
+    Announced: Jan 31, 2000
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended) + 2 x CR123A lithium
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 148 x 125 x 80 mm (5.83 x 4.92 x 3.15″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye reduction, Slow Sync
+    FlashRange: 15.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 320, 400, 800, 1600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Basic, Normal, Fine
+    LensMount: Nikon F
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3040 x 2016
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: 2340 x 1536, 1440 x 960
+    Processor: ""
+    RemoteControl: Yes (Optional)
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Aug 9, 2000"
+    SceneModes: ""
+    ScreenDots: 200,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: APS-C (23 x 15.5 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 16 MB SmartMedia
+    StorageTypes: SmartMedia, Compact Flash Type I or II
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: TIFF
+    ViewfinderCoverage: 90%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 820 g (1.81 lb / 28.92 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

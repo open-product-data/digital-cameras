@@ -1,0 +1,124 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210928124905/https://www.dpreview.com/reviews/q210grouptravelzoom
+ProductCode: sony_dschx5
+Award: ""
+ImageURL: /files/p/products/sony_dschx5/9a78b2d2edf3462f80633fab791f7d71.png
+Name: Sony Cyber-shot DSC-HX5
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 70
+URL: /products/sony/compacts/sony_dschx5
+ReviewData:
+    ExecutiveSummary: 'Released summer 2010, the feature-rich Sony Cyber-shot HX5 comes equipped with a 10MP Exmor R back illuminated CMOS sensor, 25-250mm lens and offers AVCHD 1080i Full HD movie recording, image stabilization and Intelligent Sweep Panorama. The HX5 is also equipped with a built-in GPS and compass. Externally, the Cyber-shot DSC-HX5 is similar to the H55, but the few differences between the two models are fairly major. Although the span of the lens is the same, at 25-250mm in both models, they do not share a sensor. The HX5''s sensor is of a lower resolution than the H55, at 10 rather than 14 million pixels, but it is EXMOR-R, a backlit CMOS type, designed to be more sensitive in poor light than a conventional small-format imager. It also packs a powerful video mode, and offers 1080p HD video   recording, in the AVCHD format. The HX5 also adds a built-in GPS   receiver and magnetometer (or in plain English: a compass). Other features include Sony''s Super SteadyShot optical stabilisation system, and the same Smile Shutter and blink detection modes that are found on the H55. Overall, the HX5 is essentially a good camera, let down by very little customization and poor operational speed.'
+    ProductPhotos:
+        - /files/p/products/sony_dschx5/shots/8a6be44afb63458687d0aaaae1905748.png
+        - /files/p/products/sony_dschx5/shots/957dded5502a4910a03ff11a385d37cf.png
+        - /files/p/products/sony_dschx5/shots/bee762d46fd849b091b2b0d3722f5ec7.png
+        - /files/p/products/sony_dschx5/shots/312d63d108794f75aeda401ff7e7b9c6.png
+    ReviewSummary:
+        GoodFor: General photography, especially travel, where the compass and GPS are really useful. Movie mode is excellent too.
+        NotSoGoodFor: More advanced users, or fast-changing environments where speed is of the essence.
+        Conclusion: Judged on image quality alone, the Sony Cyber-shot DSC-HX5 would be amongst the best performers in this group test. Like the H55 though, the HX5 doesn't offer a lot of control, and its operational speed is slower than we expect for a camera of this type and pricepoint. As a point-and-shoot, though, the HX5 excells.
+    ASIN:
+        - B003DW9VU2
+        - B00328HR76
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BG1 battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (14x)
+    Dimensions: 102 x 58 x 29 mm (4.02 x 2.28 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.80 m
+    FocalLengthEquiv: 25–250 mm
+    Format: AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 3456 x 2592
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 100 cm (39.37″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3456 x 2304, 3456 x 1944, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: Bionz
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1440 x 1080 (60, 30fps), 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "70%DPReview score\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jun 16, 2010"
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, portrait1/portrait2)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.4" (6.104 x 4.578 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 45 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo/ PRO HG-Duo, optional SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

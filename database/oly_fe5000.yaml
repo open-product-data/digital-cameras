@@ -1,0 +1,87 @@
+ProductCode: oly_fe5000
+Award: ""
+ImageURL: /files/p/products/oly_fe5000/03a0641db9d74783a06a5e9e74f1ad91.png
+Name: Olympus FE-5000
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 36 – 180 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe5000
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/oly_fe5000/shots/e2f809424b7b4f77801ca7041fcaede5.png
+        - /files/p/products/oly_fe5000/shots/67d6da52d07d4fd18d801796d982fe21.png
+        - /files/p/products/oly_fe5000/shots/1f161e3294074820b31cf4db37291ec9.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jan 7, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 97 x 57 x 20 mm (3.82 x 2.24 x 0.79″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off, On
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 36–180 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: ""
+    ISO: Auto, High Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: 16:9, 4:3, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480, 1920 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (12 seconds)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 48 MB
+    StorageTypes: xD-Picture Card, microSD, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "7"

@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211208060356/https://www.dpreview.com/reviews/canoneos60d
+ProductCode: canon_eos60d
+Award: silver
+ImageURL: /files/p/products/canon_eos60d/5cd3dbd5fa084ffb80c8f3003be61d8c.png
+Name: Canon EOS 60D
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eos60d
+ReviewData:
+    ExecutiveSummary: With the 18MP EOS 60D Canon has unashamedly moved the X0D range out of the 'semi pro' bracket and instead focused on the enthusiast photographer looking to upgrade from their Rebel. From a spec and feature point of view it sits almost exactly half-way between the EOS 550D and the EOS 7D. Key features include an articulated LCD screen, a 18MP CMOS sensor, an ISO span of ISO 100-3200 (expandable to 12,800) and 1080p movie mode.
+    ProductPhotos:
+        - /files/p/products/canon_eos60d/shots/dded558ce4ae44158dcb840369683aea.png
+        - /files/p/products/canon_eos60d/shots/9e7b1c1a110643eb94032646cc3b0674.png
+        - /files/p/products/canon_eos60d/shots/d4835219dd94454ca3fef5a6fe5b39b7.png
+        - /files/p/products/canon_eos60d/shots/431cc3c97f7647dcaadca2c17b263d46.png
+        - /files/p/products/canon_eos60d/shots/3538b8ce4fc0498789500bed9282cb97.png
+    ReviewSummary:
+        GoodFor: Enthusiast photographers beginning to outgrow their first DSLR. Videographers wanting control over their footage.
+        NotSoGoodFor: Demanding users who need the greater speed, sophistication and durability of a semi-pro grade camera.
+        Conclusion: The 60D is probably best understood as a 'super Rebel.'  It's a more comfortable, more flexible, and faster-to-use version of Canon's justly popular entry-level DSLRs. The twin dial controls, better grip, and bigger viewfinder will delight stills shooters while the articulated screen and movie control will please would-be videographers.
+    ASIN:
+        - B0040JHVCC
+        - B0040JHVC2
+        - B0049WJWJ0
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Aug 26, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion LP-E6 rechargeable battery & charger
+    BatteryLifeCIPA: "1100"
+    BodyMaterial: ""
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $879.99 - $999.95
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 145 x 106 x 79 mm (5.71 x 4.17 x 3.11″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: Yes (Water and Dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus Sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off,  Red-eye
+    FlashRange: 13.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6×
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (HDMI mini)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, (12800 with boost)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3456
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "9"
+    OrientationSensor: "Yes"
+    OtherResolutions: 5184 x 2912, 4608 x 3456, 3456 x 3456, 3456 x 2304, 3456 x 1944, 3072 x 2304, 2592 x 1456, 2592 x 1728, 2304 x 1728, 2304 x 2304, 1920 x 1280, 1920 x 1080, 1728 x 1728, 1696 x 1280, 1280 x 1280, 720 x 480, 720 x 400, 640 x 480, 480 x 480
+    Processor: Digic 4
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (29.97, 25, 23.976 fps), 1280 x 720 (59.94, 50 fps), 640 x 480 (59.94, 50 fps)
+    ReviewPreview: "79%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 10, 2010"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: Clear View TFT color LCD
+    SelfTimer: Yes (2 or 10 sec, remote)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (by USB cable and PC)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 96%
+    ViewfinderMagnification: 0.95× (0.59× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 755 g (1.66 lb / 26.63 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

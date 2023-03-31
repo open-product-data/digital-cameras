@@ -1,0 +1,86 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211130183125/https://www.dpreview.com/reviews/sonydscv1/
+ProductCode: sony_dscv1
+Award: highlyRecommended
+ImageURL: /files/p/products/sony_dscv1/0e3e0853156c496889dcefbcc4c18b57.png
+Name: Sony Cyber-shot DSC-V1
+ShortSpecs:
+    - 5 megapixels
+    - 1.5″ screen
+    - 34 – 136 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscv1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00008O35T
+Specs:
+    Announced: Feb 24, 2003
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: InfoLithium (NP-FC11) & charger
+    BodyType: Ultracompact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x (VGA))
+    Dimensions: 99 x 65 x 57 mm (3.9 x 2.56 x 2.24″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Off, Ext
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 34–136 mm
+    Format: MPEG VX
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (13 steps)
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F2.8–4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 4×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960, 640 x 480
+    RemoteControl: Yes (Optional wired)
+    Resolutions: MPEG VX (640 x 480, 16 fps, unlimited)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jul 1, 2003"
+    ScreenDots: 123,000
+    ScreenSize: 1.5″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB Memory Stick
+    StorageTypes: Memory Stick / Pro
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 298 g (0.66 lb / 10.51 oz)
+    WhiteBalancePresets: "5"

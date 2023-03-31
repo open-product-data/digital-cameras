@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211028134643/https://www.dpreview.com/reviews/fujifilm-x100v-review
+ProductCode: fujifilm_x100v
+Award: gold
+ImageURL: /files/p/products/fujifilm_x100v/8fbdf07b974a48eaa3ed0d1377e274b8.png
+Name: Fujifilm X100V
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+ReviewScore: 87
+URL: /products/fujifilm/compacts/fujifilm_x100v
+ReviewData:
+    ExecutiveSummary: The Fujifilm X100V is a rangefinder-style camera with a fixed 35mm equiv. F2 lens. It has a unique viewfinder that can be optical or electronic, along with a tilting touchscreen LCD. The camera has dials for just about everything, giving it the feel of cameras from days past. The X100V uses Fujifilm's 26MP X-Trans CMOS sensor along with the company's latest AF system, which includes face and eye detection. In addition to taking high-res stills, the X100V can also capture both DCI and UHD 4K video for up to 10 minutes, and supports F-Log and Eterna.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x100v/shots/934af16c169c438dbb4b40f7c25cb8db.png
+        - /files/p/products/fujifilm_x100v/shots/99507c73ec6f4d25a6439520fa9a3268.png
+        - /files/p/products/fujifilm_x100v/shots/7f0ef59aead44c66a1541680b2a23f9b.png
+        - /files/p/products/fujifilm_x100v/shots/3201fd0839694a4ba19936b0f64b3298.png
+        - /files/p/products/fujifilm_x100v/shots/ee7a76da07f140c8a093962b53c0d85c.png
+    ReviewSummary:
+        GoodFor: Street and documentary photography and videography, environmental portraiture, social snapshots, travel.
+        NotSoGoodFor: Vlogging, sports and action where longer focal lengths are required, high-res landscape photography.
+        Conclusion: The X100V is an engaging, well-built camera that produces beautiful images, has best-in-class video, excellent autofocus and optional weather-sealing. Meaningful updates like a tilting touchscreen, updated viewfinder and redesigned lens have us largely looking past its imperfections. Assuming you like the 35mm-equivalent focal length, it makes a strong case as a photographer's carry-everywhere compact that's good for all kinds of photography.
+    ASIN:
+        - B084B3Z8FX
+        - B084B438ZP
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV steps)
+    Announced: Feb 4, 2020
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "420"
+    BodyMaterial: Magnesium alloy, aluminum
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 128 x 75 x 53 mm (5.04 x 2.95 x 2.09″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: Yes (with optional filter holder and filter)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - Raw (Fujifilm RAF, 14-bit)
+    FlashModes: Auto, Standard, Slow Sync, Manual, Commander, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $1399
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumAperture: F2–16
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 4096 x 2160 @ 30p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: "425"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor Pro 4
+    RemoteControl: Yes (via cable release or smartphone)
+    Resolutions: ""
+    ReviewPreview: "87%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 8, 2020"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.52×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 478 g (1.05 lb / 16.86 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

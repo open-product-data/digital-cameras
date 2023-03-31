@@ -1,0 +1,126 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20221013140459/https://www.dpreview.com/reviews/sony-zv-1f-review
+ProductCode: sony_zv1f
+Award: ""
+ImageURL: /files/p/products/sony_zv1f/fa5a9ba5ae984cd1b6647e7339ecb76a.png
+Name: Sony ZV-1F
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 22 mm
+ReviewScore: 78
+URL: /products/sony/compacts/sony_zv1f
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_zv1f/shots/435d62eebd0d453a8c4a6a605c8c0b3d.png
+        - /files/p/products/sony_zv1f/shots/0e1948d83fc2424e99e8d696a0fc9950.png
+        - /files/p/products/sony_zv1f/shots/ee16f193dea3422d87d32074c7bdd6f2.png
+        - /files/p/products/sony_zv1f/shots/462d43551e114b3ab04e1c03713a57e9.png
+        - /files/p/products/sony_zv1f/shots/8ee40765ddbf4c9d80d7a8b40fe6c224.png
+    ReviewSummary:
+        GoodFor: Vlogging, video capture, and social media.
+        NotSoGoodFor: Users who need advanced video features or still photographers who want to capture Raw images.
+        Conclusion: 'The ZV-1F is a camera aimed at vloggers and others who want to film themselves. It features vlog-friendly features such as a wide, 20mm equivalent lens, a good microphone with a detachable wind screen, and Sony''s ''product showcase'' mode, which automatically detects when you''re holding an object in front of the camera and focuses on it. Still photographers intrigued by the idea of a compact camera with a wide angle lens for travel or street use take note: the ZV-1F doesn''t capture Raw images, so you may want to look elsewhere.'
+    ASIN:
+        - B09BBLH4SG
+        - B0BY6XDF8P
+        - B0BRQSRZWC
+Specs:
+    AEBracketing: ""
+    Announced: Oct 13, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-BX1
+    BatteryLifeCIPA: "360"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: 16.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "Yes"
+    Dimensions: 106 x 60 x 46 mm (4.17 x 2.36 x 1.81″)
+    DriveModes:
+        - Single, Continuous
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 22 mm
+    FocalLengthMultiplier: 2.72×
+    Format: XAVC S, H.264
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: Electronic Image Stabilization, Movie Only
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $499
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: ""
+    MaximumAperture: F2–22
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "425"
+    OpticalZoom: 1×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: "78%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 13, 2022"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: LCD
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD-HC (UHS-I)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 256 g (0.56 lb / 9.03 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi (2.4GHz), Bluetooth

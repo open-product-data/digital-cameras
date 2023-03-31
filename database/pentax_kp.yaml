@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220101125115/https://www.dpreview.com/reviews/pentax-kp-review
+ProductCode: pentax_kp
+Award: silver
+ImageURL: /files/p/products/pentax_kp/007437b8c496465d95539a378c353117.png
+Name: Pentax KP
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 82
+URL: /products/pentax/slrs/pentax_kp
+ReviewData:
+    ExecutiveSummary: Ricoh's Pentax KP features a new 24MP APS-C sensor with a top ISO of 819200 and an electronic shutter that can reach 1/24000 sec. It's the first Pentax camera to offer 'Shake Reduction II' 5-axis in-body image stabilization, which can reduce shake by up to 5 stops with nearly any lens you attach. The SAFOX 11 autofocus system features 27 points, 25 of which are cross-type.The compact body is weather-sealed and functions at tempatures down to -10C/+14F. The camera has replaceable grips, making it comfortable to hold for nearly everyone. Keeping with Pentax tradition, the KP has a pentaprism optical viewfinder with 100% coverage and a 0.95x (0.63x equiv.) magnification. A tilting 3" touchscreen LCD is also available.The KP can shoot continuously at up to 7 fps and can capture video at up to 1080/60i (a 30p option is available for those who want to avoid interlacing). As one would expect, Wi-Fi is built-in. The camera uses the familiar D-LI109 battery and can take up to 390 shots per charge.
+    ProductPhotos:
+        - /files/p/products/pentax_kp/shots/36cd73b6b52641ac87b739904fccb8d0.png
+        - /files/p/products/pentax_kp/shots/071265c1735a492c8345cef5f56739db.png
+        - /files/p/products/pentax_kp/shots/fce56cbe62d34b168be187fdad4e0c81.png
+        - /files/p/products/pentax_kp/shots/0b79d0c0ce014e6597efac94ca7db491.png
+        - /files/p/products/pentax_kp/shots/b47be279d74f4590a8ef4334b865cae7.png
+        - /files/p/products/pentax_kp/shots/f466dff392f54236994c19beaef329ab.png
+        - /files/p/products/pentax_kp/shots/bd0e3d14b67a492fa7624bdbf96b81c0.png
+        - /files/p/products/pentax_kp/shots/33ad14b8c3ec41e5997945b7617dce01.png
+    ReviewSummary:
+        GoodFor: Photographers looking for a camera to shoot stills in any weather and any lighting scenario
+        NotSoGoodFor: Photographers looking for cutting-edge AF-C performance, or a camera for telephoto sports shooting
+        Conclusion: The KP is a striking little camera that offers lots of helpful and unique features, brilliant controls, and excellent image quality in a relatively compact package.
+    ASIN:
+        - B01MYAEBGE
+        - B01N5RH90B
+        - B085SZ2T94
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames )
+    Announced: Jan 25, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI109 lithium-ion battery & charger
+    BatteryLifeCIPA: "390"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 132 x 101 x 76 mm (5.2 x 3.98 x 2.99″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - AE bracketing
+        - DoF bracketing
+        - Motion bracketing
+        - Mirror-up
+        - Multi-exposure
+        - Interval shooting
+        - Interval composite
+        - Interval movie record
+        - Star stream
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Scene Analyze Auto
+        - Program
+        - Sensitivity priority
+        - Shutter priority
+        - Aperture priority
+        - Shutter & aperture priority
+        - Manual
+        - Bulb
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Pentax PEF or DNG)
+    FlashModes: Auto, auto w/redeye reduction, flash on w/redeye reduction, slow sync, trailing curtain sync, manual, wireless
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: O-GPS1
+    HDMI: No (requires SlimPort adapter)
+    HeadphonePort: "No"
+    ISO: Auto, 100-819200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis, up to 5 stops
+    JPEGQualityLevels: Best, better, good
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $1099 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4000
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: 1/24000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "27"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 3072 x 2048, 1920 x 1280
+    Processor: PRIME IV
+    RemoteControl: Yes (via remote cable or smartphone)
+    Resolutions: 1920 x 1080 (60i, 50i, 30p, 25p, 24p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 27, 2017"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 703 g (1.55 lb / 24.80 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n

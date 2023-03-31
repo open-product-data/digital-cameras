@@ -1,0 +1,164 @@
+ProductCode: sealife_dc2000
+Award: ""
+ImageURL: /files/p/products/sealife_dc2000/445ed928dd1e4a3998deb1cd6840d7d1.png
+Name: SeaLife DC2000
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/sealife/compacts/sealife_dc2000
+ReviewData:
+    ExecutiveSummary: The SeaLife DC2000 is an underwater camera that can dive up to 18m/60ft without its included housing and 60m/200ft with it. It's also freezeproof to -18C/+5F and, naturally, dustproof.  It uses a 1"-type 20MP CMOS sensor designed by Sony that is paired with an optically stabilized F1.8, 31mm equivalent lens. The camera offers full manual exposure controls, Raw support and four underwater modes. The DC2000 can shoot continuously at up to 10 frames/second and capture 1080/60p video. Photos are composed on a 3" LCD with 921k-dots and can be shared via built-in Wi-Fi and Bluetooth. The DC2000 has 80MB of built-in memory as well as an SD card slot. Battery life is rated at around 200 shots per charge, which is on the low side.
+    ProductPhotos:
+        - /files/p/products/sealife_dc2000/shots/e977bf46495547e6bf4d00cfc772b397.png
+        - /files/p/products/sealife_dc2000/shots/dae1db676c344bdba9390cf3ddb059f2.png
+        - /files/p/products/sealife_dc2000/shots/ea773e77fa7c47a8a03fd2f384e1d564.png
+    ReviewSummary: null
+    ASIN:
+        - B01N3QUGAZ
+        - B01N07WALW
+        - B01MSKDLWK
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Nov 23, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: FJ-SLB-10A lithium-ion battery & USB charger
+    BatteryLifeCIPA: "200"
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 116 x 67 x 36 mm (4.57 x 2.64 x 1.42″)
+    DriveModes: ""
+    Durability: Waterproof, Waterproof with housing
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: Yes (via flash link adapter)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG)
+    FlashModes: Auto Flash, Red-eye Reduction, Forced On, Slow Sync, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 31 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 125-25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $699
+    MacroFocusRange: 9 cm (3.54″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: F1.8–11
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1280 x 720 @ 30p, MOV, H.264, Linear PCM
+    NormalFocusRange: 15 cm (5.91″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Sunset
+        - Dawn
+        - Backlight
+        - Kids
+        - Night scene
+        - Fireworks
+        - Beach
+        - Snow
+        - Sports
+        - Party
+        - Candlelight
+        - Night portrait
+        - Soft skin
+        - Food
+        - Background defocus
+        - Love portrait
+        - Self portrait
+        - Smile shutter
+        - HDR
+        - Time-lapse
+        - GIF capture
+        - Art effect
+        - Dive
+        - Snorkel
+        - Ext flash
+        - Ext light
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, double)
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 80MB
+    StorageTypes: Internal + microSD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 234 g (0.52 lb / 8.25 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

@@ -1,0 +1,109 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210928124905/https://www.dpreview.com/reviews/q210grouptravelzoom
+ProductCode: casio_exfh100
+Award: gold
+ImageURL: /files/p/products/casio_exfh100/427f9d506b4d441282160ee53254dcbe.png
+Name: Casio Exilim EX-FH100
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 24 – 240 mm (10×)
+ReviewScore: 72
+URL: /products/casio/compacts/casio_exfh100
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-FH100 was one of four Exilim models announced in January 2010, and is designed for versatility and speed. As well as a 10x optical zoom, which covers a useful 24-240mm range, the FH100 also offer's Casio's 'Burst Shooting' mode which allows up to 30 images to be captured at a rate of 40fps. Also included is a raw capture mode, which records DNG format raw files at ISO 100 and 200 (but no higher). Overall, the FH100 is a really enjoyable camera to use, and as well as excellent image quality, it offers arguably the best build quality of any of the compacts against which it directly competes. Image quality is high at low ISO settings, and quality obsessives (and masochists) can get even more out of ISO 100 and 200 files by shooting raw.
+    ProductPhotos:
+        - /files/p/products/casio_exfh100/shots/d464e5545d30412184307f38acd71ce9.png
+        - /files/p/products/casio_exfh100/shots/b106985d96dc46a7976db25a83a9adf7.png
+        - /files/p/products/casio_exfh100/shots/bc7a920acad64ffd8494aefaa044fd1b.png
+    ReviewSummary:
+        GoodFor: Speed freaks and anyone that appreciates high quality still and video.
+        NotSoGoodFor: Novice photographers that don't want to be presented with a lot of options.
+        Conclusion: The Casio Exilim FH100 combines excellent build quality with some of the sharpest, most detailed still and video output of any camera in this group test. We're hugely impressed by the quality of its output, and the high-speed modes are an added bonus.
+    ASIN:
+        - B0032ANBXI
+Specs:
+    AEBracketing: ""
+    Announced: Jan 6, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-90)
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 104 x 60 x 28 mm (4.09 x 2.36 x 1.1″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, flash off, flash on, red eye reduction
+    FlashRange: ""
+    FocalLengthEquiv: 24–240 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto,100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.2–5.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2432, 3648 x 2048, 3456 x 2592, 3072 x 2304, 2304 x 1728, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 × 720 (30 fps), 640 x 480 (30 fps),  640 x 480 (30, 120 fps), 448 x 336 (30, 240 fps), 640 x 480 (120 fps), 448 x 336 (240 fps), 224 x 168 (420 fps), 224 x 64 (1000 fps)
+    ReviewPreview: "72%Gold Award\n                                    \n                                    \n                                    \n                                        Read group review ...\n                                    \n                                    \n                                        Jun 16, 2010"
+    ScreenDots: 230,400
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 89.5 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 201 g (0.44 lb / 7.09 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Eye-Fi Connected

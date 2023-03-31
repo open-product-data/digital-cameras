@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211107212801/https://www.dpreview.com/reviews/canon-eos-m6
+ProductCode: canon_eosm6
+Award: silver
+ImageURL: /files/p/products/canon_eosm6/d4c1997f2f0f45698dd33a5ca83df5dc.png
+Name: Canon EOS M6
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/canon/slrs/canon_eosm6
+ReviewData:
+    ExecutiveSummary: The Canon EOS M6 is an enthusiast-friendly model in the company's mirrorless lineup. Like the other M-series models, it uses EF-M lenses with support for EF and EF-S via an optional adapter. It features a 24.2MP APS-C CMOS sensor with the company's Dual Pixel AF, which allows for fast autofocus in live view and movie mode. In a first for Canon, the M6 has in-body electronic 5-axis image stabilization in video mode. It has a rangefinder style body, and is being launched alongside an optional hotshoe EVF. It also has a 3-inch 1.04 million-dot tilting touch LCD. There is also WiFi, NFC and Bluetooth capability.
+    ProductPhotos:
+        - /files/p/products/canon_eosm6/shots/58f6f8563a4f40a78fa1861e513a3fa4.png
+        - /files/p/products/canon_eosm6/shots/79dd85dfd6fc494796488518aaeeb3ac.png
+        - /files/p/products/canon_eosm6/shots/4f363daa15eb402ab075c60ca4d29e1d.png
+        - /files/p/products/canon_eosm6/shots/02de3179a82d4447992cff022d9192af.png
+        - /files/p/products/canon_eosm6/shots/ff9dd1967d5b40489aad8e7b0c30878c.png
+        - /files/p/products/canon_eosm6/shots/bf79a228a87f4243b6a5d60d3412639a.png
+    ReviewSummary:
+        GoodFor: Those with an existing collection of Canon lenses, those who need ease of video shooting over outright video quality and who appreciate build quality and a polished user interface.
+        NotSoGoodFor: Sports and action photographers, anyone requiring high resolution video.
+        Conclusion: The EOS M6 is a great camera for existing Canon enthusiasts and casual videographers alike. The autofocus performance continues to impress, and though many of its direct competitors offer 4K video and some form of viewfinder, the EOS M6 is a well-built camera capable of very good image quality.
+    ASIN:
+        - B0716J597C
+        - B06W52WHHG
+        - B06WP2GZY7
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Feb 15, 2017
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E17 lithium-ion battery & charger
+    BatteryLifeCIPA: "295"
+    BodyMaterial: Metal
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $899.95 - $949.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 112 x 68 x 45 mm (4.41 x 2.68 x 1.77″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Remote control
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Canon CR2, 14-bit)
+    FlashModes: ""
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: 5-axis for video only
+    JPEGQualityLevels: Fine, standard
+    LensMount: Canon EF-M
+    LiveView: "Yes"
+    MSRP: $779 (body only), $899 (w/15-45mm lens), $1279 (w/18-150mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 35 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 24 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 24 Mbps, MP4, H.264, AAC
+        - 1280 x 720 @ 60p / 16 Mbps, MP4, H.264, AAC
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (6000 x 3368, 3984 x 2656, 2976 x 1984, 2400 x 1600), 16:9 (6000 x 3368, 3984 x 2240, 2976 x 1680, 2400 x 1344), 4:3 (5328 x 4000, 3552 x 2664, 2656 x 1992, 2112 x 1600), 1:1 (4000 x 4000, 2656 x 2656, 1984 x 1984, 1600 x 1600)
+    Processor: Digic 7
+    RemoteControl: Yes (Wired, wireless, or smartphone)
+    Resolutions: ""
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 16, 2017"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom, remote)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic (optional)
+    WBBracketing: "No"
+    WeightIncBatteries: 390 g (0.86 lb / 13.76 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11/b/g/n with Bluetooth and NFC

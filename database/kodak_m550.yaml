@@ -1,0 +1,98 @@
+ProductCode: kodak_m550
+Award: ""
+ImageURL: /files/p/products/kodak_m550/562200ed874149a6ba5c724ec31eeb61.png
+Name: Kodak EasyShare M550
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_m550
+ReviewData:
+    ExecutiveSummary: The Kodak Easyshare M550 is an M series camera with a 12MP sensor, 2.7 inch LCD and a 5x optical zoom lens. It can record VGA resolution movies and includes variety of scene modes. Its one-button upload option allows you to upload images easily to YouTube, Facebook, Flickr and Kodak's Gallery site.
+    ProductPhotos:
+        - /files/p/products/kodak_m550/shots/b4bd2f13e3944816b8c8427efddc950e.png
+        - /files/p/products/kodak_m550/shots/7fc9ea018e6a4c6fb90252f325e1800c.png
+        - /files/p/products/kodak_m550/shots/3de9ae47c2164d9e904a2b49a847a9ac.png
+        - /files/p/products/kodak_m550/shots/a8ef14cdc97648d9af427138252728c5.png
+    ReviewSummary: null
+    ASIN:
+        - B0031RGGDE
+        - B0031RGGDY
+        - B0031RGGDO
+Specs:
+    Announced: Jan 5, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable Battery KLIC-7006 & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 98 x 58 x 23 mm (3.86 x 2.28 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 28–140 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto (64–640), 64, 80, 100, 200, 400, 800, 1000
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard, Basic
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2264, 4000 x 2248, 2880 x 2160, 2048 x 1536, 1920 x 1088, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps)
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec, double)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 125 g (0.28 lb / 4.41 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

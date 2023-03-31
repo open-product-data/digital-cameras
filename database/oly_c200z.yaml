@@ -1,0 +1,77 @@
+ProductCode: oly_c200z
+Award: ""
+ImageURL: /files/p/products/oly_c200z/24bf6efb108f4e34a81ffc218ce2bfc1.png
+Name: Olympus D-510 Zoom (C-200 Zoom)
+ShortSpecs:
+    - 2 megapixels
+    - 1.8″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_c200z
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: May 8, 2001
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3 x)
+    Dimensions: 118 x 66 x 50 mm (4.65 x 2.6 x 1.97″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Red-Eye, Forced, Off, Slow-sync
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 35–105 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Standard, High, Super High
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: Yes (but only 2.5m and infinity)
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: None
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 15 fps @ 320x240, , no audio
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: Yes (12 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: TIFF
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 250 g (0.55 lb / 8.82 oz)
+    WhiteBalancePresets: "5"

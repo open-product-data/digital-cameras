@@ -1,0 +1,124 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210730104306/https://www.dpreview.com/reviews/nikond3x
+ProductCode: nikon_d3x
+Award: highlyRecommended
+ImageURL: /files/p/products/nikon_d3x/9874f8c4474f445ab19160d7e70cf9ca.png
+Name: Nikon D3X
+ShortSpecs:
+    - 25 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 86
+URL: /products/nikon/slrs/nikon_d3x
+ReviewData:
+    ExecutiveSummary: Essentially a D3 body with a higher-resolution sensor, the 24MP Nikon D3X offers the joint (with the Sony A900) highest pixel count of any current full-frame DSLR. Superficially, the new flagship is the D3's identical twin. The camera's core component, however, is brand new. The 36 x 23.9 mm CMOS sensor provides a resolution of 24.5 megapixels, and while this is - compared to the D3 - a massive jump in resolution, D3X users have to accept a smaller range of sensitivity (ISO 100 to 1600, extendable to ISO 50 to 6400) and slower continuous shooting of five frames per second (7 fps in DX mode) in return.The superb 51-point AF system and the 1005 pixel metering sensor have been carried over directly and work as well on the D3X as they do on the D3. The D3X's high resolution sensor, combined with a relatively weak AA filter and a superb JPEG engine delivers a level of sharp detail that beats even the strongest competitors including the previous number one in this area, the Canon EOS-1Ds Mark III. There is no doubt, if image detail is on top of your priority list the D3X has to be your number one option.
+    ProductPhotos:
+        - /files/p/products/nikon_d3x/shots/d9222145990a4b75b52fb7caf431ea13.png
+        - /files/p/products/nikon_d3x/shots/6f9adfe265c54c4b933b2f43cfcd6b98.png
+        - /files/p/products/nikon_d3x/shots/41e54c735ccf44ca8d776b43551ba437.png
+        - /files/p/products/nikon_d3x/shots/d42e433bae014466900e1c00ffa35140.png
+        - /files/p/products/nikon_d3x/shots/1b7280457d2a4d2abac485d3badaab69.png
+    ReviewSummary:
+        GoodFor: High end studio photography, portraiture, landscapes
+        NotSoGoodFor: Very low light work, sports/action/wildlife, JPEG shooters and movie makers
+        Conclusion: The D3X takes the crown as the king of the high-resolution DSLRs, leapfrogging the Canon EOS-1D Mk III and offering breathtaking image quality when shot under optimal conditions. Putting aside the eye-watering price it's hard to find much to complain about, though you wouldn't choose it for sports or low-light work. For studio and landscape work, however, it's pretty much peerless.
+    ASIN:
+        - B001MJ03U0
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Dec 1, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL4a rechargeable battery & charger
+    BatteryLifeCIPA: "4400"
+    BodyMaterial: ""
+    BodyType: Large SLR
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,499.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (5)
+    DigitalZoom: "No"
+    Dimensions: 160 x 157 x 88 mm (6.3 x 6.18 x 3.46″)
+    DriveModes: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, 1600 (50-6400 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4032
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 5056 x 4032, 4544 x 3024, 3968 x 2640, 3792 x 3024, 3024 x 2016, 2976 x 1976, 2528 x 2016, 1984 x 132
+    Processor: Expeed
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "86%Highly Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Feb 19, 2009"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: Super Density TFT color LCD with wide-viewing angle
+    SelfTimer: Yes (2 to 20 sec, custom)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II) x 2, UDMA
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2 to 9 frames either blue/amber or magenta/green axis)
+    WeightIncBatteries: 1260 g (2.78 lb / 44.45 oz)
+    WhiteBalancePresets: "12"
+    Wireless: ""
+    WirelessNotes: ""

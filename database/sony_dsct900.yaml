@@ -1,0 +1,106 @@
+ProductCode: sony_dsct900
+Award: ""
+ImageURL: /files/p/products/sony_dsct900/245f8828259745e4bb0540fd8171e63d.png
+Name: Sony Cyber-shot DSC-T900
+ShortSpecs:
+    - 12 megapixels
+    - 3.5″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dsct900
+ReviewData:
+    ExecutiveSummary: One of a pair of near identical twins (the other being the DSC-T90), the DSC-T900 has the usual T series attributes; ultra slim styling, sliding lens cover and simple point-and-shoot operation. The 12 megapixel sensor can also deliver 720p HD movies (MPEG4 format) and Sony's latest intelligent automatic systems. The whole thing is finished off with a large, high resolution (921k pixel) 3.5" screen and useful 35-140mm (equiv.) 5x zoom with optical image stabilization. The less expensive T-90 has a smaller, lower resolution screen but is otherwise pretty much the same camera. April 2009
+    ProductPhotos:
+        - /files/p/products/sony_dsct900/shots/9494b48b581f403ebc12995a7993a7ff.png
+        - /files/p/products/sony_dsct900/shots/c305af444e7e4b278940fe0b68a8bf47.png
+        - /files/p/products/sony_dsct900/shots/8a5998b304244b72a93457398f800186.png
+        - /files/p/products/sony_dsct900/shots/e4e52208d7774cba8d1c5af07c08fd75.png
+        - /files/p/products/sony_dsct900/shots/b89f86e8cc714f9babc309190721b0cd.png
+    ReviewSummary: null
+    ASIN:
+        - B001SEQPJM
+        - B001SEQPJC
+        - B001SEQPIS
+Specs:
+    Announced: Feb 17, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Battery & Charger
+    BatteryLifeCIPA: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.8 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (up to 8x)
+    Dimensions: 98 x 58 x 16 mm (3.86 x 2.28 x 0.63″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 2.90 m (Auto ISO)
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: Yes (5 steps)
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–10
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2592 x 1944, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 11 MB Internal
+    StorageTypes: Memory Stick Duo / Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 143 g (0.32 lb / 5.04 oz)
+    WhiteBalancePresets: "10"
+    Wireless: ""

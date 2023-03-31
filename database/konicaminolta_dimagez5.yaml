@@ -1,0 +1,77 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211108062718/https://www.dpreview.com/reviews/konicaminoltaz5/
+ProductCode: konicaminolta_dimagez5
+Award: recommended
+ImageURL: /files/p/products/konicaminolta_dimagez5/b45b136ff9db436f87775f9d9094cd92.png
+Name: Konica Minolta DiMAGE Z5
+ShortSpecs:
+    - 5 megapixels
+    - 2″ screen
+    - 35 – 420 mm (12×)
+ReviewScore: 0
+URL: /products/konicaminolta/compacts/konicaminolta_dimagez5
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0007LW2ZI
+Specs:
+    Announced: Jan 21, 2005
+    AperturePriority: "Yes"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.2 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 80 x 84 mm (4.29 x 3.15 x 3.31″)
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe (Minolta), remote slave (Minolta))
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35–420 mm
+    HDMI: "No"
+    ISO: Auto, 50, 100, 200, 320
+    ImageRatioWh: "4:3"
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Standard, Economy
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualFocus: "Yes"
+    MaxResolution: 2560 x 1920
+    MaximumAperture: F2.8–4.5
+    MaximumShutterSpeed: 1/1000 sec
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 12×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 15/30 fps with audio, unlimited
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Mar 24, 2005"
+    ScreenDots: 114,000
+    ScreenSize: 2″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB SD card
+    StorageTypes: SD/MMC card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Electronic
+    WeightIncBatteries: 435 g (0.96 lb / 15.34 oz)
+    WhiteBalancePresets: "5"

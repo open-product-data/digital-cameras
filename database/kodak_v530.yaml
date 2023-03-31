@@ -1,0 +1,86 @@
+ProductCode: kodak_v530
+Award: ""
+ImageURL: /files/p/products/kodak_v530/b7f65e0235a5403cb22a318eb4b243a6.png
+Name: Kodak EasyShare V530
+ShortSpecs:
+    - 5 megapixels
+    - 2″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_v530
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0009RKKV8
+Specs:
+    Announced: May 17, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion, dock & charger (optional)
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 92 x 50 x 22 mm (3.62 x 1.97 x 0.87″)
+    Durability: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/2 EV, 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.60 m
+    FocalLengthEquiv: 36–108 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2569 x 1929
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/1448 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2576 x 1932
+    RemoteControl: "No"
+    Resolutions: 640 x 480,30 fps, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 150 g (0.33 lb / 5.29 oz)
+    WhiteBalancePresets: "4"

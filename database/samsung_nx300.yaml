@@ -1,0 +1,145 @@
+ProductCode: samsung_nx300
+Award: ""
+ImageURL: /files/p/products/samsung_nx300/4621719d911f46cab0cba84d65dd7b89.png
+Name: Samsung NX300
+ShortSpecs:
+    - 20 megapixels
+    - 3.3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/samsung/slrs/samsung_nx300
+ReviewData:
+    ExecutiveSummary: The Samsung NX300 looks a lot like its predecessors, the NX200 and 210, but it includes a series of updates that show signs of ever-greater integration between the company's cameras and its smartphones. The NX300 is built around a 20MP sensor that includes phase-detection focus elements to allow a Hybrid AF system for faster focusing. It gains a larger screen than previous NXs - the 3.3" OLED screen is a 16:9 panel with 768k dots (essentially an extended version of the existing screen) - it's also touch-sensitive. A faster processor helps the NX300 hit nine frames-per-second for continuous shooting, and allows 1080p movies to be shot at 60fps. Upgrades to the camera's Wi-Fi should make connectivity simpler than its predecessors.
+    ProductPhotos:
+        - /files/p/products/samsung_nx300/shots/f349bb480bdf4684b847d3f50ade6ee7.png
+        - /files/p/products/samsung_nx300/shots/4f8d652577ef4954a30402bb6c599770.png
+        - /files/p/products/samsung_nx300/shots/60eb4a03e4734c41bec7136bdd53d64e.png
+    ReviewSummary: null
+    ASIN:
+        - B00COZRKCK
+        - B00CM450LQ
+        - B00COZRJIK
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 3, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BP1130 battery & charger
+    BatteryLifeCIPA: "330"
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.6 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2X)
+    Dimensions: 122 x 64 x 41 mm (4.8 x 2.52 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Burst
+        - Self-timer
+        - AE bracketing
+        - WB bracketing
+        - Picture Wizard bracketing
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Lens priority
+        - Smart mode
+        - Wi-Fi
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, 1st/2nd Curtain, Smart Flash, Manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GPS10
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600
+    ImageParameters:
+        - Color, saturation, sharpness, contrast
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Superfine, fine, normal
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: $749 (with 20-50mm), $799 (with 18-55mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "247"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 5472 x 3080, 5472 x 3080, 3888 x 2592, 3712 x 2088, 3648 x 3648, 2976 x 1984, 2944 x 1656, 2640 x 2640, 2688 x 1512, 2000 x 2000, 1728 x 1152, 1920 x 1080, 1024 x 1024
+    Processor: DRIMe IV
+    RemoteControl: Yes (via smarphone)
+    Resolutions: 1920 x 1080, 1280 x 720, 640 x 480, 320 x 240
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 768,000
+    ScreenSize: 3.3″
+    ScreenType: Active Matrix OLED screen
+    SelfTimer: Yes (2 sec to 30 sec)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: Yes (3 frames in amber-blue or magenta-green direction)
+    WeightIncBatteries: 331 g (0.73 lb / 11.68 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: Dual band 802.11 b/g/n

@@ -1,0 +1,137 @@
+ProductCode: canon_ixus500hs
+Award: ""
+ImageURL: /files/p/products/canon_ixus500hs/59114b4bc33d4edab29e64a44f3f8e02.png
+Name: Canon ELPH 520 HS (IXUS 500 HS)
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 336 mm (12×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_ixus500hs
+ReviewData:
+    ExecutiveSummary: The Canon ELPH 520 is the world's slimmest 12x zoom camera. It offers a 28-336mm equivalent lens range and features a 10MP CMOS sensor, Intelligent Image Stabilization and a 460k dot rear LCD. The camera uses MicroSD memory cards.
+    ProductPhotos:
+        - /files/p/products/canon_ixus500hs/shots/55c7930402c54e978b8920d9040eb36c.png
+        - /files/p/products/canon_ixus500hs/shots/624b3af0004c4575ad7d1c759ef0f0d9.png
+        - /files/p/products/canon_ixus500hs/shots/f133eb501c4c4d0f9348f1e4fd92fd9a.png
+    ReviewSummary: null
+    ASIN:
+        - B006UMM1AY
+        - B006UMM1J0
+        - B006UMM1F4
+Specs:
+    AEBracketing: ""
+    Announced: Jan 9, 2012
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-9L rechargeable battery & charger
+    BatteryLifeCIPA: "190"
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 2.8 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 87 x 54 x 19 mm (3.43 x 2.13 x 0.75″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Smart Auto
+        - Program
+        - Movie Digest
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 28–336 mm
+    Format: H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Mini)
+    ISO: Auto 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Superfine, Fine
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.4–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 12×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2736, 3648 x 2432, 3648 x 2048, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2736 x 2736, 2192 x 2736, 2112 x 2112, 1920 x 1080, 1600 x 1064, 1696 x 2112, 1200 x 1200, 960 x 1200, 640 x 480, 640 x 424, 640 x 360, 480 x 480, 384 x 480, 320 x 240
+    Processor: DIGIC 5
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (24 fps), 1280 x 720 (30 fps) 640 x 480 (30, 120 fps), 320  x 240 (240 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Smooth Skin
+        - Smart Shutter (Smile, Wink Self-Timer, FaceSelf-Timer)
+        - High-speed Burst (4.0MP)
+        - Handheld Night Scene
+        - Low Light (4.0MP)
+        - Fish-eye Effect
+        - Miniature Effect
+        - Toy Camera Effect
+        - Soft Focus
+        - Monochrome
+        - Super Vivid
+        - Poster Effect
+        - Color Accent
+        - Color Swap
+        - Underwater
+        - Snow
+        - Long Shutter
+        - Stitch Assist
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    ScreenType: PureColor II G TFT LCD
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Stereo
+    StorageIncluded: ""
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: Miniature Effect (HD, L) 6fps, 3fps, 1.5 fps iFrame Movie (HD)
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 155 g (0.34 lb / 5.47 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

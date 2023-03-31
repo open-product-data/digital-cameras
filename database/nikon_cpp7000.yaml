@@ -1,0 +1,126 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211115004109/https://www.dpreview.com/reviews/q42010highendcompactgroup
+ProductCode: nikon_cpp7000
+Award: noAward
+ImageURL: /files/p/products/nikon_cpp7000/9adf9181d1fa4ad0bdea06c804a87477.png
+Name: Nikon Coolpix P7000
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 200 mm (7.1×)
+ReviewScore: 65
+URL: /products/nikon/compacts/nikon_cpp7000
+ReviewData:
+    ExecutiveSummary: Clearly modelled on Canon's Powershot G-series compacts, the 10MP Coolpix P7000 is Nikon's latest attempt to grab a slice of the lucrative luxury compact camera market. It offers full manual control and a 7x zoom in a body shell that is peppered with direct access control points. Image quality is high, in both JPEG and RAW modes, but ultimately, the P7000 is let down by a laggy, glitch-ridden user interface and relatively poor operational speed.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp7000/shots/23e401e43baf4a4da6f85b3c7152e004.png
+        - /files/p/products/nikon_cpp7000/shots/940e0dc211b346faa3e1bf763e445fa1.png
+        - /files/p/products/nikon_cpp7000/shots/efaf4f4bd78143318080e7f4d60bc4b8.png
+        - /files/p/products/nikon_cpp7000/shots/3bd9f71e72ac4955b60fc06806d864f5.png
+        - /files/p/products/nikon_cpp7000/shots/81544e76a8bb45ca96d6b7a4b2896099.png
+        - /files/p/products/nikon_cpp7000/shots/4df788a3d78f4347a63d62f02243eb5b.png
+    ReviewSummary:
+        GoodFor: '''Hands on'' photography, where the huge amount of external controls mean that you rarely have to press the ''menu'' button. Also, any applications where critical image quality matters more than speed.'
+        NotSoGoodFor: General photography. Even after the recent firmware update, the P7000 is simply too underpowered for a camera of this type, at this pricepoint, in this day and age.
+        Conclusion: Nikon's engineers have clearly been looking to Canon's G-series for inspiration, and the P7000's boxy build, and plethora of external controls put it closer to the Powershot G12 than any previous P-series compact. Ultimately, the P7000's excellent image quality, and functional ergonomics are let down by slow, glitchy operation and lack of responsiveness.
+    ASIN:
+        - B00427ZLRO
+Specs:
+    AEBracketing: ±4 (3, 5 frames at 1/3 EV, 1/2 EV, 1 EV steps)
+    Announced: Sep 8, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: DC 7.4 V, 1030 mAh
+    BatteryLifeCIPA: "350"
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 0.7 fps
+    CustomWhiteBalance: Yes (PRE1, PRE2, PRE3)
+    DigitalZoom: Yes (4X)
+    Dimensions: 114 x 77 x 45 mm (4.5 x 3.03 x 1.76″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: 3 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Compatible i-TTL Nikon Speedlights)
+    FileFormat: ""
+    FlashModes: Auto, Auto with red-eye reduction, Fill flash, Manual, Slow sync, Rear curtain flash
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 28–200 mm
+    Format: MPEG-4, AVCHD Lite, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: 100 - 3200 + Hi (ISO 6400)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "99"
+    OpticalZoom: 7.1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 640 x 480
+    Processor: Expeed C2
+    RemoteControl: Yes (Optional wireless remote)
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "65%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jan 20, 2011"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor with anti- reflection coating and 5-level brightness adjustment
+    SelfTimer: Yes (10 or 2 second delay)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 80%
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: Yes (3 or 5 shots in 1, 2 or 3 mired increments on Amber-Blue axis)
+    WeightIncBatteries: 310 g (0.68 lb / 10.93 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

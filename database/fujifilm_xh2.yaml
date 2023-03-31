@@ -1,0 +1,251 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20230320144419/https://www.dpreview.com/reviews/fujifilm-x-h2-in-depth-review
+ProductCode: fujifilm_xh2
+Award: silver
+ImageURL: /files/p/products/fujifilm_xh2/faea68347a12412fb0c38ff868f8e569.png
+Name: Fujifilm X-H2
+ShortSpecs:
+    - 40 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 89
+URL: /products/fujifilm/slrs/fujifilm_xh2
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/fujifilm_xh2/shots/29afe6a08383446fb8ef95d5c040ca78.png
+        - /files/p/products/fujifilm_xh2/shots/11f464daf19e482c9294d0635b85710c.png
+        - /files/p/products/fujifilm_xh2/shots/bd1f453a15c64754a3579a1e79dcaf78.png
+        - /files/p/products/fujifilm_xh2/shots/cf7266feb0e94b7eaf158a77e9525da2.png
+        - /files/p/products/fujifilm_xh2/shots/76e8307222c5471393da0edd4b3254d2.png
+    ReviewSummary:
+        GoodFor: Landscape, studio, and portrait shooters who want the highest possible resolution APS-C camera available. Documentary filmmakers shooting static scenes.
+        NotSoGoodFor: Video scenes with movement or panning. Those who don't need 8K video.
+        Conclusion: The Fujifilm X-H2 is the brand's first model to make the jump to 40MP, the highest-resolution APS-C sensor to date. Image quality is class-leading, while the build quality and ergonomics are nothing short of pro-level. Full-sensor 8K video is highly-detailed, though quite prone to the effects of rolling shutter, limiting its use to mostly static scenes. And Autofocus performance is generally good, even if there's some room for improvement compared to the competition.
+    ASIN:
+        - B0BK2MW5HV
+        - B0BCLYBK1F
+        - B0B2F5VHLM
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 8, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "680"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 136 x 93 x 95 mm (5.35 x 3.66 x 3.74″)
+    DriveModes:
+        - Single
+        - Continuous (L/H)
+        - Bracketing
+    EffectivePixels: 40 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - HEIF
+        - Raw (14-bit RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264, H.265
+    GPS: None
+    HDMI: Yes (Full-sized)
+    HeadphonePort: "Yes"
+    ISO: Auto, 125-12800 (expands to 80-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Some lenses limited to 5 stops of correction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1999 ($2499 w/ 16-80mm F4)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 7728 x 5152
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/180000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 3840 x 2160 @ 23.98p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 50 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 360 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 720 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 720 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 720 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 720 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 720 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 50 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 100 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 360 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 50p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 50 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 360 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 24p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 25p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 50p / 720 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 50 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 100 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 360 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 720 Mbps, MOV, H.265, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: Yes (via smartphone or wired remote)
+    Resolutions: ""
+    ReviewPreview: "89%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 20, 2023"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x CFexpress Type B, 1x UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.2× (0.8× 35mm equiv.)
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 660 g (1.46 lb / 23.28 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

@@ -1,0 +1,91 @@
+ProductCode: kodak_z760
+Award: ""
+ImageURL: /files/p/products/kodak_z760/b5c5c546a01e4373bd7a34b0c80908d6.png
+Name: Kodak EasyShare Z760
+ShortSpecs:
+    - 6 megapixels
+    - 2.2″ screen
+    - 39 – 117 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_z760
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0007RALGE
+        - B000EHJNRA
+Specs:
+    AEBracketing: ""
+    Announced: May 5, 2005
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (3 x)
+    Dimensions: 100 x 69 x 40 mm (3.94 x 2.72 x 1.57″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±1 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 39–117 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 800
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 7 cm (2.76″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2872 x 2160
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 64 sec
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "3"
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2856 x 2142
+    RemoteControl: "No"
+    Resolutions: 320 x 240, 24 fps
+    ReviewPreview: ""
+    ScreenDots: 153,000
+    ScreenSize: 2.2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 259 g (0.57 lb / 9.14 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""

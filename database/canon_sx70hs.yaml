@@ -1,0 +1,135 @@
+ProductCode: canon_sx70hs
+Award: ""
+ImageURL: /files/p/products/canon_sx70hs/fa5a8db2aa8b429ba8f90308c9f79170.png
+Name: Canon PowerShot SX70
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 21 – 1365 mm (65×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx70hs
+ReviewData:
+    ExecutiveSummary: The Canon PowerShot SX70 HS is a super-zoom point-and-shoot camera with a 65x, 21-1365mm equivalent F3.4-6.5 lens and 20MP BSI-CMOS sensor. The camera is powered by Canon's latest Digic 8 processor which allows for fast bursts and 4K video capture. As you'd expect, its long lens is stabilized, with up to five stops of shake reduction. Photos can be composed on a fully articulating 3" display or a high-res OLED electronic viewfinder. The SX70 is Canon's first point & shoot camera to support its new CR3 Raw format.The SX70 can shoot continuously at 10 fps with single AF and 5.7 fps with continuous AF.  UHD 4K video can be captured at 30 fps, and a high speed 120 fps mode is available at Full HD resolution. Wireless connectivity includes Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_sx70hs/shots/ba78a962382e4589ab38ae55bfdb374f.png
+        - /files/p/products/canon_sx70hs/shots/eb525251ca6547f5a79041460a4ee86b.png
+        - /files/p/products/canon_sx70hs/shots/b3a71b1467b4400fa0a0ffbf0c8de03d.png
+        - /files/p/products/canon_sx70hs/shots/e19a5e7064e14dc6bd9c6c2d7f78ae83.png
+    ReviewSummary: null
+    ASIN:
+        - B07HH1PVRZ
+Specs:
+    AEBracketing: ""
+    Announced: Sep 20, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Built-in
+    BatteryDescription: LP-E12 lithium-ion battery & charger
+    BatteryLifeCIPA: "325"
+    BodyMaterial: Metal, composite
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 127 x 91 x 117 mm (5 x 3.58 x 4.61″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3)
+    FlashModes: Auto, on, slow sync, off
+    FlashRange: 5.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 21–1365 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $549
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.4–6.5
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 15 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 65×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic 8
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 608 g (1.34 lb / 21.45 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

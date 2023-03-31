@@ -1,0 +1,93 @@
+ProductCode: agfa_cl50
+Award: ""
+ImageURL: /files/p/products/agfa_cl50/11d2e48d81ac48668f77c1734591580b.png
+Name: Agfa ePhoto CL50
+ShortSpecs:
+    - 1 megapixels
+    - 1.8″ screen
+    - 34 – 102 mm (3×)
+ReviewScore: 0
+URL: /products/agfa/compacts/agfa_cl50
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 26, 1999
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: ""
+    DriveModes: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 34–102 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Unknown
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 8 MB SmartMedia
+    StorageTypes: SmartMedia
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""

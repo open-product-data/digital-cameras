@@ -1,0 +1,138 @@
+ProductCode: nikon_cpa1000
+Award: ""
+ImageURL: /files/p/products/nikon_cpa1000/03281f50aa6a4faf9b64c6b80dfad484.png
+Name: Nikon Coolpix A1000
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 840 mm (35×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpa1000
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix A1000 is a compact superzoom camera with an optically stabilized 35X lens that is equivalent to 24-840mm. It uses a 16MP BSI-CMOS sensor (1/2.3") and has a 3" downward-tilting touchscreen LCD and electronic viewfinder. Video can be captured at 4K/30p. Wi-Fi and Bluetooth are built-in.
+    ProductPhotos:
+        - /files/p/products/nikon_cpa1000/shots/c413c6f08bd148f3b32030b3b2ef12aa.png
+        - /files/p/products/nikon_cpa1000/shots/5e683a5fa05443fe85f8a56e6c6ba2c2.png
+        - /files/p/products/nikon_cpa1000/shots/48038e09f08f463491a2de2a2cc4e81b.png
+        - /files/p/products/nikon_cpa1000/shots/d36945154fb243a29f1d064fc40d3daa.png
+        - /files/p/products/nikon_cpa1000/shots/66bd553764cd4952b1f4b097968b67f9.png
+        - /files/p/products/nikon_cpa1000/shots/eca49d0d58184930af856e57222a0ac4.png
+    ReviewSummary: null
+    ASIN:
+        - B07P3FLZJK
+Specs:
+    AEBracketing: ""
+    Announced: Jan 18, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL12 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 3 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4X)
+    Dimensions: 114 x 72 x 41 mm (4.49 x 2.83 x 1.61″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (NRW)
+    FlashModes: ""
+    FlashRange: 6.00 m (with Auto ISO)
+    FocalLengthEquiv: 24–840 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $479 / £329 / €359
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.4–6.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 8 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p, MP4, H.264, AAC
+        - 1920 x 1080 @ 60i, MP4, H.264, AAC
+        - 1920 x 1080 @ 50i, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p, MP4, H.264, AAC
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 35×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: Yes (via smartphone or wireless remote)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 81MB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 98%
+    ViewfinderResolution: 1,166,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 330 g (0.73 lb / 11.64 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g

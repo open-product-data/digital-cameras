@@ -1,0 +1,113 @@
+ProductCode: leica_me220
+Award: ""
+ImageURL: /files/p/products/leica_me220/846610b6a0174195b7b30a188bbb1b86.png
+Name: Leica M-E Typ 220
+ShortSpecs:
+    - 18 megapixels
+    - 2.5″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_me220
+ReviewData:
+    ExecutiveSummary: The M-E is Leica's entry-level rangefinder model, with a feature set that's nearly identical to the Leica M-9, and based around the same 18MP full frame CCD sensor. It doesn't offer the M-9's built-in USB port, but keeps pace with an identical 2 frames per second continuous shooting mode, built-in flash with hot shoe and classic rangefinder design.
+    ProductPhotos:
+        - /files/p/products/leica_me220/shots/53e86d163faf4132a61bdcc0bb526a2a.png
+        - /files/p/products/leica_me220/shots/059ef2f731a244a4bf23db911ef0eed8.png
+        - /files/p/products/leica_me220/shots/9399f595ee5f4810b1d5a231fdd49fdf.png
+    ReviewSummary: null
+    ASIN:
+        - B009HL55Z8
+Specs:
+    AEBracketing: ""
+    Announced: Sep 17, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $7,999.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 37 mm (5.47 x 3.15 x 1.46″)
+    DriveModes: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Pull 80, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5212 x 3472
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3840 x 2592, 2592 x 1728, 1728 x 1152, 1280 x 846
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: TFT color LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: "No"
+    WeightIncBatteries: 585 g (1.29 lb / 20.64 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

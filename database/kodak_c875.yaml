@@ -1,0 +1,85 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211028020502/https://www.dpreview.com/reviews/kodakc875
+ProductCode: kodak_c875
+Award: recommended
+ImageURL: /files/p/products/kodak_c875/b7c6557ffc1649acb1f81e5bcb624359.png
+Name: Kodak EasyShare C875
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 37 – 185 mm (5×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c875
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000H91K7Q
+Specs:
+    Announced: Aug 8, 2006
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 91 x 63 x 37 mm (3.58 x 2.48 x 1.46″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 4.10 m
+    FocalLengthEquiv: 37–185 mm
+    Format: MPEG-4
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–4.4
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1200 x 900
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 30 fps, MPEG-4
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Feb 27, 2007"
+    ScreenDots: ""
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 225 g (0.50 lb / 7.94 oz)
+    WhiteBalancePresets: "5"

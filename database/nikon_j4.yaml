@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023162747/https://www.dpreview.com/reviews/entry-level-mirrorless-camera-roundup-2014
+ProductCode: nikon_j4
+Award: ""
+ImageURL: /files/p/products/nikon_j4/2c256d929d0d4f1db3ff3fad07a68bdf.png
+Name: Nikon 1 J4
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_j4
+ReviewData:
+    ExecutiveSummary: The Nikon 1 J4 features an 18MP CX-format sensor, an improved Hybrid AF system with 105 phase detect points across nearly 100% of the frame, 20 fps burst shooting with continuous AF and Wi-Fi. With the Expeed 4 processor and advanced AF system, the J4 is capable of burst shooting at 20 fps with continuous autofocus (and 60 fps without).
+    ProductPhotos:
+        - /files/p/products/nikon_j4/shots/16c9a2b877394725bb6568ce5b0ed6a6.png
+    ReviewSummary: null
+    ASIN:
+        - B00KBC1GWS
+        - B00KBC1JP2
+        - B00KBC1AD8
+Specs:
+    AEBracketing: ""
+    Announced: Apr 10, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL22 lithium-ion battery and charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 100 x 60 x 29 mm (3.92 x 2.36 x 1.12″)
+    DriveModes:
+        - Single frame
+        - Continuous
+        - Self-timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program Auto w/flexible program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Scene Auto Selector
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (EXIF 2.3, DCF 2.0)
+        - Raw (NEF)
+    FlashModes: Auto, auto + red-eye reduction, fill-flash, fill-flash w/slow sync, rear curtain sync, rear curtain w/slow sync, redeye reduction, redeye reduction w/slow sync, off
+    FlashRange: 5.00 m (ISO 100)
+    FlashXSyncSpeed: 1/60 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 160-12800
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5232 x 3488
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "171"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3920 x 2616, 2608 x 1744
+    Processor: Expeed 4
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60p, 30p), 1472 x 984 (60p, 30p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Dec 17, 2014"
+    SceneModes:
+        - Portrait, night landscape, landscape, night portrait, close-up, auto
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: Yes (Touch focus, shutter)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed: 1280 x 720 (120 fps), 768 x 288 (400 fps), 416 x 144 (1200 fps); Motion Snapshot: 1920 x 1080 (24 fps); Fast-motion, jump-cut, 4 second movies (24 fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 232 g (0.51 lb / 8.18 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: smartphone app allows for photo sharing

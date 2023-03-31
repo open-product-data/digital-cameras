@@ -1,0 +1,77 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220518142516/https://www.dpreview.com/reviews/fujifilmf700
+ProductCode: fuji_finepixf700
+Award: average
+ImageURL: /files/p/products/fuji_finepixf700/5de3744bb48f4d39af39700c8f4ac6e2.png
+Name: Fujifilm FinePix F700
+ShortSpecs:
+    - 3 megapixels
+    - 1.8″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixf700
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 19, 2003
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (NP-40)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 108 x 54 x 28 mm (4.25 x 2.13 x 1.1″)
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 5.00 m
+    FocalLengthEquiv: 35–105 mm
+    GPS: ""
+    HDMI: "No"
+    ISO: 160, 200, 400 (higher at 1280 x 960)
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal
+    LiveView: "Yes"
+    MacroFocusRange: 9 cm (3.54″)
+    ManualFocus: "Yes"
+    MaxResolution: 2832 x 2128
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: ""
+    MinimumShutterSpeed: 3 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 30 fps, unlimited
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Sep 17, 2003"
+    ScreenDots: 134,000
+    ScreenSize: 1.8″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 205 g (0.45 lb / 7.23 oz)
+    WhiteBalancePresets: "7"

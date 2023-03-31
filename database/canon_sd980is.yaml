@@ -1,0 +1,97 @@
+ProductCode: canon_sd980is
+Award: ""
+ImageURL: /files/p/products/canon_sd980is/5299230eb8554df8bf888759a1e4cb84.png
+Name: Canon PowerShot SD980 IS / Digital IXUS 200 IS
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd980is
+ReviewData:
+    ExecutiveSummary: Canon's first touch-screen camera, the SD980 IS (Digital IXUS 200 IS) features a 3 inch touch-screen LCD and an optically stabilized 5x zoom lens starting at a wide 24mm equivalent, 12.1 MP sensor and offers HD video recording capabilities.
+    ProductPhotos:
+        - /files/p/products/canon_sd980is/shots/c19f798991c94bf1880998dad2e050a7.png
+        - /files/p/products/canon_sd980is/shots/e7e7a39d1d3d4c4fa595c3f8dd09d27f.png
+        - /files/p/products/canon_sd980is/shots/12ee1f51c3e6480190e2a0b2741a2614.png
+        - /files/p/products/canon_sd980is/shots/cdd300e83f444e4f8e192539e5ddbffb.png
+        - /files/p/products/canon_sd980is/shots/fb59257ed5a448d2beedcc9f98b0fbba.png
+    ReviewSummary: null
+    ASIN:
+        - B003IYV0C2
+        - B003J9PTFA
+        - B002LITT5Q
+Specs:
+    Announced: Aug 19, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L rechargeable battery & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.8 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 53 x 23 mm (3.94 x 2.09 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 24–120 mm
+    Format: H.264
+    GPS: None
+    HDMI: "Yes"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–5.9
+    MaximumShutterSpeed: 1/3000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2248, 3264 x 2448, 2592 x 1944, 1600 x 1200, 640 x 480, 320 x 240
+    Processor: Digic 4
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps) 640 x 480 (30 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: SD, SDHC, MMC, MMCplus, HC MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 150 g (0.33 lb / 5.29 oz)
+    WhiteBalancePresets: "6"

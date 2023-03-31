@@ -1,0 +1,146 @@
+ProductCode: nikon_cpaw130
+Award: ""
+ImageURL: /files/p/products/nikon_cpaw130/c68c01032832478c8e697e9bfb37893a.png
+Name: Nikon Coolpix AW130
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpaw130
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Featuring a 16-megapixel CMOS sensor, the COOLPIX AW130 is ideal for capturing stunning images and Full HD 1080p video of life’s extreme adventures. Whether snorkeling, rock climbing or skiing, the waterproof (100ft / 30 m), shockproof (7ft / 2.1 m) and freezeproof (14F / -10C) camera is ready to handle all that Mother Nature throws at it. With built-in Wi-Fi and NFC, users can experience quick and easy sharing of photos and videos by wirelessly connecting their camera to a compatible smartphone or tablet, even in remote locations. Adventurous photographers can even use their smartphone to remotely trigger the camera when connected. The COOLPIX AW130 also features a 3-inch, 921k-dot OLED display along with updated ergonomics and a new design. Furthermore, for easy operation in nearly any situation, Action Control lets users easily adjust camera settings with just the flick of a wrist – even with gloves on. With built-in GPS, Maps and POI technology which allow the user to record the longitude and latitude of where any image was captured, and an electronic compass the COOLPIX AW130 keeps you on track. Additional features include a 5x optical zoom NIKKOR ED glass lens (24mm-120mm f/2.8 max aperture) and 10x Dynamic Fine Zoom helps to get closer to the action.'
+    ProductPhotos:
+        - /files/p/products/nikon_cpaw130/shots/9a150a188afb48488e46bbd88c7fa973.png
+        - /files/p/products/nikon_cpaw130/shots/d1b54986eb2e46288d4baf63cd32f6fe.png
+    ReviewSummary: null
+    ASIN:
+        - B00T85PER2
+        - B00T85PCKG
+        - B00T85P9J0
+Specs:
+    AEBracketing: ""
+    Announced: Feb 10, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL12 lithium-ion battery & charger
+    BatteryLifeCIPA: "370"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 110 x 66 x 27 mm (4.33 x 2.6 x 1.06″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Scene
+        - Scene Auto Selector
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: 5.20 m (at Auto ISO)
+    FocalLengthEquiv: 24–120 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-6400
+    ImageRatioWh: 1:1, 4:3, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LiveView: "Yes"
+    MSRP: $349
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–4.9
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60i ,50i, 30p, 25p), 1280 x 720 (30p, 25p), 640 x 480 (30p, 25p)
+    ReviewPreview: ""
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Black and White Copy
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+        - Underwater
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: OLED
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 221 g (0.49 lb / 7.80 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: ""

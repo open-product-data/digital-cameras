@@ -1,0 +1,90 @@
+ProductCode: kodak_z812
+Award: ""
+ImageURL: /files/p/products/kodak_z812/e801badc4ecc47158b64531a66ee00ae.png
+Name: Kodak EasyShare Z812 IS
+ShortSpecs:
+    - 8 megapixels
+    - 2.5″ screen
+    - 36 – 432 mm (12×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_z812
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000VJWJW2
+Specs:
+    AEBracketing: ""
+    Announced: Aug 27, 2007
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)/ Lithium-Ion KLIC 8000 (Optional)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4.2 x)
+    Dimensions: 109 x 74 x 76 mm (4.29 x 2.91 x 2.99″)
+    EffectivePixels: 8 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 7.80 m
+    FocalLengthEquiv: 36–432 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600, (3200 at 2.2 MP)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Best, Better,Good
+    LiveView: "Yes"
+    MacroFocusRange: 12 cm (4.72″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3264 x 2448
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "5"
+    OpticalZoom: 12×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3264 x 2176, 3264 x 1836, 2592 x 1944, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 1280 x 720, 640 x 480, 320 x 240, 30 fps
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2, 10 or 18 sec)
+    SensorPhotoDetectors: 8 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 32 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 340 g (0.75 lb / 11.99 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""

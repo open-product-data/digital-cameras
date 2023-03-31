@@ -1,0 +1,140 @@
+ProductCode: sony_dscwx220
+Award: ""
+ImageURL: /files/p/products/sony_dscwx220/1cab80fc11f54069a8c3a1163a77b98c.png
+Name: Sony Cyber-shot DSC-WX220
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 25 – 250 mm (10×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscwx220
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The new pocket-sized DSC-WX220 model is extremely slim and compact, yet packs a ton of imaging punch thanks to its 18.2 megapixel Exmor R® CMOS sensor and 10x optical zoom G Lens.  The high-resolution sensor and versatile lens are paired with Sony’s powerful BIONZ® X processor, ensuring that all images and full HD (1920x1080 @60p) videos are captured with exceptional detail and low noise.'
+    ProductPhotos:
+        - /files/p/products/sony_dscwx220/shots/fe853931b1924b5e82ed7913af7a8435.png
+    ReviewSummary: null
+    ASIN:
+        - B00M9AB81O
+        - B00M9AB84Q
+Specs:
+    AEBracketing: ""
+    Announced: Feb 12, 2014
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-BN lithium-ion battery & USB charger
+    BatteryLifeCIPA: "210"
+    BodyMaterial: Metal, composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 92 x 52 x 22 mm (3.62 x 2.05 x 0.87″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Self-timer cont.
+        - Self-portrait
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program Auto,
+        - Movie Mode
+        - Panorama
+        - Scene Selection
+        - Intelligent Auto
+        - Superior Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3, DCF v2.0)
+    FlashModes: Auto, on, slow synchro, off, advanced
+    FlashRange: 3.70 m (with Auto ISO)
+    FocalLengthEquiv: 25–250 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $200 / £179
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4896 x 3672
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 10×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4896 x 3264, 4896 x 2752, 3664 x 3664, 3648 x 2736, 3648 x 2432, 3648 x 2056, 3648  x 3648, 2592 x 1944, 2592 x 1728, 1920 x 1920. 1920 x 1080
+    Processor: Bionz X
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60p, 60i), 1440 x 1080 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - High Sensitivity
+        - Night Scene
+        - Handheld Twilight
+        - Night Portrait
+        - Landscape
+        - Portrait
+        - Soft Skin
+        - Anti Motion Blur,
+        - Backlight Correction HDR
+        - Beach
+        - Snow
+        - Fireworks
+        - Gourmet
+        - Pet Mode
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ClearPhoto LCD
+    SelfTimer: Yes (2 or 10 sec, portrait)
+    SensorPhotoDetectors: 19 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 121 g (0.27 lb / 4.27 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

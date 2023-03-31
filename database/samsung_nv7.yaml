@@ -1,0 +1,82 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210922153232/https://www.dpreview.com/reviews/samsungnv7
+ProductCode: samsung_nv7
+Award: aboveAverage
+ImageURL: /files/p/products/samsung_nv7/36868743a5a44d02af84a92cc1eb0c02.png
+Name: Samsung NV7 OPS
+ShortSpecs:
+    - 7 megapixels
+    - 2.5″ screen
+    - 38 – 270 mm (7.1×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_nv7
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000GHVZOC
+Specs:
+    Announced: Jul 3, 2006
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 106 x 62 x 21 mm (4.17 x 2.44 x 0.83″)
+    EffectivePixels: 7 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 38–270 mm
+    Format: AVI MPEG4
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1000
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 3072 x 2304
+    MaximumAperture: F2.8–3.7
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 7.1×
+    OrientationSensor: "No"
+    OtherResolutions: 2688 x 2016, 1920 x 1440, 1024 x 768
+    RemoteControl: ""
+    Resolutions: 640 x 480, 320 x 240, 30/15 fps (AVI MPEG-4)
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 24, 2007"
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 7 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    StorageIncluded: 19 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 290 g (0.64 lb / 10.23 oz)
+    WhiteBalancePresets: "6"

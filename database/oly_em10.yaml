@@ -1,0 +1,172 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220125162358/https://www.dpreview.com/reviews/olympus-om-d-e-m10
+ProductCode: oly_em10
+Award: gold
+ImageURL: /files/p/products/oly_em10/41b6de5137db433ab8686169e623263a.png
+Name: Olympus OM-D E-M10
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 80
+URL: /products/olympus/slrs/oly_em10
+ReviewData:
+    ExecutiveSummary: The Olympus OM-D E-M10 is a more affordable option in the OM-D lineup. The camera includes the same processor as its big brother, the E-M1, plus a 16MP four thirds sensor, built-in wi-fi, electronic viewfinder, and a 3-axis in-camera image stabilization system (the E-M5 and E-M1 have 5-axis stabilization). The E-M10 can shoot 8 fps for up to 20 RAW images, or 3.5 fps with continuous auto focus with tracking. The camera has the familiar look and feel of OM-D cameras, with a metal build and two metal control dials. The E-M10 is the first OM-D to include a built-in flash, with a sync speed up to 1/250.
+    ProductPhotos:
+        - /files/p/products/oly_em10/shots/fa8009baa3934d92a768e97a5bf76979.png
+        - /files/p/products/oly_em10/shots/b81a3cfb0fa9475e8ea38bdfd1d0fbbb.png
+        - /files/p/products/oly_em10/shots/871e5111ec9e4cb792bab6530db9bf06.png
+        - /files/p/products/oly_em10/shots/45d6d0d51b114462875a87be042f1bfe.png
+        - /files/p/products/oly_em10/shots/162a5a1a4c7b411a8a2b3571dba8367b.png
+        - /files/p/products/oly_em10/shots/067226989c9c48afb87e3c096cf4ddf6.png
+    ReviewSummary:
+        GoodFor: Street photographers, students, those who want lots of customization or want a camera they can grow into.
+        NotSoGoodFor: Dedicated videographers, sports shooters
+        Conclusion: The Olympus OM-D E-M10 is positioned as the entry-level OM-D camera, though it's just as capable in most ways as its more advanced siblings. It borrows the E-M5's impressive imaging capabilities, without the weatherproofing, and adds built-in Wi-Fi. The E-M10 offers an impressive level of direct control in a camera body that's light and compact.
+    ASIN:
+        - B00HPQ0A16
+        - B00HPQ09NA
+        - B00HPQ09H6
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jan 29, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-5 Li-ion battery and charger
+    BatteryLifeCIPA: "320"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: Yes (Olympus Wireless RC Flash system compatible)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 119 x 82 x 46 mm (4.69 x 3.24 x 1.81″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Manual (M)
+        - Aperture Priority (A)
+        - Shutter Priority (S)
+        - Programmed Auto (P)
+        - iAUTO
+        - Scene Selection (SCN)
+        - Bulb
+        - Time
+        - Underwater
+        - Art Filter
+    ExternalFlash: Yes (FL-50R, FL-36R, FL-20, FL-14, FL-300R, FL-600R)
+    FileFormat:
+        - JPEG
+        - RAW (12-bit lossless)
+        - MPO
+    FlashModes: Flash Auto, Redeye, Fill-in, Flash Off, Red-eye Slow sync.(1st curtain), Slow sync.(1st curtain), Slow sync.(2nd curtain), Manual（1/1（FULL）～1/64）
+    FlashRange: 5.80 m (ISO100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 2×
+    Format: H.264, Motion JPEG
+    GPS: Optional
+    GPSNotes: uses Smartphone GPS data
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 200 - 25600
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 3-axis image stabilization (yaw/pitch/roll)
+    JPEGQualityLevels: Super fine, fine, normal, basic
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $699.99 / £529.99 / €599 (body only), $799.99 / £699.99 / €799 (with 14-42mm F3.5-5.6 lens (standard in US, EZ in Europe)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NumberOfFocusPoints: "81"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 2400, 1280 x 960
+    Processor: TruePic VII
+    RemoteControl: Yes (Optional Remote cable RM-UC1)
+    Resolutions: 1920 x 1080 (30p),  1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 18, 2014"
+    SceneModes:
+        - Portrait
+        - e-Portrait
+        - Landscape
+        - Landscape + Portrait
+        - Sport
+        - Hand-held Starlight
+        - Night scene
+        - Night + Portrait
+        - Children
+        - High Key
+        - Low Key
+        - DIS mode
+        - Macro
+        - Nature Macro
+        - Candle
+        - Sunset
+        - Documents
+        - Panorama
+        - Fireworks
+        - Beach & Snow
+        - Fisheye Conv.
+        - Wide Conv.
+        - Macro Conv.
+        - 3D
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (12 sec., 2 sec.,custom (Waiting time 1-30sec.,Shooting interval 0.5/1/2/3sec.,Number of shots 1-10))
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (Interval Time 1 sec. - 24 Hours,  Max 999 frames. Available on making Time-lapse movie automatically)
+    TouchScreen: Yes (Shutter release, Enlargement, Live Guide, AF area selection, AF area enlargement and decrease, Frame forward/backward, Enlargement playback, Super Control Panel, Art Filter selection, Scene mode selection, Wi-Fi connection)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.15× (0.57× 35mm equiv.)
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 396 g (0.87 lb / 13.97 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: Live View, Rec View, Wireless Touch AF shutter, Wireless Release, Power Off

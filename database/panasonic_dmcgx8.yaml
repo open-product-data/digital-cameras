@@ -1,0 +1,140 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211017072901/https://www.dpreview.com/reviews/panasonic-lumix-dmc-gx8-review
+ProductCode: panasonic_dmcgx8
+Award: silver
+ImageURL: /files/p/products/panasonic_dmcgx8/3efa8ca222c04c169b8cb09a6c70bae6.png
+Name: Panasonic Lumix DMC-GX8
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 82
+URL: /products/panasonic/slrs/panasonic_dmcgx8
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Panasonic Lumix DMC-GX8 is the follow-up to the company''s successful GX7 rangefinder-style mirrorless camera. The GX8 boasts a new 20MP Four Thirds sensor and Panasonic''s latest Venus Engine processor. It features ''Dual IS'', which combines sensor and lens shift image stabilization for better results. The camera''s ISO range tops out at 25,600 and offers a max burst rate of 8 fps with single AF and 6 fps with continuous AF. Panasonic also claims that their autofocus speeds are among the best in class.The body is made of magnesium alloy with a large grip and a dedicated exposure compensation dial on its top plate. The body is sealed against dust and moisture.  As with its predecessor, the GX8''s EVF can tilt upward 90 degrees, but now it''s a 2.36M dot OLED panel with a large 0.77x equivalent magnification. Also available is a tilting 3" LCD with 1.04M dots.4K is a big deal on the GX8. The camera can capture UHD (3840 x 2160) video at 30p or 24p and 1080/60p is available as well. The GX8 offers a 2.5mm jack for an external microphone. There''s also a 4K photo mode, which lets you pull 8MP stills from 4K footage, complete with EXIF data. As with most Panasonic cameras, the GX8 includes Wi-Fi with NFC capability.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcgx8/shots/e530bba7961e462199a00fa1f5a28c38png
+        - /files/p/products/panasonic_dmcgx8/shots/3ad30d9dbfbf4b5eb8c88ae6d25d8446png
+        - /files/p/products/panasonic_dmcgx8/shots/bf328383ebdc46739760d051befb6bf0png
+        - /files/p/products/panasonic_dmcgx8/shots/fe01eeb293a6465f9a8f2bf85cc2ecacpng
+        - /files/p/products/panasonic_dmcgx8/shots/3440dc3535a0401882be0c54d2b1ac22png
+        - /files/p/products/panasonic_dmcgx8/shots/e538a2f3b3084d64b7343fceee3b81b8png
+        - /files/p/products/panasonic_dmcgx8/shots/91615740ed904ed7b6c203a161c39ee9png
+    ReviewSummary:
+        GoodFor: General and street photography and 4K video. Easy social sharing.
+        NotSoGoodFor: Dedicated enthusiast stills photographers who may be put off by occasional shutter-induced softness. Video pros who want to use an external mic with the rotating LCD.
+        Conclusion: The Panasonic Lumix-DMC GX8 is a hugely appealing mirrorless camera. Combining enthusiast-friendly ergonomics, an innovative tilting viewfinder and a solid feature set in both stills and video modes, the GX8 is a great all-rounder. Pretty much the only black mark against the GX8 is a persistent problem with shutter-induced softness in some shooting situations - an issue that Panasonic gets credit for trying to address in firmware, but has failed to completely eliminate.
+    ASIN:
+        - B011B8QW38
+        - B011B8QX32
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 16, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion battery & charger
+    BatteryLifeCIPA: "330"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 133 x 78 x 63 mm (5.24 x 3.07 x 2.48″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (Water and Dust resistant )
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Panasonic RW2)
+        - MPO
+    FlashModes: Auto, auto w/redeye reduction, forced on, forced on w/redeye reduction, slow sync, slow sync w/redeye reduction, forced off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Dual IS uses sensor and lens-shift (when available)
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1199
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "49"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (3712 x 2784, 2624 x 1968), 3:2 (5184 x 3456, 3712 x 2480, 2624 x 1752, 1824 x 1216), 16:9 (5184 x 2920, 3840 x 2160, 1824 x 1024), 1:1 (3888 x 3888, 1968 x 1968, 1712 x 1712)
+    Processor: Venus Engine
+    RemoteControl: Yes (wired and via smartphone)
+    Resolutions: 3840 x 2160 (30p, 24p), 1920 x 1080 (60p, 30p), 1280 x 720 (60p, 30p), 1280 x 720 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 8, 2016"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: OLED
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: 100Mbps bit rate for 4k
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.54× (0.77× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 487 g (1.07 lb / 17.18 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

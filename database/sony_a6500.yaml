@@ -1,0 +1,176 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127004000/https://www.dpreview.com/reviews/sony-alpha-a6500
+ProductCode: sony_a6500
+Award: silver
+ImageURL: /files/p/products/sony_a6500/46b19ae40f5c4c8da90f48a138614250.png
+Name: Sony a6500
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/sony/slrs/sony_a6500
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Sony Alpha a6500 is a higher-end version of the company''s a6300 mirrorless camera. The major additions are a new LSI that greatly improves AF and burst shooting performance, 5-axis image stabilization, and a touchscreen LCD with ''touchpad AF.''  Sony claims autofocus speeds of 0.05 secs and a top burst rate of 11 fps (8 fps with C-AF) for up to 307 shots. The in-body IS system is CIPA-rated to five stops. It retains the a6300''s 24.2MP CMOS sensor (APS-C-size), Hybrid AF system, EVF, 4K video capture capability and weather-sealed magnesium-alloy body.'
+    ProductPhotos:
+        - /files/p/products/sony_a6500/shots/d2f798039b0e420ca6294056157da90b.png
+        - /files/p/products/sony_a6500/shots/b4a1f5182b344526a9057f480b09c1a8.png
+        - /files/p/products/sony_a6500/shots/47aec442ff9e4770978d55a3a03ef463.png
+        - /files/p/products/sony_a6500/shots/fd2d2b71e2254196a7496aa09502b215.png
+        - /files/p/products/sony_a6500/shots/88a15d74877b44fc8e74208154124b40.png
+        - /files/p/products/sony_a6500/shots/f6ec9b05ad664e11b9f3bd587b307e4b.png
+    ReviewSummary:
+        GoodFor: Anyone wanting a tool that will let them take excellent images or 4K footage in a wide variety of circumstances.
+        NotSoGoodFor: Photographers wanting to effortlessly access all the camera's capabilities.
+        Conclusion: The Sony a6500 is an outstanding all-around camera. Image quality and 4K video quality are both exceptional and the camera's autofocus system also impresses. Well-suited for sports and action photography, the a6500 offers a deep buffer and burst speeds of both 8 and 11 fps with continuous autofocus. Just be aware that it can take some work to wrap one's head around its long list of capabilities, to get the most out of the camera.
+    ASIN:
+        - B07BV4CBC1
+        - B01M586Y9R
+        - B07GSVSZCC
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 6, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,499.00 - $1,998.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 120 x 67 x 53 mm (4.72 x 2.64 x 2.09″)
+    DriveModes:
+        - Single
+        - Continuous (Hi+/Hi/Mid/Lo)
+        - Self-timer
+        - Bracketing
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit Sony ARW)
+    FlashModes: Flash off, Autoflash, Fill-flash, Rear Sync., Slow Sync., Red-eye reduction (On/Off selectable), Hi-speed sync, Wireless
+    FlashRange: 6.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-25600 (expandable to 51200)
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1400 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 60 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 28 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 50i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 50i / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 6 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 25p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 24p / 17 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1280 x 720 @ 25p / 6 Mbps, MP4, H.264, AAC
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz X
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 14, 2016"
+    SceneModes: ""
+    ScreenDots: 921,600
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC + Memory Stick Pro Duo
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.07× (0.71× 35mm equiv.)
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames, H/L selectable)
+    WeightIncBatteries: 453 g (1.00 lb / 15.98 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + NFC

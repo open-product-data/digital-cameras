@@ -1,0 +1,92 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211127200016/https://www.dpreview.com/reviews/kodakslrc/
+ProductCode: kodak_dcsslrc
+Award: recommended
+ImageURL: /files/p/products/kodak_dcsslrc/75782bb7589c430696ee1a0c02de42c6.png
+Name: Kodak DCS Pro SLR/c
+ShortSpecs:
+    - 14 megapixels
+    - 1.8″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcsslrc
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000087KUR
+Specs:
+    AEBracketing: ""
+    Announced: Mar 18, 2004
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion
+    BodyType: Large SLR
+    BoostedISOMaximum: "1600"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.7 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 137 x 149 x 76 mm (5.39 x 5.87 x 2.99″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExternalFlash: Yes (hot-shoe & sync)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: 160 - 800 in 1/3 EV steps, 1600 RAW only
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: RAW (DCR)
+    LensMount: Canon EF
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 4500 x 3000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/6000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3000 x 2000, 2500 x 1500, 1125 x 750
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jun 29, 2004"
+    ScreenDots: ""
+    ScreenSize: 1.8″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash Type I/II, SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 92%
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 1000 g (2.20 lb / 35.27 oz)
+    WhiteBalancePresets: ""

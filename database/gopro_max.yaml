@@ -1,0 +1,110 @@
+ProductCode: gopro_max
+Award: ""
+ImageURL: /files/p/products/gopro_max/1c7156aa515c4f08b5294a13ad04a90a.png
+Name: GoPro Max
+ShortSpecs:
+    - 17 megapixels
+    - 2 lens(es)
+    - Compact sensor
+ReviewScore: 0
+URL: /products/gopro/actioncams/gopro_max
+ReviewData:
+    ExecutiveSummary: The GoPro Max is a 360-degree camera and successor to the Fusion. The Max captures 16MP still images and – thanks to lenses on either side of the camera – can record full 360-degree video up to 5K. The front of the Max features a touchscreen LCD and the camera is capable of live streaming 1080p video, making it an appealing option for vloggers. In keeping with its GoPro Hero heritage, it's waterproof to 5m.
+    ProductPhotos:
+        - /files/p/products/gopro_max/shots/6e256b5b37744e05bbfd64620487c9e3.png
+        - /files/p/products/gopro_max/shots/5fb60bf3c566430193af610d3dc9e57a.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Oct 1, 2019
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Composite
+    BodyType: VR/Action camera
+    BuiltInFlash: ""
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 64 x 69 x 25 mm (2.52 x 2.72 x 0.98″)
+    Durability: Waterproof
+    EffectivePixels: 17 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: ""
+    ExternalFlash: ""
+    FieldOfView: 360.00°
+    FileFormat:
+        - JPEG
+        - Raw (GPR)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: "16:9"
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: ""
+    MSRP: $499
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: Multiple
+    MicrophonePort: "No"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 4992 x 2496 @ 30p, MP4, H.264, AAC
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: "2"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 18 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: ""
+    Speaker: None
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WeightIncBatteries: 154 g (0.34 lb / 5.43 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi + Bluetooth

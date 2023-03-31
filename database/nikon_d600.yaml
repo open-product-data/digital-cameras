@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220124003622/https://www.dpreview.com/reviews/nikon-d600
+ProductCode: nikon_d600
+Award: gold
+ImageURL: /files/p/products/nikon_d600/e05ddda643454748b9590711b3898957.png
+Name: Nikon D600
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 87
+URL: /products/nikon/slrs/nikon_d600
+ReviewData:
+    ExecutiveSummary: The Nikon D600 is the smallest, least expensive full frame Nikon DSLR yet, aimed directly at enthusiast photographers. It is built around a 24MP FX format CMOS sensor and crams many of the features of the more expensive D800 into a distinctly D7000-esque body. It features a 100% coverage viewfinder and 39-point autofocus system, nine of which are cross-type points. It can capture 1080p HD video at 30, 25 or 24 frames per second and can stream uncompressed footage out over its HDMI port.
+    ProductPhotos:
+        - /files/p/products/nikon_d600/shots/3ecaff40f1744aed8593238823f8d412.png
+        - /files/p/products/nikon_d600/shots/ee5023e68ae84e8f93949b9129bc9b46.png
+        - /files/p/products/nikon_d600/shots/35ac18d1d3214b03b09da0ede3580293.png
+        - /files/p/products/nikon_d600/shots/c38667c45704459f93e5ce0c4eac7698.png
+    ReviewSummary:
+        GoodFor: Full frame shooters looking for a smaller, lighter and less expensive alternative to pro-level DSLRs. Photographers who often shoot at high ISOs.
+        NotSoGoodFor: Sports shooters who need wider AF coverage or videographers who demand real-time aperture control and fullscreen HDMI output.
+        Conclusion: The Nikon D600 brings full frame functionality to the masses, along with dual SD card slots and 100% viewfinder coverage. Image quality at high ISO sensitivities is outstanding, and a wealth of customization options enables quick access to shooting controls.
+    ASIN:
+        - B0099XHB4M
+Specs:
+    AEBracketing: (2, 3 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 13, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion  EN-EL15 rechargeable battery & charger
+    BatteryLifeCIPA: "900"
+    BodyMaterial: Magnesium alloy top and rear, polycarbonate front-plate
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,995.99
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.5 fps
+    CustomWhiteBalance: Yes (4)
+    DigitalZoom: "No"
+    Dimensions: 141 x 113 x 82 mm (5.55 x 4.45 x 3.23″)
+    DriveModes:
+        - Single-frame [S] mode
+        - Continuous low-speed [CL]
+        - Continuous high-speed [CH]
+        - Mirror-up [Mup]
+        - Quiet Shutter Release
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    ExposureModes:
+        - Program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat:
+        - 'NEF (RAW): 12 or 14 bit, lossless compressed, compressed or uncompressed'
+        - JPEG
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (Mini Type C)
+    HeadphonePort: "Yes"
+    ISO: 100 - 6400 in 1, 1/2 or 1/3 EV steps (50 - 25600 with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'Body: $2099/ £1955.99 ; With 24-85mm F3.5-5.6G ED VR: $2699/£2443.99'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6016 x 4016
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "39"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4512 x 3008, 3936 x 2624, 3008 x 2008, 3008 x 1688, 2944 x 1968
+    Processor: Expeed 3
+    RemoteControl: Yes (Optional, wired or wireless )
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50, 30, 25 fps)
+    ReviewPreview: "87%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 13, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD monitor
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC x 2 slots
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2 or 3 frames in steps of 1, 2 or 3 mired)
+    WeightIncBatteries: 850 g (1.87 lb / 29.98 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: Wu-1b mobile adapter

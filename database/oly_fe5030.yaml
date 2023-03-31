@@ -1,0 +1,87 @@
+ProductCode: oly_fe5030
+Award: ""
+ImageURL: /files/p/products/oly_fe5030/ec64043be45e43aeac62802d2bcf2038.png
+Name: Olympus FE-5030
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_fe5030
+ReviewData:
+    ExecutiveSummary: The 14MP FE-5030 comes with a 5x zoom wide-angle zoom lens starting at 26mm equivalent and a 2.7 inch LCD. It offers AF tracking and i-Auto mode. A range of Magic Filters is also on hand to give your images a creative edge. It also comes with an in-camera guide and advanced face detection.
+    ProductPhotos:
+        - /files/p/products/oly_fe5030/shots/7d7e6532c5fb4b7498172b028bb3c805.png
+        - /files/p/products/oly_fe5030/shots/ff753c20c59645afa7c4b9c504a4ef8e.png
+        - /files/p/products/oly_fe5030/shots/b7e2a6aab4be4e7f921c243ff2237af3.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Jul 22, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Multi-area
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CustomWhiteBalance: "No"
+    DigitalZoom: "Yes"
+    Dimensions: 93 x 56 x 25 mm (3.66 x 2.2 x 0.98″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-eye, Fill-in
+    FlashRange: 4.10 m
+    FocalLengthEquiv: 24–120 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 64, 100, 200, 400, 800, 1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3968 x 2976
+    MaximumAperture: F3.3–5.8
+    MaximumShutterSpeed: 1/500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 5×
+    OrientationSensor: "No"
+    OtherResolutions: 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480, 1920 x 1080
+    Processor: TruePic III
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    SelfTimer: Yes (12 seconds)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 48 MB
+    StorageTypes: SD/SDHC, internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "7"

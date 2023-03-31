@@ -1,0 +1,152 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210919063019/https://www.dpreview.com/reviews/nikon-1-v3
+ProductCode: nikon_v3
+Award: ""
+ImageURL: /files/p/products/nikon_v3/4e0b317543ec460c95063f8779cc9725.png
+Name: Nikon 1 V3
+ShortSpecs:
+    - 18 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 76
+URL: /products/nikon/slrs/nikon_v3
+ReviewData:
+    ExecutiveSummary: Nikon's 1 V3 is the newest model in the company's enthusiast mirrorless interchangeable lens camera system. The body features external controls and programmable custom buttons for easy manual adjustments, and is kitted with a removable hand grip (GR-N1010) and electronic viewfinder (DF-N1000). The V3 is built around an 18.4 MP CX-format sensor, and uses a hybrid contrast (171 points) and phase detect (105 points) AF system. The V3 boasts a continuous shooting speed that outpaces DSLRs at 20 fps with full autofocus. The camera is also capable of 1080/60p Full HD video, includes built-in Wi-Fi connectivity, and a new touch-panel tilting LCD display.
+    ProductPhotos:
+        - /files/p/products/nikon_v3/shots/3f80687ae799416e9bfa8bfc2391f93e.png
+        - /files/p/products/nikon_v3/shots/1c7244e3057040d4b4ca675d239b4382.png
+        - /files/p/products/nikon_v3/shots/690388251cea467bba1ef693c28ed0ca.png
+        - /files/p/products/nikon_v3/shots/3116647a59454bec9a88c6e9195f43f5.png
+        - /files/p/products/nikon_v3/shots/15c3c171f6764ad699b28b6ff3bc8a31.png
+    ReviewSummary:
+        GoodFor: Fast action such as wildlife and sports. Street photographers will find the the V3's silent mode useful.
+        NotSoGoodFor: Low-light or landscape photography where absolute image quality or dynamic range is needed.
+        Conclusion: The Nikon 1 V3 is one of the few mirrorless cameras we'd recommend for shooting sports or quickly moving kids. It brings high autofocus performance, interchangeable-lens versatility, and DSLR-like handling in a portable size. However, when factoring in price, there are many other good, less expensive alternatives with better image quality and all-around value.
+    ASIN:
+        - B00IYP9MQ6
+Specs:
+    AEBracketing: ""
+    Announced: Mar 13, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL20a lithium-ion battery and charger
+    BatteryLifeCIPA: "310"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 60.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 111 x 65 x 33 mm (4.37 x 2.56 x 1.3″)
+    DriveModes:
+        - Single frame
+        - Continuous
+        - Self-timer
+        - Delayed remote
+        - Quick response remote
+        - Interval timer
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program Auto w/flexible program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+        - Scene Auto Selector
+    ExternalFlash: Yes (via proprietary accessory shoe)
+    FileFormat:
+        - JPEG (EXIF 2.3, DCF 2.0)
+        - Raw (NEF)
+    FlashModes: Fill-flash, fill-flash w/slow sync, rear curtain sync, rear curtain w/slow sync, redeye reduction, redeye reduction w/slow sync, off
+    FlashRange: 5.00 m (ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 160-12800
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: £799.99/ €949 with 10-30mm PD,  £1049.99/$1199/€1249 with 10-30 PD-Zoom lens, EVF & grip
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5232 x 3488
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "171"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3920 x 2616, 2608 x 1744
+    Processor: Expeed 4A
+    RemoteControl: Yes (Wireless)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (60p, 30p)
+    ReviewPreview: "76%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 15, 2014"
+    SceneModes:
+        - Portrait, night landscape, landscape, night portrait, close-up, auto
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: No optical low-pass filter
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: microSD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (Touch focus, shutter)
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 'High speed: 1280 x 720 (120 fps), 768 x 288 (400 fps), 416 x 144 (1200 fps); Motion Snapshot: 1920 x 1080 (24 fps); Fast-motion, jump-cut, 4 second movies (24 fps)'
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 381 g (0.84 lb / 13.44 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: smartphone app allows for photo sharing

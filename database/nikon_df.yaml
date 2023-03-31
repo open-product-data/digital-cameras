@@ -1,0 +1,146 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175311/https://www.dpreview.com/reviews/nikon-df
+ProductCode: nikon_df
+Award: noAward
+ImageURL: /files/p/products/nikon_df/f5216216ef8e466fbfff91c4b5ab9989.png
+Name: Nikon Df
+ShortSpecs:
+    - 16 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 81
+URL: /products/nikon/slrs/nikon_df
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Nikon Df is a unique, advanced-level D-SLR that harmonizes Nikon heritage and modern performance in a lightweight and very capable FX-format camera. The new Df pays homage to the enduring style and controls of Nikon’s distinguished “F” series of 35mm film cameras, yet features technology similar to Nikon’s professional flagship D4 D-SLR.'
+    ProductPhotos:
+        - /files/p/products/nikon_df/shots/7f263fae037844398acfeb3cc1fec034.png
+        - /files/p/products/nikon_df/shots/f552465376b74f2fa1b43153455486a9.png
+        - /files/p/products/nikon_df/shots/72d3f23a2ff849adbb5f55b6c0bb6413.png
+        - /files/p/products/nikon_df/shots/6d3fa13388ad4b4a85c56ab1dd2f8eda.png
+        - /files/p/products/nikon_df/shots/9ac83a220b964c1a91e7ba6dbd3dfd50.png
+        - /files/p/products/nikon_df/shots/2a4ff19140c14eed82e6d7e05af42027.png
+    ReviewSummary:
+        GoodFor: Anyone longing to shoot using traditional control dials. Owners of Pre-AI Nikon lenses.
+        NotSoGoodFor: Users of autofocus wishing to work in low light. Photographers looking for the best available technology for their money.
+        Conclusion: The Nikon Df isn't for everyone. This is a product that's as much about invoking nostalgia as it is about capturing the moment. Its control setup is slower than a modern DSLR, but should appeal to those photographers who want a camera that feels more like a camera than an electronic device, and its 16MP imaging sensor is excellent.
+    ASIN:
+        - B00GD1K8J8
+        - B00GD1KCAI
+        - B00GD1KASM
+Specs:
+    AEBracketing: ±3 (2, 3, 5 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Nov 5, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL14/EN-EL14a lithium-ion battery and charger
+    BatteryLifeCIPA: "1400"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $2,996.95 - $3,796.95
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.5 fps
+    CustomWhiteBalance: Yes (4 spots)
+    DigitalZoom: ""
+    Dimensions: 144 x 110 x 67 mm (5.67 x 4.33 x 2.64″)
+    DriveModes:
+        - Single-frame
+        - Continuous high
+        - Continuous low
+        - Mirror-up
+        - Quiet shutter
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program Auto
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or PC sync)
+    FileFormat:
+        - JPEG (EXIF 2.3)
+        - RAW (NEF)
+        - TIFF
+    FlashModes: Auto FP High-speed sync, front-curtain sync, rear-curtain sync, redeye reduction,
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: ""
+    GPS: None
+    GPSNotes: via GP-1 or GP-1A adapter
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: ""
+    ISO: Auto, 100 - 12800
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $2749.95 (body only), $2999.95 / £2749.99 (with 50mm F1.8 lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4928 x 3280
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "39"
+    OrientationSensor: "Yes"
+    OtherResolutions: 'FX: 3696 x 2456, 2464 x 1640; DX crop: 3200 x 2128, 2400 x 1592, 1600 x 1064'
+    Processor: Expeed 3
+    RemoteControl: Yes (Cable release, wireless remote)
+    Resolutions: ""
+    ReviewPreview: "81%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Dec 20, 2013"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2, 5, 10, or 20 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Full frame (36 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW + TIFF
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2 or 3 shots in 1/3 or 1/2-stop intervals)
+    WeightIncBatteries: 760 g (1.68 lb / 26.81 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: via WU-1a wireless mobile adapter

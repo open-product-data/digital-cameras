@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211224065157/https://www.dpreview.com/reviews/leica-q-typ116
+ProductCode: leica_q116
+Award: silver
+ImageURL: /files/p/products/leica_q116/5df14a55be0c4b049ad6bb8d635c8a62.png
+Name: Leica Q
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 80
+URL: /products/leica/compacts/leica_q116
+ReviewData:
+    ExecutiveSummary: The Leica Q is a high-end full-frame enthusiast compact with a 24MP CMOS sensor with no anti-aliasing filter. It features a 28mm F1.7 ASPH lens with aperture and manual focus rings, as well as a clever distance guide that slides into place when in macro mode. The minimum focus  distance the lens is a mere 17cm. One of the highlights of the camera is its 3.68 million dot electronic viewfinder which, as of its announcement, is the highest resolution EVF on the market. There's also a 3" touchscreen LCD with 1.04M dots available. Both the EVF and LCD have framing guides for shooting at 35mm or 50mm. Other features include 1080/60p video recording, 10 fps continuous shooting, and built-in Wi-Fi. Being a Leica, it shouldn't come as a surprise that the body (made in Germany) is machined from a solid block of aluminum.
+    ProductPhotos:
+        - /files/p/products/leica_q116/shots/9528486eeec241c5a0dd34bff7446097png
+        - /files/p/products/leica_q116/shots/a829341038c64b2aa81e85628a23eff7png
+        - /files/p/products/leica_q116/shots/a6c8eb189d3c441b8d74dc474391b0efpng
+        - /files/p/products/leica_q116/shots/0ae57c8c7e3e4aecbf17438b98c073bbpng
+        - /files/p/products/leica_q116/shots/23eda50b9e0942f980534b5560823d9fpng
+        - /files/p/products/leica_q116/shots/0d5c703fbd4e432cab78e214ab296affpng
+    ReviewSummary:
+        GoodFor: Street shooters, photojournalists, event photographers and world travelers who appreciate a well-built camera with good external controls and like the 28mm focal length.
+        NotSoGoodFor: Peak action and video shooters, photographers who need ultimate dynamic range flexibility and photographers on a budget.
+        Conclusion: The Leica Q is the most affordable full-frame Leica camera to date. Its 24MP sensor is good though not class-leading, and the fixed 28mm F1.7 Summilux lens is superb. The camera is built beautifully and responds rapidly. With the exception of a few software issues and some troublesome noise banding in pushed Raw files, the Leica Q is an excellent camera that you'll want to bring along for documenting the world around you.
+    ASIN:
+        - B00ZTIHIJY
+        - B076VY7ZD3
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Jun 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC12
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $5,995.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, ECI RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (2 slots)
+    DigitalZoom: Yes (1.2x (35mm equiv), 1.5x (50mm equiv))
+    Dimensions: 130 x 80 x 93 mm (5.12 x 3.15 x 3.66″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/500 sec
+    FocalLengthEquiv: 28 mm
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "No"
+    ISO: Auto, 100-50000
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $4250
+    MacroFocusRange: 17 cm (6.69″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: F1.7
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: '28mm: 4272 x 2848, 2976 x 1600 x 1200; 35mm: 4800 x 3200, 3424 x 2288, 2384 x 1592, 1280 x 856; 50mm: 3360 x 2240, 2400 x 1600, 1680 x 1120, 896 x 600'
+    Processor: Maestro II
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (60p, 30p), 1280 x 720 (30p)
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 23, 2016"
+    SceneModes:
+        - Sport
+        - Portrait
+        - Landscape
+        - Night portrait
+        - Snow/beach
+        - Candlelight
+        - Sunset
+        - Digiscoping
+        - Miniature effect
+        - Panorama
+        - Timelapse
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 3,680,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 640 g (1.41 lb / 22.58 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

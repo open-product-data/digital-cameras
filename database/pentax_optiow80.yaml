@@ -1,0 +1,98 @@
+ProductCode: pentax_optiow80
+Award: ""
+ImageURL: /files/p/products/pentax_optiow80/b6105c75b19349c99c3036adbe93c02f.png
+Name: Pentax Optio W80
+ShortSpecs:
+    - 12 megapixels
+    - 2.5″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/pentax/compacts/pentax_optiow80
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B002EEP9SS
+        - B002ECF3HW
+Specs:
+    Announced: Jun 25, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion (D-LI78) & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.3 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (6.28x)
+    Dimensions: 100 x 56 x 25 mm (3.94 x 2.2 x 0.98″)
+    DriveModes: ""
+    Durability: Waterproof
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Soft
+    FlashRange: 3.90 m
+    FocalLengthEquiv: 28–140 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: ""
+    ISO: Auto (64-1600), 64, 100, 200, 400,800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2672, 4000 x 2256, 3072 x 2304, 2592 x 1944, 2048 x 1536, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (30, 15 fps), 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 33.7 MB Internal
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 156 g (0.34 lb / 5.50 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""

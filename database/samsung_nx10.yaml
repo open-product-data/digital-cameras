@@ -1,0 +1,124 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211208110200/https://www.dpreview.com/reviews/samsungnx10
+ProductCode: samsung_nx10
+Award: recommended
+ImageURL: /files/p/products/samsung_nx10/7bec632656814ba6add09c8f700734a0.png
+Name: Samsung NX10
+ShortSpecs:
+    - 15 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 69
+URL: /products/samsung/slrs/samsung_nx10
+ReviewData:
+    ExecutiveSummary: The NX10 is the first of Samsung's NX series of mirrorless interchangeable lens cameras. The NX10 wraps a 14.6 megapixel APS-C-sized CMOS sensor up in a comparatively compact, DSLR-style body including an eye-level VGA resolution electronic viewfinder. It also features a 3.0"" OLED screen, promising lower power consumption, a wider range of viewing angles and better contrast than LCD technology. One of the most impressive things about the NX10 is its image quality. In general terms, the camera makes a really good job of exposure, white balance and color rendition, meaning that most of the key elements are in place for great photos. The images are perhaps a little under-sharpened (in the style of Nikon), but you can get some improvement by applying a little more sharpening in camera, better still in post-processing or, ideally, during RAW conversion. Overall, the NX10 isn't completely free of flaws but it's not substantially better than the smaller micro four thirds cameras nor is it as good as the best DSLRs in its class.
+    ProductPhotos:
+        - /files/p/products/samsung_nx10/shots/2be268f0c80649afba12b773fcce9e2c.png
+        - /files/p/products/samsung_nx10/shots/b77f1658b3fb47a7aca999104ab4999f.png
+        - /files/p/products/samsung_nx10/shots/e7d254adba5543dcbc3ff6eab98cf4d2.png
+        - /files/p/products/samsung_nx10/shots/e0747663fbe24ba493b396cb2c1912ae.png
+    ReviewSummary:
+        GoodFor: People wanting SLR quality wherever they go.
+        NotSoGoodFor: Demanding enthusiasts or complete beginners. Budding videographers.
+        Conclusion: The NX10 proves it's possible to offer an APS-C sensor and interchangeable lenses without the mirror, prism, and general bulk of a DSLR design. It's a small, likeable camera that is readily capable of matching the image quality of its peers, but a few minor failings prevent it from standing out in a sector full of highly capable cameras.
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Jan 4, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion BP1310 battery & charger
+    BatteryLifeCIPA: "400"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-Up)
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: "No"
+    Dimensions: 123 x 87 x 40 mm (4.84 x 3.43 x 1.57″)
+    DriveModes: ""
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Fill-in, 1st/2nd Curtain, Smart Flash, Manual
+    FlashRange: 11.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: GPS10
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: Samsung NX
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4592 x 3056
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "15"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4592 x 2584, 3872 x 2592, 3872 x 2176, 3008 x 2000, 3008 x 1688, 1920 x 1280, 1920 x 1080, 1472 x 976
+    Processor: DRIM Engine
+    RemoteControl: Yes (Optional SR9NX01 )
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: "69%Recommended\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 4, 2010"
+    SceneModes: ""
+    ScreenDots: 614,000
+    ScreenSize: 3″
+    ScreenType: Active Matrix OLED screen
+    SelfTimer: Yes (2 sec to 30 sec)
+    SensorPhotoDetectors: 15 megapixels
+    SensorSize: APS-C (23.4 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.86× (0.57× 35mm equiv.)
+    ViewfinderResolution: 920,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames from +/-1 to +/-3 in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 499 g (1.10 lb / 17.60 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

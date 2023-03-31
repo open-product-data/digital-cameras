@@ -1,0 +1,148 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016005130/https://www.dpreview.com/reviews/2015-superzoom-camera-roundup
+ProductCode: nikon_cpp610
+Award: ""
+ImageURL: /files/p/products/nikon_cpp610/e229875bcf8c4f5baa4c6044a7ee9830.png
+Name: Nikon Coolpix P610
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1440 mm (60×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp610
+ReviewData:
+    ExecutiveSummary: The COOLPIX P610 boasts a remarkable 60x optical zoom NIKKOR ED glass lens and 120x Dynamic Fine Zoom capable of reaching awe-inspiring distances. Ready to shoot amazing wide-angle shots or sports from afar, this powerful super-zoom camera combines a 16-megapixel CMOS sensor and a high performance Autofocus (AF) system to help capture detailed images and sharp Full HD video. The camera features both a built-in electronic viewfinder and a 3-inch Vari-angle LCD, both boasting 921k dot resolution display to help users easily compose the perfect image from any angle. Users can shoot above a crowd at a concert or get low to capture breathtaking video from a different perspective. For those looking to inspire and enhance their creativity even further, the P610 sports user-friendly and fun features like filter effects, special effects, picture controls and a macro mode. Additionally, users can shoot Full HD video with stereo audio recording or create a stunning time-lapse video using the camera’s new Time Lapse feature. The new COOLPIX P610 is the ideal long zoom option for photographing sports from afar in stunning clarity, thanks to 7 frames per second shooting (full resolution) and  5-stop Dual Detect Optical VR image stabilization which helps minimize the effects of camera shake.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp610/shots/21c3e278800343aa8acd7d0e9cde3b51.png
+        - /files/p/products/nikon_cpp610/shots/b8fa55aa89164b49ba0a6d51fac32452.png
+    ReviewSummary: null
+    ASIN:
+        - B00T85OZRW
+        - B00T85P242
+Specs:
+    AEBracketing: ""
+    Announced: Feb 10, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion EN-EL23
+    BatteryLifeCIPA: "330"
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 125 x 85 x 107 mm (4.92 x 3.35 x 4.21″)
+    DriveModes:
+        - Single, Continuous L, Continuous H, Best Shot Selector, Multi-shot 16, Continuous 120fps, Continuous 60fps, Pre-shooting cache
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Scene Mode
+        - Custom User
+        - Auto Mode
+        - Special Effects Mode
+        - Program Auto
+        - Shutter Priority
+        - Aperture Priority
+        - Manual
+        - Scene Auto Selector
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+        - DCF
+        - Exif 2.3
+        - DPOF compliant
+    FlashModes: TTL auto flash with monitor preflashes
+    FlashRange: 7.50 m
+    FocalLengthEquiv: 24–1440 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $499.95
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–6.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 60×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30/25p, 60/50i) 1280 x 720 (60/50/30/25/15/12.5p) 960 x 540 (30/25p) 640 x 480 (120/100/30/25p)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2015"
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Black and White Copy
+        - Close-up
+        - Dusk/Dawn
+        - Panorama asist
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Museum
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Snow
+        - Sports
+        - Sunset
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 56MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 565 g (1.25 lb / 19.93 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: ""

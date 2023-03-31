@@ -1,0 +1,129 @@
+ProductCode: nikon_cpw100
+Award: ""
+ImageURL: /files/p/products/nikon_cpw100/ac8294a05db94c099676b74fd2334b39.png
+Name: Nikon Coolpix W100
+ShortSpecs:
+    - 13 megapixels
+    - 2.7″ screen
+    - 30 – 90 mm (3×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpw100
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix W100 is a budget-friendly rugged camera. It features a 1/3.1", 13.2 megapixel CMOS sensor, 3x optical zoom (equivalent to 30-90mm), digital image stabilization and a 2.7" LCD. It can capture Full HD video and features Nikon's SnapBridge Wi-Fi + Bluetooth system. The camera is waterproof to 10m/33ft, shockproof from 1.8m/5.9ft, freezeproof to -10C/+14F and dustproof.
+    ProductPhotos:
+        - /files/p/products/nikon_cpw100/shots/e86af6ac2ff8416db51e2bb9cb293614.png
+        - /files/p/products/nikon_cpw100/shots/5ed62a39e04b4a5bb3ac800eec4a3ee1.png
+        - /files/p/products/nikon_cpw100/shots/1ffec610a3904a28b1613c1784949dff.png
+        - /files/p/products/nikon_cpw100/shots/f4ab5b7aaa1d4ad4ac4e84b6068039a0.png
+        - /files/p/products/nikon_cpw100/shots/77718e50c4e24d20b36e01fff73f586d.png
+        - /files/p/products/nikon_cpw100/shots/8ff3a90fc7354911a6a453dc3515ff34.png
+    ReviewSummary: null
+    ASIN:
+        - B01N1YNVMH
+        - B01MY4L6ZI
+Specs:
+    AEBracketing: ""
+    Announced: Aug 1, 2016
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL19 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Composite
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 110 x 67 x 38 mm (4.31 x 2.64 x 1.5″)
+    DriveModes: ""
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 13 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: ""
+    FlashRange: 3.10 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 30–90 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-1600
+    ImageRatioWh: "4:3"
+    ImageStabilization: Digital only
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $159
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: ""
+    MaxResolution: 4160 x 3120
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2272 x 1704, 1600 x 1200
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/3.1" (4.7 x 3.5 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 22MB
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 177 g (0.39 lb / 6.24 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with Bluetooth 4.1 LE

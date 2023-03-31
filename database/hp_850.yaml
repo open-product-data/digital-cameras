@@ -1,0 +1,109 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220519030051/https://www.dpreview.com/reviews/hp850
+ProductCode: hp_850
+Award: average
+ImageURL: /files/p/products/hp_850/c7a29d780eef4a6790ff2c625b6993ca.png
+Name: HP Photosmart 850
+ShortSpecs:
+    - 4 megapixels
+    - 2″ screen
+    - 37 – 300 mm (8.1×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_850
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Sep 2, 2002
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (7 x)
+    Dimensions: 114 x 80 x 84 mm (4.49 x 3.15 x 3.31″)
+    Durability: ""
+    EffectivePixels: 4 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 37–300 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (100 - 200), 100, 200
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Best, Better, Good
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2272 x 1712
+    MaximumAperture: F2.8–11.3
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 16 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: 8.1×
+    OrientationSensor: "No"
+    OtherResolutions: 1136 x 856
+    RemoteControl: "No"
+    Resolutions: max 60 sec, audio
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Feb 6, 2003"
+    ScreenDots: 180,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 4 megapixels
+    SensorSize: 1/1.8" (7.144 x 5.358 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: Unknown
+    StorageTypes: SD/MMC card
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WeightIncBatteries: 489 g (1.08 lb / 17.25 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

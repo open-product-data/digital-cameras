@@ -1,0 +1,149 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211204104440/https://www.dpreview.com/reviews/canon-eos-90d-review
+ProductCode: canon_eos90d
+Award: noAward
+ImageURL: /files/p/products/canon_eos90d/0cba2935789d4c5db327b756a4330dbe.png
+Name: Canon EOS 90D
+ShortSpecs:
+    - 33 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/canon/slrs/canon_eos90d
+ReviewData:
+    ExecutiveSummary: The Canon EOS 90D is a midrange APS-C digital SLR with an all-new 32.5MP CMOS sensor. It uses Canon's latest Digic 8 processor and an updated metering sensor, which allows for face detection when shooting through the viewfinder. It features Canon's Dual Pixel AF system for live view and video shooting, with speedy focusing and subject tracking. The camera has an average-sized optical viewfinder and a fully articulating touchscreen LCD. It can shoot bursts at 10 fps through the viewfinder and 7 fps in live view, both with continuous autofocus. The 90D is weather-resistant (to some degree), has headphone, microphone and USB-C ports (at USB 2.0 speeds, however). Connectivity options include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/canon_eos90d/shots/0cc8a8c4f4ae433ba1bd24756e90a0db.png
+        - /files/p/products/canon_eos90d/shots/dfd2433c054443769b6552732f25b44a.png
+        - /files/p/products/canon_eos90d/shots/9b31985e387640699030fe45829c04c3.png
+        - /files/p/products/canon_eos90d/shots/47df32702f0b4e42b61df5b6669be2c4.png
+        - /files/p/products/canon_eos90d/shots/b2305c6289aa4efbb4b6242ebb0b35fc.png
+    ReviewSummary:
+        GoodFor: Those looking to document friends and family. Anyone seeking an easy-to-use DSLR than can seamlessly handle stills and video capture. Those planning to mostly shoot in live view.
+        NotSoGoodFor: Sports action and wildlife photographers requiring reliable through-the-finder autofocus.
+        Conclusion: The EOS 90D is a DSLR that functions most reliably when used in live view, thanks to its excellent Dual Pixel AF system. Through-the-finder AF is less reliable, by comparison. The camera also offers excellent Raw image quality and usable full-width 4K in a well-built, weather-sealed package with fabulous ergonomics.
+    ASIN:
+        - B07WFQYDD5
+        - B07WHV3HXL
+        - B07WJYY49P
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Aug 28, 2019
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: LP-E6N lithium-ion battery & charger
+    BatteryLifeCIPA: "1300"
+    BodyMaterial: Aluminum alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,198.98 - $1,726.42
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 141 x 105 x 77 mm (5.55 x 4.13 x 3.03″)
+    DriveModes:
+        - Single
+        - Continuous low
+        - Continuous high
+        - Continuous shooting (panning)
+        - Silent single shooting
+        - Self-timer/remote
+    EffectivePixels: 33 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3, 14-bit)
+    FlashModes: ""
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1.6×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-25600 (expands to 51200)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, normal
+    LensMount: Canon EF/EF-S
+    LiveView: "Yes"
+    MSRP: $1199 (body only), $1349 (w/18-55mm lens), $1599 (w/18-135mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6960 x 4640
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p / 120 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 120p / 120 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 60 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p / 30 Mbps, MP4, H.264, AAC
+    NumberOfCrossTypeFocusPoints: "45"
+    NumberOfFocusPoints: "45"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: DIGIC 8
+    RemoteControl: Yes (Wired , wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Sep 30, 2019"
+    SceneModes:
+        - Portrait, Group Photo, Landscape, Close-up, Sports, Night Portrait, Handheld Night Scene, HDR Backlight Control, Food, Kids, Candlelight, Panning
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 34 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.59× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "Yes"
+    WeightIncBatteries: 701 g (1.55 lb / 24.73 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with Bluetooth

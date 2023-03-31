@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220128213823/https://www.dpreview.com/reviews/fujifilmx100/
+ProductCode: fujifilm_x100
+Award: silver
+ImageURL: /files/p/products/fujifilm_x100/07379f8b62e44db3ba92515fdd30ba49.png
+Name: Fujifilm FinePix X100
+ShortSpecs:
+    - 12 megapixels
+    - 2.8″ screen
+    - 35 mm
+ReviewScore: 75
+URL: /products/fujifilm/compacts/fujifilm_x100
+ReviewData:
+    ExecutiveSummary: In amongst all the cameras announced at Photokina 2010 - including enthusiast SLRs such as the Nikon D7000, Canon EOS 60D, Pentax K-5 and Sigma SD1 - one utterly unexpected model stole the show. Fujifilm unveiled the FinePix X100, a compact camera with an SLR-size APS-C sensor and traditional analogue control dials, that hides ground-breaking technology inside a retro-styled body with looks to die for. The X100 uses traditional analogue-style control dials for shutter speed, aperture and exposure compensation, alongside an electronically coupled (‘focus-by-wire’) manual focus ring. But the biggest story is its innovative hybrid viewfinder, which combines a conventional direct-vision optical viewfinder with a high-resolution electronic viewfinder. This, in principle at least, gives the best of both worlds, plus a few unique tricks of its own. If you prefer, you can of course also frame your shots using the 2.7"" rear LCD, like any other compact camera.
+    ProductPhotos:
+        - /files/p/products/fujifilm_x100/shots/5610c84b1a3b4bb2b81cf545f852d2ef.png
+        - /files/p/products/fujifilm_x100/shots/682d362e71014cdb96f1aeb9098635f5.png
+        - /files/p/products/fujifilm_x100/shots/26b8974747954bbb91038749fb6f12e8.png
+    ReviewSummary:
+        GoodFor: Enthusiast and professional photographers looking for excellent image quality and traditional analogue controls in a relatively small, discreet package
+        NotSoGoodFor: Photographers demanding fast, flawless operation, especially in low light.
+        Conclusion: The X100 combines excellent image quality, solid build and a superb viewfinder with somewhat sluggish and quirky operation. It's been much improved by multiple firmware updates since its initial incarnation, and despite its flaws, is now a very likeable camera indeed.
+    ASIN:
+        - B0043RS864
+        - B006UL2VKK
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 19, 2010
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-95 rechargeable battery
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: "12800"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: $1,990.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 126 x 75 x 54 mm (4.96 x 2.95 x 2.13″)
+    DriveModes: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (hot-shoe)
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 9.00 m
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4
+    GPS: None
+    HDMI: Yes (Mini connector)
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 10 cm (3.94″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4288 x 2848
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: "49"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4288 x 2416, 3072 x 2048, 3072 x 1728, 2176 x 1448, 1920 x 1080
+    Processor: EXR
+    RemoteControl: Yes (Traditional cable release)
+    Resolutions: 1280 x 720 (24 fps)
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 16, 2011"
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 2.8″
+    ScreenType: TFT color LCD monitor
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 20 MB
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 90%
+    ViewfinderMagnification: 0.5×
+    ViewfinderResolution: 1,440,000
+    ViewfinderType: Electronic and Optical (tunnel)
+    WBBracketing: "No"
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

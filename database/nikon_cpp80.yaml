@@ -1,0 +1,108 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211108142554/https://www.dpreview.com/reviews/q109superzoomgroup
+ProductCode: nikon_cpp80
+Award: ""
+ImageURL: /files/p/products/nikon_cpp80/3ff408aa9b4c4732b45652a7e1ed87e4.png
+Name: Nikon Coolpix P80
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - 27 – 486 mm (18×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp80
+ReviewData:
+    ExecutiveSummary: The Coolpix P80 comes with a 10.1 MP sensor and a whopping 18x zoom (27-486mm equiv) which should hardly ever let you run out of focal length. There are also a 2.7" LCD screen and a CCD-shift image stabilization system. Unfortunately, sub-par image quality, unreliable AF and a cramped viewfinder let it down.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00176BDD4
+Specs:
+    AEBracketing: ""
+    Announced: Apr 10, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL5 Lithium-Ion & charger
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 110 x 79 x 78 mm (4.33 x 3.11 x 3.07″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow, Off
+    FlashRange: ""
+    FocalLengthEquiv: 27–486 mm
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto (64 - 800), Hi-Auto (64 - 1600), 64, 100, 200, 400, 800, 1600, (3200, 6400 at 3MP)
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: High, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–4
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes: ""
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 8 sec
+    NormalFocusRange: 40 cm (15.75″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 18×
+    OrientationSensor: "No"
+    OtherResolutions: 3648 x 2432, 3584 x 2016, 3264 x 2448, 2592 x 1944, 2048 x 1536, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 15/30 fps, 320 x 240, 15 fps, 160 x 120, 15 fps
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Jan 15, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (3 or 10 sec)
+    SensorPhotoDetectors: 11 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: 50 MB Internal
+    StorageTypes: SD/MMC/SDHC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 405 g (0.89 lb / 14.29 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

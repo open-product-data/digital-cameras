@@ -1,0 +1,122 @@
+ProductCode: leica_mp_typ240
+Award: ""
+ImageURL: /files/p/products/leica_mp_typ240/951060d8c20a4852ad67389c8211386d.png
+Name: Leica M-P (Typ 240)
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_mp_typ240
+ReviewData:
+    ExecutiveSummary: Featuring a full-frame 24MP CMOS sensor and 2GB of built-in RAM, the Leica M-P (Typ 240) digital is 'twice as fast' as the standard M (Typ 240). It also features weather-sealing for protection against water and dust incursion and its rear LCD is covered in tough sapphire crystal glass for durability It's also capable of capturing Full HD 1080p video.
+    ProductPhotos:
+        - /files/p/products/leica_mp_typ240/shots/4d05c8c8fed64daa8d4aca60f95add46.png
+    ReviewSummary: null
+    ASIN:
+        - B00MNK8QQK
+        - B00MNK4BVO
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/2 EV, 1 EV, 2 EV steps)
+    Announced: Aug 21, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-SCL2 lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: $7,499.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 42 mm (5.47 x 3.15 x 1.65″)
+    DriveModes: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Manual
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG)
+    FlashModes: Front Curtain, Rear Curtain, Slow sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1×
+    Format: Motion JPEG
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 200-6400 (expands down to 100)
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Standard
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $6995
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5952 x 3976
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4256 x 2832, 2976 x 1984, 1600 x 1080
+    Processor: Maestro
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (25,24 fps), 1280 x 720 (25, 24 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 24 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.68×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: "No"
+    WeightIncBatteries: 680 g (1.50 lb / 23.99 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

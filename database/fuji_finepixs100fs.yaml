@@ -1,0 +1,83 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220121233121/https://www.dpreview.com/reviews/fujifilms100fs/
+ProductCode: fuji_finepixs100fs
+Award: recommended
+ImageURL: /files/p/products/fuji_finepixs100fs/f265cebb3a344507ad47d1c5e4cd43ab.png
+Name: Fujifilm FinePix S100fs
+ShortSpecs:
+    - 11 megapixels
+    - 2.5″ screen
+    - 28 – 400 mm (14.3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixs100fs
+ReviewData:
+    ExecutiveSummary: 'High end ''bridge'' camera that aims to offer the quality and versatility of a digital SLR in a fixed lens camera. The S100FS is an interesting package: one of the largest sensors we''ve seen in a non-DSLR for many years, a lens covering a 14.3x zoom range (that, importantly, starts at a usefully wide-angle 28mm equivalent), and the eighth generation of Fujifilm''s Super CCD sensor technology. There''s some photography-related features that have been added too, such as presets designed to mimic the behavior of specific Fuji films and a dynamic range expansion mode. Image quality, though excellent for a camera of this type, isn''t perfect, but for many users - and uses - it''s not far at all from what you''d get from an entry-level DSLR.'
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0012Y541S
+Specs:
+    Announced: Jan 24, 2008
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2.0x)
+    Dimensions: 133 x 94 x 150 mm (5.25 x 3.69 x 5.92″)
+    EffectivePixels: 11 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: Auto, On, Off, Slow sync, Red-eye reduction
+    FlashRange: 4.30 m (Auto ISO)
+    FocalLengthEquiv: 28–400 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, Auto (1600), Auto (800), Auto (400), 64, 100, 200, 400, 800, 1600, 3200 (6400 at 6MP, 10000 at 3MP)
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3840 x 2880
+    MaximumAperture: F2.8–5.3
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 14.3×
+    OrientationSensor: "No"
+    OtherResolutions: 4032 x 2688, 2048 x 1536, 1600 x 1200, 640 x 480
+    RemoteControl: Yes (Optional)
+    Resolutions: 640 x 480 30 fps, 320 x 240 30 fps
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Apr 28, 2008"
+    ScreenDots: 230,000
+    ScreenSize: 2.5″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 2/3" (8.8 x 6.6 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: 25 MB
+    StorageTypes: xD Picturecard/SD/SDHC/MMC
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: ""
+    ViewfinderType: Electronic
+    WeightIncBatteries: 918 g (2.02 lb / 32.38 oz)
+    WhiteBalancePresets: "6"

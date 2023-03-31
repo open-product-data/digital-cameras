@@ -1,0 +1,134 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210926013533/https://www.dpreview.com/reviews/entry-level-mirrorless-camera-roundup-2013
+ProductCode: nikon_j3
+Award: ""
+ImageURL: /files/p/products/nikon_j3/56b7a1f85fce48a4b517025777af19bb.png
+Name: Nikon 1 J3
+ShortSpecs:
+    - 14 megapixels
+    - 3″ screen
+    - 1″ sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_j3
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The 14MP Nikon 1 J3 mirrorless camera looks a lot like the previous 1 Js but sees the mode dial moved to the camera''s top plate. It also has the ability to wirelessly share and transfer images when paired with the WU-1b Wireless Mobile Adapter.'
+    ProductPhotos:
+        - /files/p/products/nikon_j3/shots/32788b577d4242b8bfa35659ee141dc4.png
+        - /files/p/products/nikon_j3/shots/4a24538a38bd429cb9b374d275b158fb.png
+        - /files/p/products/nikon_j3/shots/0994c2bbe4d54a43bb9eb4ec4bc8231a.png
+    ReviewSummary: null
+    ASIN:
+        - B00AY6MCX8
+        - B00AY6MCKQ
+        - B00AY6MD6E
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL20 rechargeable battery & charger
+    BatteryLifeCIPA: "220"
+    BodyMaterial: Metallic body
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 101 x 61 x 29 mm (3.98 x 2.4 x 1.14″)
+    DriveModes: ""
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: -3–5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+        - Creative Mode
+    ExternalFlash: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 5.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2.7×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type C)
+    HeadphonePort: ""
+    ISO: ""
+    ImageParameters: ""
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Unknown
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon 1
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3072
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/16000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "135"
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Optional ML-L3)
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60 fps), 1072 x 720 (60 fps) 640 x 240 (400), 320 x 120 (1200)
+    ReviewPreview: "Read roundup ...\n                                    \n                                    \n                                        Nov 30, 2013"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 201 g (0.44 lb / 7.09 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Optional
+    WirelessNotes: WU-1bb mobile adapter

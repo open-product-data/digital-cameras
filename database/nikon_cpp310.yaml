@@ -1,0 +1,120 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211028123457/https://www.dpreview.com/reviews/nikon-coolpix-p310
+ProductCode: nikon_cpp310
+Award: noAward
+ImageURL: /files/p/products/nikon_cpp310/14066689727949d4a2fdf6764ec7d07d.png
+Name: Nikon Coolpix P310
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 100 mm (4.2×)
+ReviewScore: 69
+URL: /products/nikon/compacts/nikon_cpp310
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix P310 is built around a 16.1MP BSI-CMOS sensor and features a 4.2x optical zoom lens spanning 24-100mm equivalent with a fast F1.8 maximum aperture. Full 1080 HD video recording is available, and a sharp, high-resolution 3.0 inch LCD with 921,000 is provided. Burst shooting at up to 7 frames per second is possible for up to 5 frames, and the P310 offers PASM exposure modes to please beginners and advanced shooters alike. It's a JPEG-only camera unlike some of its Raw-capable competitors in the advanced compact category. It's also less costly, offering a point-and-shoot user stepping up from a basic model great ergonomics, advanced features and pocketability. Recently replaced by the altogether more capable P330 (which notably offers raw capture) the P310 remains capable and responsive camera.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp310/shots/e15320d41a924ea195ec8ef1b0611dd8.png
+        - /files/p/products/nikon_cpp310/shots/e4bd15f8b3894571ba6dc9e8816d7c4c.png
+    ReviewSummary:
+        GoodFor: Photographers that want control over exposure and operation in a portable, affordable body, but don't mind JPEG-only shooting
+        NotSoGoodFor: Anyone that wants to go that little step further in terms of image quality
+        Conclusion: The Nikon Coolpix P310 is a hard camera to categorize, offering the sort of manual control and customization options that we'd associate with more expensive models, but with a small sensor and no Raw shooting option. Ultimately, it's a good-looking, pocketable camera that has a lot to offer, but falls short of its (more expensive) high-end rivals when it comes to critical image quality.
+    ASIN:
+        - B0073HSH08
+Specs:
+    AEBracketing: ""
+    Announced: Feb 1, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "230"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "12800"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 103 x 58 x 32 mm (4.06 x 2.28 x 1.26″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Slow-sync
+    FlashRange: ""
+    FocalLengthEquiv: 24–100 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (Mini Connector)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 2000, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal, Basic
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F1.8–4.9
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: ""
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4.2×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 2592, 4608 x 3072, 3456 x 3456, 3264 x 2448, 1920 x 1080, 1600 X 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30fps), 1280 x 720p (30 fps), 640 x 480 (120, 30fps)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 22, 2012"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD with Anti-reflection coating
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 194 g (0.43 lb / 6.84 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

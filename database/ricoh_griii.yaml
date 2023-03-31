@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210730120102/https://www.dpreview.com/reviews/ricoh-gr-iii
+ProductCode: ricoh_griii
+Award: silver
+ImageURL: /files/p/products/ricoh_griii/20d44f2432d74b6cb02d548b02a80f46.png
+Name: Ricoh GR III
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 81
+URL: /products/ricoh/compacts/ricoh_griii
+ReviewData:
+    ExecutiveSummary: The Ricoh GR III is a pocketable, lightweight camera with a newly designed 28mm equiv. F2.8 lens and 24MP APS-C sensor. It features a sensor-shift shake reduction system (which can also be used for simulating the effect of an anti-aliasing filter) along with a hybrid autofocus system. It has a 3" touchscreen display (with support for an optical viewfinder), hot shoe, USB-C port with video output and built-in Wi-Fi plus Bluetooth. The GR III can capture video at Full HD video at 60 fps.
+    ProductPhotos:
+        - /files/p/products/ricoh_griii/shots/b123326c80f8409ba572f9c20cee51ee.png
+        - /files/p/products/ricoh_griii/shots/fa5644e414c54bb4aeb8da6d902672dc.png
+        - /files/p/products/ricoh_griii/shots/2953d549430242deba533deabe6376d1.png
+        - /files/p/products/ricoh_griii/shots/f568b98a0a46454e887e62d263461c38.png
+        - /files/p/products/ricoh_griii/shots/c979b5a9fb994863bf74c0260cb55000.png
+    ReviewSummary:
+        GoodFor: Street shooting and casual photography, or travel photography where a small and light camera, with a medium-wide lens is very useful.
+        NotSoGoodFor: Any work that requires long shooting sessions, long focal lengths, or low light shooting, where the GR III's autofocus system can struggle.
+        Conclusion: The Ricoh GR III updates the GR series in some really important ways, bringing a modern high-resolution sensor and hybrid autofocus system to the lineup for the first time. Controls have been simplified, and a new touch-sensitive rear screen makes autofocus positioning and image navigation much faster. Image quality is excellent, although JPEG shooters might find that the 'Std' profile delivers rather dull results. The lack of a flash, and unimpressive battery performance are the only major black marks against this pocketable camera.
+    ASIN:
+        - B08FPDJ8BW
+        - B07NY7DQQS
+        - B08FPDB6SQ
+Specs:
+    AEBracketing: ""
+    Announced: Sep 25, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-110 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "200"
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BuiltInFlash: "No"
+    BuyingOptions: $129.46
+    CIPAImageStabilizationRating: 4 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 109 x 62 x 33 mm (4.29 x 2.44 x 1.3″)
+    DriveModes:
+        - Single Frame
+        - Continuous Shooting
+        - Bracketing
+        - Multi-exposure
+        - Interval Shooting
+        - Interval Composite
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (14-bit DNG)
+    FlashModes: Auto, Flash On, Flash On+Red-eye, Slow-speed Sync, Slow Sync+Red-eye
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthEquiv: 28 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $899 / £799
+    MacroFocusRange: 6 cm (2.36″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: F2.8–16
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+    NormalFocusRange: 10 cm (3.94″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "81%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 14, 2019"
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 2GB
+    StorageTypes: Internal, SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderType: Optical (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 257 g (0.57 lb / 9.07 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

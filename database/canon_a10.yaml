@@ -1,0 +1,94 @@
+ProductCode: canon_a10
+Award: ""
+ImageURL: /files/p/products/canon_a10/d2948f0d563944e0ba2d50accb50a9d5.png
+Name: Canon PowerShot A10
+ShortSpecs:
+    - 1 megapixels
+    - 1.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_a10
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Feb 11, 2001
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2 x)
+    Dimensions: 110 x 71 x 38 mm (4.33 x 2.8 x 1.5″)
+    DriveModes: ""
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: ""
+    FocalLengthEquiv: 35–105 mm
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    ISO: "100"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 16 cm (6.3″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 1280 x 960
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: 1/1500 sec
+    MeteringModes: ""
+    Microphone: ""
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 76 cm (29.92″)
+    NumberOfFocusPoints: "3"
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1024 x 768, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash (Type I)
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 375 g (0.83 lb / 13.23 oz)
+    WhiteBalancePresets: "5"

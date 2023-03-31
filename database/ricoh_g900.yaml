@@ -1,0 +1,143 @@
+ProductCode: ricoh_g900
+Award: ""
+ImageURL: /files/p/products/ricoh_g900/4b0b6987ae704d769b7e2e4234bb714c.png
+Name: Ricoh G900
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_g900
+ReviewData:
+    ExecutiveSummary: The Ricoh G900 is an ultra-rugged camera designed for industrial use. It's based on the WG-6 waterproof camera but has a chunkier body that's crush and chemical-proof, and supports a large neck strap. The G900 is waterproof to 20m/65ft, drop-proof from 2.1m/6.5ft, crushproof to 100kgf/220lbf and chemical-resistant. It has barcode scanning, password protection, text and audio notes, and more. It has a 28-140mm equiv. lens, 20MP BSI-CMOS sensor, 3" LCD, GPS with e-Compass and six LEDs around the lens that serve as a ring light. The G900 can capture UHD 4K video at 30 fps.
+    ProductPhotos:
+        - /files/p/products/ricoh_g900/shots/abc3ad97039c485fb2849d2015536393.png
+    ReviewSummary: null
+    ASIN:
+        - B07P454ZSZ
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Feb 21, 2019
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-110 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Composite
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (8.1X)
+    Dimensions: 118 x 66 x 33 mm (4.65 x 2.6 x 1.3″)
+    DriveModes:
+        - One-shot
+        - Self-timer
+        - Continuous
+        - Burst
+        - M continuous
+        - S continuous
+        - Remote control
+        - Auto bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Flash on, flash off
+    FlashRange: 5.50 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 28–140 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: Includes e-Compass
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Digital only
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $799
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.5–5.5
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1/4 sec
+    Modes: ""
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes:
+        - Auto Picture
+        - Program
+        - HDR
+        - Movie
+        - High Speed Movie
+        - Digital Microscope
+        - Interval Shot
+        - Interval Movie
+        - Surf & Snow
+        - Digital SR
+        - Report
+        - watermark
+        - Firefighting
+        - Skew Correct
+        - Text
+        - Zoom Macro
+        - Haze removal
+        - Depth of field composition
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 6.5GB
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 247 g (0.54 lb / 8.71 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: Supports FlashAir SD cards

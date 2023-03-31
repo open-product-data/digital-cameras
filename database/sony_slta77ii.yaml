@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220529114234/https://www.dpreview.com/reviews/sony-alpha-slt-a77ii
+ProductCode: sony_slta77ii
+Award: silver
+ImageURL: /files/p/products/sony_slta77ii/2387063659ed4842a1490ae6185edf1d.png
+Name: Sony a77 II
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/sony/slrs/sony_slta77ii
+ReviewData:
+    ExecutiveSummary: The Sony SLT-A77 Mark II (a77 II) is the company's latest midrange DSLR to use Translucent Mirror Technology. TMT allows the camera to have fast continuous AF (at 12 fps) while retaining live view on the electronic viewfinder or LCD. It features a new 24.3MP CMOS sensor and an enhanced 79-pt phase detect autofocus system with roughly 40% coverage across the frame. Like its predecessors, the a77 II uses the A-mount and has built-in image stabilization. Other features include a tilting 3" LCD, XGA OLED electronic viewfinder, and 1080/60p video.
+    ProductPhotos:
+        - /files/p/products/sony_slta77ii/shots/579dcedfc8c84baa8271d2bf64201ca3.png
+        - /files/p/products/sony_slta77ii/shots/98aa323726c241b598c0ac6ab31acbd7.png
+        - /files/p/products/sony_slta77ii/shots/321589a36f834d65b172b7f34bca8995.png
+        - /files/p/products/sony_slta77ii/shots/3f476ed8bb2b4b4aaad0e64d2c524c47.png
+    ReviewSummary:
+        GoodFor: Sports, wildlife and action photographers seeking a camera with a fast burst rate, and robust continuous AF, for under $1200. Also filmmakers in need of a camera body that can use AF full time during video capture without any hunting.
+        NotSoGoodFor: Low-light shooters. Photographers needing a camera that can reliably subject track.
+        Conclusion: The Sony a77 II is the perfect choice for those seeking pro-grade shooting and AF speeds for well-under pro-grade prices. No moving mirror means the a77 II can successfully use continuous AF during both 12fps bursts and video capture, a major advantage over many of its DSLR competitors. And in-body image stabilization helps to keep both stills and video a bit more stable than the competition. Subject tracking, one of the a77 II's most anticipated features, is unfortunately,  not very reliable. And high ISO images have a tendency to be fairly noisy. Build quality and ergonomics, however, are very good. Overall, the a77 II offers a lot of camera, for a very reasonable price.
+    ASIN:
+        - B00K0BYLN6
+        - B00K0BYLNQ
+        - B00PGVIZJ6
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: May 1, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: Yes (flash type)
+    Battery: Battery Pack
+    BatteryDescription: NP-FM500H lithium-ion battery and charger
+    BatteryLifeCIPA: "480"
+    BodyMaterial: Magnesium alloy
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: Yes (2X)
+    Dimensions: 143 x 104 x 81 mm (5.63 x 4.09 x 3.19″)
+    DriveModes:
+        - Single-frame
+        - Continuous high/low
+        - Continuous advance priority AE
+        - Self-timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FileFormat:
+        - JPEG  (DCF v2.0, EXIF v2.3)
+        - Raw (ARW 2.3)
+    FlashModes: Auto, fill, rear sync, slow sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "No"
+    ISO: Auto (ISO 100-51200), Manual (ISO 100-25600)
+    ImageParameters:
+        - Contrast
+        - Saturation
+        - Sharpness
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Sony/Minolta Alpha
+    LiveView: "Yes"
+    MSRP: $1199 (body only), $1799 (w/16-50 F2.8 lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "79"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 4240 x 2832, 4440 x 2400, 3008 x 2000, x 3008 x 1688
+    Processor: Bionz X
+    RemoteControl: Yes (wired, wireless, or smartphone)
+    Resolutions: 1920 x 1080 (60p, 60i, 30p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 22, 2015"
+    SceneModes:
+        - Portrait
+        - Sports Action
+        - Macro
+        - Landscape
+        - Sunset
+        - Night Scene
+        - Hand-held Twilight
+        - Night Portrait
+    ScreenDots: 1,229,000
+    ScreenSize: 3″
+    ScreenType: WhiteMagic TFT
+    SelfTimer: Yes (Yes (2 or 12 sec))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/ SDHC/SDXC, Memory Stick Pro Duo/ Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.09× (0.73× 35mm equiv.)
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 shots, low/high selectable)
+    WeightIncBatteries: 647 g (1.43 lb / 22.82 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

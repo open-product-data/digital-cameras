@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220521051823/https://www.dpreview.com/reviews/panasonic-lumix-dmc-ts5-ft5
+ProductCode: panasonic_dmcts5
+Award: ""
+ImageURL: /files/p/products/panasonic_dmcts5/e91f80709ef14999b4a0e3f97b6d7e71.png
+Name: Panasonic Lumix DMC-TS5 (Lumix DMC-FT5)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 128 mm (4.6×)
+ReviewScore: 72
+URL: /products/panasonic/compacts/panasonic_dmcts5
+ReviewData:
+    ExecutiveSummary: The LUMIX TS5 is rugged -- waterproof to 43 feet, shockproof from 6.5 feet, freezeproof from 14 degrees Fahrenheit, and pressure resistant to 220 lbs. New on offer is Near Field Communication (NFC), a close-proximity radio connection that the camera can use to initiate a Wi-Fi connection with a compatible device simply by tapping the two together, allowing remote shooting and sharing from a smartphone or tablet. It also has a Leica 28-128mm f/3.3-5.9 lens, 1080 HD video, and plenty of creative and automatic modes.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcts5/shots/cc283cb9501d4efab39a43945f6ef309.png
+    ReviewSummary:
+        GoodFor: Adventurous photographers looking for a rugged cameras with a great LCD, well-implemented GPS, and photo sharing via Wi-Fi. Video lovers will also appreciate the 1080/60p movie mode.
+        NotSoGoodFor: Photographers planning on taking a lot of flash and low light photos.
+        Conclusion: The Lumix DMC-TS5 is a good choice for those seeking a rugged camera with a robust feature set that includes a well-implemented GPS, plus Wi-Fi. The camera takes good quality photos for its class, has a great LCD, and offers a top-notch movie mode. However, its lens is on the slow side, and the flash is very weak. The Wi-Fi system could also be a lot more user-friendly.
+    ASIN:
+        - B00ATE7ULY
+        - B00ATE7UUK
+        - B00ATE7V3Q
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DMW-BCM13 Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "370"
+    BodyType: Compact
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4.6x)
+    Dimensions: 110 x 67 x 29 mm (4.33 x 2.64 x 1.14″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof)
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Program
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - '3D: MPO'
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 5.60 m
+    FocalLengthEquiv: 28–128 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.3–5.9
+    MaximumShutterSpeed: 1/1300 sec
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 4.6×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60, 30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps)
+    ReviewPreview: "72%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jul 12, 2013"
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Night Portrait
+        - Night Scenery
+        - Hand Held Night Shot
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - Underwater
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 18 megapixels
+    SensorSize: 1/2.33" (6.08 x 4.56 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 15 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 214 g (0.47 lb / 7.55 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: with NFC (Near Field Communication) capabilities

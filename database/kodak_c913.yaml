@@ -1,0 +1,86 @@
+ProductCode: kodak_c913
+Award: ""
+ImageURL: /files/p/products/kodak_c913/2d48834460794a608abf9f6d0c54aa0b.png
+Name: Kodak EasyShare C913
+ShortSpecs:
+    - 9 megapixels
+    - 2.4″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c913
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001XVWFN0
+        - B001BX6HF2
+        - B001BX6HFC
+Specs:
+    Announced: Sep 24, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: ""
+    BatteryDescription: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5x)
+    Dimensions: 91 x 62 x 25 mm (3.58 x 2.44 x 0.98″)
+    EffectivePixels: 9 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 3.20 m (ISO 160)
+    FocalLengthEquiv: 36–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: 80, 100, 200, 400, 800, 1000
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3472 x 2604
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 3472 x 2314, 3472 x 1952, 2592 x 1944, 2048 x 1536, 1800 x 1200, 1920 x 1080, 1280 x 960
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    ScreenDots: 115,000
+    ScreenSize: 2.4″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB
+    StorageTypes: SD/SDHC card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "5"

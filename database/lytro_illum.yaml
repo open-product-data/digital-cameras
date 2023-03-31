@@ -1,0 +1,125 @@
+ProductCode: lytro_illum
+Award: ""
+ImageURL: /files/p/products/lytro_illum/5b91c9b78e3d45159e04d139193245ef.png
+Name: Lytro Illum
+ShortSpecs:
+    - 4″ screen
+    - 30 – 250 mm (8.3×)
+ReviewScore: 0
+URL: /products/lytro/compacts/lytro_illum
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Lytro Illum captures information about the angle from which light has arrived, allowing it to calculate images with different perspective and focus. Lytro calls the images ''living pictures'', which are presented in a proprietary interactive format.  The biggest change compared to previous Lytro cameras is the use of a much larger sensor: now a 1" type, rather than 1/3" type usually found in smartphones. Despite this more than sevenfold increase in sensor size, the Illum still offers a constant F2 lens, now with a more practical 30-250mm equivalent range. And, where this would give more control over depth-of-field on a conventional camera, here it should increase the ability to distinguish between focus depths on a light field camera. The Illum has 40 megarays of angular resolution, providing output of about 5 megapixels of spatial (or two-dimensional) resolution.'
+    ProductPhotos:
+        - /files/p/products/lytro_illum/shots/f984c05252ac4fe49fba58e011bb1eac.png
+        - /files/p/products/lytro_illum/shots/bdbd3dd612ab441b8fc37125fad24490.jpeg
+        - /files/p/products/lytro_illum/shots/d89ffe166bce4cb4962f91f4893eb76a.jpeg
+    ReviewSummary: null
+    ASIN:
+        - B00KAX40LM
+Specs:
+    AEBracketing: ""
+    Announced: Apr 22, 2014
+    AperturePriority: ""
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Multi-area
+    AutofocusAssistLamp: "No"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium/aluminum
+    BodyType: SLR-style mirrorless
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: $500.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 86 x 145 x 166 mm (3.39 x 5.71 x 6.54″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExposureModes:
+        - Program
+        - ISO Priority
+        - Shutter Priority
+        - Manual
+    ExternalFlash: "No"
+    FileFormat:
+        - Light Field Raw (LFR)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 30–250 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: 80-3200
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1599
+    MacroFocusRange: 0 cm (0″)
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (using Light Field technology)
+    MaxResolution: 2450 x 1634
+    MaximumAperture: F2
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 32 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 8.3×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Snapdragon 800
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,152,000
+    ScreenSize: 4″
+    ScreenType: LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2" (6.4 x 4.8 mm)
+    SensorSizeNotes: 40 Megaray Light Field sensor
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 940 g (2.07 lb / 33.16 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11a/b/g/n/ac

@@ -1,0 +1,75 @@
+ProductCode: kodak_ls420
+Award: ""
+ImageURL: /files/p/products/kodak_ls420/501ec612f3cb4b109b7f31a40c1f2a3e.png
+Name: Kodak LS420
+ShortSpecs:
+    - 2 megapixels
+    - 1.6″ screen
+    - 38 mm
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_ls420
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    Announced: Apr 22, 2002
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Kodak Lithium-Ion, dock & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (1.1x - 3 x)
+    Dimensions: 109 x 46 x 29 mm (4.29 x 1.81 x 1.14″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Night Shot, Off
+    FlashRange: 2.50 m
+    FocalLengthEquiv: 38 mm
+    Format: ""
+    HDMI: "No"
+    ISO: Auto (100 - 200)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Good
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualFocus: "No"
+    MaxResolution: 1752 x 1168
+    MaximumAperture: F3.9
+    MaximumShutterSpeed: 1/1200 sec
+    Microphone: Mono
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 1×
+    OrientationSensor: "No"
+    OtherResolutions: 876 x 584
+    RemoteControl: "No"
+    Resolutions: 19 fps, 320 x 240 or 160 x 120, audio
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.6″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: ""

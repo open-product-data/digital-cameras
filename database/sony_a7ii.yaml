@@ -1,0 +1,146 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211023120604/https://www.dpreview.com/reviews/sony-alpha-7-ii
+ProductCode: sony_a7ii
+Award: silver
+ImageURL: /files/p/products/sony_a7ii/0b26a7fbfd334488a1b9ec4810001eb6.png
+Name: Sony a7 II
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 82
+URL: /products/sony/slrs/sony_a7ii
+ReviewData:
+    ExecutiveSummary: The Sony Alpha 7 II is the follow-up to the original Alpha 7 and adds 5-axis sensor-shift image stabilization to its 24MP full-frame CMOS sensor. The a7 II continues to use a Hybrid AF system and it is 30% faster and 1.5X better than tracking compared to its predecessor. From a design standpoint, additional improvements in this model include more rugged build quality, a new front dial, and a relocated shutter release button.While the cameras can use any E-mount lens, there will be a crop factor involved (unless you don't mind vignetting). Sony is producing a new line of FE-series lenses that take advantage of the larger sensor.The A7 II continues to use the new Sony Bionz X processor, which produces images with better detail, less noise, and reduced diffraction. Other features include a 3-inch, tilting LCD, XGA OLED electronic viewfinder, Multi-interface (hot) shoe, Wi-Fi with NFC, and 1080/60p video recording - now with XAVC S and a 'flat' picture profile.
+    ProductPhotos:
+        - /files/p/products/sony_a7ii/shots/ddb73678e31d4140a35355f99cce4ce2.png
+        - /files/p/products/sony_a7ii/shots/ceb95c6e21124eb8915e44f630197a45.png
+        - /files/p/products/sony_a7ii/shots/55f7821b396545798b3858ac9883b980.png
+        - /files/p/products/sony_a7ii/shots/8da8036e780c48dd824ba502fc3ce81b.png
+        - /files/p/products/sony_a7ii/shots/1e454440d4864001b9a439c629533d3a.png
+        - /files/p/products/sony_a7ii/shots/0a5f588fd0a545b7ba04b8d9c7124c15.png
+        - /files/p/products/sony_a7ii/shots/7f2ec508e45945e68186a7421cce531a.png
+    ReviewSummary:
+        GoodFor: Those seeking a well-priced, feature-packed full frame camera that can be used for both stills and video. Also third-party and adapted lens users who crave image stabilization.
+        NotSoGoodFor: Fans of low light photography, sports shooters and street photographers seeking a quiet, small camera.
+        Conclusion: The Alpha 7 II continues to push Sony's full frame mirrorless line of cameras into ground-breaking territory. It is the only full frame mirrorless camera to offer in-body image stabilization systems and its performance is excellent. The body is comfortable to shoot with and offers a broad set of features that should appeal to both still and video shooters. Unfortunately the a7 II's  high ISO image quality is not as good as other full framers. Raw files are also less malleable than the competition and JPEGs tend to suffer from aggressive noise reduction.
+    ASIN:
+        - B00PX8CNCM
+        - B00PX8CHO6
+        - B089DBBPQD
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Nov 20, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FW50 lithium-ion battery and charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $998.00 - $2,496.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4)
+    Dimensions: 127 x 96 x 60 mm (5 x 3.78 x 2.36″)
+    DriveModes:
+        - Single, continuous, speed priority continuous, self-timer, bracketing (AE, white balance, DRO)
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Scene Selection
+        - Sweep Panorama
+        - Movie
+    ExternalFlash: Yes (via Multi Interface shoe)
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.3)
+        - RAW (ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro-HDMI port with 4K still, uncompressed video output)
+    HeadphonePort: "Yes"
+    ISO: 100-25600
+    ImageParameters:
+        - Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn Leaves, Black & White, Sepia
+    ImageRatioWh: 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 4.5 stops
+    JPEGQualityLevels: Extra fine, fine, standard
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1699 body only $1999 with 28-70mm F3.5-5.6
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "117"
+    OrientationSensor: "Yes"
+    OtherResolutions: 6000 x 3376, 3936 x 2624, 3936 x 2216, 3008 x 1688, 3008 x 2000
+    Processor: Bionz X
+    RemoteControl: Yes (wired)
+    Resolutions: 1920 x 1080 (60p, 60i, 24p), 1440 x 1080 (30p), 640 x 480 (30p)
+    ReviewPreview: "82%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 31, 2015"
+    SceneModes:
+        - Portrait, Landscape, Macro, Sports Action, Sunset, Night Portrait, Night Scene, Hand-held Twilight, Anti Motion Blur
+    ScreenDots: 1,230,000
+    ScreenSize: 3″
+    ScreenType: Xtra Fine LCD
+    SelfTimer: Yes (2 or 10 sec; continuous (3 or 5 exposures))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.8 x 23.9 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC, Memory Stick Duo/Pro Duo/Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Supports XAVC S codec (50Mbps) and S Log2 flat picture profile
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.71×
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 599 g (1.32 lb / 21.13 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: with NFC and wireless control via PlayMemories Mobile app

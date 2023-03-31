@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211016005130/https://www.dpreview.com/reviews/2015-superzoom-camera-roundup
+ProductCode: pentax_xg1
+Award: ""
+ImageURL: /files/p/products/pentax_xg1/63e1e5ce65f3469c89bbd2e25ed079bc.png
+Name: Pentax XG-1
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 24 – 1248 mm (52×)
+ReviewScore: 69
+URL: /products/pentax/compacts/pentax_xg1
+ReviewData:
+    ExecutiveSummary: Ricoh's Pentax XG-1 superzoom features a 16MP BSI-CMOS sensor and a 52x optical zoom range covering a 24-1248mm equivalent focal range. It offers a fixed 3.0-in LCD, 1080/30p HD video recording and a built-in electronic viewfinder. The XG-1 uses SR Shake Reduction stabilization technology and a rechargeable lithium-ion battery rated to 240 shots per charge.
+    ProductPhotos:
+        - /files/p/products/pentax_xg1/shots/e3fec1ec860140199ea925b4d7ce1132.png
+        - /files/p/products/pentax_xg1/shots/4d80e4b0f28e4d0f9881c349c62fb814.png
+        - /files/p/products/pentax_xg1/shots/2ea27cb155024804a5cd5463bc8ce0f2.png
+        - /files/p/products/pentax_xg1/shots/09e46fae96a945249262c4a7bd86e694.png
+    ReviewSummary:
+        GoodFor: Those on a budget who want a compact, long zoom camera.
+        NotSoGoodFor: Those who want quick access to camera settings, reliable image stabilization, a full day of shooting without draining their battery. Frequent electronic viewfinder users.
+        Conclusion: The Pentax XG-1 is a bargain, but that's pretty much all that's going for it. On the positive side, it's relatively compact with good build quality, the grip is large, and image quality is respectable. The bad news is that it has no control dials, which makes adjusting settings a bear, image stabilization is sub-par, Wi-Fi and 1080/60p video are both missing, and the electronic viewfinder is poor. Battery life was also the worst amongst its peers.
+    ASIN:
+        - B00LV7GYI8
+Specs:
+    AEBracketing: ""
+    Announced: Jul 15, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium-ion LB-060
+    BatteryLifeCIPA: "240"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 119 x 89 x 98 mm (4.69 x 3.5 x 3.84″)
+    DriveModes:
+        - Single
+        - Continuous Shot
+        - Continuous Shot High Speed (VGA)
+        - Continuous Shot Fast (4M)
+        - Time-Lapse
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto Mode
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Face Beautifier
+        - Handheld Night
+        - Movie
+        - Scene
+        - Custom
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Force Off, Flash Auto, Force Flash, Slow Sync., Slow Sync. + Red-Eye, Red-Eye Reduction
+    FlashRange: 6.00 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 24–1248 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400,800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 52×
+    OrientationSensor: ""
+    OtherResolutions: 3648 x 2736, 2592 x 1944, 640 x 480, 4608 x 3072, 4608 x 2592, 2048 x 1536, 1920 x 1080
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (30 fps), 1280 x 720 (60, 30 fps), 640 x 480 (30 fps), 640 x 480 (120 fps)
+    ReviewPreview: "69%DPReview score\n                                    \n                                    \n                                    \n                                        Read roundup ...\n                                    \n                                    \n                                        Jun 17, 2015"
+    SceneModes:
+        - Pet Mode
+        - Sunset
+        - Fireworks
+        - Multi Exposure
+        - Sport
+        - Night Portrait
+        - Landscape
+        - Portrait
+        - Snow
+        - Children
+        - Party
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 15.4 MB Internal
+    StorageTypes: SD/SDHC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 200,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 567 g (1.25 lb / 20.00 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected
+    WirelessNotes: ""

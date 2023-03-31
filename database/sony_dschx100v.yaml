@@ -1,0 +1,106 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211028114046/https://www.dpreview.com/reviews/sonydschx100v
+ProductCode: sony_dschx100v
+Award: noAward
+ImageURL: /files/p/products/sony_dschx100v/c662717e1aaf405898abcd84617fd27c.png
+Name: Sony Cyber-shot DSC-HX100V
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 27 – 810 mm (30×)
+ReviewScore: 73
+URL: /products/sony/compacts/sony_dschx100v
+ReviewData:
+    ExecutiveSummary: The GPS-enabled DSC-HX100V features Sony's newly-developed back-illuminated Exmor R CMOS sensor, and is capable of recording full 1080p60 HD videos. For still photography the HX100V offers 10fps continuous shooting. The HX100V boasts a 30x (27-810mm equiv.) optical zoom lens and a 921k dot display, and it can generate both high resolution panoramas and also 3D images.
+    ProductPhotos:
+        - /files/p/products/sony_dschx100v/shots/325bc441bbc745299ae439c0a4d7945b.png
+        - /files/p/products/sony_dschx100v/shots/d7b43adfc4aa4f789328453e8806393c.png
+        - /files/p/products/sony_dschx100v/shots/01f9d97ba65540f18fed152c6a732a0a.png
+        - /files/p/products/sony_dschx100v/shots/af977b3d9f0b46dc8f58326483d0303b.png
+    ReviewSummary:
+        GoodFor: Shooters looking for a DSLR-like handling experience with an EVF and a wide zoom range.
+        NotSoGoodFor: More experienced shooters who like to tweak settings between each shot. Those who prefer a small pocketable camera.
+        Conclusion: The HX100V combines abundant external control points, DSLR-style ergonomic handling and an extremely versatile 30x zoom range. Image quality is better than average for a compact-sized sensor. Unfortunately, the camera's slow startup time and sluggish operational response can lead to missed photo opportunities.
+    ASIN:
+        - B004H8FND0
+Specs:
+    Announced: Feb 1, 2011
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-FH50 battery and charger
+    BatteryLifeCIPA: ""
+    BodyType: SLR-like (bridge)
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (7x)
+    Dimensions: 122 x 87 x 93 mm (4.8 x 3.43 x 3.66″)
+    DriveModes: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Slow Sync
+    FlashRange: 12.70 m
+    FocalLengthEquiv: 27–810 mm
+    Format: MPEG-4, AVCHD
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 30×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 2592, 3648 x 2736, 2592 x 1944, 1920 x 1080, 640 x  480
+    Processor: BIONZ
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60fps), 1440 x 1080 (30fps), 1280 x 720 (30fps), 640 x 480 (30fps)
+    ReviewPreview: "73%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 21, 2011"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: XtraFine LCD display with TruBlack technology
+    SelfTimer: Yes (2 or 10 sec, Portrait 1/2)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC/Memory Stick Duo/Memory Stick Pro Duo, Memory Stick Pro-HG Duo
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 577 g (1.27 lb / 20.35 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Eye-Fi Connected

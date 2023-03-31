@@ -1,0 +1,127 @@
+ProductCode: oly_e450
+Award: ""
+ImageURL: /files/p/products/oly_e450/b20a72f491d44c71b2d51c59d8899eb9.png
+Name: Olympus E-450 (EVOLT E-450)
+ShortSpecs:
+    - 10 megapixels
+    - 2.7″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/oly_e450
+ReviewData:
+    ExecutiveSummary: Upgraded version of the E-420 compact DSLR. The new E-450 is essentially identical to the E-420 apart from the addition of 3 Art Filters, a new processor and an improved LCD display. It's perhaps a testament to how well specified the E-420 is that Olympus has clearly struggled for ways to improve it. For fear of treading on the toes of the E-620 (which itself stands uncomfortably close to the more expensive E-30), Olympus has engineered a model with the fewest changes over the existing version we've ever seen. And, despite the company's insistence that it will continue to offer four entry-level cameras, we do not believe the E-450 is distinct enough from the E-420 that they two can sensibly co-exist.
+    ProductPhotos:
+        - /files/p/products/oly_e450/shots/38f80b85f8bf418e8b83b6bf2145ffc5.png
+        - /files/p/products/oly_e450/shots/518c59f163544796a83cff15d7c697d3.png
+        - /files/p/products/oly_e450/shots/2ee06f09cc8c4b6997cde88673d73044.png
+        - /files/p/products/oly_e450/shots/ff20bd9d23424b6fbec6a04874fc030f.png
+        - /files/p/products/oly_e450/shots/53fe5ec634cf468fa76db5a0d218f50e.png
+    ReviewSummary: null
+    ASIN:
+        - B002GILU44
+Specs:
+    AEBracketing: ""
+    Announced: Mar 31, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Continuous
+        - Live View
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 130 x 91 x 53 mm (5.12 x 3.58 x 2.09″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat: ""
+    FlashModes: Auto, Auto FP, Manual, Red-Eye
+    FlashRange: 12.00 m (at ISO 100)
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Standard, High, Super High
+    LensMount: Four Thirds
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: Yes (lens focus by wire)
+    MaxResolution: 3648 x 2736
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "3"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3200 x 2400, 2560 x 1920, 1600 x 1200, 1280 x 960, 1024 x 768, 640 x 480
+    Processor: TruePic III
+    RemoteControl: Yes (Wire/ InfraRed)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: None
+    StorageTypes: Compact Flash (Type I or II), xD Picture Card
+    SubjectSceneModes: "No"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.92× (0.46× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: ""
+    WeightIncBatteries: 426 g (0.94 lb / 15.03 oz)
+    WhiteBalancePresets: "8"
+    Wireless: ""
+    WirelessNotes: ""

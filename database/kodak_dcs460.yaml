@@ -1,0 +1,89 @@
+ProductCode: kodak_dcs460
+Award: ""
+ImageURL: /files/p/products/kodak_dcs460/7b2b267bc4984c1cbbabc9049926ce40.png
+Name: Kodak DCS460
+ShortSpecs:
+    - 6 megapixels
+    - APS-H sensor
+ReviewScore: 0
+URL: /products/kodak/slrs/kodak_dcs460
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Mar 1, 1995
+    AperturePriority: "Yes"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Single
+        - Continuous
+    Battery: Battery Pack
+    BatteryDescription: Kodak NiMH
+    BodyType: Large SLR
+    BoostedISOMaximum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    ContinuousDrive: 2.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: "No"
+    Dimensions: 170 x 114 x 208 mm (6.69 x 4.49 x 8.19″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: Yes (hot-shoe)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.3×
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: "80"
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Uncompressed
+    LensMount: Nikon F
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 3060 x 2036
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "No"
+    OtherResolutions: n/a
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: APS-H (27.6 x 18.4 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageIncluded: None
+    StorageTypes: PCMCIA (type III)
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (??)
+    TouchScreen: "No"
+    USB: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 1700 g (3.75 lb / 59.97 oz)
+    WhiteBalancePresets: ""

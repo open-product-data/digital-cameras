@@ -1,0 +1,85 @@
+ProductCode: kodak_c613
+Award: ""
+ImageURL: /files/p/products/kodak_c613/d3454b50397740e0abb389e0e74758aa.png
+Name: Kodak EasyShare C613
+ShortSpecs:
+    - 6 megapixels
+    - 2.4″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_c613
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000NOSUB4
+        - B000QS893G
+Specs:
+    Announced: Mar 7, 2007
+    AperturePriority: "No"
+    ArticulatedLCD: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 91 x 66 x 35 mm (3.58 x 2.6 x 1.38″)
+    EffectivePixels: 6 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: 2.00 m
+    FocalLengthEquiv: 36–108 mm
+    Format: ""
+    GPS: None
+    HDMI: "No"
+    ISO: Auto, 80, 100, 200, 400, 1250
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Best, Better, Good
+    LiveView: "Yes"
+    MacroFocusRange: 13 cm (5.12″)
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2848 x 2134
+    MaximumAperture: F2.7–4.8
+    MaximumShutterSpeed: 1/1400 sec
+    MeteringModes: ""
+    Microphone: None
+    MinimumShutterSpeed: 30 sec
+    NormalFocusRange: 60 cm (23.62″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2048 x 1536, 1280 x 960
+    RemoteControl: "No"
+    Resolutions: 640 x 480 15 fps, 320 x 240 30  fps
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2.4″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 6 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 187 g (0.41 lb / 6.60 oz)
+    WhiteBalancePresets: "4"

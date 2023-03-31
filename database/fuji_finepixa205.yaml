@@ -1,0 +1,75 @@
+ProductCode: fuji_finepixa205
+Award: ""
+ImageURL: /files/p/products/fuji_finepixa205/87ee747350824d53b4f69bde2f478d31.png
+Name: FujiFilm FinePix A205 Zoom (FinePix A205s)
+ShortSpecs:
+    - 2 megapixels
+    - 1.5″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fuji_finepixa205
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00009VSIM
+Specs:
+    Announced: Jul 29, 2003
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (2.5 x at 640 x 480)
+    Dimensions: 99 x 65 x 53 mm (3.9 x 2.56 x 2.09″)
+    EffectivePixels: 2 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Red-eye reduction, Slow, Off
+    FlashRange: 4.50 m
+    FocalLengthEquiv: 36–108 mm
+    HDMI: "No"
+    ISO: "200"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 10 cm (3.94″)
+    ManualFocus: "No"
+    MaxResolution: 1600 x 1200
+    MaximumAperture: F3–7
+    MaximumShutterSpeed: 1/2000 sec
+    Microphone: None
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 80 cm (31.5″)
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 1280 x 960, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 320 x 240 up to 20 sec, no audio
+    ReviewPreview: ""
+    ScreenDots: 60,000
+    ScreenSize: 1.5″
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 2 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 16 MB xD Picture Card
+    StorageTypes: xD Picture Card
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 225 g (0.50 lb / 7.94 oz)
+    WhiteBalancePresets: "7"

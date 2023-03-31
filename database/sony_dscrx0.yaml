@@ -1,0 +1,147 @@
+ProductCode: sony_dscrx0
+Award: ""
+ImageURL: /files/p/products/sony_dscrx0/3710a5fa70a74d528c7effe4af2aeebc.png
+Name: Sony DSC-RX0
+ShortSpecs:
+    - 15 megapixels
+    - 1.5″ screen
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscrx0
+ReviewData:
+    ExecutiveSummary: The Sony RX0 is a rugged mini-camera designed for capturing photos from any angle and location. The system can be scaled so multiple cameras can be tied together for applications such as VR and filmmaking. It features a 15MP 1"-type stacked CMOS sensor, fixed 24mm F4 Zeiss lens, 16 fps burst shooting and an anti-distortion shutter that supports shutter speeds as fast as 1/32000 sec. The RX0 can capture both 4K (which can be output over HDMI) and super-slow-mo 960/1000 fps video. This cube-shaped camera measures just 59 x 40 x 30mm, weighs just 110 g and manages to squeeze in a 1.5" LCD. The RX0 is waterproof, shockproof from 2m, crushproof to 200kgf and dustproof.
+    ProductPhotos:
+        - /files/p/products/sony_dscrx0/shots/eff217f3eec14cf0a2c83a7224f90fdf.png
+        - /files/p/products/sony_dscrx0/shots/7d6cd4d4812f4813ad5e7a6fa1c6dcc0.png
+        - /files/p/products/sony_dscrx0/shots/78a938b96aa745d7a60f25f59c44e60a.png
+        - /files/p/products/sony_dscrx0/shots/fa74d802ba3b4f9da93e32b3367063b3.png
+        - /files/p/products/sony_dscrx0/shots/5b6e60de44474292a1abf9c9dd46211a.png
+    ReviewSummary: null
+    ASIN:
+        - B075CKWMYX
+Specs:
+    AEBracketing: ""
+    Announced: Aug 31, 2017
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "No"
+    Battery: Built-in
+    BatteryDescription: NP-BJ1 lithium-ion battery & charger
+    BatteryLifeCIPA: "240"
+    BodyMaterial: Aluminum alloy
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 16.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 59 x 41 x 30 mm (2.32 x 1.61 x 1.18″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Speed priority continuous
+        - Self-timer
+        - Bracketing (single, continuous)
+        - WB bracketing
+        - DRO bracketing
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Manual
+        - Intelligent Auto
+        - Superior Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v.2.31)
+        - Rwa (Sony ARW 2.3)
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 24 mm
+    Format: MPEG-4, AVCHD, XAVC S
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 125-12800
+    ImageParameters: ""
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    JPEGQualityLevels: Find, standard
+    LiveView: "Yes"
+    MSRP: $699
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4800 x 3200
+    MaximumAperture: F4
+    MaximumShutterSpeed: 1/32000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1/4 sec
+    Modes:
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 28 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 60i / 24 Mbps, AVCHD, MTS, H.264, Dolby Digital
+        - 1920 x 1080 @ 30p / 25 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 16 Mbps, MP4, H.264, AAC
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1280 x 720 @ 120p / 50 Mbps, AVCHD, MTS, H.264, Linear PCM
+        - 1280 x 720 @ 30p / 6 Mbps, MP4, H.264, AAC
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "25"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: BIONZ X
+    RemoteControl: Yes (wired or wireless)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 230,400
+    ScreenSize: 1.5″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorSizeNotes: ""
+    SensorType: BSI-CMOS
+    ShutterPriority: ""
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: microSD/microSDHC/microSDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 110 g (0.24 lb / 3.88 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.1 LE

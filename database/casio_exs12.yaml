@@ -1,0 +1,109 @@
+ProductCode: casio_exs12
+Award: ""
+ImageURL: /files/p/products/casio_exs12/8fcb139d98b24484bbacc54e00101066.png
+Name: Casio Exilim EX-S12
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 36 – 108 mm (3×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exs12
+ReviewData:
+    ExecutiveSummary: The Casio Exilim EX-S12 features a 3x optical zoom and a 2.7-inch widescreen LCD monitor and has an effective 12.1-megapixel resolution. It is bundled in a stainless steel body and includes features such AF tracking, Makeup function and HD recording.
+    ProductPhotos:
+        - /files/p/products/casio_exs12/shots/6fc2f7ca369e42b79e576f8e1911a0ea.png
+        - /files/p/products/casio_exs12/shots/55779eb74b494b659e667a4507b74fc1.png
+        - /files/p/products/casio_exs12/shots/f961abbc700d49eab27ac08d7d0f84f1.png
+        - /files/p/products/casio_exs12/shots/6dd7c25cd75b434590ead5bc1c62c5d8.png
+        - /files/p/products/casio_exs12/shots/ddaa70e664f44d69991c88786df4d4b1.png
+    ReviewSummary: null
+    ASIN:
+        - B003GRQMBU
+        - B003FJ7W3Q
+        - B001OTZQUU
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-60)
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (4x)
+    Dimensions: 95 x 60 x 23 mm (3.74 x 2.36 x 0.91″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: 36–108 mm
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "No"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8–7.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: ""
+    OtherResolutions: 4000 x 2656, 4000 x 2240, 3264 x 2448, 2560 x 1920, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1280 x 720 (24 fps), 640 x 480 (30 fps), 320 x 240 (15 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,160
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 12 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 35.2 MB Internal
+    StorageTypes: SD/ SDHC memory card, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 111 g (0.24 lb / 3.92 oz)
+    WhiteBalancePresets: ""
+    Wireless: Eye-Fi Connected

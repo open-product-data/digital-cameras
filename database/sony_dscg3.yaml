@@ -1,0 +1,103 @@
+ProductCode: sony_dscg3
+Award: ""
+ImageURL: /files/p/products/sony_dscg3/9c651cba5891407badc61396f70b3c18.png
+Name: Sony Cyber-shot DSC-G3
+ShortSpecs:
+    - 10 megapixels
+    - 3.5″ screen
+    - 35 – 140 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscg3
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_dscg3/shots/8a0258de788b4d6db4695931005fbb8c.png
+        - /files/p/products/sony_dscg3/shots/89c504bc230f4972b0d4d5cf14dc7488.png
+        - /files/p/products/sony_dscg3/shots/b0e26f5122794057aef5948706280776.png
+        - /files/p/products/sony_dscg3/shots/a901729531854d029bad48d8a0ca9ed6.png
+        - /files/p/products/sony_dscg3/shots/196c79a008804ce88113dab97a866ec6.png
+    ReviewSummary: null
+    ASIN:
+        - B001O9ARC2
+Specs:
+    Announced: Jan 8, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion Battery & charger
+    BatteryLifeCIPA: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.6 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (4x)
+    Dimensions: 97 x 59 x 22 mm (3.82 x 2.32 x 0.87″)
+    DriveModes: ""
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye reduction, Slow Sync
+    FlashRange: 4.30 m (Auto ISO)
+    FocalLengthEquiv: 35–140 mm
+    Format: Motion JPEG
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: Yes (4 steps)
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F3.5–10
+    MaximumShutterSpeed: 1/1000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2432, 3648 x 2056, 2592 x 1944, 2048 x 1536, 1920 x 1080, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30, 15 fps), 320 x 240 (30, 15 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 4 GB Internal
+    StorageTypes: Memory Stick Duo/Pro Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "10"
+    Wireless: ""

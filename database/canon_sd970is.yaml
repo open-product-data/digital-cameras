@@ -1,0 +1,91 @@
+ProductCode: canon_sd970is
+Award: ""
+ImageURL: /files/p/products/canon_sd970is/ebce60fb21fa41ea92023828de501166.png
+Name: Canon PowerShot SD970 IS / Digital IXUS 990 IS
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 37 – 185 mm (5×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd970is
+ReviewData:
+    ExecutiveSummary: Stylish ultra compact with  37-185mm (equiv.) zoom  (5x), image stabilization and all the new toys common to the 2009 Ixus/Elph range (including 720p movie capture and Smart Auto) and a 3.0" screen. 12 megapixels is probably overkill for most users of this kind of camera, but Canon's Ixus/Elph range has an excellent track record for decent image quality and responsive, easy operation. Canon's vast PowerShot range makes it hard to see the wood for the trees, but unless you really need the extra telephoto lens we'd suggest the SD960 IS (Ixus 110 IS) - this camera's near twin - is a better bet, thanks to its wideangle lens.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001SER46A
+        - B002ON6ZU0
+Specs:
+    Announced: Feb 18, 2009
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-5L battery & charger
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 96 x 57 x 26 mm (3.78 x 2.24 x 1.02″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Slow Sync, Off
+    FlashRange: 3.50 m
+    FocalLengthEquiv: 37–185 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3.2–5.7
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2248, 3264 x 2448, 2592 x 1944, 1600 x 1200, 640 x 480, 320 x 140
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2, 10, Custom, Face)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/MMC/MMCplus/HD /MMCplus
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 160 g (0.35 lb / 5.64 oz)
+    WhiteBalancePresets: "6"

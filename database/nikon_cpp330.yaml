@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220121063127/https://www.dpreview.com/reviews/nikon-coolpix-p330
+ProductCode: nikon_cpp330
+Award: ""
+ImageURL: /files/p/products/nikon_cpp330/5c261b66780f432ea7d9aa41d0460afe.png
+Name: Nikon Coolpix P330
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 24 – 120 mm (5×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp330
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix P330 is Nikon's latest small form-factor enthusiast compact camera. It features PASM exposure modes, raw capture and a larger, (1/1.7in) lower-resolution sensor (almost certainly the same 12MP one found in the Coolpix P7700), without sacrificing what was good about its predecessors - a compact body, relatively fast lens, good build quality, and a useful zoom range. As such it represents Nikon's most serious attempt to offer a real competitor to the Canon PowerShot S110 and its popular predecessors the S100 and S95.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp330/shots/49e371e95fda4090bfb0104be343e921.png
+        - /files/p/products/nikon_cpp330/shots/ade2bc438f2d44a4bb088644c769a79d.png
+        - /files/p/products/nikon_cpp330/shots/e4bad20a11254275b9a553867e996fed.png
+        - /files/p/products/nikon_cpp330/shots/3d78fa12eb7045d296988207846bbfc9.png
+        - /files/p/products/nikon_cpp330/shots/31e899b13480470aaf39f109a6f506cc.png
+    ReviewSummary: null
+    ASIN:
+        - B00BOZCSQE
+        - B00BOZCU08
+Specs:
+    AEBracketing: (at 1/3 EV steps)
+    Announced: Mar 5, 2013
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Nikon EN-EL12 Lithium-Ion battery
+    BatteryLifeCIPA: "200"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x)
+    Dimensions: 103 x 58 x 32 mm (4.06 x 2.28 x 1.26″)
+    DriveModes:
+        - Single
+        - Continuous L
+        - Continuous H
+        - Continuous H -60 (60fps)
+        - Continuous H -120 (120fps)
+        - Pre-shooting cache
+        - Best Shot Selector
+        - Multi-shot 16
+        - Interval time shooting
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed auto (with flexible program)
+        - Shutter priority
+        - Aperture-priority
+        - Manual
+    ExternalFlash: ""
+    FileFormat:
+        - JPEG
+        - RAW (NRW)
+        - '3D images: MPO'
+    FlashModes: ""
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 24–120 mm
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    HDMI: ""
+    HeadphonePort: ""
+    ISO: Auto  100, 200, 400, 800, 1600, 2000, 3200, 6400, 12800
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $380/£350/€380
+    MacroFocusRange: 3 cm (1.18″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F1.8–5.6
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60, 50, 30, 25, 24 fps), 1280 x 720p (30, 25 fps), 640 x 480 (30, 25fps)
+    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Mar 5, 2013"
+    SceneModes:
+        - Beach
+        - Backlighting
+        - Black and White copy
+        - Candlelight
+        - Close-up
+        - Dusk/Dawn
+        - Fireworks show
+        - Food
+        - Landscape
+        - Museum
+        - Night Landscape
+        - Night Portrait
+        - Panorama
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Silhouette
+        - Sports
+        - Snow
+        - Sunset
+        - Special effects
+        - Scene Auto Selector
+        - 3D photography
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: 1080 (60i, 50i, 30p, 25p, 24p)
+    ViewfinderCoverage: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 200 g (0.44 lb / 7.05 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Optional
+    WirelessNotes: Optional WU-1a Wireless Mobile Adapter

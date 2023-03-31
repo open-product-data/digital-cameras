@@ -1,0 +1,115 @@
+ProductCode: oly_tg830
+Award: ""
+ImageURL: /files/p/products/oly_tg830/d1b97d92fd894c4fadbfb00c3e1409ef.png
+Name: Olympus TG-830 iHS
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_tg830
+ReviewData:
+    ExecutiveSummary: The mid-range Olympus Stylus Tough TG-830 iHS is waterproof to 10m (33 feet) and has a 5x optical zoom lens to go along with its 16MP back-side illuminated CMOS sensor. Video can be recorded in 1920 x 1080 resolution, with the option to capture high speed clips at 120 fps in 720 resolution mode, for slow motion playback.
+    ProductPhotos:
+        - /files/p/products/oly_tg830/shots/51a4e22ca365428eb9738673d9e1247e.png
+    ReviewSummary: null
+    ASIN:
+        - B00AQ2BVQE
+        - B00AQ2BU5Q
+Specs:
+    AEBracketing: ""
+    Announced: Jan 8, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Tracking
+        - Single
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion rechargeable LI-50B battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 109 x 67 x 28 mm (4.29 x 2.64 x 1.1″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Waterproof, Shockproof, Freezeproof, Dustproof, Crushproof)
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program Auto
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in
+    FlashRange: ""
+    FocalLengthEquiv: 28–140 mm
+    Format: H.264
+    GPS: Built-in
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: ""
+    ISO: Auto, High Auto, 100, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3.9–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 5×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3264 x 2448, 2560 x 1920, 2048 x 1536, 1600 x 1200, 1280 x 960, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (60 fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 320 x 180 (30fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec, pet auto shutter)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 214 g (0.47 lb / 7.55 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""

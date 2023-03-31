@@ -1,0 +1,104 @@
+ProductCode: casio_exs200
+Award: ""
+ImageURL: /files/p/products/casio_exs200/5d7cc3989924422bb3d5c636e1d4fd20.png
+Name: Casio Exilim EX-S200
+ShortSpecs:
+    - 14 megapixels
+    - 2.7″ screen
+    - 27 – 108 mm (4×)
+ReviewScore: 0
+URL: /products/casio/compacts/casio_exs200
+ReviewData:
+    ExecutiveSummary: The 14MP image-stabilized camera features the company's Exilim Engine 5.0 processor with 'super-resolution' context-sensitive image processing technology. It offers a 4x zoom lens starting at 27mm equivalent and use the super resolution technology to improve the effect of the 1.5x digital zoom. Other features include a 2.7" LCD, standard 720p HD video recording and Dynamic Photo function for creating composite moving images.
+    ProductPhotos:
+        - /files/p/products/casio_exs200/shots/299bbfc089884a3394806679859af8b9.png
+        - /files/p/products/casio_exs200/shots/d764198b7fa7492695192a797df6739d.png
+        - /files/p/products/casio_exs200/shots/52e8fd122fd64e9c8e157ceaa47fabe6.png
+        - /files/p/products/casio_exs200/shots/e2d3ac2fef964a8d88fc49e284974e5a.png
+    ReviewSummary: null
+    ASIN:
+        - B009VSO46I
+        - B006596OUA
+        - B00B7D7P2K
+Specs:
+    Announced: Aug 3, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Rechargeable lithium ion battery (NP-120)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Ultracompact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 55 x 18 mm (3.94 x 2.17 x 0.71″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, flash off, flash on, red eye reduction
+    FlashRange: ""
+    FocalLengthEquiv: 27–108 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 50, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: F3.2–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 4 sec
+    NormalFocusRange: ""
+    OpticalZoom: 4×
+    OrientationSensor: ""
+    OtherResolutions: 4320 x 2880, 4320 x 2432, 3648, 2736, 2816 x 2112
+    Processor: Exilim Engine 5.0
+    RemoteControl: "No"
+    Resolutions: 1280 × 720 (20 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (10 seconds, 2 seconds, Triple Self-timer)
+    SensorPhotoDetectors: 14 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 34.9 MB
+    StorageTypes: SD/SDHC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 132 g (0.29 lb / 4.66 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

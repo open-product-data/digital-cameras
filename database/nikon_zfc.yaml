@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220112110713/https://www.dpreview.com/reviews/nikon-z-fc-review
+ProductCode: nikon_zfc
+Award: silver
+ImageURL: /files/p/products/nikon_zfc/7c71063f8bb24b08b2b6ee9a99db052b.png
+Name: Nikon Z fc
+ShortSpecs:
+    - 21 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 86
+URL: /products/nikon/slrs/nikon_zfc
+ReviewData:
+    ExecutiveSummary: The Nikon Z fc is an Z-mount mirrorless camera with a design reminiscent of the company's film cameras, such as the FM2. The top plate is loaded with dials and also has a small screen that displays the current aperture. The Z fc has a hybrid AF system with 209 phase-detect points, along with face and eye detection, for both people and animals. The camera can capture 4K/30p video plus high speed 120 fps footage at Full HD. The Z fc has a fully articulating 1.04M-dot LCD as well as a 2.36M-dot EVF. It supports USB Power Delivery, which allows the camera to be operated when connected to a laptop charger or power brick. It has a single SD card slot and uses the same EN-EL25 battery as the Z50.
+    ProductPhotos:
+        - /files/p/products/nikon_zfc/shots/77c05785f529488ea818489beb169bfb.png
+        - /files/p/products/nikon_zfc/shots/d144c210d2ce4d9285ead54374500abb.png
+        - /files/p/products/nikon_zfc/shots/b8d73ece6343465fa53815be156063d2.jpeg
+        - /files/p/products/nikon_zfc/shots/94732fe8054f43d584bf5ba6c3d5733e.png
+        - /files/p/products/nikon_zfc/shots/b85e2138ca58442da29d418618d2e971.png
+        - /files/p/products/nikon_zfc/shots/2eddcd63bb0b4e94bec4b58a3276b43f.png
+    ReviewSummary:
+        GoodFor: Those looking for a light, inexpensive and stylish ILC with direct controls and vlogging-friendly features.
+        NotSoGoodFor: Those who prefer a more substantial-feeling body, best-in-class autofocus or a wider selection of native lenses.
+        Conclusion: The Nikon Z fc is an APS-C mirrorless camera that successfully brings back the design of the company's film cameras. It offers plenty of hands-on controls, a vlogger-friendly fully articulating touchscreen, excellent still and video quality, and plenty of customizability. It could use refinement in a few areas, but for those looking for an eye-catching camera that can capture the moment for social media and more, the Z fc is a solid choice.
+    ASIN:
+        - B09883TR5L
+        - B09883MWLL
+        - B098859BQ1
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Jun 29, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL25 lithium-ion battery & charger
+    BatteryLifeCIPA: "300"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: $856.95 - $1,096.95
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 135 x 94 x 44 mm (5.31 x 3.7 x 1.73″)
+    DriveModes:
+        - Single frame
+        - Continuous L
+        - Continuous H
+        - Continuous H (extended)
+        - Self-timer
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (12 or 14-bit NEF)
+    FlashModes: Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-51200 (expands to 100-204800)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $959 (body only), $1099 (w/16-50mm lens), $1199 (w/28mm lens)
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5568 x 3712
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 100p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p, MOV, H.264, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: "209"
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed 6
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "86%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 26, 2021"
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorSizeNotes: ""
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.02× (0.68× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth

@@ -1,0 +1,156 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220115210842/https://www.dpreview.com/reviews/fujifilm-x-e4-review-small-size-big-image-quality
+ProductCode: fujifilm_xe4
+Award: silver
+ImageURL: /files/p/products/fujifilm_xe4/73e10fd13d6f4304b03eeb78e9d37e1f.png
+Name: Fujifilm X-E4
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/fujifilm/slrs/fujifilm_xe4
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-E4 is a rangefinder-style mirrorless camera with a 26MP BSI-CMOS sensor paired with the company's exclusive X-Trans color filter. While has a "flatter" profile than its predecessors, there are still plenty of dials on the top plate. It has a 2.36M-dot electronic viewfinder as well as a flip-up touchscreen display.The X-E4 uses Fujfiilm's latest phase-detect AF system, which includes face and eye detection. It can shoot bursts at up to 20 fps with its electronic shutter and 8 fps with the mechanical shutter. The X-E4 has 18 Film Simulation modes available. It can also capture DCI 4K/30p video with a 200Mbps bit rate. High speed (200 fps) footage can be captured at Full HD resolution.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe4/shots/2437868abb20487d938172137b475280.png
+        - /files/p/products/fujifilm_xe4/shots/87df0c95dc69467db698b59f608e1745.png
+        - /files/p/products/fujifilm_xe4/shots/8d95ae6e3fa54767b9a013d8f6b9cfb9.png
+        - /files/p/products/fujifilm_xe4/shots/df09f4d817c5441b852d79b9fc15c717.png
+        - /files/p/products/fujifilm_xe4/shots/717c1bb4b371405e88109a976482be16.png
+        - /files/p/products/fujifilm_xe4/shots/1bf96a099e36497fbfd3026c3928b260.png
+    ReviewSummary:
+        GoodFor: Generalists looking for a capable and compact interchangeable lens camera. Street and travel photographers. Those wishing to shoot JPEGs only.
+        NotSoGoodFor: Sports and action shooters needing the best AF performance. Video shooters needing in-body stabilization.
+        Conclusion: The X-E4 is a stylish camera capable of excellent image quality and packed with useful features. It's the brand's smallest X-mount offering and a good choice for street, travel, and generalist photographers. It's also capable of strong video performance, though there's no in-body stabilization for hand-held shooting. The only thing the X-E4 doesn't excel at is AF tracking; you'll find quite a few of its competitors offer better tracking and face/eye detection.
+    ASIN:
+        - B08TLTBXQZ
+        - B08TLMWSYJ
+        - B08TLVV9S8
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jan 27, 2021
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & charger
+    BatteryLifeCIPA: "380"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: $1,549.00
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "Yes"
+    Dimensions: 121 x 73 x 33 mm (4.76 x 2.87 x 1.3″)
+    DriveModes: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Fujifilm RAF, 14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $849 (body only), $1049 (w/27mm F2.8 R WR lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 4096 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 240p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+    NumberOfFocusPoints: "425"
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: "85%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 6, 2021"
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 364 g (0.80 lb / 12.84 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

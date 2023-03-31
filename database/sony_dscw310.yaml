@@ -1,0 +1,93 @@
+ProductCode: sony_dscw310
+Award: ""
+ImageURL: /files/p/products/sony_dscw310/ae3a0f0b6cce4f68886d794c5ff74948.png
+Name: Sony Cyber-shot DSC-W310
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/sony/compacts/sony_dscw310
+ReviewData:
+    ExecutiveSummary: The DSC-W310 is a 12.1 megapixel camera with a 4x optical zoom lens starting at a wide 28mm equiv., and a 2.7 inch screen. You get some basic features including an Easy Shooting mode, Face Detection an In-camera editing tools.
+    ProductPhotos:
+        - /files/p/products/sony_dscw310/shots/a9dc829a99174e7387166fc8d71b524f.png
+        - /files/p/products/sony_dscw310/shots/20567c2f69cf483b926345bd40e91f15.png
+        - /files/p/products/sony_dscw310/shots/2d233010815b4c3f8d676b2455640047.png
+        - /files/p/products/sony_dscw310/shots/172482e6835244e8925264e963743693.png
+    ReviewSummary: null
+    ASIN:
+        - B00328HR8A
+        - B00328HR8K
+Specs:
+    Announced: Jan 7, 2010
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NP-BN1 battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.1 fps
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (8x)
+    Dimensions: 95 x 55 x 19 mm (3.74 x 2.17 x 0.75″)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow syncro
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 28–112 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "No"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F3–5.8
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 1 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 2672, 4000 x 2248, 3264 x 2448, 2592 x 1944, 2048 x 1536, 640 x 480
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps)
+    ReviewPreview: ""
+    ScreenDots: 230,400
+    ScreenSize: 2.7″
+    SelfTimer: Yes (2 sec or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 6 MB Internal
+    StorageTypes: SD/SDHC, Memory Stick Duo / Pro Duo / Pro HG-Duo, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 137 g (0.30 lb / 4.83 oz)
+    WhiteBalancePresets: "7"

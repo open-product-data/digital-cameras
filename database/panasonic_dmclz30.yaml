@@ -1,0 +1,140 @@
+ProductCode: panasonic_dmclz30
+Award: ""
+ImageURL: /files/p/products/panasonic_dmclz30/90005042f932468aaf0ff89648c0dc33.png
+Name: Panasonic Lumix DMC-LZ30
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 875 mm (35×)
+ReviewScore: 0
+URL: /products/panasonic/compacts/panasonic_dmclz30
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Panasonic Lumix DMc-LZ30 with powerful 35x optical zoom (35mm camera equivalent: 25-875 mm) lens with Optical Image Stabilizer'
+    ProductPhotos:
+        - /files/p/products/panasonic_dmclz30/shots/ea7a9071fd5a4bf7aeb1a40d0bffc168.png
+    ReviewSummary: null
+    ASIN:
+        - B00B2QK2H2
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: AA
+    BatteryDescription: 4 x AA Alkaline/Ni-MH batteries
+    BatteryLifeCIPA: "380"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 1.0 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 124 x 84 x 92 mm (4.88 x 3.31 x 3.62″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Intelligent Auto
+        - Program
+        - Manual
+        - Creative Control
+        - Portrait
+        - Scenary
+        - Sports
+        - SCN
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, On, Off, Red-eye, Slow Syncro
+    FlashRange: 4.40 m
+    FocalLengthEquiv: 25–875 mm
+    FocalLengthMultiplier: ""
+    Format: Motion JPEG
+    GPS: None
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, Hi Auto (1600-6400), 100, 200, 400, 800, 1600
+    ImageParameters: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "No"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–5.9
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 35×
+    OrientationSensor: ""
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 3456 x 3456, 2560 x 1920, 2560 x 1920, 2048 x 1536,  2048 x 1536, 2048 x 1536, 2048 x 1536, 640 x 480
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: 1280 x 720 (30 fps), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Panorama Shot
+        - Night Portrait
+        - Night Scenery
+        - Food
+        - Baby(birthday only
+        - Sunset
+        - High Sensitivity
+        - HDR
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 0r 10 sec)
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: 100 MB Internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: Unknown
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 552 g (1.22 lb / 19.47 oz)
+    WhiteBalancePresets: "4"
+    Wireless: ""
+    WirelessNotes: ""

@@ -1,0 +1,201 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220804151246/https://www.dpreview.com/reviews/panasonic-lumix-dc-gh6-review
+ProductCode: panasonic_dcgh6
+Award: silver
+ImageURL: /files/p/products/panasonic_dcgh6/85a47abb5be94546837efdb3ed125290.png
+Name: Panasonic Lumix DC-GH6
+ShortSpecs:
+    - 25 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 87
+URL: /products/panasonic/slrs/panasonic_dcgh6
+ReviewData:
+    ExecutiveSummary: The Lumix GH6 is Panasonic's next-generation video-focused Micro Four Thirds camera. It will use an all-new sensor and image processor, and will be capable of 10-bit 4:2:2 4K/60p capture with no time limit. It can also capture 10-bit 5.7K/60p and 4K/120 footage. It's expected to ship later in 2021.
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgh6/shots/f609ee04f6394cbcb7a5e17a04641eb9.png
+        - /files/p/products/panasonic_dcgh6/shots/ad9c195701dc43f0b0f5228e91f94e50.png
+        - /files/p/products/panasonic_dcgh6/shots/97416da7bf8c4b3a9dc11ca1c00f21a9.png
+        - /files/p/products/panasonic_dcgh6/shots/b3f2c063fca64748863b0bb25a829dd9.png
+        - /files/p/products/panasonic_dcgh6/shots/0878d7da4f4f43279f999326a80f31ce.png
+        - /files/p/products/panasonic_dcgh6/shots/26de759a251c4851a1467ec7e1112632.png
+    ReviewSummary:
+        GoodFor: Small budget video projects
+        NotSoGoodFor: Photographers
+        Conclusion: The GH6 is a flexible and dependable video camera that offers all its modes in a wide selection of codecs and bit-rates. The sensor that delivers excellent video falls behind its best stills rivals, making it a less successful hybrid camera than its predecessors, and AF still presents challenges in video. Overall a dependable video production tool that's a pleasure to work with.
+    ASIN:
+        - B0BR8JMCYG
+        - B09T2RJ27P
+        - B09VLJR6KV
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 22, 2022
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Li-ion Battery Pack (7.2V, 2200mAh, 16Wh)
+    BatteryLifeCIPA: "360"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 138 x 100 x 100 mm (5.45 x 3.95 x 3.92″)
+    DriveModes:
+        - Single
+        - Continuous
+        - 4K Photo
+        - Focus Stacking
+        - Self-timer
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Creative Video
+        - Custom (1, 2, 3, 4)
+        - Intelligent Auto
+    ExternalFlash: Yes (TTL External Flash (sold separately))
+    FileFormat:
+        - JPEG
+        - Raw
+    FlashModes: Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthEquiv: ""
+    FocalLengthMultiplier: 2×
+    Format: MPEG-4, H.264, H.265
+    GPS: ""
+    HDMI: Yes (Type-A)
+    HeadphonePort: "Yes"
+    ISO: 100-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2,199
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5776 x 4336
+    MaximumAperture: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 5760 x 2880 @ 60p / 300 Mbps, MOV, H.265, Linear PCM
+        - 5760 x 2880 @ 48p / 300 Mbps, MOV, H.265, Linear PCM
+        - 5760 x 2880 @ 30p / 200 Mbps, MOV, H.265, Linear PCM
+        - 5760 x 2880 @ 23.98p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 120p / 300 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 60p / 800 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 600 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 48p / 800 Mbps, MOV, H.264, Linear PCM
+        - 4992 x 2496 @ 48p / 600 Mbps, MOV, H.264, Linear PCM
+        - 4992 x 2496 @ 48p / 200 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 4096 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 4096 x 2160 @ 23.98p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 120p / 300 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 800 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 600 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 48p / 800 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 48p / 600 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 48p / 200 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 150 Mbps, MOV, H.265, Linear PCM
+        - 3840 x 2160 @ 23.98p / 400 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MOV, H.264, Linear PCM
+        - 3840 x 2160 @ 23.98p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 240p / 800 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 240p / 200 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 400 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 120p / 150 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 60p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 48p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 48p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 30p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 100 Mbps, MOV, H.265, Linear PCM
+        - 1920 x 1080 @ 23.98p / 200 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.264, Linear PCM
+        - 1920 x 1080 @ 23.98p / 100 Mbps, MOV, H.265, Linear PCM
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (5776 x 3848), 16:9 (5776 x 3248), 1:1 (4336 x 4336)
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: "87%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 4, 2022"
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 10 secs w/3 images)
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: CFexpress Type B, SD (UHS-II)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (Static touch control)
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 1.52× (0.76× 35mm equiv.)
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 823 g (1.81 lb / 29.03 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 2.4GHz (802.11b/g/n), 5GHz (802.11a/n/ac)

@@ -1,0 +1,142 @@
+ProductCode: canon_sx610hs
+Award: ""
+ImageURL: /files/p/products/canon_sx610hs/ff535a6503f849de950a9134085caac5.png
+Name: Canon PowerShot SX610
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 25 – 450 mm (18×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sx610hs
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The PowerShot SX610 HS digital camera features Wi-Fi and NFC connectivity options as well as an impressive long-zoom range in a compact point-and-shoot body. The Power Shot SX610 HS camera’s powerful 18x Optical Zoom lens (equivalent to 25-450mm) provides users with high-quality optics in a pocket-sized camera body. The PowerShot SX610 HS camera combines a 20.2-Megapixel CMOS sensor and Canon’s DIGIC 4+ Image Processor to create the Canon HS System allowing for excellent low-light performance.  With Auto Zoom mode enabled, the camera will automatically frame the subject of a shot by zooming in and out to produce a crisp, clear image with pin-sharp focus.'
+    ProductPhotos:
+        - /files/p/products/canon_sx610hs/shots/2a55b043ac1f40ddb23168ba6ebe6440.png
+        - /files/p/products/canon_sx610hs/shots/8392091b38ae4da0a3c1441ef5088a33.png
+        - /files/p/products/canon_sx610hs/shots/ccdbeb843a7b49c19d6cfa315d9ce7e4.png
+    ReviewSummary: null
+    ASIN:
+        - B00RKNNGUQ
+        - B00RKNNK0C
+Specs:
+    AEBracketing: ""
+    Announced: Jan 5, 2015
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NB-6LH lithium-ion battery & charger
+    BatteryLifeCIPA: "270"
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 2.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 105 x 61 x 27 mm (4.13 x 2.4 x 1.06″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2
+    ExposureModes:
+        - Hybrid Auto
+        - Creative Shot
+        - Scene
+        - Program
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (Exif v2.3)
+    FlashModes: Auto, on, slow synchro, off
+    FlashRange: 3.50 m
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 25–450 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 80-3200
+    ImageParameters: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Superfine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $249 / £229 / €269
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumAperture: F3.8–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 5 cm (1.97″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 18×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4:3 (5184 x 3888, 3648 x 2736, 2048 x 1536, 640 x 480), 16:9 (5184 x 2912, 3648 x 2048, 1920 x 1080, 640 x 360), 3:2 (5184 x 3456, 3648 x 2432, 2048 x 1368, 640 x 424), 1:1 (3888 x 3888, 2736 x 2736, 1536 x 1536, 480 x 480)
+    Processor: DIGIC 4+
+    RemoteControl: Yes (via smartphone)
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p), 640 x 480 (30 fps)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Smart Shutter
+        - High-speed Burst
+        - Handheld Night Scene
+        - Low Light (5.0 MP)
+        - Snow
+        - Fireworks
+        - Long Shutter
+    ScreenDots: 922,000
+    ScreenSize: 3″
+    ScreenType: PureColor II G TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 191 g (0.42 lb / 6.74 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with NFC

@@ -1,0 +1,84 @@
+ProductCode: samsung_pl210
+Award: ""
+ImageURL: /files/p/products/samsung_pl210/accfe45660e249379535e3a6939bcac0.png
+Name: Samsung PL210
+ShortSpecs:
+    - 14 megapixels
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_pl210
+ReviewData:
+    ExecutiveSummary: The 14MP Samsung PL210 compact superzoom features a 10x optical zoom starting at 27mm and a 3.0" LCD. It offers 720p HD recording and the company's Smart Filter 2.0 special effects filters including Half Tone Dot effect, Soft Focus and Old Movie. It is also one amongst the first compact cameras from Samsung to incorporate the company's smartphones styled Smart Access UI system that allows you to drag, click and control app-styled icons, easily flip through photos, and control camera’s features including aperture and shutter speed.
+    ProductPhotos:
+        - /files/p/products/samsung_pl210/shots/fef7182932034753b7fec783bc0fa535.png
+        - /files/p/products/samsung_pl210/shots/fd5cdea469f84a5282587bb3c422a452.png
+        - /files/p/products/samsung_pl210/shots/7118d2b23b51407ea5270d7a2ffd6c7a.png
+        - /files/p/products/samsung_pl210/shots/675e88aae0164d33be10b9d015a9d46a.png
+    ReviewSummary: null
+    ASIN:
+        - B008QF79HI
+Specs:
+    Announced: Jan 5, 2011
+    AperturePriority: ""
+    ArticulatedLCD: Fixed
+    Autofocus: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BodyType: Ultracompact
+    BuiltInFlash: ""
+    BuyingOptions: $1.77
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 100 x 59 x 20 mm (3.94 x 2.32 x 0.79″)
+    EffectivePixels: 14 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExternalFlash: ""
+    FlashModes: ""
+    FlashRange: ""
+    FocalLengthEquiv: ""
+    Format: ""
+    GPS: ""
+    HDMI: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Unknown
+    JPEGQualityLevels: ""
+    LiveView: ""
+    MacroFocusRange: ""
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 4320 x 3240
+    MaximumAperture: ""
+    MaximumShutterSpeed: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: ""
+    NormalFocusRange: ""
+    OpticalZoom: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 16 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: ""
+    StorageTypes: ""
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: ""
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: ""
+    WhiteBalancePresets: ""
+    Wireless: ""

@@ -1,0 +1,98 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412011540/https://www.dpreview.com/reviews/canons90/
+ProductCode: canon_s90
+Award: silver
+ImageURL: /files/p/products/canon_s90/8e51c886c04f46439030cbec98ee8e42.png
+Name: Canon PowerShot S90
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 105 mm (3.8×)
+ReviewScore: 75
+URL: /products/canon/compacts/canon_s90
+ReviewData:
+    ExecutiveSummary: The S90 may not look much like the S80, S70 and all its earlier predecessors, but it has been conceived in much the same spirit; a smaller, more stylish alternative to the G series, offering key enthusiast features (such as raw capture and manual controls) in a compact body.  And for the most part the S90 delivers on its promise; the image quality is surprisingly good, the user interface well thought out and the design truly pocket-friendly. The handling takes some getting used to, which I guess is inevitable given how much Canon has tried to cram into a camera the size of an Ixus/Elph. The tiny body might not make for particularly good handling, but it's small enough to carry anywhere and the image quality it produces rarely disappoints.
+    ProductPhotos:
+        - /files/p/products/canon_s90/shots/9c3a4d88bb0441dcae3e4b531049e4c3.png
+        - /files/p/products/canon_s90/shots/f53f7dfdfaf6416d919017febdc1e3e3.png
+        - /files/p/products/canon_s90/shots/8fcb23d0d57e497998750b538efd6040.png
+        - /files/p/products/canon_s90/shots/a120b8f4ef984083ad8fbe8ea3264e71.png
+    ReviewSummary:
+        GoodFor: Lanscapes, interiors and anyone wanting a 'walkaround' compact with excellent image quality
+        NotSoGoodFor: Fast moving subjects or low-light social photography. Movies.
+        Conclusion: The S90 offers an appealing combination of compact styling, photographic functionality and powerful control. Crucially it also offers some of the best image quality we've seen in such a small camera for a long time, sensor limitations aside. It's got a great lens and great features and is only let down slightly by the inevitable handling issues that come with such a small camera.
+    ASIN:
+        - B003J9U28E
+        - B002LITT42
+Specs:
+    Announced: Aug 19, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-6L rechargeable battery & charger
+    BodyType: Compact
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ContinuousDrive: 0.9 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4x)
+    Dimensions: 100 x 58 x 31 mm (3.94 x 2.28 x 1.22″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Red-Eye, Slow Sync
+    FlashRange: 6.50 m
+    FocalLengthEquiv: 28–105 mm
+    Format: H.264
+    GPS: ""
+    HDMI: "Yes"
+    ISO: Auto, 80, 100, 125, 160, 200, 250, 320, 400, 500, 640, 800, 1000, 1250, 1600, 2000, 2500, 3200
+    ImageRatioWh: 4:3, 16:9
+    ImageStabilization: Optical
+    JPEGQualityLevels: Fine, Normal
+    LiveView: "Yes"
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2–4.9
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 50 cm (19.69″)
+    NumberOfFocusPoints: "9"
+    OpticalZoom: 3.8×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3648 x 2048, 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480, 320 x 240
+    Processor: Digic 4
+    RemoteControl: ""
+    Resolutions: 640 x 480 (30 fps), 320  x 240 (30 fps)
+    ReviewPreview: "75%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        May 4, 2010"
+    ScreenDots: 461,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec, Custom)
+    SensorPhotoDetectors: 10 megapixels
+    SensorSize: 1/1.7" (7.44 x 5.58 mm)
+    SensorType: CCD
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD, SDHC, MMC, MMCplus, HC MMCplus card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    ViewfinderType: None
+    WeightIncBatteries: 195 g (0.43 lb / 6.88 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""

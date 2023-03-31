@@ -1,0 +1,106 @@
+ProductCode: samsung_a50
+Award: ""
+ImageURL: /files/p/products/samsung_a50/59aaf6765b914314a418ca9f20a7aefd.png
+Name: Samsung Digimax A50
+ShortSpecs:
+    - 5 megapixels
+    - 2.5″ screen
+    - 35 – 105 mm (3×)
+ReviewScore: 0
+URL: /products/samsung/compacts/samsung_a50
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B000BBOSEW
+Specs:
+    AEBracketing: ""
+    Announced: Jun 2, 2005
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: Yes (5 x)
+    Dimensions: 107 x 59 x 36 mm (4.21 x 2.32 x 1.42″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 5 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Auto red-eye, Slow Sync
+    FlashRange: 3.00 m
+    FocalLengthEquiv: 35–105 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 50, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Super fine, Fine, Normal
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: ""
+    ManualFocus: Yes (Unkonown)
+    MaxResolution: 2592 x 1944
+    MaximumAperture: F2.8–4.8
+    MaximumShutterSpeed: 1/1200 sec
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: 2272 x 1704, 2048 x 1704, 1600 x 1200, 640 x 480
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480, 320 x 240, 160 x 128, 30/15 fps
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 201,000
+    ScreenSize: 2.5″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 5 megapixels
+    SensorSize: 1/2.5" (5.744 x 4.308 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 11 MB Internal
+    StorageTypes: SD/MMC card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 185 g (0.41 lb / 6.53 oz)
+    WhiteBalancePresets: "5"
+    WirelessNotes: ""

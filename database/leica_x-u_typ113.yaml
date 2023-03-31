@@ -1,0 +1,137 @@
+ProductCode: leica_x-u_typ113
+Award: ""
+ImageURL: /files/p/products/leica_x-u_typ113/592ad5623ce54671b2a8ac281890293e.png
+Name: Leica X-U (Typ 113)
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/leica/compacts/leica_x-u_typ113
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Optimal picture quality with the Leica X-U is guaranteed by the same cutting-edge technology of all cameras in the Leica family. Combined with the high performance APS-C format CMOS sensor of 16.5 megapixels, its Leica Summilux 23 mm f/1.7 ASPH lens ensures natural color reproduction with maximum detail and sharpness, while the camera’s fast maximum aperture of f/1.7 allows for selective focusing. With its rugged underwater protection filter, the fully waterproofed camera guarantees pictures with exceptional brightness and clarity under even the harshest conditions and at depths of up to 49 feet.Made in Germany in collaboration with Audi Design, the stylish and minimal design of the Leica X-U ensures easy, intuitive handling and ultimate precision. The sleek, eye-catching camera features a top plate made from premium aluminium and an anti-slip TPE protective armor. Aluminium control dials show an attention to detail and an integrated flash above the lens provides exceptional picture quality when no natural light is available. Finally, the X-U’s non-slip body features a hardened protective cover for the monitor screen, with a failsafe double locking system for the battery compartment and memory card slot, to ensure total safety and control in all conditions.When a single photo is not enough to capture the moment, the full HD video function of the Leica X-U makes it easy to capture moving pictures in high definition quality. The camera records video in a choice of 1920 x 1080 or 1280 x 720 pixel resolution at 30 frames per second in MP4 video format, delivering high-quality results that perfectly capture any adventure or journey.'
+    ProductPhotos:
+        - /files/p/products/leica_x-u_typ113/shots/d370b653cd844151b44bb3277b0f8bf9.png
+        - /files/p/products/leica_x-u_typ113/shots/575feede1f4a41bcacce3e08a24ff2f8.png
+        - /files/p/products/leica_x-u_typ113/shots/c2a56a7de0494c20abcc38af138137e6.png
+        - /files/p/products/leica_x-u_typ113/shots/22bd5e35e2bf45d682fc89e143546b76.png
+        - /files/p/products/leica_x-u_typ113/shots/6093a2bc80284df79947ca59aca7653d.png
+        - /files/p/products/leica_x-u_typ113/shots/8a54b7d598cc4d63b60fd64384a70684.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3 frames at 1/3 EV steps)
+    Announced: Jan 20, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BP-DC8 lithium-ion battery & charger
+    BatteryLifeCIPA: "450"
+    BodyMaterial: Aluminum
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: Yes (2 spots)
+    DigitalZoom: ""
+    Dimensions: 140 x 79 x 88 mm (5.51 x 3.11 x 3.46″)
+    DriveModes:
+        - Single
+        - Continuous
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (DNG)
+    FlashModes: Automatic, automatic/red eye reduction, on, on/red eye reduction, long-term synchronization/red eye reduction, off
+    FlashRange: 2.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: MPEG-4
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: Auto, 100-12500
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $2950
+    MacroFocusRange: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 4928 x 3264
+    MaximumAperture: F1.7–16
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 20 cm (7.87″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 1920 x 1080 (30p), 1280 x 720 (30p)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 635 g (1.40 lb / 22.40 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

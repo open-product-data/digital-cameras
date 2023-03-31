@@ -1,0 +1,149 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211104175241/https://www.dpreview.com/reviews/pentax-k-5-ii-k-5-ii-s
+ProductCode: pentax_k5iis
+Award: gold
+ImageURL: /files/p/products/pentax_k5iis/335edc223b3147dc8328872b4bea5daf.png
+Name: Pentax K-5 IIs
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 81
+URL: /products/pentax/slrs/pentax_k5iis
+ReviewData:
+    ExecutiveSummary: The 16MP Pentax K-5 IIs DSLR is built around a weather-sealed magnesium alloy body and is bundled with the SAFOX X, autofocus sensor. This 's' version of the company's 2012 flagship model which costs $100 more, comes without an anti-aliasing filter, to offer higher resolution at the risk of more prominent moiré interference patterns.Though they don't represent hugely significant upgrades to the original K-5, the Pentax K-5 II and its close relative the K-5 IIS still hold their own in the current SLR market, with excellent image quality from a proven 16MP CMOS sensor, solid build, and a well thought-out interface. We like the tight, simple design of the K-5 II, one that offers quick access to a rich feature-set.
+    ProductPhotos:
+        - /files/p/products/pentax_k5iis/shots/58968d6953d54cbfb94458e48d49db31.png
+        - /files/p/products/pentax_k5iis/shots/c7d69f5fbeaa4e29990b4f15561e20b4.png
+        - /files/p/products/pentax_k5iis/shots/3cc6ff2b7a8840dbbd0c8fa7178cf2e2.png
+        - /files/p/products/pentax_k5iis/shots/414e5a5e35c14006b11520a34b85e427.png
+    ReviewSummary:
+        GoodFor: Enthusiast and landscape photographers, those interested in trying photography without a low-pass filter.
+        NotSoGoodFor: General-purpose photographers who are likely to encounter moiré-inducing subjects like fabric, buildings, and other man-made objects.
+        Conclusion: Bearing all that the K-5 II does, minus an optical low-pass filter, the K-5 IIS is a specialized camera made for those who want a little more detail and know how to handle the resulting artifacts. Its weatherproof design and small, tight build make it ideal for landscape photographers, as well as anyone who spends a lot of time outdoors.
+    ASIN:
+        - B009JPEISW
+Specs:
+    AEBracketing: ±2 (2, 3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Sep 10, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion D-LI90P rechargeable battery & charger
+    BatteryLifeCIPA: "980"
+    BodyMaterial: Lightweight magnesium alloy body,  Stainless steel chassis
+    BodyType: Mid-size SLR
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (3)
+    DigitalZoom: "No"
+    Dimensions: 131 x 97 x 73 mm (5.16 x 3.82 x 2.87″)
+    DriveModes:
+        - Single
+        - Self-timer (2 or 12 sec)
+        - Continuous shooting (Hi, Lo)
+        - Remote control (0, 3 sec or continuous)
+        - Super-Impose (up to 9 pictures)
+        - Interval up to 999 pictures
+        - Exposure bracketing (2, 3 or 5 frames, also available with self-timer and remote control)
+        - Mirror lock-up (w/ or w/o remote control)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Weather and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Green
+        - Program (P)
+        - Sensitivity-Priority (Sv)
+        - Shutter-Priority (Tv)
+        - Aperture-Priority (Av)
+        - Shutter and Aperture Priority (TAv)
+        - Metered Manual (M)
+        - Bulb
+        - X
+        - User
+        - Video
+    ExternalFlash: Yes (Hot-shoe, Wireless)
+    FileFormat:
+        - RAW 14 bits (PEF, DNG)
+        - JPEG (Exif 2.3)
+        - DCF 2.0
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, High speed, Rear curtain and Wireless
+    FlashRange: 13.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: Motion JPEG
+    GPS: Optional
+    GPSNotes: O-GPS1
+    HDMI: Yes (mini)
+    HeadphonePort: ""
+    ISO: Auto, 100 to 12800, in 1, 1/2, 1/3 EV steps (80 to 51200 Extended)
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Good, Better, Best, Premium
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: 'Body Only: $1,199.95, Kit with 18-55mm WR  lens: $1,349.95, Kit with 18-135mm WR lens : $1,549.95'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3264
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 3936 x 2624, 3072 x 2048, 1728 x 1152
+    Processor: Prime II
+    RemoteControl: Yes (optional, wired or wireless)
+    Resolutions: 1920 x 1080 (25 fps), 1280 x 720 (25, 30 fps), 640 x 480 (25, 30 fps)
+    ReviewPreview: "81%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Jun 4, 2013"
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes ( 2 or 12 seconds)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.7 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "No"
+    TimelapseRecording: Yes (up to 999 pictures)
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.92× (0.61× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: "No"
+    WeightIncBatteries: 760 g (1.68 lb / 26.81 oz)
+    WhiteBalancePresets: "9"
+    Wireless: ""
+    WirelessNotes: ""

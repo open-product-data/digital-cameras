@@ -1,0 +1,155 @@
+ProductCode: pentax_ks2
+Award: ""
+ImageURL: /files/p/products/pentax_ks2/b4b2f60bc6a04e58b2ba47dd0224f325.png
+Name: Pentax K-S2
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/pentax/slrs/pentax_ks2
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: Capture and share life’s adventures with the PENTAX K-S2. Building on the legacy of great SLRs, Ricoh Imaging brings you our first DSLR with WiFi connectivity, allowing you to seamlessly share your images to social media as well as browsing images from remote tablet or PC. Capturing sharp images has never been easier with its 20 megapixel, AA Filter-less CMOS sensor and Prime MII imaging engine. With the new clarity enhancement feature and advanced HDR mode, photographers will find their images have higher clarity of texture reproduction, even for subjects without distinct contours, such as clouds. Other new features include a vari-angle LCD that extends freedom of shooting from high angle to ground level view. The PENTAX K-S2 follows in the footsteps of other great PENTAX DSLRs with is weather and dust resistant body, allowing you to capture the perfect shot regardless of weather or environmental conditions. Completing your kit is an all-new retractable standard zoom lens. This ultra thin, weather resistant lens matches perfectly with the compact body of the K-S2, offering carry everywhere convenience, wherever life’s adventures take you.'
+    ProductPhotos:
+        - /files/p/products/pentax_ks2/shots/cbaec78fc88d41c5afcfa4b53219c296.png
+        - /files/p/products/pentax_ks2/shots/6bf5dcac109f43dda700d6c2469e4a8c.png
+        - /files/p/products/pentax_ks2/shots/62c2269c2da842b8aff54fc7652f59f3.png
+        - /files/p/products/pentax_ks2/shots/db13c4b92d1045108f704e007fe8a2e4.png
+    ReviewSummary: null
+    ASIN:
+        - B00SYIE0A6
+        - B00SYK17R8
+        - B00SYK178W
+Specs:
+    AEBracketing: ±5 (3 frames at 1 EV, 2 EV steps)
+    Announced: Feb 9, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: D-LI109 lithium-ion battery & charger
+    BatteryLifeCIPA: "410"
+    BodyMaterial: Polycarbonate over metal chassis
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 91 x 123 x 73 mm (3.58 x 4.84 x 2.87″)
+    DriveModes: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (dust and water resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Sensitivity priority
+        - Shutter priority
+        - Aperture priority
+        - Shutter and aperture priority
+        - Manual
+        - Bulb
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (PEF/DNG)
+    FlashModes: Auto, auto w/redeye reduction, flash on, flash on + redeye reduction, slow sync, trailing curtain sync, manual flash
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: O-GPS1
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-51200
+    ImageRatioWh: "3:2"
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Good, better, best
+    LensMount: Pentax KAF2
+    LiveView: "Yes"
+    MSRP: $799/£649 (with 18-50mm WR lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/6000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4224 x 2816, 3072 x 2048, 1920 x 1280
+    Processor: PRIME MII
+    RemoteControl: Yes (wired or via smartphone)
+    Resolutions: 1920 x 1080 (30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Landscape
+        - Macro
+        - Moving Object
+        - Night Scene Portrait
+        - Sunset
+        - Blue Sky
+        - Forest
+        - Night Scene
+        - Night Scene HDR
+        - Night Snap
+        - Food
+        - Pet
+        - Kids
+        - Surf & Snow
+        - Backlight Silhouette
+        - Candlelight
+        - Stage Lighting
+        - Museum
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT-LCD
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 20 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: Can create 4K videos from stills
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.95× (0.63× 35mm equiv.)
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: ""
+    WeightIncBatteries: 678 g (1.49 lb / 23.92 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: With NFC support

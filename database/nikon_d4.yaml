@@ -1,0 +1,133 @@
+ProductCode: nikon_d4
+Award: ""
+ImageURL: /files/p/products/nikon_d4/043189163a3a473f92e62cc18b015342.png
+Name: Nikon D4
+ShortSpecs:
+    - 16 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_d4
+ReviewData:
+    ExecutiveSummary: The Nikon D4, 16MP full-frame professional DSLR is capable of shooting at 11 frames per second (or 10fps with continuous AF). In addition to a host of ergonomic improvements compared to its predecessor the D3S, the D4 also boasts expanded video capabilities, to the extent that Nikon is describing it as a 'multi-media DSLR.' The camera gains an Ethernet port, a 91,000 pixel metering sensor and an uprated AF sensor that can work in lower light and with smaller aperture lenses. Its sensitivity range can be expanded to a maximum equivalent to ISO 204,800 and adds back-lit top and rear controls to make it easier to operate in low-light situations. The D4 also becomes the first camera to make use of the XQD memory card format.
+    ProductPhotos:
+        - /files/p/products/nikon_d4/shots/c7967411a0d94468890cae190bdd9993.png
+        - /files/p/products/nikon_d4/shots/a0560c08f8c64d6f8c846b4747604a34.png
+        - /files/p/products/nikon_d4/shots/cac812fabd424336bf17d6434b52a829.png
+        - /files/p/products/nikon_d4/shots/9ce37fc0c4b64624b7ce5daeed0be91b.png
+    ReviewSummary: null
+    ASIN:
+        - B006U49XM6
+Specs:
+    AEBracketing: (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV steps)
+    Announced: Jan 6, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion EN-EL18 rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Large SLR
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: $4,499.95
+    ColorFilterArray: RGB Color Filter Array
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4)
+    DigitalZoom: "No"
+    Dimensions: 160 x 157 x 91 mm (6.3 x 6.18 x 3.58″)
+    DriveModes:
+        - Single frame
+        - Continuous low speed
+        - Continuous high speed
+        - Quiet shutter-release
+        - Self-timer
+        - Mirror up
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: Yes (Water and dust resistant)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Programmed auto with flexible program (P)
+        - Shutter-priority (S)
+        - Aperture-priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (Hot-shoe, Wireless plus sync connector)
+    FileFormat:
+        - NEF (12-bit or 14-bit, compressed or lossless compressed RAW)
+        - NEF + JPEG
+        - TIFF
+        - JPEG
+    FlashModes: Auto, On, Off, Front curtain, Rear curtain, Red-Eye, Slow Sync, High Speed Sync
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1 or GPS device compliant with NMEA0183 version 2.01 or 3.01 (requires optional MC-35 GPS adapter cord and cable with D-sub 9-pin connector)
+    HDMI: Yes (Type C )
+    HeadphonePort: ""
+    ISO: 100, 200, 400, 800, 1600, 3200, 6400, 12800 (204800 with boost)
+    ImageRatioWh: 5:4, 3:2
+    ImageStabilization: "No"
+    JPEGQualityLevels: ""
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: 'US: $5999.95, UK: £4799.99'
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4928 x 3280
+    MaximumShutterSpeed: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "51"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4096 x 2720, 4096 x 3280, 3696 x 2456, 3200 x 2128, 3072 x 2456, 3072 x 2040, 2464 x 1640, 2400 x 1592, 2048 x 1360, 2048 x 1640, 1600 x 1064
+    Processor: Expeed 3
+    RemoteControl: Yes (via ten-pin remote terminal)
+    Resolutions: 1920 x 1080 (30, 25, 24 fps), 1280 x 720 (60, 50, 30, 25 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT color LCD with brightness control
+    SelfTimer: Yes (2-20 seconds, 1-9 exposures at intervals of 0.5, 1, 2, or 3 seconds)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: Full frame (36 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: CompactFlash, XQD
+    SubjectSceneModes: ""
+    TimelapseRecording: Yes (Playback speed 24x to 36000x )
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.7×
+    ViewfinderType: Optical (pentaprism)
+    WBBracketing: Yes (2-9 frames in steps of 1, 2, or 3)
+    WeightIncBatteries: 1340 g (2.95 lb / 47.27 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: via WT-5, WT-5A

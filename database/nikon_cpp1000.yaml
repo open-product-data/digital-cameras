@@ -1,0 +1,175 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220124181105/https://www.dpreview.com/reviews/nikon-coolpix-p1000
+ProductCode: nikon_cpp1000
+Award: noAward
+ImageURL: /files/p/products/nikon_cpp1000/935a6e3d126a4c8a8c7fc43a7f9b6845.png
+Name: Nikon Coolpix P1000
+ShortSpecs:
+    - 16 megapixels
+    - 3.2″ screen
+    - 24 – 3000 mm (125×)
+ReviewScore: 73
+URL: /products/nikon/compacts/nikon_cpp1000
+ReviewData:
+    ExecutiveSummary: The Nikon Coolpix P1000 superzoom camera has, as of July 2018, the world's longest lens, coming in at 24-3000mm equivalent with a maximum aperture range of F2.8 - F8. The lens features 1 Super ED and 5 ED elements as well as an image stabilization system that reduces shake by up to 5 stops. With the lens extended the camera is 181mm / 7.2" long and it weights 1.4kg / 3.1 lbs. The camera has a hot shoe as well as flash sync port.The P1000 uses a 16MP, 1/2.3" CMOS sensor with an ISO range of 100-6400 and Raw support. Photos can be composed on a 3.2" fully articulating LCD (not touch-enabled) or a 2.36M-dot OLED viewfinder. Video can be captured at UHD 4K/30p and 1080/60p (as well as several high speed modes) with manual exposure and clean HDMI output. Wireless features include Wi-Fi and Bluetooth.
+    ProductPhotos:
+        - /files/p/products/nikon_cpp1000/shots/602c4af36c85465082c3a4d76e92b851.png
+        - /files/p/products/nikon_cpp1000/shots/8c37d2ef3ff8493380d335c35994a044.png
+        - /files/p/products/nikon_cpp1000/shots/081bff68a4e5421e9650b84972878e76.png
+        - /files/p/products/nikon_cpp1000/shots/7b6238a8435f44f4be11450dcf5804b4.png
+        - /files/p/products/nikon_cpp1000/shots/e64825dd8b0f4e01a3e1d85ad325fdc0.png
+        - /files/p/products/nikon_cpp1000/shots/5d672556587b42aeb19a0d3efa751aff.png
+        - /files/p/products/nikon_cpp1000/shots/bfa002ced3e4483893dcab1efb812ff2.png
+        - /files/p/products/nikon_cpp1000/shots/3ea87a08d1904ca3a6c13fd61b8c0046.png
+        - /files/p/products/nikon_cpp1000/shots/72ae7f2e0811428a963ea4f62ce1af97.png
+        - /files/p/products/nikon_cpp1000/shots/52087f1f4fe64351815a569f5e3b7d8d.png
+    ReviewSummary:
+        GoodFor: Capturing the moon and still wildlife from incredible distances.
+        NotSoGoodFor: High image quality for most situations, focusing on moving subjects,  a long day of shooting
+        Conclusion: The Nikon Coolpix P1000 is all about its incredible zoom range. If you need a focal length of 3000mm, it's the only game in town. If you don't need that much zoom then there are far better cameras for equal or less money.
+    ASIN:
+        - B07F5HPXK4
+        - B07FFHNYG3
+        - B07FYK97ZB
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Jul 10, 2018
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL20a lithium-ion battery and charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 146 x 119 x 181 mm (5.75 x 4.69 x 7.13″)
+    DriveModes:
+        - Single shot
+        - Continuous H
+        - Continuous H 60
+        - Continuous H 120
+        - Continuous L
+        - Interval timer
+        - Pre-shooting cache
+        - Bulb/time
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (NRW)
+    FlashModes: ""
+    FlashRange: 12.00 m (at Auto ISO)
+    FocalLengthEquiv: 24–3000 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: "4:3"
+    ImageStabilization: Optical
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: $999
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F2.8–8
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p, MP4, H.264, AAC
+        - 3840 x 2160 @ 25p, MP4, H.264, AAC
+        - 1920 x 1080 @ 60p, MP4, H.264, AAC
+        - 1920 x 1080 @ 50p, MP4, H.264, AAC
+        - 1920 x 1080 @ 30p, MP4, H.264, AAC
+        - 1920 x 1080 @ 25p, MP4, H.264, AAC
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 125×
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Nikon Expeed
+    RemoteControl: Yes (via smartphone, Bluetooth remote, wired remote)
+    Resolutions: ""
+    ReviewPreview: "73%DPReview score\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Oct 29, 2018"
+    SceneModes:
+        - Backlighting
+        - Beach
+        - Close-up
+        - Dusk/Dawn
+        - Easy Panorama
+        - Fireworks Show
+        - Food
+        - Landscape
+        - Multiple Exposure Lighten
+        - Night Landscape
+        - Night Portrait
+        - Party/Indoor
+        - Pet Portrait
+        - Portrait
+        - Scene Auto Selector
+        - Selective Color
+        - Snow
+        - Soft
+        - Sports
+        - Sunset
+        - Superlapse Movie
+        - Time-lapse Movie
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC (UHS-I support)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 99%
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 1415 g (3.12 lb / 49.91 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.1 LE

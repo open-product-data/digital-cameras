@@ -1,0 +1,92 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220412011303/https://www.dpreview.com/reviews/q408premiumgroup
+ProductCode: canon_sd880is
+Award: highlyRecommended
+ImageURL: /files/p/products/canon_sd880is/192132a3b5c9459e9f88d92f66d743ae.png
+Name: Canon PowerShot SD880 IS (Digital IXUS 870 IS)
+ShortSpecs:
+    - 10 megapixels
+    - 3″ screen
+    - 28 – 112 mm (4×)
+ReviewScore: 0
+URL: /products/canon/compacts/canon_sd880is
+ReviewData:
+    ExecutiveSummary: Love them or hate them, Canon makes compact cameras that do exactly what they should; take good pictures in a range of conditions with the minimum of fuss. The SD880 IS (Ixus 870 IS) is an enjoyable camera to use, has a sensible range of features (including a nice 28-112mm wide zoom and a 3.0 inch screen) and - despite the relatively low pixel count - produces some of the best results in its class. It has more than a dash of style, is fast and responsive and small enough to carry with you anywhere you go.
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B001G5ZTN6
+        - B001G5ZTO0
+Specs:
+    Announced: Sep 17, 2008
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Single
+        - Face Detection
+        - Live View
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion NB-5L battery & charger
+    BodyType: Ultracompact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 1.4 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4 x)
+    Dimensions: 94 x 57 x 24 mm (3.7 x 2.24 x 0.94″)
+    EffectivePixels: 10 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FlashModes: Auto, On, Off, Slow, Manual (Red Eye On/Off)
+    FlashRange: 4.20 m
+    FocalLengthEquiv: 28–112 mm
+    Format: Motion JPEG
+    GPS: ""
+    HDMI: "No"
+    ISO: Auto, 80 ,100, 200, 400, 800, 1600
+    ImageRatioWh: 4:3, 3:2
+    ImageStabilization: Optical
+    JPEGQualityLevels: Super-Fine, Fine, Normal
+    LiveView: "No"
+    MacroFocusRange: 2 cm (0.79″)
+    ManualExposureMode: "No"
+    ManualFocus: "No"
+    MaxResolution: 3648 x 2736
+    MaximumAperture: F2.8–5.8
+    MaximumShutterSpeed: 1/1600 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    OpticalZoom: 4×
+    OrientationSensor: "Yes"
+    OtherResolutions: 2816 x 2112, 2272 x 1704, 1600 x 1200, 640 x 480, 3648 x 2048
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: 640 x 480 (30 fps), 320 x 240 (30 fps), 160 x 120 (15 fps)
+    ReviewPreview: "Read group review ...\n                                    \n                                    \n                                        Dec 12, 2008"
+    ScreenDots: 230,000
+    ScreenSize: 3″
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 32 MB SD card
+    StorageTypes: SD/SDHC/MMC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: None
+    WeightIncBatteries: 195 g (0.43 lb / 6.88 oz)
+    WhiteBalancePresets: "5"

@@ -1,0 +1,109 @@
+ProductCode: hp_735
+Award: ""
+ImageURL: /files/p/products/hp_735/d7df26fad7224faa969e3c02146aedd1.png
+Name: HP Photosmart 735
+ShortSpecs:
+    - 3 megapixels
+    - 1.5″ screen
+    - 38 – 114 mm (3×)
+ReviewScore: 0
+URL: /products/hp/compacts/hp_735
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B00019QETQ
+Specs:
+    Announced: Mar 3, 2003
+    AperturePriority: "No"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (2) batteries (NiMH recommended)
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (5 x)
+    Dimensions: 105 x 46 x 71 mm (4.13 x 1.81 x 2.8″)
+    Durability: ""
+    EffectivePixels: 3 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-eye reduction
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 38–114 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Best, Better, Good
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: ""
+    ManualExposureMode: ""
+    ManualFocus: "No"
+    MaxResolution: 2080 x 1542
+    MaximumAperture: F2.5–5
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: ""
+    Microphone: ""
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    Modes: ""
+    NormalFocusRange: ""
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OpticalZoom: 3×
+    OrientationSensor: "No"
+    OtherResolutions: Unknown
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 1.5″
+    ScreenType: ""
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 3 megapixels
+    SensorSize: 1/2.7" (5.312 x 3.984 mm)
+    SensorType: CCD
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageIncluded: 16 MB Internal
+    StorageTypes: SD card, Internal
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 290 g (0.64 lb / 10.23 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

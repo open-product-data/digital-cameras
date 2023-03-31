@@ -1,0 +1,157 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220522023128/https://www.dpreview.com/reviews/nikon-d5600
+ProductCode: nikon_d5600
+Award: silver
+ImageURL: /files/p/products/nikon_d5600/21fbfd0ab5a6418fa0a369f33ecf6687.png
+Name: Nikon D5600
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/nikon/slrs/nikon_d5600
+ReviewData:
+    ExecutiveSummary: The Nikon D5600 is a midrange DX-format that sports a 24MP CMOS sensor with no optical low-pass filter (OLPF) and the company's latest EXPEED 4 processor. This combination offers an ISO range of 100-25600 and 5 fps burst shooting, while the 39-point AF system can track subjects in '3D'. Other features include a fully articulating 3.2" touchscreen LCD with 1.04M dots, 1080/60p video, and Wi-Fi with Bluetooth for a constant connection, plus NFC for quick pairing with Android devices.
+    ProductPhotos:
+        - /files/p/products/nikon_d5600/shots/044f2162cc054a10a4aa442ed1f4a1da.png
+        - /files/p/products/nikon_d5600/shots/b42de3a67e95425a85a3af0a88787adc.png
+        - /files/p/products/nikon_d5600/shots/a8c606b45113416bbfc49fffee75681b.png
+        - /files/p/products/nikon_d5600/shots/539d3f74f2754aa6a67a659ccbd79e32.png
+    ReviewSummary:
+        GoodFor: Family and casual photographers looking for a fairly simple, highly capable camera.
+        NotSoGoodFor: Keen enthusiasts looking to take increasing amounts of control. Buyers for whom video is a significant consideration.
+        Conclusion: The D5600 is a capable DSLR with an added always-connected system for communicating with smart devices. It does many things well but what should be the cool features aren't as polished as the underlying camera.
+    ASIN:
+        - B01N4KCC2M
+        - B01N7OJNEX
+        - B01MR2D0OG
+Specs:
+    AEBracketing: ""
+    Announced: Nov 10, 2016
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL14a lithium-ion battery & charger
+    BatteryLifeCIPA: "970"
+    BodyMaterial: Composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: Check prices
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 124 x 97 x 70 mm (4.88 x 3.82 x 2.76″)
+    DriveModes:
+        - Single frame
+        - Continuous (low, high)
+        - Quiet shutter release
+        - Self-timer
+        - Interval timer
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (Exif v2.3)
+        - Raw (Nikon NEF, 12 or 14-bit)
+    FlashModes: Auto, On, Off, Red-eye, Slow sync, Rear curtain
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: Optional GP-1/GP-1A
+    HDMI: Yes (mini-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100 - 25600
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: $700/€820 body only, $800/€930/£800 w/18-55 AF-P, €1090 w/18-105, $1200/€1140/£990  w/18-140
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "39"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4496 x 3000, 2992 x 2000
+    Processor: Expeed 4
+    RemoteControl: Yes (MC-DC2 (wired), WR-1/WR-R10 (wireless))
+    Resolutions: 1920 x 1080 (60p, 50p, 30p, 25p, 24p), 1280 x 720 (60p, 50p)
+    ReviewPreview: "79%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Mar 1, 2017"
+    SceneModes:
+        - portrait
+        - landscape
+        - child
+        - sports
+        - close up
+        - night portrait
+        - night landscape
+        - party/indoor
+        - beach/snow
+        - sunset
+        - dusk/dawn
+        - pet portrait
+        - candlelight
+        - blossom
+        - autumn colors
+        - food
+    ScreenDots: 1,037,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD monitor
+    SelfTimer: Yes (2, 5, 10 or 20 sec)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.82× (0.55× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 465 g (1.03 lb / 16.40 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n with Bluetooth 4.1 LE and NFC

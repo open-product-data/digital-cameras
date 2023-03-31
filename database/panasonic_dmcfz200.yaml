@@ -1,0 +1,163 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20211020092729/https://www.dpreview.com/reviews/panasonic-lumix-dmc-fz200
+ProductCode: panasonic_dmcfz200
+Award: gold
+ImageURL: /files/p/products/panasonic_dmcfz200/b9bace18ea054edeaedcb0cb5d02bc29.png
+Name: Panasonic Lumix DMC-FZ200
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 80
+URL: /products/panasonic/compacts/panasonic_dmcfz200
+ReviewData:
+    ExecutiveSummary: The Panasonic Lumix DMC-FZ200 is a 24X superzoom with an impressive constant-F2.8 lens and high-resolution electronic viewfinder. That fast lens means that it should be easier to capture high-quality images at the full extent of the zoom, without having to use high ISO settings. It also has a 1.3m dot equivalent electronic viewfinder, as featured in the company's more expensive mirrorless cameras. It also has the ability to shoot at 12 frames per second and can capture 1080p video at 60fps or 720p at up to 120fps.The camera's 25-600mmm equivalent lens features an improved version of the company's highest-grade Power OIS stabilization system and 'Nano Surface Coating' to minimize lens flare.
+    ProductPhotos:
+        - /files/p/products/panasonic_dmcfz200/shots/87a5972238d34a29a0efd1906921ba09.png
+        - /files/p/products/panasonic_dmcfz200/shots/6364aaa702a0496e9530420d318ac9a5.png
+        - /files/p/products/panasonic_dmcfz200/shots/3a60695f20db41829d50853898cbe7dd.png
+        - /files/p/products/panasonic_dmcfz200/shots/ccbf244602b14248af677914b6a7da50.png
+    ReviewSummary:
+        GoodFor: Sports and nature photographers who need big zoom power and don't want to settle the slow lenses found on typical super zooms.
+        NotSoGoodFor: Those taking a lot of flash people pictures, or who switch between the LCD and EVF frequently.
+        Conclusion: Panasonic has done almost everything right with the FZ200, producing a super zoom with a no-compromises lens. It performs very well, takes photos that are comparable (or better) than other super zooms, and has a top-notch movie mode. With a few refinements in the design and image quality department, it would be darn close to perfect.
+    ASIN:
+        - B008MB6ZX0
+        - B00XW4Q3IY
+Specs:
+    AEBracketing: (3 frames )
+    Announced: Jul 18, 2012
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion rechargeable battery & charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: "6400"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $599.99
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (2)
+    DigitalZoom: Yes (4x)
+    Dimensions: 125 x 87 x 110 mm (4.92 x 3.43 x 4.33″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Intelligent Auto
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Manual
+        - Custom
+        - Creative Video
+        - Creative Control
+        - Scene
+    ExternalFlash: Yes (Hot-shoe)
+    FileFormat:
+        - JPEG (DCF/Exif2.3)
+        - RAW
+        - MPO
+    FlashModes: Auto, On, Off, Red-eye, Slow Sync
+    FlashRange: 13.50 m
+    FocalLengthEquiv: 25–600 mm
+    Format: MPEG-4, AVCHD
+    GPS: None
+    HDMI: Yes (mini )
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, (6400 with boost)
+    ImageParameters:
+        - Contrast
+        - Sharpness
+        - Color Saturation
+        - Noise Reduction
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 1 cm (0.39″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 60 sec
+    Modes: ""
+    NormalFocusRange: 30 cm (11.81″)
+    NumberOfFocusPoints: "23"
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4000 x 3000, 4000 x 2672, 4000 x 2248, 2992 x 2992, 2816 x 2112, 2816 x 1880, 2816 x 1584, 2112 x 2112, 2048 x 1536, 2048 x 1360, 1920 x 1080, 1600 x 1200, 1600 x 1064, 1600 x 904, 1504 x 1504
+    Processor: Venus Engine VII FHD
+    RemoteControl: Yes (Optional DMWRSL1)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25 fps), 1280 x 720p (60, 50, 30, 25 fps), 640 x 480 (240, 120, 30, 25 fps)
+    ReviewPreview: "80%Gold Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Nov 17, 2012"
+    SceneModes:
+        - Portrait
+        - Soft Skin
+        - Scenery
+        - Panorama Shot
+        - Sports
+        - Panning
+        - Night Portrait
+        - Night Scenery                                                                                               Handheld Night Shot
+        - HDR
+        - Food
+        - Baby1
+        - Baby2
+        - Pet
+        - Sunset
+        - High Sensitivity
+        - Glass Through
+        - 3D photo
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: Free-Angle TFT Screen LCD Display
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: 70 MB internal
+    StorageTypes: SD/SDHC/SDXC, Internal
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: RAW
+    VideographyNotes: '1920 x 1080 pixels, 60p, 50p (PSH: 28Mbps / AVCHD) (Sensor Output is 60, 50fps) ; 1920 x 1080 pixels, 60i, 50i (FSH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps) 1280 x 720 pixels, 60p, 50p (SH: 17Mbps / AVCHD) (Sensor Output is 60, 50fps); 1920 x 1080 pixels, 25 fps (FHD: 20Mbps / MP4) (Sensor Output is 25fps) 1280 x 720 pixels, 30, 25 fps (HD: 10Mbps / MP4) (Sensor Output is 30, 25fps)'
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 1,312,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames in either blue/amber or magenta/green axis)
+    WeightIncBatteries: 588 g (1.30 lb / 20.74 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""

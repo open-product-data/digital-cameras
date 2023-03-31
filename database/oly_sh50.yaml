@@ -1,0 +1,136 @@
+ProductCode: oly_sh50
+Award: ""
+ImageURL: /files/p/products/oly_sh50/b0d8aefac03243a1bb904326ca1c37c2.png
+Name: Olympus SH-50
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - 25 – 600 mm (24×)
+ReviewScore: 0
+URL: /products/olympus/compacts/oly_sh50
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Olympus Stylus SH-50 iHS is a 16MP camera that features a 24x 25-600mm (equiv.) optical zoom lens, 1080i60 video output and a touch-sensitive 3-inch rear LCD. The company claims the SH-50 iHS is the first compact camera to feature E-M5-style 5-axis image stabilization.  Taking design cues from the company''s higher-end PEN cameras, the SH-50 iHS sports a textured hand grip and will be available in March in both black and white versions.'
+    ProductPhotos:
+        - /files/p/products/oly_sh50/shots/a0c27971907f498092ed1c7e381e0388.png
+    ReviewSummary: null
+    ASIN:
+        - B00AQ2BU74
+        - B00AQ2BV0U
+        - B00ARANB8Q
+Specs:
+    Announced: Jan 8, 2013
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-Ion SLB-10A rechargeable battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 11.5 fps
+    CustomWhiteBalance: Yes (1)
+    DigitalZoom: Yes (4x)
+    Dimensions: 112 x 63 x 42 mm (4.41 x 2.48 x 1.65″)
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes:
+        - Manual
+        - Intelligent Auto
+        - Program Auto
+        - Beauty Mode with Make-up
+        - Scene Modes
+    ExternalFlash: "No"
+    FileFormat:
+        - JPEG (DCF) EXIF 2.21
+    FlashModes: Auto, On, Off, Red-Eye, Fill-in, Slow Sync
+    FlashRange: 4.00 m
+    FocalLengthEquiv: 25–600 mm
+    Format: MPEG-4, H.264
+    GPS: None
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 125, 200, 400, 800, 1600, 3200, 6400
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LiveView: "Yes"
+    MSRP: ""
+    MacroFocusRange: 5 cm (1.97″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumAperture: F3–6.9
+    MaximumShutterSpeed: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: ""
+    MinimumShutterSpeed: 15 sec
+    NormalFocusRange: 80 cm (31.5″)
+    NumberOfFocusPoints: ""
+    OpticalZoom: 24×
+    OrientationSensor: "Yes"
+    OtherResolutions: 4608 x 3072, 4608 x 2592, 3648 x 2736, 2832 x 2832, 2592 x 1944, 1984 x 1488, 1920 x 1080, 1024 x 768
+    Processor: TruePic VI
+    RemoteControl: ""
+    Resolutions: 1920 x 1080 (60fps), 1280 x 720 (30 fps), 640 x 480 (30 fps), 480fps (176 x 128), 240fps (384 x 288)
+    ReviewPreview: ""
+    SceneModes:
+        - Portrait
+        - Beauty
+        - Landscape
+        - Night Scene
+        - Night + Portrait
+        - Sport
+        - Indoor
+        - Self Portrait
+        - Sunset
+        - Fireworks
+        - Cuisine
+        - Documents
+        - Beach & Snow
+        - Pet (Cat)
+        - Pet (Dog)
+        - S Macro
+        - Backlight HDR
+    ScreenDots: 460,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec, Pet Auto Shutter)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageIncluded: "39.3"
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    UncompressedFormat: "No"
+    VideographyNotes: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 269 g (0.59 lb / 9.49 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: ""

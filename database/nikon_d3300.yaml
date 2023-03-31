@@ -1,0 +1,139 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220307122505/https://www.dpreview.com/reviews/nikon-d3300
+ProductCode: nikon_d3300
+Award: silver
+ImageURL: /files/p/products/nikon_d3300/37a977dacdd24e4ba12c4a251d7c1eaa.png
+Name: Nikon D3300
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 77
+URL: /products/nikon/slrs/nikon_d3300
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Nikon D3300 continues on the path of its entry-level DSLR predecessors, with plenty of built-in shooting and retouch modes, a small footprint, and beginner-friendly user interface. It has a 24.2 megapixel CMOS sensor with no optical low-pass filter, as well as an Expeed 4 image processor. The camera''s ISO range tops out at 25,600 and continuous shooting up to 5 fps. The D3300 can also record 1080/60p full HD video. A newly redesigned collapsible, 18-55mm F3.5-5.6 VR II kit lens comes with the D3300. Optional wireless sharing to  smartphones or tablets can be accomplished via Nikon''s WU-1a module or an Eye-Fi SD card.'
+    ProductPhotos:
+        - /files/p/products/nikon_d3300/shots/a427e42aff484b868d1f2fbacbce63f1.png
+        - /files/p/products/nikon_d3300/shots/bbc1a6b4d3ae47d68d4989e63ad1f728.png
+        - /files/p/products/nikon_d3300/shots/cb3f6b34573b44f3a0c2e616d82dcd9d.png
+    ReviewSummary:
+        GoodFor: A beginner specifically looking for a DSLR experience who may want to eventually take a little control over shooting settings.
+        NotSoGoodFor: Those looking for lots of easily accessible, reliable in-camera effects modes and features, Wi-Fi, fast focusing in live view, and those who want to regularly take control over more camera settings.
+        Conclusion: The Nikon D3300 is an entry-level DSLR with an impressive spec list, including a 24 megapixel sensor and 1080/60p HD video recording. It provides the right level of controls for a beginner, offers a number of in-camera retouch options, and boasts excellent battery life.
+    ASIN:
+        - B01HN4840S
+        - B07Z7DRXFZ
+        - B00HQ4W1QE
+Specs:
+    AEBracketing: ""
+    Announced: Jan 7, 2014
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL14a lithium-ion battery and charger
+    BatteryLifeCIPA: "700"
+    BodyMaterial: Carbon fiber, composite
+    BodyType: Compact SLR
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $688.00 - $789.00
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 5.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 124 x 98 x 76 mm (4.88 x 3.86 x 2.99″)
+    DriveModes:
+        - Single-frame
+        - Self-timer
+        - Quiet shutter-release
+        - Quick response remote
+        - Delayed remote
+        - Continuous
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Programmed auto with flexible program (P)
+        - Shutter-priority (S)
+        - Aperture priority (A)
+        - Manual (M)
+    ExternalFlash: Yes (via hot shoe or wireless)
+    FileFormat:
+        - NEF (RAW, 12-bit)
+        - JPEG
+    FlashModes: Auto, Auto slow sync, Auto slow sync with red-eye reduction, Auto with red-eye reduction, Fill-flash, Off, Rear-curtain sync, Rear-curtain with slow sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync
+    FlashRange: 12.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: 1.5×
+    Format: MPEG-4, H.264
+    GPS: Optional
+    GPSNotes: GP-1
+    HDMI: Yes (mini HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200, 6400, 12800, 25600 (with boost)
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon F
+    LiveView: "Yes"
+    MSRP: Body w/18-55mm F3.5-5.6G VR II lens ($649.95)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot AF-area
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfCrossTypeFocusPoints: ""
+    NumberOfFocusPoints: "11"
+    OrientationSensor: "Yes"
+    OtherResolutions: 4512 x 3000, 3008 x 2000
+    Processor: Expeed 4
+    RemoteControl: Yes (Optional)
+    Resolutions: 1920 x 1080 (60, 50, 30, 25, 24 fps), 1280 x 720 (60, 50 fps), 640 x 424 (30, 25 fps)
+    ReviewPreview: "77%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Apr 21, 2014"
+    SceneModes:
+        - Auto, Portrait, Landscape, Child, Sports, Close-up, Night portrait
+    ScreenDots: 921,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD (160 degree viewing angle)
+    SelfTimer: Yes (2, 5, 10, 20 secs (1-9 exposures))
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageIncluded: None
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "No"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: 95%
+    ViewfinderMagnification: 0.85× (0.57× 35mm equiv.)
+    ViewfinderType: Optical (pentamirror)
+    WBBracketing: "No"
+    WeightIncBatteries: 430 g (0.95 lb / 15.17 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Optional
+    WirelessNotes: WU-1a Wireless Mobile Adapter

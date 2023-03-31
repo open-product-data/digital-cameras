@@ -1,0 +1,142 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20210925114931/https://www.dpreview.com/reviews/fujifilm-x-t10
+ProductCode: fujifilm_xt10
+Award: silver
+ImageURL: /files/p/products/fujifilm_xt10/744cf2b0e6e54e038ff51ab77c52ce8f.png
+Name: Fujifilm X-T10
+ShortSpecs:
+    - 16 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 80
+URL: /products/fujifilm/slrs/fujifilm_xt10
+ReviewData:
+    ExecutiveSummary: The Fujifilm X-T10 is a smaller and lighter version of the X-T1. It too features a 16MP X-Trans CMOS sensor and support for X-mount lenses and adapters. One standout feature is an improved hybrid autofocus system that layers 77 phase detection points on top of its sensor, which allows for superior AF tracking than contrast detection alone. Zone and wide/tracking AF modes allow the camera to follow subjects as they move around the frame. The body is magnesium alloy and features dials for shutter speed, aperture, and exposure mode on its top plate. Other features include a tilting 3" LCD, 2.36M dot electronic viewfinder, a 1/32000 sec max shutter speed, 1080/60p video and, of course, Wi-Fi.
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt10/shots/744cf2b0e6e54e038ff51ab77c52ce8fpng
+        - /files/p/products/fujifilm_xt10/shots/a05b127b21d7407b8a11dcda28eb6b0fpng
+        - /files/p/products/fujifilm_xt10/shots/d298c37b073249fa8110272ad59ff003png
+        - /files/p/products/fujifilm_xt10/shots/1ca134bc1ce2477fa8222647acb9f9c1png
+        - /files/p/products/fujifilm_xt10/shots/51f6fbb3a5204d39bfb494c677fdcec5png
+    ReviewSummary:
+        GoodFor: Anyone who wants a discreet, light-weight system camera with good ergonomics, great image quality and full manual controls.
+        NotSoGoodFor: Folks seeking a camera with good video quality. And anyone looking for a camera that can subject track successfully.
+        Conclusion: The Fujifilm X-T10 is a well-built, highly customizable camera with retro-styling and plenty of physical controls. It offers incredibly-pleasing JPEGs, out of camera, and decent Raw files. Image quality is good, in low and bright light. Its autofocus is not as good as some of its competitors, but it still acquires focus accurately and quickly in most shooting scenarios, especially when using AF-S. One area the X-T10 falls short is video quality, where false color and moiré are a problem.
+    ASIN:
+        - B00X7QTVSQ
+        - B00X7QTTME
+        - B00X7QTVRC
+Specs:
+    AEBracketing: (at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: May 18, 2015
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126 lithium-ion battery & charger
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans II CMOS with primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 118 x 83 x 41 mm (4.65 x 3.27 x 1.61″)
+    DriveModes:
+        - Single
+        - Continuous High
+        - Continuous Low
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe or wireless)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif 2.3)
+        - Raw (RAF format)
+    FlashModes: Auto, forced flash, slow synchro, flash off, rear-curtain synchro, commander
+    FlashRange: 5.00 m (ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5×
+    Format: H.264
+    GPS: Optional
+    GPSNotes: via smartphone
+    HDMI: Yes (HDMI Micro (Type D))
+    HeadphonePort: "No"
+    ISO: Auto, 100-51000 (JPEG), 200-6400 (Raw)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $799 (body only), $899 (w/16-50mm lens), $1099 (w/18-55mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4896 x 3264
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NumberOfFocusPoints: "77"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: EXR Processor II
+    RemoteControl: Yes (via smartphone, cable release)
+    Resolutions: 1920 x 1080 (60p, 30p, 24p), 1280 x 720 (60p, 30p, 24p)
+    ReviewPreview: "80%Silver Award\n                                    \n                                    \n                                    \n                                        Read review ...\n                                    \n                                    \n                                        Aug 4, 2015"
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD (RGBW)
+    SelfTimer: Yes (10sec. / 2sec. Delay)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: APS-C (23.6 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD / SDHC / SDXC (UHS-I)
+    SubjectSceneModes: ""
+    TimelapseRecording: 'Yes (Setting: Interval, Number of shots, Starting time)'
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100%
+    ViewfinderMagnification: 0.93× (0.62× 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 1 to +/- 3)
+    WeightIncBatteries: 381 g (0.84 lb / 13.44 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

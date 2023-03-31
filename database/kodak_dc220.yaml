@@ -1,0 +1,78 @@
+ProductCode: kodak_dc220
+Award: ""
+ImageURL: /files/p/products/kodak_dc220/0ef336275ff44089ba72b8c5d73b68eb.png
+Name: Kodak DC220
+ShortSpecs:
+    - 1 megapixels
+    - 2″ screen
+    - 29 – 58 mm (2×)
+ReviewScore: 0
+URL: /products/kodak/compacts/kodak_dc220
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B09ZRN1N3Z
+        - B07BB5FDS2
+        - B07DCZRPYV
+Specs:
+    Announced: May 20, 1998
+    AperturePriority: "No"
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    Battery: AA
+    BatteryDescription: AA (4) batteries (NiMH recommended)
+    BodyType: Compact
+    BuiltInFlash: "Yes"
+    BuyingOptions: Check prices
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2 x)
+    Dimensions: 118 x 56 x 108 mm (4.65 x 2.2 x 4.25″)
+    EffectivePixels: 1 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/2 EV steps)
+    ExternalFlash: "No"
+    FlashModes: Auto, Fill-in, Red-Eye reduction, Off
+    FlashRange: ""
+    FocalLengthEquiv: 29–58 mm
+    Format: ""
+    HDMI: "No"
+    ISO: "140"
+    ImageRatioWh: "4:3"
+    ImageStabilization: "No"
+    JPEGQualityLevels: Good, Better, Best
+    LiveView: "Yes"
+    MacroFocusRange: 20 cm (7.87″)
+    ManualFocus: "No"
+    MaxResolution: 1152 x 864
+    MaximumAperture: F4–4.8
+    MaximumShutterSpeed: 1/362 sec
+    Microphone: ""
+    MinimumShutterSpeed: 1/2 sec
+    NormalFocusRange: 50 cm (19.69″)
+    OpticalZoom: 2×
+    OrientationSensor: "No"
+    OtherResolutions: 640 x 480
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: ""
+    ScreenDots: ""
+    ScreenSize: 2″
+    SelfTimer: Yes (10 sec)
+    SensorPhotoDetectors: 1 megapixels
+    SensorSize: ""
+    SensorType: CCD
+    ShutterPriority: "No"
+    StorageIncluded: 8 MB CompactFlash
+    StorageTypes: Compact Flash
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 1.0 (1.5 Mbit/sec)
+    UncompressedFormat: "No"
+    ViewfinderType: Optical (tunnel)
+    WeightIncBatteries: 550 g (1.21 lb / 19.40 oz)
+    WhiteBalancePresets: ""

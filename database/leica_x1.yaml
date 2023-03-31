@@ -1,0 +1,128 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20220120142150/https://www.dpreview.com/reviews/leicax1/
+ProductCode: leica_x1
+Award: recommended
+ImageURL: /files/p/products/leica_x1/2bebd268aef742828ebedab0ae9747b1.png
+Name: Leica X1
+ShortSpecs:
+    - 12 megapixels
+    - 2.7″ screen
+    - 35 mm
+ReviewScore: 0
+URL: /products/leica/compacts/leica_x1
+ReviewData:
+    ExecutiveSummary: Released alongside the M9 rangefinder, the Leica X1 is an equally classy-looking (and expensive) compact camera with a large APS-C sensor and a fixed 35mm equivalent field-of-view F2.8 autofocus lens. Featuring a design reminiscent of M-series rangefinders, complete with analogue-style shutter speed and aperture dials, the camera offers a choice of fully automatic or manual control. A 2.7"" LCD and 12Mp CMOS sensor with an ISO range of 100 to 3200 round off the specification. The X1's image quality is excellent when shooting in raw, but not for the first time with a Leica, somewhat let down by the JPEGs. So if you're looking for a small camera which produces top notch out-of-camera JPEGs even in low light, it's not your best choice - especially considering the excellence of the Olympus E-P1's output. The sheer quality of the X1's DNG files, though, does mean that they will stand up to extensive post-processing very well. The biggest problem when drawing a final conclusion on the X1 is of course the typical Leica price tag - this is the most expensive compact camera on the market by a huge margin.
+    ProductPhotos:
+        - /files/p/products/leica_x1/shots/afbcb3ea73d643e5bc41e2a62c07c677.png
+        - /files/p/products/leica_x1/shots/a467d0ce3d7d4eb086c0636889a1a5ab.png
+        - /files/p/products/leica_x1/shots/fd8688e4357b4c6ca9938de04c57d2c6.png
+        - /files/p/products/leica_x1/shots/7c434f305f9a4ed2b1ebfb7a9734c3dc.png
+        - /files/p/products/leica_x1/shots/ff199e8443334c728e1b1d506769391f.png
+        - /files/p/products/leica_x1/shots/0c7f06c0a86c43e1a4c3f5b74face57f.png
+        - /files/p/products/leica_x1/shots/7283d9f023484e8393164998f47c3e1e.png
+    ReviewSummary: null
+    ASIN:
+        - B002NX13QC
+Specs:
+    AEBracketing: ""
+    Announced: Sep 9, 2009
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Single
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (Pop-up)
+    BuyingOptions: $1,999.00
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 124 x 60 x 32 mm (4.88 x 2.36 x 1.26″)
+    DriveModes: ""
+    Durability: ""
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: ""
+    ExternalFlash: "Yes"
+    FileFormat: ""
+    FlashModes: Auto, On, Off, Red-Eye, Front Curtain, Rear Curtain, Slow sync, Studio
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthEquiv: 35 mm
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: ""
+    ISO: Auto, 100, 200, 400, 800, 1600, 3200
+    ImageParameters: ""
+    ImageRatioWh: "3:2"
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, Standard
+    LensMount: ""
+    LiveView: "No"
+    MSRP: ""
+    MacroFocusRange: 30 cm (11.81″)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4272 x 2856
+    MaximumAperture: F2.8
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes: ""
+    NormalFocusRange: 60 cm (23.62″)
+    NumberOfFocusPoints: "11"
+    OpticalZoom: 1×
+    OrientationSensor: "Yes"
+    OtherResolutions: 3564 x 2160, 2144 x 1424, 1632 x 1080
+    Processor: ""
+    RemoteControl: "No"
+    Resolutions: ""
+    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Dec 18, 2009"
+    SceneModes: ""
+    ScreenDots: 230,000
+    ScreenSize: 2.7″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 sec)
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: APS-C (23.6 x 15.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageIncluded: ""
+    StorageTypes: SD/SDHC card
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    VideographyNotes: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 306 g (0.67 lb / 10.79 oz)
+    WhiteBalancePresets: "5"
+    Wireless: ""
+    WirelessNotes: ""
