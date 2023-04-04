@@ -45,7 +45,7 @@ Specs:
     BatteryDescription: LP-E6NH lithium-ion battery & charger
     BatteryLifeCIPA: "580"
     BodyMaterial: ""
-    BodyType: ""
+    BodyType: SLR-style mirrorless
     BoostedISOMaximum: "204800"
     BoostedISOMinimum: "50"
     BuiltInFlash: "No"
