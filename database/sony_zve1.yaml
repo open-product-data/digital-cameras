@@ -1,0 +1,148 @@
+DPRReviewArchiveURL: https://web.archive.org/web/20230330103301/https://www.dpreview.com/reviews/sony-zv-e1-preview
+ProductCode: sony_zve1
+Award: ""
+ImageURL: /files/p/products/sony_zve1/cbd1712befedc736d2ad722b07ab0b65.png
+Name: Sony ZV-E1
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_zve1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0BZWNWCZ9
+        - B0BZWP1WRF
+        - B0BZWMP1MR
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Mar 29, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery  charger
+    BatteryLifeCIPA: "570"
+    BodyMaterial: Composite
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "409600"
+    BoostedISOMinimum: "40"
+    BuiltInFlash: "No"
+    BuyingOptions: Check prices
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, BT.2020
+    CustomWhiteBalance: "Yes"
+    Dimensions: 121 x 72 x 54 mm (4.76 x 2.83 x 2.13″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Bracketing (AE/WB/DRO)
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe)
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - HEIF
+        - Raw (ARW 4.0)
+    FocalLengthMultiplier: 1×
+    Format: MPEG-4, XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    HDMI: Yes (Micro)
+    HeadphonePort: "Yes"
+    ISO: Auto, 80-102400 (expands to 40-409600)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $2200 (body only), $2500 with 28-80mm F4-5.6
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4240 x 2832
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/30 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Multiple
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 25p / 140 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC HS, MP4, H.265, Linear PCM
+        - 3840 x 2160 @ 60p / 600 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 500 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 300 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 250 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 240 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 60p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 50p / 200 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 30p / 140 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 25p / 140 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 3840 x 2160 @ 24p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 222 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 185 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 30p / 111 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 93 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 89 Mbps, XAVC S-I, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 120p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 100p / 100 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 60p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 50p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 25p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+        - 1920 x 1080 @ 24p / 50 Mbps, XAVC S, MP4, H.264, Linear PCM
+    NumberOfFocusPoints: "759"
+    OrientationSensor: "Yes"
+    Processor: Bionz XR
+    RemoteControl: Yes (wireless or smartphone)
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 13 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD slot
+    SubjectSceneModes: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: Yes (USB PD supported)
+    UncompressedFormat: RAW
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 483 g (1.06 lb / 17.04 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual band) + Bluetooth
