@@ -1,29 +1,26 @@
-DPRReviewArchiveURL: https://web.archive.org/web/20220113140641/https://www.dpreview.com/reviews/leica-m11-initial-review
-ProductCode: leica_m11
+DPRReviewArchiveURL: https://web.archive.org/web/20230413161348/https://www.dpreview.com/reviews/leica-m11-monochrom-preview
+ProductCode: leica_m11_monochrom
 Award: ""
-ImageURL: /files/p/products/leica_m11/047bccd4c9654abeaf497c6e3c94c661.png
-Name: Leica M11
+ImageURL: /files/p/products/leica_m11_monochrom/047bccd4c9654abeaf497c6e3c94c661.png
+Name: Leica M11 Monochrom
 ShortSpecs:
     - 60 megapixels
     - 3″ screen
     - Full frame sensor
 ReviewScore: 0
-URL: /products/leica/slrs/leica_m11
+URL: /products/leica/slrs/leica_m11_monochrom
 ReviewData:
-    ExecutiveSummary: 'The Leica M11 is a digital rangefinder camera built around a 60MP BSI CMOS sensor. It''s the latest in Leica''s ''M'' series of rangefinders that dates back to the M3 from 1954. With this unrivaled depth of heritage behind it, it''s no surprise that the M11 looks a lot like its predecessors. Despite the visual similarities, there''s a lot that''s changed in the latest model, with a more refined body design as well as completely new internals. The M11 will be available in two variants: a classic silver version with black leatherette band around the center and a brass top-plate, and a black version that uses aluminum instead, making it around 100g lighter. The recommended retail price for both is $8995.'
+    ExecutiveSummary: 'The Leica M11 Monochrom is a digital rangefinder camera built around a 60MP BSI CMOS sensor with no color filter array.'
     ProductPhotos:
-        - /files/p/products/leica_m11/shots/874cf69a2f5a4fac9a0a209a464c0664.png
-        - /files/p/products/leica_m11/shots/4010017ab9c345db9c67fe5298c3f6a4.png
-        - /files/p/products/leica_m11/shots/c4032ef2c38f4ea4860603077816c4b2.png
-        - /files/p/products/leica_m11/shots/1f0def22ad6e463bbca6660a1f2dc6ce.png
+        - /files/p/products/leica_m11_monochrom/shots/874cf69a2f5a4fac9a0a209a464c0664.png
+        - /files/p/products/leica_m11_monochrom/shots/4010017ab9c345db9c67fe5298c3f6a4.png
+        - /files/p/products/leica_m11_monochrom/shots/c4032ef2c38f4ea4860603077816c4b2.png
+        - /files/p/products/leica_m11_monochrom/shots/1f0def22ad6e463bbca6660a1f2dc6ce.png
     ReviewSummary: null
-    ASIN:
-        - B08DKD577Z
-        - B08W8TN582
-        - B09QF4TSZF
+    ASIN: []
 Specs:
     AEBracketing: ""
-    Announced: Jan 13, 2022
+    Announced: Apr 13, 2022
     AperturePriority: "Yes"
     ArticulatedLCD: Fixed
     Autofocus: ""
@@ -36,7 +33,7 @@ Specs:
     BoostedISOMinimum: ""
     BuiltInFlash: "No"
     BuyingOptions: Check prices
-    ColorFilterArray: Primary color filter
+    ColorFilterArray: None
     ColorSpace: ""
     ContinuousDrive: 4.5 fps
     CustomWhiteBalance: "Yes"
@@ -62,13 +59,13 @@ Specs:
     GPSNotes: ""
     HDMI: ""
     HeadphonePort: "No"
-    ISO: Auto, 64-50000
+    ISO: Auto, 125-200000
     ImageRatioWh: "3:2"
     ImageStabilization: "No"
     JPEGQualityLevels: ""
     LensMount: Leica M
     LiveView: "Yes"
-    MSRP: $8995
+    MSRP: $9195
     MacroFocusRange: ""
     ManualExposureMode: "Yes"
     ManualFocus: "Yes"
@@ -92,7 +89,6 @@ Specs:
     Processor: Maestro III
     RemoteControl: Yes (cable release)
     Resolutions: ""
-    ReviewPreview: "Read review ...\n                                    \n                                    \n                                        Jan 13, 2022"
     SceneModes: ""
     ScreenDots: 2,332,800
     ScreenSize: 3″
@@ -103,7 +99,7 @@ Specs:
     SensorType: BSI-CMOS
     ShutterPriority: "No"
     Speaker: None
-    StorageIncluded: 64GB
+    StorageIncluded: 256GB
     StorageTypes: UHS II type SD
     SubjectSceneModes: "No"
     TimelapseRecording: ""
