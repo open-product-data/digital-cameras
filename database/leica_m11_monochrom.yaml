@@ -28,7 +28,7 @@ Specs:
     Battery: Battery Pack
     BatteryDescription: BC-SCL7 lithium-ion battery & charger
     BatteryLifeCIPA: "700"
-    BodyMaterial: Magnesium alloy / brass
+    BodyMaterial: Magnesium alloy
     BodyType: Large SLR
     BoostedISOMinimum: ""
     BuiltInFlash: "No"
