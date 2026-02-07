@@ -1,0 +1,185 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260115020424/https://www.dpreview.com/reviews/nikon-z8-review
+ProductCode: nikon_z8
+Award: gold
+ImageURL: /files/p/products/nikon_z8/shots/09b3f065e3fc43309fa64b4660d96f6c.png
+Name: Nikon Z8
+ShortSpecs:
+    - 46 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 94
+URL: /products/nikon/slrs/nikon_z8
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/nikon_z8/shots/09b3f065e3fc43309fa64b4660d96f6c.png
+        - /files/p/products/nikon_z8/shots/f17f9026057641288cee969eeab2376d.png
+        - /files/p/products/nikon_z8/shots/ca2655de1f124bfc8391bdfb9dc7b41f.png
+    ReviewSummary:
+        GoodFor: Sports, wildlife, photojournalism, landscapes...
+        NotSoGoodFor: Travel photography where size and weight are critical.
+        Conclusion: 'The Z8 brings the speed and autofocus capability of the Z9 to a smaller, more affordable body to deliver a camera that will support you in almost any photographic pursuit. It''s a touch larger than its rivals but every facet of its abilities seems to be a match for those peers. It''s perhaps the most complete camera we''ve yet tested.'
+    ASIN:
+        - B0C5Y14VCV
+        - B0D79T7J8X
+        - B0CJF4FNYR
+        - B08L5MP8HB
+        - B0F3G8C7F4
+        - B0F3G7682K
+        - B0C5Y2VPX7
+        - B08L5N1PCN
+        - B08HZFYHXW
+        - nikon_z8
+        - B08L5HJSM1
+Specs:
+    AEBracketing: ""
+    Announced: May 10, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15c
+    BatteryLifeCIPA: "340"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "32"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 6 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (6 slots)
+    DigitalZoom: ""
+    Dimensions: 144 x 119 x 83 mm (5.67 x 4.69 x 3.27″)
+    DriveModes:
+        - Single frame, Continuous L, Continuous H, High-speed frame capture, Self-timer
+    Durability: ""
+    EffectivePixels: 46 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: []
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - HEIF
+        - NEF Raw 14-bit (Lossless, HE*, HE)
+    FlashModes: 'Front-curtain sync, Rear-curtain sync, Red-eye reduction, Red-eye reduction with slow sync, Slow sync Off'
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: "Yes"
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Synchro VR with select lenses
+    JPEGQualityLevels: ""
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $3999 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8256 x 5504
+    MaximumShutterSpeed: 1/32000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 7680 x 4320 @ 30p, H.265
+        - 7680 x 4320 @ 25p, H.265
+        - 7680 x 4320 @ 23.98p, H.265
+        - 3840 x 2160 @ 120p, ProRes
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 120p, H.264
+        - 3840 x 2160 @ 100p, ProRes
+        - 3840 x 2160 @ 100p, H.265
+        - 3840 x 2160 @ 100p, H.264
+        - 3840 x 2160 @ 60p, ProRes
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, ProRes
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, ProRes
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, ProRes
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, ProRes
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.265
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: "493"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Via app)
+    Resolutions: ""
+    ReviewPreview: |-
+        94%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 2,088,960
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 52 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.8 ×
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 910 g (2.01 lb / 32.10 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 2.4, 5Ghz

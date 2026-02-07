@@ -1,0 +1,135 @@
+DPRReviewArchiveURL: ""
+ProductCode: fujifilm_gfx100sii
+Award: ""
+ImageURL: /files/p/TS60x60PFFFFFF00~products/fujifilm_gfx100sii/7917c37e3ba54b34b8aa58bbc1feac31.png
+Name: Fujifilm GFX 100S II
+ShortSpecs:
+    - 102 megapixels
+    - 3.2″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_gfx100sii
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN:
+        - B0BKGQ4XF1
+        - B0CW1KVSVF
+        - B0D42D58FQ
+        - B08TLRKRKK
+        - B01N12FPP5
+        - B0D87H7J8Q
+        - B0DSQ9WPY9
+        - fujifilm_gfx100sii
+        - B0CV52JHNR
+        - B09FF44M49
+        - B0CW17YXLS
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: May 16, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "530"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "40"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 150 x 104 x 87 mm (5.91 x 4.09 x 3.43″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 102 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 0.79 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800 (expands to 50-102400)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Fujifilm G
+    LiveView: "Yes"
+    MSRP: $4999
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 11648 x 8736
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: []
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 2x SD UHS-II
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW + TIFF
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.84 × (1.06 × 35mm equiv.)
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 883 g (1.95 lb / 31.15 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n + Bluetooth

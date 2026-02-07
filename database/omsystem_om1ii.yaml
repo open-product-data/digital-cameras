@@ -1,0 +1,167 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251230230542/https://www.dpreview.com/reviews/om-system-om-1-mark-ii-initial-review'
+ProductCode: omsystem_om1ii
+Award: ""
+ImageURL: /files/p/products/omsystem_om1ii/shots/0cf888d34463483786cfe898b40ecdaa.png
+Name: OM System OM-1 Mark II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/olympus/slrs/omsystem_om1ii
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/omsystem_om1ii/shots/0cf888d34463483786cfe898b40ecdaa.png
+        - /files/p/products/omsystem_om1ii/shots/d8bc4674e2174360bf1968e3c79d37cd.png
+        - /files/p/products/omsystem_om1ii/shots/735a5dd8061b46ff9a5ae7341f9f7ecc.png
+        - /files/p/products/omsystem_om1ii/shots/cb32e5b19abf4de0957ce591950b4067.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/7 EV, 1/3 EV, 1 EV steps)
+    Announced: Jan 30, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: 'Standard mode: 520 Quick sleep mode: 1100'
+    BatteryLifeCIPA: "520"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 135 x 92 x 73 mm (5.31 x 3.62 x 2.87″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (IP53)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - Raw (ORF, 12-bit lossless compression)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 80-25600 (expands to 80-102400)
+    ImageRatioWh: '4:3'
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2399
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 60p, H.265
+        - 4096 x 2160 @ 50p, H.265
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 25p, H.265
+        - 4096 x 2160 @ 24p, H.265
+        - 4096 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 50p, H.264
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: "1053"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePic X Dual Quad Core Processor
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 secs, Custom)
+    SensorPhotoDetectors: 23 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD, SDHC (UHS-I/II), SDXC (UHS-I/II)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (electrostatic capacitance touch panel)
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.65 × (0.82 × 35mm equiv.)
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 599 g (1.32 lb / 21.13 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

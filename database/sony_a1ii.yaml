@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20250617130807/https://www.dpreview.com/reviews/sony-a1-ii-initial-review
+ProductCode: sony_a1ii
+Award: ""
+ImageURL: /files/p/products/sony_a1ii/shots/de8f95f284984f23a0863fd5bde9d410.png
+Name: Sony a1 II
+ShortSpecs:
+    - 50 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_a1ii
+ReviewData:
+    ExecutiveSummary: 'The a1 II is Sony''s flagship camera, combining a 50MP sensor with the ability to shoot at up to 30fps in lossy compressed Raw, and up to 20fps with lossless Raw. It features the company''s latest autofocus technology, and is Sony''s first Alpha camera with automatic subject detection.'
+    ProductPhotos:
+        - /files/p/products/sony_a1ii/shots/de8f95f284984f23a0863fd5bde9d410.png
+        - /files/p/products/sony_a1ii/shots/fb280740689f40afbe71107f676b8dd2.png
+        - /files/p/products/sony_a1ii/shots/1b11481158e44e90b4fa8f1563d44203.png
+        - /files/p/products/sony_a1ii/shots/65917d2c49ba412badc9fd6be43cd096.png
+        - /files/p/products/sony_a1ii/shots/81d5a15e53754d33b50d3f2e6dab41fb.png
+        - /files/p/products/sony_a1ii/shots/6abfee3b5f454a75b6e70d941f2e89c1.png
+        - /files/p/products/sony_a1ii/shots/63a41c4092bd442a8bfe168dcb026814.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Nov 19, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery & dual charger
+    BatteryLifeCIPA: "520"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, Rec. 2020
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 136 x 97 x 83 mm (5.35 x 3.82 x 3.27″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 50 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - HEIF
+        - Raw (Sony ARW v5.0)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/400 sec
+    FocalLengthMultiplier: 1 ×
+    Format: XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Standard)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-32000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard, light
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $6500 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 8640 x 5760
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 7680 x 4320 @ 30p, H.265
+        - 7680 x 4320 @ 25p, H.265
+        - 7680 x 4320 @ 24p, H.265
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 100p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: "759"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Dual Bionz XR
+    RemoteControl: Yes (via Bluetooth or tethered PC)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,095,104
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 51 megapixels
+    SensorSize: Full frame (35.9 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual CFexpress Type A/UHS-II SD slots
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.9 ×
+    ViewfinderResolution: 9,437,184
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 743 g (1.64 lb / 26.21 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (Dual Band)

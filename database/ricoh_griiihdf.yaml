@@ -1,0 +1,126 @@
+DPRReviewArchiveURL: ""
+ProductCode: ricoh_griiihdf
+Award: ""
+ImageURL: /files/p/TS60x60PFFFFFF00~products/ricoh_griiihdf/9a4e813c11de4232b9be45f22c111c9a.png
+Name: Ricoh GR III HDF
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_griiihdf
+ReviewData:
+    ExecutiveSummary: 'The Ricoh GR III HDF is a variant of the GR III premium compact. It adds a highlight diffusion filter in the place of the standard model''s switchable ND filter, letting you give a soft, diffuse look to your photos when you want. The 24MP APS-C sensor and 28mm-equivalent F2.8 lens remain unchanged.'
+    ProductPhotos: []
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Mar 27, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: DB-110 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "200"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 4 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 4.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 109 x 62 x 33 mm (4.29 x 2.44 x 1.3″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: Auto, Flash On, Flash On+Red-eye, Slow-speed Sync, Slow Sync+Red-eye
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1070
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Internal, SD/SDHC/SDXC (UHS-I supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 257 g (0.57 lb / 9.07 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

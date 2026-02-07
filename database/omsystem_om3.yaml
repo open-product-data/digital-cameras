@@ -1,0 +1,167 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260113231843/https://www.dpreview.com/reviews/om-system-om-3-review
+ProductCode: omsystem_om3
+Award: silver
+ImageURL: /files/p/products/omsystem_om3/shots/890985b514194aafa849f781787cd5ed.png
+Name: OM System OM-3
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 86
+URL: /products/olympus/slrs/omsystem_om3
+ReviewData:
+    ExecutiveSummary: 'The OM-3 is a Four Thirds camera from OM System with retro styling. It features a 20MP Stacked sensor, capable of shooting at up to 50fps with continuous autofocus and 120fps with single autofocus. The OM-3 features a "Creative Dial" taken straight from the PEN-F, which lets you quickly switch between color modes, including a monochrome setting.'
+    ProductPhotos:
+        - /files/p/products/omsystem_om3/shots/890985b514194aafa849f781787cd5ed.png
+        - /files/p/products/omsystem_om3/shots/fe9008d092ac480baa14483b3d6575d1.png
+        - /files/p/products/omsystem_om3/shots/2b880eb3edc04a1da7e6ee8605509476.png
+        - /files/p/products/omsystem_om3/shots/191f420d461644408032aa798ec3f542.png
+        - /files/p/products/omsystem_om3/shots/7e6e6e2465714208a486b91da39a3e5e.png
+    ReviewSummary:
+        GoodFor: Travelers who may encounter anything
+        NotSoGoodFor: Shooters that need maximum image quality
+        Conclusion: 'The OM-3 is a camera that''s small enough to go anywhere, with enough speed and computational tricks to capture almost any subject you''ll come across.'
+    ASIN: []
+Specs:
+    AEBracketing: (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Feb 6, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLX-1
+    BatteryLifeCIPA: "590"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 120.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 139 x 89 x 46 mm (5.47 x 3.5 x 1.81″)
+    DriveModes:
+        - Sequential, Silent Sequential, SH1, SH2, Pro Capture, Pro Capture SH1, Pro Capture SH2
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (IP53)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes:
+        - Program, Aperture priority, Shutter priority, Manual, Bulb
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG, RAW(12-bit lossless compression)
+    FlashModes: Fill-in, Flash Off, Slow sync., Manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D Micro)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Normal, Fine, Superfine
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1999
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 50p, H.264
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 23.98p, H.264
+        - 4096 x 2160 @ 60p, H.265
+        - 4096 x 2160 @ 50p, H.265
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 25p, H.265
+        - 4096 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 1920 x 1080 @ 240p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 23.98p, H.265
+    NumberOfFocusPoints: "1053"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 1280x960, 1024x768, 3200x2400, 1920x1440
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: |-
+        86%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (1-30 sec)
+    SensorPhotoDetectors: 23 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.37 ×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 frames)
+    WeightIncBatteries: 496 g (1.09 lb / 17.50 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 2.5Ghz Wi-Fi, Bluetooth 4.2

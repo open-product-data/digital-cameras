@@ -1,0 +1,193 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260105113754/https://www.dpreview.com/reviews/sony-a7cr-review
+ProductCode: sony_a7cr
+Award: silver
+ImageURL: /files/p/products/sony_a7cr/shots/15432783599041aeb66497a49a5f55fd.png
+Name: Sony a7CR
+ShortSpecs:
+    - 60 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 88
+URL: /products/sony/slrs/sony_a7cr
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_a7cr/shots/15432783599041aeb66497a49a5f55fd.png
+        - /files/p/products/sony_a7cr/shots/cdfa456a3cec41fda6170c6a20b4d71c.png
+        - /files/p/products/sony_a7cr/shots/fe3f319c62b74517a2b3c22aab832591.png
+        - /files/p/products/sony_a7cr/shots/7ebd4ae566bf49e4b1a35b226f5062d9.png
+        - /files/p/products/sony_a7cr/shots/963f8ce1ca78488fa0396754db2c4cab.png
+        - /files/p/products/sony_a7cr/shots/980e324b01994477b1c751608fd8b95e.png
+        - /files/p/products/sony_a7cr/shots/3025318f35214f87ac7ecc55f9363c7a.png
+        - /files/p/products/sony_a7cr/shots/52945f1896cf4472aeedcd7b256109ac.png
+        - /files/p/products/sony_a7cr/shots/e3213a50abe64389bc3d83268d06d331.png
+        - /files/p/products/sony_a7cr/shots/abc9b118a5c04a00abb94384b8eb2c72.png
+    ReviewSummary:
+        GoodFor: 'Those wanting the highest level of Raw detail from a full-frame camera in a small package. Landscape and adventure photographers. Studio photographers working tethered.'
+        NotSoGoodFor: 'Those who appreciate a decently large, high-resolution EVF. Filmmakers requiring the best 4K video performance.'
+        Conclusion: 'The Sony a7CR features the same best-in-class high-resolution full-frame image quality and industry-leading autofocus performance as the gold award-winning a7R V in a smaller, lighter, more affordable package. The EVF could be better and an AF joystick would be nice, but build quality and battery life impress, making this a great choice for landscape and outdoor adventure shooters.'
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Aug 29, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery & charger
+    BatteryLifeCIPA: "520"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "102800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, BT.2020
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (2x - 4x)
+    Dimensions: 124 x 71 x 63 mm (4.88 x 2.8 x 2.48″)
+    DriveModes:
+        - Single
+        - Continuous (Hi+/Hi/Mid/Lo)
+        - Self-timer
+        - Bracketing (Exposure, Focus, WB, DRO)
+    Durability: ""
+    EffectivePixels: 60 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe / Sync socket)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - HEIF (MPEG-A)
+        - Raw (Sony ARW v2.3)
+    FlashModes: 'Flash off, Autoflash, Fill-flash, Slow Sync., Rear Sync., Red-eye reduction, Wireless, Hi-speed sync.'
+    FlashRange: ""
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1 ×
+    Format: MPEG-4, XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Full-size HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, ISO 100-32000 (expands to 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Extra fine, fine, standard, light
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $3000 / £3200 / €3700
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9504 x 6336
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60i, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: "693"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz XR
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        88%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,030,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 63 megapixels
+    SensorSize: Full frame (35.7 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB PD supported)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.7 ×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 515 g (1.14 lb / 18.17 oz)
+    WhiteBalancePresets: "9"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac 2x2 MIMO + Bluetooth 5.0

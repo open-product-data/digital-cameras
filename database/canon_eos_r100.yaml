@@ -1,0 +1,135 @@
+DPRReviewArchiveURL: ""
+ProductCode: canon_eos_r100
+Award: ""
+ImageURL: /files/p/products/canon_eos_r100/shots/208362404cab4b1e925b08629519e1a3.png
+Name: Canon EOS R100
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 79
+URL: /products/canon/slrs/canon_eos_r100
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Canon EOS R100 camera is an entry level 24MP APC-C mirrorless hybrid camera for the RF-mount system.'
+    ProductPhotos:
+        - /files/p/products/canon_eos_r100/shots/208362404cab4b1e925b08629519e1a3.png
+        - /files/p/products/canon_eos_r100/shots/c6301c5ed0ce48d3b557c32280736867.png
+        - /files/p/products/canon_eos_r100/shots/334f2b1aed9d4c7386cba1ed455f9f7b.png
+        - /files/p/products/canon_eos_r100/shots/63a9f0e7acb44ff79746ba6c924007c5.png
+        - /files/p/products/canon_eos_r100/shots/5dcf3ca73bb9441e9f5818fb6069a5b0.png
+        - /files/p/products/canon_eos_r100/shots/820b2ae9547c4fbbbd8ea87c9232175d.png
+        - /files/p/products/canon_eos_r100/shots/761699b96869434ab04825f73fbb4eb3.png
+    ReviewSummary:
+        GoodFor: Photographers on a tight budget.
+        NotSoGoodFor: Those who want capable 4K video capture, better performance, and a touchscreen.
+        Conclusion: 'The compact Canon EOS R100 does a fine job at its most important tasks: taking good quality photos and having a long-lasting battery. However, a lot of corners were cut to reach its bargain price, so it''s not a great choice for videographers, action photographers, or anyone who prefers a touchscreen. Unless money is tight, we recommend spending a little more for a more capable camera.'
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: May 24, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E17
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 6.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 116 x 86 x 69 mm (4.57 x 3.39 x 2.72″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (Hotshoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.6 ×
+    Format: MPEG-4, H.264
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (HDMI micro)
+    HeadphonePort: "No"
+    ISO: "100-12800"
+    ImageRatioWh: '3:2'
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $480 (body only), $600 (w/18-45mm lens), $830 (w/18-45mm and 55-210mm lenses)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1 sec
+    Modes: []
+    NumberOfFocusPoints: "143"
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Digic 8
+    RemoteControl: Yes (via Smartphone, via BR-E1 remote controller)
+    Resolutions: ""
+    ReviewPreview: |-
+        79%
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10-sec. delay, 2-sec. delay, Continuous)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageTypes: SD (UHS-I compatible)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "No"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.95 × (0.59 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 356 g (0.78 lb / 12.56 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: ""

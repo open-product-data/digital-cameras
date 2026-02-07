@@ -1,24 +1,35 @@
-DPRReviewArchiveURL: https://web.archive.org/web/20230208041301/https://www.dpreview.com/reviews/canon-eos-r8-initial-review
+DPRReviewArchiveURL: http://web.archive.org/web/20251119022651/https://www.dpreview.com/reviews/canon-eos-r8-review
 ProductCode: canon_eosr8
-Award: ""
-ImageURL: /files/p/products/canon_eosr8/c170bac50baf4f1cbdd9834276e7457a.png
+Award: silver
+ImageURL: /files/p/products/canon_eosr8/shots/40d16e55ebb24f74bbd92cd1023bac9e.png
 Name: Canon EOS R8
 ShortSpecs:
     - 24 megapixels
     - 3″ screen
     - Full frame sensor
-ReviewScore: 0
+ReviewScore: 87
 URL: /products/canon/slrs/canon_eosr8
 ReviewData:
     ExecutiveSummary: ""
     ProductPhotos:
         - /files/p/products/canon_eosr8/shots/40d16e55ebb24f74bbd92cd1023bac9e.png
         - /files/p/products/canon_eosr8/shots/4083644af1bd41769712381621757491.png
-    ReviewSummary: null
+    ReviewSummary:
+        GoodFor: 'Full frame beginners, who don''t want a big heavy camera. Occasional vloggers, and videographers who don''t need to roll footage for long periods. Canon RF users looking for a second body with great image quality.'
+        NotSoGoodFor: 'High-speed sports shooting. Those hoping for a wide array of affordable lenses. Wilderness types who venture away from power outlets for days on end.'
+        Conclusion: 'An affordable camera that can punch above its weight in stills and 4K video. While its poor battery life keeps it from being a slam-dunk recommendation, you get a lot of camera for your money in the EOS R8. Its simple control scheme is great for beginners, and feature-packed for more advanced users, and its flip-out LCD makes it flexible for off-angle shooting and vlogging.'
     ASIN:
+        - B0DLKZS3ZV
+        - B0BGHWW2P4
+        - canon_eosr8
+        - B0BWNWZJWK
+        - B0BVP25CQB
+        - B0BWNYTS8B
+        - B0BGHYXH1P
         - B0BTTRXL3F
-        - B0BTTW292G
-        - B0BL7X3KLV
+        - B0FJGB7CJZ
+        - B0BT518PK6
+        - B0BYZHDRN6
 Specs:
     AEBracketing: ""
     Announced: Feb 8, 2023
@@ -44,7 +55,7 @@ Specs:
     BoostedISOMaximum: "204800"
     BoostedISOMinimum: "50"
     BuiltInFlash: "No"
-    BuyingOptions: Check prices
+    BuyingOptions: ""
     CIPAImageStabilizationRating: ""
     ColorFilterArray: RGB primary color filters
     ColorSpace: sRGB, AdobeRGB
@@ -52,25 +63,27 @@ Specs:
     CustomWhiteBalance: "Yes"
     DigitalZoom: ""
     Dimensions: 133 x 86 x 70 mm (5.24 x 3.39 x 2.76″)
-    DriveModes: ""
+    DriveModes: []
+    Durability: ""
     EffectivePixels: 24 megapixels
     EnvironmentallySealed: "Yes"
     ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
     ExposureModes:
-        - Scene Intelligent Auto, Hybrid Auto, Special Scenes, Creative Filters, Flexible-priority AE, Program AE, Shutter-priority AE, Aperture-priority AE, Manual Exposure, Bulb Exposure, Custom Shooting Modes C1, C2, C3
+        - 'Scene Intelligent Auto, Hybrid Auto, Special Scenes, Creative Filters, Flexible-priority AE, Program AE, Shutter-priority AE, Aperture-priority AE, Manual Exposure, Bulb Exposure, Custom Shooting Modes C1, C2, C3'
     ExternalFlash: "Yes"
+    FieldOfView: ""
     FileFormat:
         - JPEG, HEIF, CR3, C-Raw
     FlashModes: ""
     FlashRange: ""
     FlashXSyncSpeed: 1/200 sec
-    FocalLengthEquiv: ""
     FocalLengthMultiplier: ""
     Format: H.264, H.265
     GPS: ""
+    GPSNotes: ""
     HDMI: Yes (Micro)
     HeadphonePort: "Yes"
-    ISO: 100-102400
+    ISO: "100-102400"
     ImageRatioWh: 1:1, 4:3, 3:2, 16:9
     ImageStabilization: "No"
     ImageStabilizationNotes: ""
@@ -78,11 +91,9 @@ Specs:
     LensMount: Canon RF
     LiveView: "Yes"
     MSRP: $1499 body only ($1699 with 24-50mm F4.5-6.3 IS)
-    MacroFocusRange: ""
     ManualExposureMode: "Yes"
     ManualFocus: "Yes"
     MaxResolution: 6000 x 4000
-    MaximumAperture: ""
     MaximumShutterSpeed: 1/4000 sec
     MaximumShutterSpeedElectronic: 1/16000 sec
     MeteringModes:
@@ -94,67 +105,68 @@ Specs:
     MicrophonePort: "Yes"
     MinimumShutterSpeed: 30 sec
     Modes:
-        - 3840 x 2160 @ 60p / 340 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 50p / 340 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 60p / 230 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 50p / 230 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 60p / 170 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 50p / 170 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 60p / 120 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 50p / 120 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 30p / 170 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 25p / 170 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 23.98p / 170 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 30p / 120 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 25p / 120 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 23.98p / 120 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 30p / 85 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 25p / 85 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 23.98p / 85 Mbps, MOV, H.265, Linear PCM
-        - 3840 x 2160 @ 30p / 60 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 25p / 60 Mbps, MOV, H.264, AAC
-        - 3840 x 2160 @ 23.98p / 60 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 180p / 270 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 180p / 180 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 180p / 150 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 180p / 105 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 120p / 180 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 100p / 180 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 120p / 120 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 100p / 120 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 120p / 100 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 100p / 100 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 120p / 70 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 120p / 70 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 60p / 90 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 50p / 90 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 60p / 60 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 50p / 60 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 60p / 50 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 50p / 50 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 60p / 35 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 50p / 35 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 30p / 45 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 25p / 45 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 23.98p / 45 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 30p / 30 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 25p / 30 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 23.98p / 30 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 30p / 28 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 25p / 28 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 23.98p / 28 Mbps, MOV, H.265, Linear PCM
-        - 1920 x 1080 @ 30p / 12 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 25p / 12 Mbps, MOV, H.264, AAC
-        - 1920 x 1080 @ 23.98p / 12 Mbps, MOV, H.264, AAC
-    NumberOfCrossTypeFocusPoints: ""
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 180p, H.265
+        - 1920 x 1080 @ 180p, H.264
+        - 1920 x 1080 @ 180p, H.265
+        - 1920 x 1080 @ 180p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 23.98p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 23.98p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
     NumberOfFocusPoints: "1053"
-    OpticalZoom: ""
+    NumberOfLenses: ""
     OrientationSensor: "Yes"
     OtherResolutions: ""
     Processor: Digic X
     RemoteControl: "Yes"
     Resolutions: ""
-    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Feb 8, 2023"
+    ReviewPreview: |-
+        87%Silver Award
+        Read review ...
     SceneModes: ""
     ScreenDots: 1,620,000
     ScreenSize: 3″
@@ -165,7 +177,6 @@ Specs:
     SensorType: CMOS
     ShutterPriority: "Yes"
     Speaker: Mono
-    StorageIncluded: ""
     StorageTypes: ""
     SubjectSceneModes: ""
     TimelapseRecording: "Yes"
@@ -173,9 +184,8 @@ Specs:
     USB: USB 3.2 Gen 2 (10 GBit/sec)
     USBCharging: "Yes"
     UncompressedFormat: RAW
-    VideographyNotes: ""
-    ViewfinderCoverage: 100%
-    ViewfinderMagnification: 0.7×
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.7 ×
     ViewfinderResolution: 2,360,000
     ViewfinderType: Electronic
     WBBracketing: "Yes"

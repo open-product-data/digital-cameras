@@ -1,0 +1,126 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260107163111/https://www.dpreview.com/reviews/leica-m-ev1
+ProductCode: leica_mev1
+Award: ""
+ImageURL: /files/p/products/leica_mev1/shots/00fe626934f04dbe9743dffa325fe48f.png
+Name: Leica M EV1
+ShortSpecs:
+    - 60 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_mev1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/leica_mev1/shots/00fe626934f04dbe9743dffa325fe48f.png
+        - /files/p/products/leica_mev1/shots/ddb75b3d035b4431a05b1318ad1e40e5.png
+        - /files/p/products/leica_mev1/shots/1c184efd470540dcb7fd768b9bed997c.png
+        - /files/p/products/leica_mev1/shots/94a82615c1df4901890770f31998d6dc.png
+    ReviewSummary: null
+    ASIN:
+        - B00ZTIHIJY
+        - leica_mev1
+        - B009M1VO1W
+        - B00YXJVKZI
+        - B077ZL1VH7
+        - B0006ZXKOC
+Specs:
+    AEBracketing: ""
+    Announced: Oct 23, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus: []
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BC-SCL7 lithium-ion battery & charger
+    BatteryLifeCIPA: "244"
+    BodyMaterial: Magnesium alloy / brass
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 38 mm (5.47 x 3.15 x 1.5″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 60 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - DNG (14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1 ×
+    Format: ""
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 64-50000
+    ImageRatioWh: '3:2'
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $8995
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9528 x 6328
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 3600 sec
+    Modes: []
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: (M) 7413 x 4928, (S) 5272 x 3498
+    Processor: Maestro III
+    RemoteControl: Yes (cable release)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,332,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12s)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageTypes: UHS II type SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.76 ×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 484 g (1.07 lb / 17.07 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

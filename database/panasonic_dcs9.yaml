@@ -1,0 +1,153 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251122101012/https://www.dpreview.com/reviews/panasonic-s9-in-depth-review'
+ProductCode: panasonic_dcs9
+Award: ""
+ImageURL: /files/p/products/panasonic_dcs9/shots/0f6e77a440c14f5abc02cc55e9277303.png
+Name: Panasonic Lumix DC-S9
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 85
+URL: /products/panasonic/slrs/panasonic_dcs9
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/panasonic_dcs9/shots/0f6e77a440c14f5abc02cc55e9277303.png
+        - /files/p/products/panasonic_dcs9/shots/9b332d4997d94d57822bf2dcdc7c48d0.png
+        - /files/p/products/panasonic_dcs9/shots/faec414c5b0944aca224ea83df00fd63.png
+        - /files/p/products/panasonic_dcs9/shots/9daf8a26e38741118d078ff49c07f342.png
+        - /files/p/products/panasonic_dcs9/shots/7cc0938410d344af83a8a5c68160e4e4.png
+        - /files/p/products/panasonic_dcs9/shots/c984f160207b44798c803d4103d298a3.png
+        - /files/p/products/panasonic_dcs9/shots/9e64785e962c4f3a94292d06313fc0f0.png
+    ReviewSummary:
+        GoodFor: |-
+            Shooting video for social media
+            Experimenting with different colors
+            Occasional picture taking for social media
+        NotSoGoodFor: |-
+            Photo hobbyists or enthusiasts
+            Ultra-compact kits
+        Conclusion: 'The S9 is a capable video camera for creators who want the look and image quality of a full-frame camera. Its ergonomics and lack of photography essentials like an EVF and mechanical shutter don''t make it ideal for stills, but we''re impressed by the well-thought-out video-to-phone-to-social-media workflow.'
+    ASIN:
+        - B0D5YLRFCY
+        - B0G1YQJBYP
+        - B0DJH5D4RW
+        - B0DJH49NR9
+        - B0D5YKN7LP
+        - B0DJH2RYJ7
+        - B0D5YH4282
+        - B0D5YXS5GT
+        - B0DJH1D75C
+        - B0D5YJHLBF
+        - panasonic_dcs9
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: May 22, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "470"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 6.5 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 126 x 74 x 47 mm (4.96 x 2.91 x 1.85″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - 'Program AE (P) / Aperture Priority AE (A) / Shutter Priority AE (S) / Manual Exposure (M) / Creative Video (P/A/S/M)'
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: "100-51200"
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5 stops IBIS, 6.5 with Dual IS 2
+    JPEGQualityLevels: ""
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $1499
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes: []
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (Via smartphone app)
+    Resolutions: ""
+    ReviewPreview: |-
+        85%
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (10sec, 2sec, 10sec 3 images, custom)
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 486 g (1.07 lb / 17.14 oz)
+    WhiteBalancePresets: "4"
+    Wireless: Built-In
+    WirelessNotes: ""

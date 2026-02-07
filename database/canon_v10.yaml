@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: ""
+ProductCode: canon_v10
+Award: ""
+ImageURL: /files/p/products/canon_v10/shots/cf0d20f66c2748f5b673d9d79dfbd9cf.png
+Name: Canon PowerShot V10
+ShortSpecs:
+    - 15 megapixels
+    - 2″ screen
+    - 18 mm
+ReviewScore: 0
+URL: /products/canon/compacts/canon_v10
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/canon_v10/shots/cf0d20f66c2748f5b673d9d79dfbd9cf.png
+        - /files/p/products/canon_v10/shots/2c62964644994459b26f759b7f9e1f76.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: May 11, 2023
+    AperturePriority: ""
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: ""
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 63 x 90 x 34 mm (2.48 x 3.54 x 1.34″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 15 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: []
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: Digital IS in video
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $429
+    ManualExposureMode: ""
+    ManualFocus: ""
+    MaxResolution: 5472 x 3648
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes: []
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1 sec
+    Modes:
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 460,000
+    ScreenSize: 2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 21 megapixels
+    SensorSize: 1″ (13.2 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: ""
+    Speaker: ""
+    StorageTypes: Micro SD
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: ""
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: ""
+    WBBracketing: ""
+    WeightIncBatteries: 211 g (0.47 lb / 7.44 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

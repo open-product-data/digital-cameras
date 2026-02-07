@@ -1,0 +1,130 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20250401091005/https://www.dpreview.com/reviews/fujifilm-gfx-100-ii-initial-review-medium-format-movie-maker'
+ProductCode: fujifilm_gfx100ii
+Award: ""
+ImageURL: /files/p/products/fujifilm_gfx100ii/shots/422c90ec7e164dff83d3ec7ea0576165.png
+Name: Fujifilm GFX 100 II
+ShortSpecs:
+    - 102 megapixels
+    - 3.2″ screen
+    - Medium format sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_gfx100ii
+ReviewData:
+    ExecutiveSummary: 'TheFujifilm GFX100 IIis the company''s latest high resolution medium format camera, that brings the latest AF and video capabilities to a redesigned camera body.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_gfx100ii/shots/422c90ec7e164dff83d3ec7ea0576165.png
+        - /files/p/products/fujifilm_gfx100ii/shots/d9ff67dfe465456d9e9defafe5714364.png
+        - /files/p/products/fujifilm_gfx100ii/shots/bd313cd18fe64d5ba057111883123844.png
+        - /files/p/products/fujifilm_gfx100ii/shots/eb2dde818622417293fa492192dd244a.png
+        - /files/p/products/fujifilm_gfx100ii/shots/3a9bd45e80fe47849c26d6fff1869323.png
+        - /files/p/products/fujifilm_gfx100ii/shots/96f0f97a5a334e1a9dcbdfb88cf654c8.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Sep 12, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-W235 lithium-ion battery & charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "40"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 152 x 117 x 99 mm (5.98 x 4.61 x 3.9″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 102 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe or flash sync port)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 0.79 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (full-sized)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-12800 (expands to 50-102400)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: Fujifilm G
+    LiveView: "Yes"
+    MSRP: $7499
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 11648 x 8736
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: []
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x CFexpress Type B, 1x SD UHS-II
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW + TIFF
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1 × (1.27 × 35mm equiv.)
+    ViewfinderResolution: 9,440,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1030 g (2.27 lb / 36.33 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11 b/g/n + Bluetooth

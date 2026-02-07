@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: ""
+ProductCode: ricoh_g900seii
+Award: ""
+ImageURL: /files/p/products/ricoh_g900seii/shots/32720334f1af4394b57de095fac2a96f.png
+Name: Ricoh G900SE II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - 28 – 140 mm (5×)
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_g900seii
+ReviewData:
+    ExecutiveSummary: 'The Ricoh G900 SE II is an ultra-rugged compact camera meant for in manufacturing, construction, and disaster relief. It''s built around a 20 MP BSI sensor, which is protected by a waterproof and chemical-resistant body. The SE model adds bluetooth and Wi-Fi support.'
+    ProductPhotos:
+        - /files/p/products/ricoh_g900seii/shots/32720334f1af4394b57de095fac2a96f.png
+        - /files/p/products/ricoh_g900seii/shots/c7a460a6195043f38614868ae12654b0.png
+        - /files/p/products/ricoh_g900seii/shots/0276591d46ea44ab808c8a4709cbff23.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±1 (3 frames at 1 EV steps)
+    Announced: Aug 7, 2024
+    AperturePriority: "No"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Center
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: DB-110 lithium-ion battery & USB charger
+    BatteryLifeCIPA: "340"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (8.1X)
+    Dimensions: 118 x 66 x 33 mm (4.65 x 2.6 x 1.3″)
+    DriveModes: []
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: Flash on, flash off
+    FlashRange: 5.50 m (with Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: Includes e-Compass
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $899
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1/4 sec
+    Modes: []
+    NumberOfFocusPoints: "9"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (O-RC1 Waterproof Remote Control)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageTypes: Internal + SD/SDHC/SDXC card
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "No"
+    WeightIncBatteries: 245 g (0.54 lb / 8.64 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: Supports FlashAir SD cards

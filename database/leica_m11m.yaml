@@ -1,0 +1,119 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20250512193921/https://www.dpreview.com/reviews/leica-m11-monochrom-preview'
+ProductCode: leica_m11m
+Award: ""
+ImageURL: /files/p/products/leica_m11m/shots/8580c143b0c04c1aaab0a69b2b1a079d.png
+Name: Leica M11 Monochrom
+ShortSpecs:
+    - 60 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/leica/slrs/leica_m11m
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/leica_m11m/shots/8580c143b0c04c1aaab0a69b2b1a079d.png
+        - /files/p/products/leica_m11m/shots/7b9ea48ac2cf44c18e82eca3b46a615e.png
+        - /files/p/products/leica_m11m/shots/6d8d8d377f174e40ba07f446250d7b8d.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Apr 13, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: []
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BC-SCL7 lithium-ion battery & charger
+    BatteryLifeCIPA: "700"
+    BodyMaterial: Magnesium alloy / aluminum
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: ""
+    ContinuousDrive: 4.5 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: "No"
+    Dimensions: 139 x 80 x 38 mm (5.47 x 3.15 x 1.5″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 60 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - DNG (14-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1 ×
+    Format: ""
+    GPS: Optional
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "No"
+    ISO: Auto, 125-200000
+    ImageRatioWh: '3:2'
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Leica M
+    LiveView: "Yes"
+    MSRP: $8995
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9528 x 6328
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 3600 sec
+    Modes: []
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: (M) 7413 x 4928, (S) 5272 x 3498
+    Processor: Maestro III
+    RemoteControl: Yes (cable release)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,332,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 12s)
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: None
+    StorageTypes: UHS II type SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: 0.73 ×
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (rangefinder)
+    WBBracketing: ""
+    WeightIncBatteries: 640 g (1.41 lb / 22.58 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

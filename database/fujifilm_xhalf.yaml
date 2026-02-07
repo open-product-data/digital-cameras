@@ -1,0 +1,122 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251121100744/https://www.dpreview.com/reviews/fujifilm-x-half-retro-compact-camera-review'
+ProductCode: fujifilm_xhalf
+Award: ""
+ImageURL: /files/p/products/fujifilm_xhalf/shots/049823a2c8b24638b2695e2d49bb737b.png
+Name: Fujifilm X half
+ShortSpecs:
+    - 18 megapixels
+    - 2.4″ screen
+    - 32 mm
+ReviewScore: 0
+URL: /products/fujifilm/compacts/fujifilm_xhalf
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/fujifilm_xhalf/shots/049823a2c8b24638b2695e2d49bb737b.png
+        - /files/p/products/fujifilm_xhalf/shots/9978b24838c840e698dfa98ff48255bf.png
+        - /files/p/products/fujifilm_xhalf/shots/67ac1af640c34c5c96039c97c2d9ade8.png
+        - /files/p/products/fujifilm_xhalf/shots/7aed8e12d3264f97a82030e1d3419f1a.png
+        - /files/p/products/fujifilm_xhalf/shots/a901ecb6117143a2a2987ace78103ce1.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: May 22, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Multi-area
+        - Center
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S
+    BatteryLifeCIPA: "880"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: Yes (LED flash)
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 106 x 64 x 30 mm (4.17 x 2.52 x 1.18″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 18 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2.94 ×
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $849
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 3648 x 4864
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 1080 x 1440 @ 24p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "No"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 920,000
+    ScreenSize: 2.4″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: ""
+    SensorSize: 1″ (11.7 x 8.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-I SD cards
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: "No"
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: Optical (tunnel)
+    WBBracketing: ""
+    WeightIncBatteries: 240 g (0.53 lb / 8.47 oz)
+    WhiteBalancePresets: "7"
+    Wireless: ""
+    WirelessNotes: ""

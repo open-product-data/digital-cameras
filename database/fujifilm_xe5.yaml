@@ -1,0 +1,199 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20251118002148/https://www.dpreview.com/reviews/fujifilm-x-e5-review
+ProductCode: fujifilm_xe5
+Award: silver
+ImageURL: /files/p/products/fujifilm_xe5/shots/e6498e7e2e4343cabd590d4ef15d4ba4.png
+Name: Fujifilm X-E5
+ShortSpecs:
+    - 40 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/fujifilm/slrs/fujifilm_xe5
+ReviewData:
+    ExecutiveSummary: 'The Fujifilm X-E5 is the latest mid-range rangefinder-style mirrorless camera to join the X-series. It takes several steps back towards the enthusiast-friendly outlook of the original X-E models and gains image stabilization along the way.'
+    ProductPhotos:
+        - /files/p/products/fujifilm_xe5/shots/e6498e7e2e4343cabd590d4ef15d4ba4.png
+        - /files/p/products/fujifilm_xe5/shots/2441149123a14cd293fd9d5fe334ea0c.png
+        - /files/p/products/fujifilm_xe5/shots/c2a76922dc4f457d8a42a1ce849d4b46.png
+        - /files/p/products/fujifilm_xe5/shots/873b24518f824d13b010da23e3211bb5.png
+        - /files/p/products/fujifilm_xe5/shots/e2d305951c2341c8af2d981cecb4a1a4.png
+        - /files/p/products/fujifilm_xe5/shots/15464f82ca2b4377b933920f8b2a8096.png
+        - /files/p/products/fujifilm_xe5/shots/0c610da2966048d7a762f2081457280f.png
+        - /files/p/products/fujifilm_xe5/shots/318e1a76815f4bdc925269baa4a17332.png
+        - /files/p/products/fujifilm_xe5/shots/f341e5c03325497f84e6915ce2554fdd.png
+        - /files/p/products/fujifilm_xe5/shots/b666b8896fc1470d83fcb3831ef795b6.png
+        - /files/p/products/fujifilm_xe5/shots/3a797a7e748e48918db25b3bb2102bc8.png
+        - /files/p/products/fujifilm_xe5/shots/3991e0766d12446585848ef85f6fa06c.png
+    ReviewSummary:
+        GoodFor: |-
+            Street and travel photography
+            People who want an X100 but can't get one
+        NotSoGoodFor: |-
+            Sports/action photography
+            Serious video shooters
+        Conclusion: 'The X-E5 is an excellent option if you want rangefinder styling, but other cameras offer more substance.'
+    ASIN:
+        - B0FBXB3CGX
+        - B0FMQS9QC7
+        - B0FBXCSD35
+        - fujifilm_xe5
+        - B0FBYTY4ZL
+        - B0FBYQC481
+        - B0DJC2HXF9
+        - B0FBZ4G9G3
+        - B0FBXB8KLX
+        - B0DJC3XZT7
+        - B0FBXB6QLF
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Jun 12, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S
+    BatteryLifeCIPA: "305"
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 125 x 73 x 39 mm (4.92 x 2.87 x 1.54″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 40 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5 ×
+    Format: H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "No"
+    ISO: Auto, 125-12,800 (Expands to 64-51200)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Some lenses limited to 5 stops of correction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1699, £1299, €1550 body-only, $1899, £1549, €1800 w/ 23mm F2.8R WR
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 7728 x 5152
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/180000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 6240 x 3510 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 30p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 25p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 24p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 23.98p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 24p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 60p, 10-bit, H.265, 1.14x Crop
+        - 4096 x 2160 @ 50p, 10-bit, H.265, 1.14x Crop
+        - 4096 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 24p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 60p, 8-bit, H.264, 1.14x Crop
+        - 4096 x 2160 @ 50p, 8-bit, H.264, 1.14x Crop
+        - 4096 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 24p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.14x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.265, 1.14x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 24p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.264, 1.14x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.264, 1.14x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 24p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        85%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.93 × (0.62 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 445 g (0.98 lb / 15.70 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/ac + Bluetooth

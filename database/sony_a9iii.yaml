@@ -1,0 +1,180 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251219012920/https://www.dpreview.com/reviews/sony-a9-iii-in-depth-review'
+ProductCode: sony_a9iii
+Award: gold
+ImageURL: /files/p/products/sony_a9iii/shots/0c4e656db675443c932bbb08a6782813.png
+Name: Sony a9 III
+ShortSpecs:
+    - 25 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/sony/slrs/sony_a9iii
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_a9iii/shots/0c4e656db675443c932bbb08a6782813.png
+        - /files/p/products/sony_a9iii/shots/19fc9f56876045fcb99f3720246f1cb4.png
+        - /files/p/products/sony_a9iii/shots/21bd92794cba4f83a3d838e609619cbe.png
+        - /files/p/products/sony_a9iii/shots/bdeee35927d64674a6af31fe383b1ad1.png
+        - /files/p/products/sony_a9iii/shots/e5fd8622c49343f9a677a46fbde62115.png
+        - /files/p/products/sony_a9iii/shots/beb34a96a69c4935a3284e3e42011b88.png
+    ReviewSummary:
+        GoodFor: Sports photography and photojournalism
+        NotSoGoodFor: Photography not requiring the a9 III's speed.
+        Conclusion: 'The a9 III pairs the fastest full-frame sensor available with the most dependable AF system and an increasingly sophisticated set of professional workflow tools. There''s a slight image quality price to be paid for this speed but it''s minor in comparison to the performance the camera brings, overall.'
+    ASIN:
+        - B07B4L1PQ8
+        - B07B4R8QGM
+        - B0BKLQFFSF
+        - B08J2K9VS7
+        - B0CB8VC1V2
+        - sony_a9iii
+        - B09JPCNS3X
+        - B08DP4NKGN
+        - B098M236VR
+        - B09JPCB3WR
+        - B0CMV98DP2
+Specs:
+    AEBracketing: ""
+    Announced: Nov 7, 2023
+    AperturePriority: ""
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: ""
+    BatteryDescription: ""
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "125"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 120.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 136 x 97 x 83 mm (5.35 x 3.82 x 3.27″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes: []
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/80000 sec
+    FocalLengthMultiplier: ""
+    Format: XAVC S, XAVC HS, XAVC S-I
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: ""
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/80000 sec
+    MaximumShutterSpeedElectronic: 1/80000 sec
+    MeteringModes: []
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes:
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 100p, H.265
+        - 3840 x 2160 @ 100p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 120p, H.264
+        - 3840 x 2160 @ 120p, H.264
+        - 3840 x 2160 @ 100p, H.264
+        - 3840 x 2160 @ 100p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: BIONZ XR
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: |-
+        91%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: ""
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.9 ×
+    ViewfinderResolution: 9,440,000
+    ViewfinderType: Electronic (optional)
+    WBBracketing: ""
+    WeightIncBatteries: 617 g (1.36 lb / 21.76 oz)
+    WhiteBalancePresets: ""
+    Wireless: ""
+    WirelessNotes: ""

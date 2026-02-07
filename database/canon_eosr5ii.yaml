@@ -1,0 +1,137 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260111004405/https://www.dpreview.com/reviews/canon-eos-r5-mark-ii-review'
+ProductCode: canon_eosr5ii
+Award: gold
+ImageURL: /files/p/products/canon_eosr5ii/shots/25da09fce3e84467849ea1cc71bb59b2.png
+Name: Canon EOS R5 Mark II
+ShortSpecs:
+    - 45 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 93
+URL: /products/canon/slrs/canon_eosr5ii
+ReviewData:
+    ExecutiveSummary: 'Canon''s EOS R5 II is a high-end, full-frame mirrorless camera, built around a Stacked CMOS sensor and many of the autofocus features of the company''s new flagship EOS R1 model.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr5ii/shots/25da09fce3e84467849ea1cc71bb59b2.png
+        - /files/p/products/canon_eosr5ii/shots/b6280ea57e5242fbb3f68208406fd1c3.png
+        - /files/p/products/canon_eosr5ii/shots/e86da0dbbcca493fad30574a7dabba12.png
+        - /files/p/products/canon_eosr5ii/shots/430fb900fe8043d79a45b4eda09d888b.png
+        - /files/p/products/canon_eosr5ii/shots/d4aff6199ad546c996300dfdd4a37484.png
+    ReviewSummary:
+        GoodFor: A wide range of photography, from landscape to sports, short-clip videography
+        NotSoGoodFor: Lightweight travel shooting, recording extended performances
+        Conclusion: 'The EOS R5 II, to varying degrees, improves over its predecessor in almost every respect: it''s faster, smarter and a little bit more capable. It''s all-round strength comes at a very slight cost in terms of base ISO dynamic range, and it can''t compete with the endurance of a dedicated video camera, but it''s hard to imagine what photo or video need it won''t support you in.'
+    ASIN:
+        - B0BT518PK6
+        - canon_eosr5ii
+        - B0FZVVLR9D
+        - B0BYZHDRN6
+Specs:
+    AEBracketing: ""
+    Announced: Jul 17, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E6P
+    BatteryLifeCIPA: "540"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8.5 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (5 slots)
+    DigitalZoom: ""
+    Dimensions: 138 x 98 x 88 mm (5.43 x 3.86 x 3.46″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 45 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (Hotshoe and sync socket)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (Type A (Full-sized))
+    HeadphonePort: "Yes"
+    ISO: "100-51200"
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Co-ordinates with in-lens IS
+    JPEGQualityLevels: ""
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $4299
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 8192 x 5464
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: []
+    NumberOfFocusPoints: "5850"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X with Digic Accelerator co-processor
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        93%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 10 sec)
+    SensorPhotoDetectors: 50 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.76 ×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (+/- 3 steps B/A or M/G)
+    WeightIncBatteries: 746 g (1.64 lb / 26.31 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

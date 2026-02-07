@@ -1,0 +1,203 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20251204133538/https://www.dpreview.com/reviews/fujifilm-x-t50-review
+ProductCode: fujifilm_xt50
+Award: silver
+ImageURL: /files/p/products/fujifilm_xt50/shots/3795fd9674ca48399f70d1d224f28fa9.png
+Name: Fujifilm X-T50
+ShortSpecs:
+    - 40 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 85
+URL: /products/fujifilm/slrs/fujifilm_xt50
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt50/shots/3795fd9674ca48399f70d1d224f28fa9.png
+        - /files/p/products/fujifilm_xt50/shots/cf382cf92b5f464792f990126b2a2ffd.png
+        - /files/p/products/fujifilm_xt50/shots/1390b786925341188a3e714a7c4edabb.png
+        - /files/p/products/fujifilm_xt50/shots/da7c5696af4545c996d440e620341598.png
+        - /files/p/products/fujifilm_xt50/shots/8cda38f740c146c1950e0bec9398d20b.png
+    ReviewSummary:
+        GoodFor: |-
+            Beginner photographers
+            Hobbyists that want a compact camera
+        NotSoGoodFor: |-
+            People hoping to shoot sports or fast-moving wildlife
+            Parents of especially active children
+        Conclusion: 'The X-T50''s autofocus tracking is a step behind its peers, but it offers great image quality and a fun dial.'
+    ASIN:
+        - B0D45Q85C5
+        - B0D45N36XY
+        - B0DSQ6H47C
+        - fujifilm_xt50
+        - B0D45NGN4H
+        - B0D45MJNM7
+        - B0D45MRS6C
+        - B0D45Q84S2
+        - B0D45PQ3GD
+        - B0D45NSPN7
+        - B0D45PPM6T
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: May 16, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S
+    BatteryLifeCIPA: "305"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 8.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 124 x 84 x 49 mm (4.88 x 3.31 x 1.93″)
+    DriveModes:
+        - Single
+        - Continuous (L/H)
+        - Bracketing
+    Durability: ""
+    EffectivePixels: 40 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - DCF
+        - JPEG (Exif Ver 2.32
+        - HEIF (4:2:2 10-bit)
+        - Raw (14-bit RAF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5 ×
+    Format: H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "No"
+    ISO: Auto, 125-12,800 (Expands to 64-51200)
+    ImageRatioWh: 1:1, 5:4, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Some lenses limited to 5 stops of correction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1399, $1499 w/ 15-45mm PZ, $1799 w/ 16-50mm F2.8-4.8
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 7728 x 5152
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/180000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 6240 x 3510 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 6240 x 3510 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 4096 x 2160 @ 30p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 25p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 24p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 23.98p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 24p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1.23x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 24p, 8-bit, H.264, 1.23x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1.23x Crop
+        - 4096 x 2160 @ 60p, 10-bit, H.265, 1.14x Crop
+        - 4096 x 2160 @ 50p, 10-bit, H.265, 1.14x Crop
+        - 4096 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 24p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 4096 x 2160 @ 60p, 8-bit, H.264, 1.14x Crop
+        - 4096 x 2160 @ 50p, 8-bit, H.264, 1.14x Crop
+        - 4096 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 24p, 8-bit, H.264, 1x Crop
+        - 4096 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.14x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.265, 1.14x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 24p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.264, 1.14x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.264, 1.14x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 24p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 5
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        85%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.93 × (0.62 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 438 g (0.97 lb / 15.45 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/ac + Bluetooth

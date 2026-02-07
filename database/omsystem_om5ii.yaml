@@ -1,0 +1,164 @@
+DPRReviewArchiveURL: ""
+ProductCode: omsystem_om5ii
+Award: ""
+ImageURL: /files/p/products/omsystem_om5ii/shots/7d6aa85772f44bf8b01b9cfbe1563a0a.png
+Name: OM System OM-5 II
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 82
+URL: /products/olympus/slrs/omsystem_om5ii
+ReviewData:
+    ExecutiveSummary: 'The OM-5 II is an entry-level mirrorless camera from OM System. It features a 20MP Four Thirds CMOS sensor, which is stabilized up to 7.5EV when paired with Sync IS lenses. Compared to its predecessor, it gains a USB-C port for charging and OM System''s latest menu design.'
+    ProductPhotos:
+        - /files/p/products/omsystem_om5ii/shots/7d6aa85772f44bf8b01b9cfbe1563a0a.png
+        - /files/p/products/omsystem_om5ii/shots/380ec61a8a794fbcbb601789bfd78923.png
+        - /files/p/products/omsystem_om5ii/shots/20809ca2fd2544109ca74a53669e95d0.png
+        - /files/p/products/omsystem_om5ii/shots/6522c54d8edd42d3aa61f693a9e5b8f6.png
+        - /files/p/products/omsystem_om5ii/shots/626e230ef3d243628cc6840b88e3d5b3.png
+    ReviewSummary:
+        GoodFor: |-
+            Travelers who need a small kit
+            Outdoor enthusiasts
+            IBIS fans
+        NotSoGoodFor: |-
+            Sports and action shooters
+            Videographers
+        Conclusion: 'The OM-5 II still offers some of the most features at its price point, but doesn''t nail the basics as well as its competitors.'
+    ASIN:
+        - omsystem_om5ii
+        - B08D5Z7BK9
+        - B0073A1DQK
+        - B0073A1DJC
+Specs:
+    AEBracketing: ±5 (2, 3, 5 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jun 17, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: BLS-50 lithium-ion battery
+    BatteryLifeCIPA: "310"
+    BodyMaterial: Polycarbonate and aluminum
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "64"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 125 x 85 x 50 mm (4.92 x 3.35 x 1.97″)
+    DriveModes:
+        - Single
+        - Sequential (hi/lo)
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: Yes (IP53)
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - iAuto
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Bulb
+        - Time
+    ExternalFlash: Yes (via hotshoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Olympus ORF, 14-bit)
+    FlashModes: Auto, redeye, fill, off, redeye slow sync, slow sync, 2nd-curtain slow sync, manual
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2 ×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600, expands to 64-25600
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Superfine, fine, normal, basic
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1,199
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5184 x 3888
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 4096 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: "121"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: TruePix IX
+    RemoteControl: Yes (wired and via smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        82%
+        Read review ...
+    SceneModes: 'Portrait e-Portrait Landscape + Portrait Night + Portrait Children Night scape Sport Hand-held Starlight Fireworks Light trails Sports Panning Landscape Sunset Beach & Snow Backlight HDR Candlelight Silent Macro Nature Macro Documents Multi Focus Shot'
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, custom)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.4 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: Yes (USB C)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.37 × (0.68 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 414 g (0.91 lb / 14.60 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

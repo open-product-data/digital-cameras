@@ -1,0 +1,155 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260131051426/https://www.dpreview.com/reviews/nikon-zr-compact-full-frame-video-camera-6k-60-red-raw'
+ProductCode: nikon_zr
+Award: ""
+ImageURL: /files/p/products/nikon_zr/shots/325bab3c4c054f31b4eff0c88ad5b9f2.png
+Name: Nikon ZR
+ShortSpecs:
+    - 25 megapixels
+    - 4″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/nikon/slrs/nikon_zr
+ReviewData:
+    ExecutiveSummary: 'The Nikon ZR is the company''s first camera to wear the Red branding alongside the manufacturer''s name. It''s a full-frame video camera built around the same sensor as the Z6III, making it capable of 6K/60 video in either N-Raw or the Red-derived R3D NE Raw format. It also adds internal 32-bit float audio capture and shutter angle to Nikon-developed subject-recognition autofocus and in-body image stabilization.'
+    ProductPhotos:
+        - /files/p/products/nikon_zr/shots/325bab3c4c054f31b4eff0c88ad5b9f2.png
+        - /files/p/products/nikon_zr/shots/04637935bf4c40538a7f9c5f1f558d39.png
+        - /files/p/products/nikon_zr/shots/3a8e02776441443fbf407f879669f281.png
+        - /files/p/products/nikon_zr/shots/fc3221b230d348dcba6d34ff23be040b.png
+        - /files/p/products/nikon_zr/shots/8dd3612e145749fa89d29dc5edef8386.png
+    ReviewSummary: null
+    ASIN:
+        - B0CJF4FNYR
+        - B0F3G8C7F4
+        - B0F3G7682K
+        - B0B5FBYBWY
+        - B08L5N1PCN
+        - B0B5FCK2KN
+        - nikon_zr
+        - B0DMPK2Q79
+        - B0983VGZ13
+        - B0FPXLG8X7
+        - B0DMP1KPZ9
+Specs:
+    AEBracketing: ±1.3 (3, 5, 7 frames at 1/3 EV steps)
+    Announced: Sep 10, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15c
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7.5 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: Yes (Six slots)
+    DigitalZoom: ""
+    Dimensions: 133 x 81 x 49 mm (5.24 x 3.19 x 1.93″)
+    DriveModes:
+        - Single frame
+        - Continuous L
+        - Continuous H
+        - Continuous high-speed (extended)
+        - High-speed frame capture with Pre-Release Capture Self-timer
+    Durability: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif 2.32)
+        - HEIF
+        - Raw (NEF)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/60 sec
+    FocalLengthMultiplier: 1 ×
+    Format: H.264, H.265, Nikon N-Raw
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Full-size)
+    HeadphonePort: "Yes"
+    ISO: "100-64000"
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Includes focus-point centered correction
+    JPEGQualityLevels: Fine, Normal, Basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $2200
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4032
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+        - Spot AF-area
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes: []
+    NumberOfFocusPoints: "273"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Expeed 7
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 3,070,000
+    ScreenSize: 4″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: One CFexpress Type B, One UHS-I Micro SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: "Yes"
+    WeightIncBatteries: 630 g (1.39 lb / 22.22 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/a/ac + Bluetooth 5

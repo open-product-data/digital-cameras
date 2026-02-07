@@ -1,0 +1,150 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20251117192534/https://www.dpreview.com/reviews/canon-powershot-v1-review
+ProductCode: canon_v1
+Award: silver
+ImageURL: /files/p/products/canon_v1/shots/890792bc4911483894856d40c6c15538.png
+Name: Canon PowerShot V1
+ShortSpecs:
+    - 22 megapixels
+    - 3″ screen
+    - 16 – 50 mm (3.1×)
+ReviewScore: 84
+URL: /products/canon/compacts/canon_v1
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/canon_v1/shots/890792bc4911483894856d40c6c15538.png
+        - /files/p/products/canon_v1/shots/e45e160d780148ffb4e9a70d1348fc01.png
+        - /files/p/products/canon_v1/shots/af1e7b13a7e1400baf6485914102f1f7.png
+    ReviewSummary:
+        GoodFor: Vlogging of all types
+        NotSoGoodFor: Photo-only shooters
+        Conclusion: 'The PowerShot V1 is a capable vlogging tool that will support a wide range of vloggers and a wide range of vlogging styles. It''s less compelling just for photos, but if you plan primarily to shoot video, it''s pretty powerful.'
+    ASIN:
+        - B0F2RN1LVT
+        - canon_v1
+        - B0C65KGFTM
+        - B0F2M1MG3L
+Specs:
+    AEBracketing: ""
+    Announced: Feb 20, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: []
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E17
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 118 x 68 x 53 mm (4.65 x 2.68 x 2.09″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 22 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ""
+    ExposureModes:
+        - P, Tv, Av, M, Scene Intelligent Auto, SCN, Creative Filter
+    ExternalFlash: Yes (Mutil-function shoe (requires adaptor for older flashes))
+    FieldOfView: ""
+    FileFormat:
+        - JPEG, HEIF, CR3 Raw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: XF-AVC, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Type D)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Optical
+    ImageStabilizationNotes: 5.0EV correction (center)
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $899.99, £959.99, €999.99
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5750 x 3840
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.4x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.265, 1.4x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.264, 1.4x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.264, 1.4x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 120p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 100p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 60p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 50p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 30p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 25p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 120p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 100p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 60p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 50p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 30p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 25p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 23.98p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: |-
+        84%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 and 10 sec)
+    SensorPhotoDetectors: 24 megapixels
+    SensorSize: 1.5″ (18.4 x 12.3 mm)
+    SensorType: ""
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD (UHS II)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: ""
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 426 g (0.94 lb / 15.03 oz)
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 2.4GHz 802.11b/g/n + Bluetooth 4.2

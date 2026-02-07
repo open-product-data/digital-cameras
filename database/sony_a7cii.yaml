@@ -1,0 +1,178 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260203183025/https://www.dpreview.com/reviews/sony-a7c-ii-review
+ProductCode: sony_a7cii
+Award: silver
+ImageURL: /files/p/products/sony_a7cii/shots/80cabb1006c24f7f80d05be2c433d906.png
+Name: Sony a7C II
+ShortSpecs:
+    - 33 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 87
+URL: /products/sony/slrs/sony_a7cii
+ReviewData:
+    ExecutiveSummary: 'TheSony a7C IIis the brand''s second-generation compact rangefinder-style full-frame camera. Similar in design to Its predecessor, the a7C II uses the same fantastic 33MP BSI sensor from the largerSony a7 IVand boasts impressive still, video and autofocus capabilities that should appeal to a wide range of users.'
+    ProductPhotos:
+        - /files/p/products/sony_a7cii/shots/80cabb1006c24f7f80d05be2c433d906.png
+        - /files/p/products/sony_a7cii/shots/ca4699114f924dadbb76fbd5c2945018.png
+        - /files/p/products/sony_a7cii/shots/0f885053ca8a43f599e8e0d688c0a17a.png
+        - /files/p/products/sony_a7cii/shots/0c9e6064446c46f196986bb56488f3db.png
+        - /files/p/products/sony_a7cii/shots/356dd4b3b0934299a077a6cb271b53f9.png
+        - /files/p/products/sony_a7cii/shots/6a73c8a633ce4a8aa4fcbcfefa9a101a.png
+        - /files/p/products/sony_a7cii/shots/54b15eabb7394eae8e407296fcc44898.png
+        - /files/p/products/sony_a7cii/shots/329e9032b73f4c1ca4fcd31a1bf5543e.png
+        - /files/p/products/sony_a7cii/shots/2785cd6f54b84b448194b33fe037f5d7.png
+        - /files/p/products/sony_a7cii/shots/b4d30340ca5d438f91df16b36e08f808.png
+        - /files/p/products/sony_a7cii/shots/69c20369058b403d959c16bd2251c57f.png
+    ReviewSummary:
+        GoodFor: 'Travelers who want high-end capabilities in a small package. Those shooting erratically moving subjects with point-and-shoot ease-of-use.'
+        NotSoGoodFor: Photographers shooting 4K video or high-speed bursts that involve panning the camera.
+        Conclusion: 'The full-frame Sony a7C II may be small in size, but it offers a full suite of features for both still and video shooting. Image and video quality are excellent, and its autofocus system is one of the best on the market. The viewfinder resolution is low for a camera in this price range, and rolling shutter can be a real issue when capturing video.'
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Aug 29, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery charger
+    BatteryLifeCIPA: "540"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB, BT.2020
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 124 x 71 x 63 mm (4.88 x 2.8 x 2.48″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Self-timer
+        - Bracketing (AE/WB/DRO)
+    Durability: ""
+    EffectivePixels: 33 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (Multi-interface shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.32)
+        - HEIF
+        - Raw (ARW 4.0)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1 ×
+    Format: MPEG-4, XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Standard)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $2200, $2500 w/ 28-60mm lens
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7008 x 4672
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: "759"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz XR
+    RemoteControl: Yes (wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        87%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 34 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB PD supported)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.7 ×
+    ViewfinderResolution: 2,359,296
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 514 g (1.13 lb / 18.13 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual band) + Bluetooth
