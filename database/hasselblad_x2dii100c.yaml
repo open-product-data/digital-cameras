@@ -1,0 +1,138 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260204030206/https://www.dpreview.com/reviews/hasselblad-x2d-ii-100c-in-depth-review'
+ProductCode: hasselblad_x2dii100c
+Award: gold
+ImageURL: /files/p/products/hasselblad_x2dii100c/shots/2e31e8513c7248ce95d567029a623593.png
+Name: Hasselblad X2D II 100C
+ShortSpecs:
+    - 102 megapixels
+    - 3.6″ screen
+    - Medium format sensor
+ReviewScore: 90
+URL: /products/hasselblad/slrs/hasselblad_x2dii100c
+ReviewData:
+    ExecutiveSummary: 'The Hasselblad X2D II 100C is a medium format camera built around a 100MP BSI CMOS sensor. Hasselblad claims it''s the first medium format camera to support "true end-to-end high dynamic range," and it records images as 10-bit HEIFs by default. It also supports Ultra HDR JPEGs with a brightness map for backwards compatibility.'
+    ProductPhotos:
+        - /files/p/products/hasselblad_x2dii100c/shots/2e31e8513c7248ce95d567029a623593.png
+        - /files/p/products/hasselblad_x2dii100c/shots/b796014daf504a62b0c158dc2e7b1863.png
+        - /files/p/products/hasselblad_x2dii100c/shots/acb36b324bd942caaaf464fc909e215f.png
+        - /files/p/products/hasselblad_x2dii100c/shots/36332f3d831e47c184be5d1f0804413d.png
+        - /files/p/products/hasselblad_x2dii100c/shots/d0a3edb258a6476c856e2ca47f117641.png
+        - /files/p/products/hasselblad_x2dii100c/shots/60b5e2a84155466ca3f06d49d9909cf2.png
+    ReviewSummary:
+        GoodFor: A wide range of professional photography.
+        NotSoGoodFor: Sports and action. Travel photography.
+        Conclusion: 'The Hasselblad X2D II 100C produces sensational image quality but what makes it really compelling are its improved stabilization and autofocus that make the camera much easier to use than before. It''s the first camera to provide a high brightness screen to let you preview the HDR images it can take. I can be a little slow and battery life isn''t great but it can deliver some of the best image quality we''ve ever seen, with the ease of a point-and-shoot.'
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Aug 26, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: ""
+    BatteryLifeCIPA: "327"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 10 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: 3.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 149 x 106 x 75 mm (5.87 x 4.17 x 2.95″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 102 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV, 1 EV steps)
+    ExposureModes: []
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - 3FR Raw
+        - JPG
+        - HDR JPG
+        - HEIF
+        - HDR HEIF
+    FlashModes: TTL
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: "No"
+    ISO: ""
+    ImageRatioWh: 1:1, 5:4, 4:3, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Hasselblad X
+    LiveView: "Yes"
+    MSRP: $7399, €7200, £6400
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 11656 x 8742
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/6000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Spot AF-area
+    Microphone: None
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4080 sec
+    Modes: []
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        90%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 2,360,000
+    ScreenSize: 3.6″
+    ScreenType: OLED
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Medium format (44 x 33 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: None
+    StorageTypes: CFexpress Type B
+    SubjectSceneModes: ""
+    TimelapseRecording: "No"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1 ×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 840 g (1.85 lb / 29.63 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: ""

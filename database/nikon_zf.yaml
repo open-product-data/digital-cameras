@@ -1,0 +1,167 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260129175448/https://www.dpreview.com/reviews/nikon-zf-full-frame-mirrorless-camera-review'
+ProductCode: nikon_zf
+Award: silver
+ImageURL: /files/p/products/nikon_zf/shots/cc7d6916e10146c0bc022663ea8b9938.png
+Name: Nikon Zf
+ShortSpecs:
+    - 25 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 90
+URL: /products/nikon/slrs/nikon_zf
+ReviewData:
+    ExecutiveSummary: 'Nikon''s Zfis a full-frame mirrorless camera with classic styling, built around a 24MP BSI CMOS sensor. It''s designed to mimic the look of the company''s FM2 SLR from the early 1980s, meaning it effectively becomes a full-frame counterpart tothe company''s Z fc APS-C camera.'
+    ProductPhotos:
+        - /files/p/products/nikon_zf/shots/cc7d6916e10146c0bc022663ea8b9938.png
+        - /files/p/products/nikon_zf/shots/eb6d292d3add41eabea0f25dd505f3cd.png
+        - /files/p/products/nikon_zf/shots/4a3d79d39af74f4f9e8caa4838a2aef4.png
+        - /files/p/products/nikon_zf/shots/19d624095ed44562a167f32e0c9be0a0.png
+        - /files/p/products/nikon_zf/shots/5472d0c0ac6049429b57eeb3b16d2ea0.png
+        - /files/p/products/nikon_zf/shots/3deba32375224958bfb271665f4eac83.png
+    ReviewSummary:
+        GoodFor: Enthusiast photographers for whom style and design matter
+        NotSoGoodFor: Photographers using longer lenses or needing constant quick settings changes
+        Conclusion: 'The Nikon Zf is a camera whose image quality and performance live up to its stylish looks, but its handling and operation isn''t always quite as slick. Paired with smaller, lighter lenses, it''s a joy, but your Z-mount options are somewhat limited at present.'
+    ASIN:
+        - B0FPMX4NZM
+        - B0C5Y14VCV
+        - B0D79T7J8X
+        - B0CJF4FNYR
+        - B0F3G8C7F4
+        - B0CJF522PN
+        - B0983XPXYB
+        - B0983XYQ22
+        - B0983VGZ13
+        - nikon_zf
+        - B08L5HJSM1
+Specs:
+    AEBracketing: ""
+    Announced: Sep 20, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN-EL15c
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: ""
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 144 x 103 x 49 mm (5.67 x 4.06 x 1.93″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: Yes (Dust and drip resistant)
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto
+        - Programmed auto with flexible program (P)
+        - Shutter-priority auto (S)
+        - Aperture-priority auto (A)
+        - Manual (M)
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.32)
+        - HEIF
+        - Raw (Lossless, HE*, HE)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine (1:4), Normal (1:8), Basic (1:16)
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $1999
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4032
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+        - Spot AF-area
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+    NumberOfFocusPoints: "273"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4528 x 3024, 3984 x 2656, 3024 x 2016, 2976 x 1992, 1984 x 1328
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: |-
+        90%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1 x UHS-II SD, 1x UHS-I Micro SD
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.8 ×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 710 g (1.57 lb / 25.04 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/a/ac

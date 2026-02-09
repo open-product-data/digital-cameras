@@ -1,0 +1,255 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251119223413/https://www.dpreview.com/reviews/panasonic-s1iie-review-in-progress'
+ProductCode: panasonic_dcs1iie
+Award: ""
+ImageURL: /files/p/products/panasonic_dcs1iie/shots/a5a3f2e1af0b4dd6b9b772d4f1a95e24.png
+Name: Panasonic Lumix DC-S1IIE
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcs1iie
+ReviewData:
+    ExecutiveSummary: 'The Panasonic Lumix DC-S1IIE is a 24MP, full-frame camera featuring a BSI CMOS sensor. It features similar capabilities to the S5IIX, but houses them in a refined body that also includes some workflow upgrades, such as support for Capture One tethering, and the ability to keep the shutter closed when changing lenses.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dcs1iie/shots/a5a3f2e1af0b4dd6b9b772d4f1a95e24.png
+        - /files/p/products/panasonic_dcs1iie/shots/1bf8e0496c7842839010d79a20e7b365.png
+        - /files/p/products/panasonic_dcs1iie/shots/4a6a5d250dfa44e783e368d6eea60223.png
+        - /files/p/products/panasonic_dcs1iie/shots/3b7c701151984984b3cfe8c67d1cef53.png
+        - /files/p/products/panasonic_dcs1iie/shots/fbc4f44dcb9344cba5dc7497367cd669.png
+        - /files/p/products/panasonic_dcs1iie/shots/9919461804ca495eb3d077b97b313166.png
+        - /files/p/products/panasonic_dcs1iie/shots/c1b4d33525094978926f0d1e763b15c1.png
+        - /files/p/products/panasonic_dcs1iie/shots/9534333c720e49be95cb39b5563ac72d.png
+    ReviewSummary: null
+    ASIN:
+        - B08H5D7ZD9
+        - B01N4M8FIF
+        - B0D5YKN7LP
+        - panasonic_dcs1iie
+        - B0BSNWT7NG
+        - B07PJKC4S4
+        - B079X7JJ4C
+        - B0BSNTHP3Z
+        - B0F8FPR6H2
+        - B09BL9H9XF
+        - B08BRWRMR6
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: May 13, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Li-ion Battery Pack (7.2V, 2200mAh, 16Wh)
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Magnesium Alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary Color Filter
+    ColorSpace: sRGB, AdobeRGB
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: 'Yes (AWB, AWBc, AWBw, Daylight, Cloudy, Shade, Incandescent, Flash, White Set 1, 2, 3, 4, Color temperature setting 1, 2, 3, 4)'
+    DigitalZoom: ""
+    Dimensions: 134 x 102 x 92 mm (5.29 x 4.03 x 3.61″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto, Manual, Aperture priority, shutter priority
+    ExternalFlash: Yes (TTL External Flash)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (DCF, Exif 2.31), RAW, HEIF
+    FlashModes: 'Auto*, Auto/Red-eye Reduction*, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off *For iA only.'
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265, ProRes, ProResRAW
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (TypeA)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Dual IS 2 sync with compatible lenses
+    JPEGQualityLevels: Standard, Fine
+    LensMount: Leica L
+    LiveView: "Yes"
+    MSRP: $2499
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 1800 sec
+    Modes:
+        - 5952 x 3968 @ 30p, H.265
+        - 5952 x 3968 @ 24p, H.265
+        - 5888 x 3312 @ 30p, H.265
+        - 5888 x 3312 @ 24p, H.265
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 24p, H.265
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 24p, H.264
+        - 1920 x 1080 @ 24p, H.265
+        - 5952 x 3968 @ 25p, H.265
+        - 5888 x 3312 @ 25p, H.265
+        - 4096 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 25p, H.265
+        - 1920 x 1080 @ 100p, H.264
+        - 1920 x 1080 @ 100p, H.265
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 25p, H.265
+        - 5952 x 3968 @ 24p, H.265
+        - 5888 x 3312 @ 24p, H.265
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 24p, H.265
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.265
+        - 1920 x 1080 @ 24p, H.264
+        - 1920 x 1080 @ 24p, H.265
+        - 1920 x 1080 @ 24p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 24p, H.265
+        - 1920 x 1080 @ 50p, H.265
+        - 1920 x 1080 @ 25p, H.265
+        - 1920 x 1080 @ 24p, H.265
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.265
+        - 4096 x 2160 @ 48p, H.264
+        - 4096 x 2160 @ 48p, H.265
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 24p, H.265
+        - 4096 x 2160 @ 50p, H.264
+        - 4096 x 2160 @ 50p, H.265
+        - 4096 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 50p, H.264
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 25p, H.265
+        - 4096 x 2160 @ 48p, H.264
+        - 4096 x 2160 @ 48p, H.265
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.265
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 50p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 24p, H.265
+        - 4096 x 2160 @ 25p, H.265
+        - 3840 x 2160 @ 25p, H.265
+        - 4096 x 2160 @ 24p, H.265
+        - 3840 x 2160 @ 24p, H.265
+    NumberOfFocusPoints: "779"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (2.5mm)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: 'Standard, Vivid, Natural, L. Classic Neo, Flat, Landscape, Portrait, Monochrome, L. Monochrome, L. Monochrome D, L. Monochrome S, Cinelike D2, Cinelike V2, Like709, V-Log, REAL TIME LUT, Like2100 (HLG), Like2100 (HLG) Full Range*, My Photo Style 1-4 (5-10)* *Set to ON from Show/Hide Photo Style to select.'
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD monitor with static touch control
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x CFexpress Type B, 1x UHS-II SD
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.78 ×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 images in blue/amber axis or in magenta/green axis, color temperature setting)
+    WeightIncBatteries: 795 g (1.75 lb / 28.04 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11ac/Wi-Fi 5

@@ -1,0 +1,127 @@
+DPRReviewArchiveURL: ""
+ProductCode: sony_fx2
+Award: ""
+ImageURL: /files/p/products/sony_fx2/shots/69aa8f8b650948c8970a58ddda4cd0bd.png
+Name: Sony FX2
+ShortSpecs:
+    - 33 megapixels
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/sony/slrs/sony_fx2
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_fx2/shots/69aa8f8b650948c8970a58ddda4cd0bd.png
+        - /files/p/products/sony_fx2/shots/d8bc7d8301b7476f9812bd39eee244f7.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (3, 5 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: May 28, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100 lithium-ion battery charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 5.5 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 10.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 130 x 104 x 78 mm (5.12 x 4.09 x 3.07″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 33 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (Multi-interface shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1 ×
+    Format: MPEG-4, XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Standard)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 50-204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Extra fine, fine, normal
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $2699
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 7008 x 4672
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: []
+    NumberOfFocusPoints: "759"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Bionz XR
+    RemoteControl: Yes (wireless or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 34 megapixels
+    SensorSize: Full frame (35.6 x 23.8 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: One CFexpress Type A/UHS-II SD, One UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: Yes (USB PD supported)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.7 ×
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 679 g (1.50 lb / 23.95 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac (dual band) + Bluetooth

@@ -1,0 +1,147 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20251123094637/https://www.dpreview.com/reviews/nikon-z50ii-review
+ProductCode: nikon_z50ii
+Award: silver
+ImageURL: /files/p/products/nikon_z50ii/shots/e0b5c534198d4405af0865bb156ea9b3.png
+Name: Nikon Z50II
+ShortSpecs:
+    - 21 megapixels
+    - 3.2″ screen
+    - APS-C sensor
+ReviewScore: 88
+URL: /products/nikon/slrs/nikon_z50ii
+ReviewData:
+    ExecutiveSummary: 'The Z50II is Nikon''s latest APS-C camera, based around the company''s tried-and-true 20.9MP sensor. It features 3D tracking with support for nine subject types, and up to one second of pre-release capture.'
+    ProductPhotos:
+        - /files/p/products/nikon_z50ii/shots/e0b5c534198d4405af0865bb156ea9b3.png
+        - /files/p/products/nikon_z50ii/shots/30957e160ec146919393dc57b916b62f.png
+        - /files/p/products/nikon_z50ii/shots/ede53d0515354f309fc7806440164301.png
+        - /files/p/products/nikon_z50ii/shots/f2bdeea79d274c60a2198b02bdf24266.png
+        - /files/p/products/nikon_z50ii/shots/9c734bd8ae79498ab749a18d4a13e557.png
+        - /files/p/products/nikon_z50ii/shots/7e1dbf2ed7a046c68ca148dadcb452eb.png
+        - /files/p/products/nikon_z50ii/shots/84fed9a1f5904c8584291a65e6dab9eb.png
+    ReviewSummary:
+        GoodFor: A wide range of photo and video pursuits
+        NotSoGoodFor: Being the 'everything camera' you build a system around.
+        Conclusion: 'The Nikon Z50II is a very competent all-rounder for both stills and video. Its limited battery life dents its otherwise strong performance for video but overall it''s an enjoyable camera to shoot with.'
+    ASIN:
+        - nikon_z50ii
+        - B0DMPM3B87
+        - B0F3G8C7F4
+        - B0F1XQ76B8
+        - B0DQ1361ZR
+        - B0DMJJQLXW
+        - B07YXH2DLL
+        - B07YXH2DLB
+        - B0DMPK2Q79
+        - B0DMJJY4L3
+        - B0DMP1KPZ9
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV steps)
+    Announced: Nov 7, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN-EL25a lithium-ion battery - no charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 127 x 97 x 67 mm (5 x 3.82 x 2.64″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 21 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: 7.00 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 1.5 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 100-51200 (expands to 204800)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal, basic
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: ""
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5568 x 3712
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/4000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes: []
+    NumberOfFocusPoints: "231"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4176 x 2784, 2784 x 1856
+    Processor: Expeed 7
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        88%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: APS-C (23.5 x 15.7 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD, SDHC (UHS-II compliant), SDXC (UHS-II compliant)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.02 × (0.68 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 550 g (1.21 lb / 19.40 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 802.11ac + Bluetooth 5.0

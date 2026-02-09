@@ -1,0 +1,180 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260107142837/https://www.dpreview.com/reviews/canon-eos-r50-v-review-vlogging-camera'
+ProductCode: canon_eosr50v
+Award: silver
+ImageURL: /files/p/products/canon_eosr50v/shots/d48c5c90d5ef42a8b308d021023af0a7.png
+Name: Canon EOS R50 V
+ShortSpecs:
+    - 24 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 84
+URL: /products/canon/slrs/canon_eosr50v
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The EOS R50 V is an interchangable lens mirrorless camera with a 24MP APS-C sensor. It''s aimed at video creators with the ability to shoot at 4K at 60fps and support for advanced video tools such as the C-Log3 color mode and false color monitoring.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr50v/shots/d48c5c90d5ef42a8b308d021023af0a7.png
+        - /files/p/products/canon_eosr50v/shots/6d164d054f2641c0b66893a57ddf74ea.png
+        - /files/p/products/canon_eosr50v/shots/0c98707e5fba4a4cbc77f53d59900d39.png
+        - /files/p/products/canon_eosr50v/shots/7c80dba74f3640779d5667f3806b4eb9.png
+        - /files/p/products/canon_eosr50v/shots/dbad3d3e4b524df9abcf432ec25aa396.png
+        - /files/p/products/canon_eosr50v/shots/446dbdfb8ac34a988ae35ac4dfd868a1.png
+    ReviewSummary:
+        GoodFor: |-
+            Vloggers shooting indoors
+            Videographers shooting static or slow-moving subjects
+            Filmmakers on a shoestring budget
+        NotSoGoodFor: |-
+            Vloggers shooting action
+            Videographers that make heavy use of 4K 60p
+            People not interested in video
+        Conclusion: 'The EOS R50 V is a solid video camera, but is let down by its heavy crop to achieve 4K 60p and slow rolling shutter.'
+    ASIN:
+        - B0F3X5K2V3
+        - B0BVP25CQB
+        - B0F2LJK1M3
+        - canon_eosr50v
+Specs:
+    AEBracketing: ±3 (at 1/3 EV steps)
+    Announced: Mar 26, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E17
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Bayer
+    ColorSpace: sRGB, Adobe RGB, Rec.2020
+    ContinuousDrive: 12.0 fps
+    CustomWhiteBalance: Yes (4)
+    DigitalZoom: ""
+    Dimensions: 119 x 74 x 45 mm (4.69 x 2.91 x 1.77″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±3 (at 1/3 EV steps)
+    ExposureModes:
+        - Auto, Program, Shutter priority, Aperture priority, Manual
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG, HEIF, CR3, C-Raw
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: ""
+    Format: XF-AVC, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro (Type D))
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Normal, Fine
+    LensMount: Canon RF-S
+    LiveView: "Yes"
+    MSRP: $649 body only ($849 with 14-30mm F4-6.3 PZ lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6000 x 4000
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.56x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.265, 1.56x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 10-bit, H.264, 1.56x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.264, 1.56x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.264, 1.56x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.264, 1.56x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 120p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 100p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 60p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 50p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 30p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 25p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 120p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 100p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 60p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 50p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 30p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 25p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 23.98p, 10-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 120p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 100p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 60p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 50p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 30p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 25p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 23.98p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: Yes (Canon EOS Utility, Camera Connect)
+    Resolutions: ""
+    ReviewPreview: |-
+        84%Silver Award
+        Read review ...
+    SceneModes: Self-portrait, Portrait, Smooth skin, Panoramic shot, Food, Handheld Night Scene
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT
+    SelfTimer: Yes (2s, 10s)
+    SensorPhotoDetectors: 26 megapixels
+    SensorSize: APS-C (22.3 x 14.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: Yes (12p, 6p, 3p)
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 370 g (0.82 lb / 13.05 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: Wi-Fi 5

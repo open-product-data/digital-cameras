@@ -1,0 +1,224 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260130102350/https://www.dpreview.com/reviews/panasonic-lumix-dc-gh7-review'
+ProductCode: panasonic_dcgh7
+Award: silver
+ImageURL: /files/p/products/panasonic_dcgh7/shots/74d3bbdb9f8b4565bdeaafc299030ef7.png
+Name: Panasonic Lumix DC-GH7
+ShortSpecs:
+    - 25 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 89
+URL: /products/panasonic/slrs/panasonic_dcgh7
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/panasonic_dcgh7/shots/74d3bbdb9f8b4565bdeaafc299030ef7.png
+        - /files/p/products/panasonic_dcgh7/shots/7393a3df5e0247dd95e899768cb2d3e8.png
+        - /files/p/products/panasonic_dcgh7/shots/2d91d91937784defbdd8ac759b1f5994.png
+        - /files/p/products/panasonic_dcgh7/shots/f6c294b94d5844fc987dd4967894993a.png
+        - /files/p/products/panasonic_dcgh7/shots/a8ec2e8dc0df4fe4b2958a61d114b0dc.png
+    ReviewSummary:
+        GoodFor: Serious videographers who need support for a video-centric workflow.
+        NotSoGoodFor: Users who primarily want to shoot still photos rather than video.
+        Conclusion: 'The Panasonic GH7 is a Micro Four Thirds camera with a strong focus on shooting video, and is an evolutionary upgrade from its predecessor, the GH6. The addition of phase-detect autofocus makes it more usable for run-and-gun video, and it gains 32-bit float audio recording and improved dynamic range as well. Although it''s a hybrid camera with deep feature sets for both stills and video, it''s really video where it excels.'
+    ASIN:
+        - B096MSRN7Y
+        - B0D6RTT1X1
+        - B0D6RTFJC1
+        - B0BSNTHP3Z
+        - B0DRYNY35N
+        - B096MYFS3Y
+        - B0DRYNRCCC
+        - B0DRYP6J4T
+        - panasonic_dcgh7
+        - B07RBBS6ZX
+        - B0D6RSVJ9S
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jun 5, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Li-ion Battery Pack (7.2V, 2200mAh, 16Wh)
+    BatteryLifeCIPA: "380"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: ""
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 138 x 100 x 100 mm (5.45 x 3.95 x 3.92″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Continuous with pre-capture (1.5 sec)
+        - Focus Stacking
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Creative Video
+        - Custom (1, 2, 3, 4)
+        - Intelligent Auto
+    ExternalFlash: Yes (TTL External Flash (sold separately))
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - Raw
+    FlashModes: 'Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off'
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (Type-A)
+    HeadphonePort: "Yes"
+    ISO: "100-25600"
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $2,199
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5776 x 4336
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 5760 x 2880 @ 30p, ProRes
+        - 5760 x 2880 @ 30p, ProRes
+        - 5760 x 2880 @ 23.98p, ProRes
+        - 5760 x 2880 @ 23.98p, ProRes
+        - 5760 x 2880 @ 60p, H.265
+        - 5760 x 2880 @ 48p, H.265
+        - 5760 x 2880 @ 30p, H.265
+        - 5760 x 2880 @ 23.98p, H.265
+        - 4096 x 2160 @ 60p, ProRes
+        - 4096 x 2160 @ 60p, ProRes
+        - 4096 x 2160 @ 30p, ProRes
+        - 4096 x 2160 @ 30p, ProRes
+        - 4096 x 2160 @ 23.98p, ProRes
+        - 4096 x 2160 @ 23.98p, ProRes
+        - 4096 x 2160 @ 120p, H.265
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.265
+        - 4096 x 2160 @ 48p, H.264
+        - 4992 x 2496 @ 48p, H.264
+        - 4992 x 2496 @ 48p, H.264
+        - 4096 x 2160 @ 48p, H.265
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 23.98p, H.264
+        - 4096 x 2160 @ 23.98p, H.264
+        - 4096 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.265
+        - 1920 x 1080 @ 60p, ProRes
+        - 1920 x 1080 @ 60p, ProRes
+        - 1920 x 1080 @ 30p, ProRes
+        - 1920 x 1080 @ 30p, ProRes
+        - 1920 x 1080 @ 23.98p, ProRes
+        - 1920 x 1080 @ 23.98p, ProRes
+        - 1920 x 1080 @ 240p, H.265
+        - 1920 x 1080 @ 240p, H.265
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 23.98p, H.265
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (5776 x 3848), 16:9 (5776 x 3248), 1:1 (4336 x 4336)
+    Processor: Venus Engine
+    RemoteControl: Yes (wired or smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        89%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 10 secs w/3 images)
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: CFexpress Type B, SD (UHS-II)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (Static touch control)
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.6 × (0.8 × 35mm equiv.)
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 805 g (1.77 lb / 28.40 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 2.4GHz (802.11b/g/n), 5GHz (802.11a/n/ac)

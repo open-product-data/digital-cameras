@@ -1,0 +1,154 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260123032420/https://www.dpreview.com/reviews/ricoh-gr-iv-monochrome-launch'
+ProductCode: ricoh_grivmonochrome
+Award: ""
+ImageURL: /files/p/products/ricoh_grivmonochrome/shots/25e723864d5f4ed3acd5eacbad3ad15a.png
+Name: Ricoh GR IV Monochrome
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 0
+URL: /products/ricoh/compacts/ricoh_grivmonochrome
+ReviewData:
+    ExecutiveSummary: 'The Ricoh GR IV monochrome is a variant of the GR IV compact camera, featuring a 26MP APS-C sensor and a 28mm equiv. F2.8 lens. It has no color filter array.'
+    ProductPhotos:
+        - /files/p/products/ricoh_grivmonochrome/shots/25e723864d5f4ed3acd5eacbad3ad15a.png
+        - /files/p/products/ricoh_grivmonochrome/shots/a3cb01890c9b4540948e9983d7e7ea8f.png
+        - /files/p/products/ricoh_grivmonochrome/shots/aaf98ca6e4644377ae961244311c7020.png
+    ReviewSummary: null
+    ASIN:
+        - B0FMYVJPG8
+        - B0GHXHR19S
+        - B0GHXSVY9X
+        - ricoh_grivmonochrome
+        - B0GHXV5X3C
+        - B0GHXMGGJX
+        - B005NGLWSK
+        - B0G881XZDK
+        - B0GH2FMG59
+        - B0GHY6QHJ6
+        - B0GHXSLCPL
+Specs:
+    AEBracketing: ""
+    Announced: Oct 20, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-120 battery
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: None
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: "No"
+    DigitalZoom: ""
+    Dimensions: 109 x 61 x 33 mm (4.29 x 2.4 x 1.3″)
+    DriveModes:
+        - Single Frame Shooting
+        - Continuous Shooting
+        - Bracketing
+        - Multi-exposure
+        - Interval Shooting
+        - Interval Composite
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Snap Distance Priority
+        - Manual
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif 2.3), DCF2.0 compliant
+        - RAW (14-bit DNG)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: L, M, S, XS
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $2199, £1599
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6192 x 4128
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4944x3296, 3504x2336, 1920x1280
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 sec, 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageTypes: UHS-1 microSD
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: Yes (Capacitive)
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: Yes (Type C)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: ""
+    WBBracketing: ""
+    WeightIncBatteries: 262 g (0.58 lb / 9.24 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 2.4Ghz, 5Ghz

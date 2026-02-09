@@ -1,0 +1,119 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20250918081650/https://www.dpreview.com/reviews/canon-eos-r1-initial-review'
+ProductCode: canon_eosr1
+Award: ""
+ImageURL: /files/p/products/canon_eosr1/shots/c7d5fefb0d9b432db5c0d8c28d3a2cd2.png
+Name: Canon EOS R1
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eosr1
+ReviewData:
+    ExecutiveSummary: 'The EOS R1 is Canon''s flagship mirrorless camera and is the first EOS body to receive the coveted 1-series moniker since the EOS-1D X Mark III in 2020, which is in line with Canon''s regular release cadence for the EOS-1 series for the past decade. As with most other 1-series models, its features and specifications are aimed at sports photographers and photojournalists who need the highest-performing, most rugged camera available.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr1/shots/c7d5fefb0d9b432db5c0d8c28d3a2cd2.png
+        - /files/p/products/canon_eosr1/shots/c6ea85d791324208a745d79eef3eedd7.png
+        - /files/p/products/canon_eosr1/shots/2c54a8bd957f43dfb71aa72d266e7e83.png
+        - /files/p/products/canon_eosr1/shots/d68cad17860a431f97cdbe00aea20f83.png
+        - /files/p/products/canon_eosr1/shots/e830442e48bc4a2c82a6deca2e612025.png
+        - /files/p/products/canon_eosr1/shots/a55234c205b247638a50c6471b4ad1f0.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Jul 17, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus: []
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E19
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "409600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 158 x 150 x 87 mm (6.22 x 5.91 x 3.43″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ""
+    ExposureModes: []
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/320 sec
+    FocalLengthMultiplier: ""
+    Format: ""
+    GPS: ""
+    GPSNotes: ""
+    HDMI: ""
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $6299
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: ""
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/64000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: ""
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes: []
+    NumberOfFocusPoints: "4897"
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: ""
+    Processor: Digic X with Digic Accelerator co-processor
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageTypes: ""
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: ""
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.9 ×
+    ViewfinderResolution: 9,440,000
+    ViewfinderType: ""
+    WBBracketing: "Yes"
+    WeightIncBatteries: 1115 g (2.46 lb / 39.33 oz)
+    WhiteBalancePresets: "6"
+    Wireless: ""
+    WirelessNotes: ""

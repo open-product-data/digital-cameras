@@ -1,0 +1,211 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20251119162209/https://www.dpreview.com/reviews/panasonic-lumix-dc-g9-ii-review'
+ProductCode: panasonic_dcg9ii
+Award: silver
+ImageURL: /files/p/products/panasonic_dcg9ii/shots/ed223af647134b7ea1d7d337e90fcc71.png
+Name: Panasonic Lumix DC-G9 II
+ShortSpecs:
+    - 25 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 87
+URL: /products/panasonic/slrs/panasonic_dcg9ii
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Lumix G9 II is the first camera in the Micro Four Thirds Lumix G Series to feature PDAF technology. In line with the growing need to produce highly creative artwork and photography using diverse methods, this new model creates high-resolution, high-quality images and rich colors straight out of camera. Furthermore, with a new auto-focus technology that combines Panasonic’s accumulated expertise in recognition technology with PDAF, and a high-speed burst shooting mode that ensures decisive moments are always captured, this new model boasts significantly improved power and high-speed performance. The camera supports photographers from various fields using a system that can be combined with the compact and lightweight LUMIX G Micro Four Thirds lenses for ultimate flexibility.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dcg9ii/shots/ed223af647134b7ea1d7d337e90fcc71.png
+        - /files/p/products/panasonic_dcg9ii/shots/b64ebaf216f74e1f8754cf8df99060ce.png
+        - /files/p/products/panasonic_dcg9ii/shots/27f8b93b4b174e4aa0b97d2e9611d6dd.png
+        - /files/p/products/panasonic_dcg9ii/shots/1b19f9ff65914c41baa852e38d6457b8.png
+        - /files/p/products/panasonic_dcg9ii/shots/e8a6e8de6dc941d1a24d5a3320908dbd.png
+        - /files/p/products/panasonic_dcg9ii/shots/1eca63fc814341859d76c512e25f0071.png
+        - /files/p/products/panasonic_dcg9ii/shots/b587476057124a62982968c7c6e5f1d7.png
+        - /files/p/products/panasonic_dcg9ii/shots/72fb518f45be4ca4b5418f739407d645.png
+    ReviewSummary:
+        GoodFor: 'Wildlife and landscape photographers who want a portable camera system. Amateur videographers who don''t need a GH6'
+        NotSoGoodFor: Sports photographers. Those who want to shoot for a day on one or two batteries.
+        Conclusion: 'The DC-G9 II offers image quality and autofocus improvements over the GH6 yet offers much of that camera''s video spec and its amazing stabilization. We were disappointed with battery life but other than that it''s a worthy Micro Four Thirds stills flagship.'
+    ASIN:
+        - B0774KTV1X
+        - B077HKWP63
+        - B0DJH5D4RW
+        - panasonic_dcg9ii
+        - B0CJX4WH83
+        - B0CJX5K4FR
+        - B0779B2K8B
+        - B0BSNTHP3Z
+        - B0779B5V49
+        - B096MTVJQL
+        - B0CJX6V93L
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Sep 12, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: Li-ion Battery Pack (7.2V, 2200mAh, 16Wh)
+    BatteryLifeCIPA: "390"
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "25600"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: 'Yes (AWB, AWBc, AWBw, Daylight, Cloudy, Shade, Incandescent, Flash, White Set 1, 2, 3, 4, Color temperature setting 1, 2, 3, 4)'
+    DigitalZoom: Yes (2x-4x)
+    Dimensions: 134 x 102 x 90 mm (5.29 x 4.03 x 3.55″)
+    DriveModes:
+        - Single
+        - Continuous
+        - Pre-Burst
+        - Focus Stacking
+        - Self-timer
+        - High-res
+    Durability: ""
+    EffectivePixels: 25 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+        - Creative Video
+        - Custom (1, 2, 3, 4)
+        - Intelligent Auto
+    ExternalFlash: Yes (TTL External Flash (sold separately))
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - Raw
+    FlashModes: 'Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off'
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 2 ×
+    Format: MPEG-4, H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (Type-A)
+    HeadphonePort: "Yes"
+    ISO: "100-25600"
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $1,899
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 5776 x 4336
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 5760 x 2880 @ 30p, H.265
+        - 5760 x 2880 @ 23.98p, H.265
+        - 4096 x 2160 @ 120p, H.265
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.264
+        - 4096 x 2160 @ 60p, H.265
+        - 4096 x 2160 @ 48p, H.264
+        - 4992 x 2496 @ 48p, H.264
+        - 4992 x 2496 @ 48p, H.264
+        - 4096 x 2160 @ 48p, H.265
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 30p, H.265
+        - 4096 x 2160 @ 23.98p, H.264
+        - 4096 x 2160 @ 23.98p, H.264
+        - 4096 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.264
+        - 3840 x 2160 @ 48p, H.265
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.265
+        - 1920 x 1080 @ 240p, H.265
+        - 1920 x 1080 @ 240p, H.265
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 120p, H.265
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.265
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.264
+        - 1920 x 1080 @ 48p, H.265
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.265
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+        - 1920 x 1080 @ 23.98p, H.265
+    NumberOfFocusPoints: "779"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 3:2 (5776 x 3848), 16:9 (5776 x 3248), 1:1 (4336 x 4336)
+    Processor: ""
+    RemoteControl: Yes (2.5mm or smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        87%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: ""
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs, 10 secs w/3 images)
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: Dual SD card slots (UHS-II)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: Yes (Static touch control)
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: ""
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.6 × (0.8 × 35mm equiv.)
+    ViewfinderResolution: 3,686,400
+    ViewfinderType: Electronic
+    WBBracketing: Yes (3 images in blue/amber axis or in magenta/green axis, color temperature setting)
+    WeightIncBatteries: 658 g (1.45 lb / 23.21 oz)
+    WhiteBalancePresets: ""
+    Wireless: Built-In
+    WirelessNotes: 2.4GHz (802.11b/g/n), 5GHz (802.11a/n/ac)

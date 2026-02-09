@@ -1,0 +1,191 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260204070228/https://www.dpreview.com/reviews/canon-eos-r6-iii-in-depth-review'
+ProductCode: canon_eosr6iii
+Award: gold
+ImageURL: /files/p/products/canon_eosr6iii/shots/0d2ee73a732b46ba9d8d9b4387964eb1.png
+Name: Canon EOS R6 Mark III
+ShortSpecs:
+    - 3″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/canon/slrs/canon_eosr6iii
+ReviewData:
+    ExecutiveSummary: 'The Canon EOS R6 III is an enthusiast-class camera with a new 32MP full-frame CMOS sensor, aimed at photographers and videographers who need high burst rates and fast readout speeds.'
+    ProductPhotos:
+        - /files/p/products/canon_eosr6iii/shots/0d2ee73a732b46ba9d8d9b4387964eb1.png
+        - /files/p/products/canon_eosr6iii/shots/5609905ddc8a4b5f990cdf911f0cb032.png
+        - /files/p/products/canon_eosr6iii/shots/ecc20cc58f3b47f28d4e4da19eeb6090.png
+        - /files/p/products/canon_eosr6iii/shots/2cba399d9396417dac1cc3211a00cee6.png
+    ReviewSummary:
+        GoodFor: |-
+            Most kinds of photography
+            Capturing relatively short bursts of action
+            All but the most demanding of videographers
+        NotSoGoodFor: |-
+            Photographers who need maximum IQ and speed in e-shutter
+            Videographers doing long takes in hot environments
+        Conclusion: 'The EOS R6 III offers an excellent shooting experience for all types of still photography and videography.'
+    ASIN:
+        - B0D9KNWMZH
+        - B0C8HCLQVC
+        - B0BT4Z94RY
+        - B0BGHX4YB1
+        - B0FT63WC9K
+        - canon_eosr6iii
+        - B0FZVVLR9D
+        - B0BVP25CQB
+        - B0CDFFY21M
+        - B0BT518PK6
+        - B08CNG64HN
+        - B0BLJRFTJZ
+Specs:
+    AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV steps)
+    Announced: Nov 6, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LP-E6P lithium-ion battery & charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 8.5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 40.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 138 x 98 x 88 mm (5.43 x 3.86 x 3.46″)
+    DriveModes:
+        - Single Shooting
+        - High-speed continuous
+        - Low-speed continuous
+    Durability: ""
+    EffectivePixels: ""
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±3 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v2.31)
+        - Raw (Canon CR3)
+        - HEIF (10-bit)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/250 sec
+    FocalLengthMultiplier: 1 ×
+    Format: MPEG-4, H.264, H.265, Canon Cinema Raw, Canon Cinema Raw Light
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Full-sized)
+    HeadphonePort: "Yes"
+    ISO: Yes, 100-102400 (expands to 204800)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: Works with lens-based IS systems for maximum shake reduction
+    JPEGQualityLevels: Fine, Normal
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: $2799
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6960 x 4640
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+        - Partial
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 6960 x 4640 @ 30p, 12-bit, Raw (other)
+        - 6960 x 4640 @ 25p, 12-bit, Raw (other)
+        - 6960 x 4640 @ 24p, 12-bit, Raw (other)
+        - 6960 x 4640 @ 23.98p, 12-bit, Raw (other)
+        - 6912 x 4608 @ 30p, 10-bit, H.265
+        - 6912 x 4608 @ 25p, 10-bit, H.265
+        - 6912 x 4608 @ 24p, 10-bit, H.265
+        - 6912 x 4608 @ 23.98p, 10-bit, H.265
+        - 6960 x 3672 @ 60p, 12-bit, Raw (other)
+        - 6960 x 3672 @ 50p, 12-bit, Raw (other)
+        - 6960 x 3672 @ 30p, 12-bit, Raw (other)
+        - 6960 x 3672 @ 25p, 12-bit, Raw (other)
+        - 6960 x 3672 @ 24p, 12-bit, Raw (other)
+        - 6960 x 3672 @ 23.98p, 12-bit, Raw (other)
+        - 4096 x 2160 @ 120p, 10-bit, H.265
+        - 4096 x 2160 @ 100p, 10-bit, H.265
+        - 4096 x 2160 @ 60p, 10-bit, H.265
+        - 4096 x 2160 @ 50p, 10-bit, H.265
+        - 4096 x 2160 @ 30p, 10-bit, H.265
+        - 4096 x 2160 @ 25p, 10-bit, H.265
+        - 4096 x 2160 @ 24p, 10-bit, H.265
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265
+        - 3840 x 2160 @ 120p, 10-bit, H.265
+        - 3840 x 2160 @ 60p, 10-bit, H.265
+        - 3840 x 2160 @ 30p, 10-bit, H.265
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265
+        - 4096 x 2160 @ 60p, 10-bit, H.265, 1.6x Crop
+        - 4096 x 2160 @ 30p, 10-bit, H.265, 1.6x Crop
+        - 4096 x 2160 @ 24p, 10-bit, H.265, 1.6x Crop
+        - 4096 x 2160 @ 23.98p, 10-bit, H.265, 1.6x Crop
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.6x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1.6x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1.6x Crop
+    NumberOfFocusPoints: "4897"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Digic X
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        91%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 1x CFexpress Type B, 1x UHS-II SD
+    SubjectSceneModes: "No"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.76 ×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 699 g (1.54 lb / 24.66 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth

@@ -1,0 +1,206 @@
+DPRReviewArchiveURL: ""
+ProductCode: nikon_z5ii
+Award: gold
+ImageURL: /files/p/products/nikon_z5ii/shots/e50cfac14ad04fad84a33ee5494d2e11.png
+Name: Nikon Z5II
+ShortSpecs:
+    - 24 megapixels
+    - 3.2″ screen
+    - Full frame sensor
+ReviewScore: 91
+URL: /products/nikon/slrs/nikon_z5ii
+ReviewData:
+    ExecutiveSummary: 'The Nikon Z5II is the company''s entry-level, full-frame mirrorless camera. It''s built around a 24MP BSI CMOS sensor, which is stabilized up to 7.5EV. It can shoot at up to 14fps with its mechanical shutter and up to 30fps JPEG only using a 12-bit readout, and its autofocus system can recognize nine types of subject.'
+    ProductPhotos:
+        - /files/p/products/nikon_z5ii/shots/e50cfac14ad04fad84a33ee5494d2e11.png
+        - /files/p/products/nikon_z5ii/shots/1aa3221f296a4ff18f26dcbff336a10e.png
+        - /files/p/products/nikon_z5ii/shots/151df440c12942db8280268cbf7ddd14.png
+        - /files/p/products/nikon_z5ii/shots/344d7e169bc84710bc260c3c0058467a.png
+        - /files/p/products/nikon_z5ii/shots/b19ef3d7e40e47dc8468546e4e69da04.png
+        - /files/p/products/nikon_z5ii/shots/c9da5d905d5a45bc9180526e8156b0ad.png
+        - /files/p/products/nikon_z5ii/shots/6e3f44a9c18a462aa712a5d656618863.png
+    ReviewSummary:
+        GoodFor: A remarkably broad range of photographers and videographers.
+        NotSoGoodFor: Photographers looking for a compact kit for travel. Anyone with the most demanding AF requirements.
+        Conclusion: 'The Nikon Z5II combines a well-regarded sensor, with a broad range of features for both stills and video shooters. It''s a fairly sizeable camera, especially once you include lenses, but the provision of in-body stabilization and Nikon''s latest AF systems make it a hugely accomplished all-rounder.'
+    ASIN:
+        - B0DMPM3B87
+        - B0D79QY952
+        - B0F3G8C7F4
+        - B0F3HJD64Y
+        - B0D79T7J8X
+        - B0F3G2YD3M
+        - B0F3G7682K
+        - nikon_z5ii
+        - B08HZFYHXW
+        - B08HVQ33W1
+        - B0F3GDSTW9
+Specs:
+    AEBracketing: ""
+    Announced: Apr 3, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN‑EL15c
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "204800"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 7.5 stop(s)
+    ColorFilterArray: Bayer
+    ColorSpace: ""
+    ContinuousDrive: 14.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: ""
+    Dimensions: 134 x 101 x 72 mm (5.28 x 3.98 x 2.83″)
+    DriveModes:
+        - Continuous L
+        - Continuous H
+        - Continuous H extended
+        - C15
+        - C30
+    Durability: ""
+    EffectivePixels: 24 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Auto
+        - Program
+        - Shutter priority
+        - Aperture priority
+        - Manual
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (DCF 2.0, EXIF 2.32)
+        - HEIF
+        - Raw (Lossless, HE*, HE)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/200 sec
+    FocalLengthMultiplier: ""
+    Format: H.264, H.265, Nikon N-Raw
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (Micro)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Nikon Z
+    LiveView: "Yes"
+    MSRP: $1699
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6048 x 4032
+    MaximumShutterSpeed: 1/8000 sec
+    MaximumShutterSpeedElectronic: 1/2000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 4032 x 2268 @ 30p, 12-bit, Raw (other), 1x Crop
+        - 4032 x 2268 @ 25p, 12-bit, Raw (other), 1x Crop
+        - 4032 x 2268 @ 23.98p, 12-bit, Raw (other), 1x Crop
+        - 3984 x 2240 @ 30p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 25p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 23.98p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 120p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 100p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 60p, 12-bit, Raw (other), 1.5x Crop
+        - 3984 x 2240 @ 50p, 12-bit, Raw (other), 1.5x Crop
+        - 3840 x 2160 @ 60p, 10-bit, H.265, 1.5x Crop
+        - 3840 x 2160 @ 50p, 10-bit, H.265, 1.5x Crop
+        - 3840 x 2160 @ 30p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.265, 1.5x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.265, 1.5x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.265, 1x Crop
+        - 3840 x 2160 @ 60p, 8-bit, H.264, 1.5x Crop
+        - 3840 x 2160 @ 50p, 8-bit, H.264, 1.5x Crop
+        - 3840 x 2160 @ 30p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 25p, 8-bit, H.264, 1x Crop
+        - 3840 x 2160 @ 23.98p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 120p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 100p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 60p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 50p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 30p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 25p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 23.98p, 10-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 120p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 100p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 60p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 50p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 30p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 25p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 23.98p, 8-bit, H.265, 1x Crop
+        - 1920 x 1080 @ 120p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 100p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 60p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 50p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 30p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 25p, 8-bit, H.264, 1x Crop
+        - 1920 x 1080 @ 23.98p, 8-bit, H.264, 1x Crop
+    NumberOfFocusPoints: "299"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4528 x 3024, 3024 x 2016, 3984 x 2656, 2976 x 1992, 1984 x 1328
+    Processor: Expeed 7
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: |-
+        91%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 2,100,000
+    ScreenSize: 3.2″
+    ScreenType: TFT
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 25 megapixels
+    SensorSize: Full frame (35.9 x 23.9 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: 2x UHS-II SD
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: Yes (USB-C)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.8 ×
+    ViewfinderResolution: 3,690,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 700 g (1.54 lb / 24.69 oz)
+    WhiteBalancePresets: "8"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n/a/ac

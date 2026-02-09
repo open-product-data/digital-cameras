@@ -1,0 +1,145 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20250401091005/https://www.dpreview.com/reviews/leica-q3-initial-review
+ProductCode: leica_q3
+Award: ""
+ImageURL: /files/p/products/leica_q3/shots/03f59648ae2249b49e94a1fc4441f9ae.png
+Name: Leica Q3
+ShortSpecs:
+    - 60 megapixels
+    - 3″ screen
+ReviewScore: 0
+URL: /products/leica/compacts/leica_q3
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The Leica Q3 updates its predecessor with a higher resolution 60MP full-frame sensor, improved burst rates and the added the ability to shoot 8K/30p video. The camera brings back the stabilized 28mm F1.7 offered since the Q1.'
+    ProductPhotos:
+        - /files/p/products/leica_q3/shots/03f59648ae2249b49e94a1fc4441f9ae.png
+        - /files/p/products/leica_q3/shots/35bde50b72ff4d84b65dc55fa9c5d08e.png
+        - /files/p/products/leica_q3/shots/afe99702930d45d2a0fb91ead8dbd52b.png
+        - /files/p/products/leica_q3/shots/0be7e44569ab4e088643d3ede69fb006.png
+        - /files/p/products/leica_q3/shots/8f1b48ac50b44305977310f9858963a6.png
+        - /files/p/products/leica_q3/shots/964f0cc0301b494997232f3734b55a4c.png
+    ReviewSummary: null
+    ASIN:
+        - B07T9NT4NV
+        - B00ZTIHIJY
+        - B0DKKYCNXN
+        - B009M1VO1W
+        - leica_q3
+        - B0DS6M8K52
+        - B08W8TN582
+        - B077ZL1VH7
+        - B074JBT224
+        - B0DXHZNYRM
+        - B01N24LUZJ
+Specs:
+    AEBracketing: ±3 (3, 5 frames at 1/3 EV steps)
+    Announced: May 25, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Leica BP-SCL6
+    BatteryLifeCIPA: "350"
+    BodyMaterial: Magnesium alloy, leather covering
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB
+    ContinuousDrive: 15.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (1.25x (35mm equiv), 1.8x (50mm equiv), 2.7x (75mm), 3.2x (90mm))
+    Dimensions: 130 x 80 x 93 mm (5.12 x 3.16 x 3.65″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 60 megapixels
+    EnvironmentallySealed: Yes (IP52 rated)
+    ExposureCompensation: ±2 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hotshoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG
+        - DNG
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/2000 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264, H.265
+    GPS: Optional
+    GPSNotes: 'Not available everywhere due to country-specific legislation; can be added via the Leica FOTOS app. Data is written to Exif header of the picture files.'
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 50-100000
+    ImageRatioWh: '3:2'
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: 9520 x 6336 pixels (60.3 MP)
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $5995
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 9520 x 6336
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 120 sec
+    Modes: []
+    NumberOfFocusPoints: "315"
+    NumberOfLenses: ""
+    OrientationSensor: ""
+    OtherResolutions: '36.5 MP: 7404 x 4928, 18.6 MP: 5288 x 3518'
+    Processor: Leica Maestro series (Maestro IV)
+    RemoteControl: Yes (via smartphone)
+    Resolutions: C8K/8K at 30p/25/24p, C4K/4K at 60/50/30/24p, 1080p at 120/100/60/50/30/24p
+    ReviewPreview: ""
+    SceneModes: Auto Sport Portrait Landscape Night Portrait Snow/Beach Fireworks Candlelight Sunset Digiscoping
+    ScreenDots: 1,843,200
+    ScreenSize: 3″
+    ScreenType: ""
+    SelfTimer: Yes (2 or 12 secs)
+    SensorPhotoDetectors: 62 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: ""
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.79 ×
+    ViewfinderResolution: 5,760,000
+    ViewfinderType: Electronic
+    WBBracketing: ""
+    WeightIncBatteries: 743 g (1.64 lb / 26.21 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: WiFi and Bluetooth 5.0 low energy

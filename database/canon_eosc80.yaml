@@ -1,0 +1,121 @@
+DPRReviewArchiveURL: ""
+ProductCode: canon_eosc80
+Award: ""
+ImageURL: /files/p/products/canon_eosc80/shots/98fbea115fdb4584a30ad89c9bf8648a.png
+Name: Canon EOS C80
+ShortSpecs:
+    - 19 megapixels
+    - 3.5″ screen
+    - Full frame sensor
+ReviewScore: 0
+URL: /products/canon/slrs/canon_eosc80
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/canon_eosc80/shots/98fbea115fdb4584a30ad89c9bf8648a.png
+        - /files/p/products/canon_eosc80/shots/dc139caac6004d978236727029a63903.png
+        - /files/p/products/canon_eosc80/shots/f4dab35b6ca44b43b180d7a19e0c03d1.png
+        - /files/p/products/canon_eosc80/shots/25bf5ef1947f4e3a99867da9927b2b45.png
+        - /files/p/products/canon_eosc80/shots/6164625d4c7943a99cb4a2c0a5e220df.png
+        - /files/p/products/canon_eosc80/shots/ae3c43144fa94f5f876eef19ac145a85.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Sep 9, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: ""
+    Autofocus:
+        - Phase Detect
+        - Tracking
+        - Continuous
+        - Face Detection
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: BP-A30N (included), BP-A60N, BP-A60, BP-A30
+    BatteryLifeCIPA: ""
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "1600"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: ""
+    CustomWhiteBalance: ""
+    DigitalZoom: ""
+    Dimensions: 160 x 138 x 116 mm (6.3 x 5.43 x 4.57″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 19 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±2 (at 1/4 EV steps)
+    ExposureModes: []
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: XF-AVC, H.264, H.265
+    GPS: ""
+    GPSNotes: ""
+    HDMI: Yes (Full-size)
+    HeadphonePort: "Yes"
+    ISO: ""
+    ImageRatioWh: ""
+    ImageStabilization: Digital only
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: Canon RF
+    LiveView: "Yes"
+    MSRP: 5,499
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 6008 x 3170
+    MaximumShutterSpeed: ""
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Center-weighted
+        - Spot
+    Microphone: Mono
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: ""
+    Modes: []
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: "Yes"
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 2,760,000
+    ScreenSize: 3.5″
+    ScreenType: ""
+    SelfTimer: ""
+    SensorPhotoDetectors: 27 megapixels
+    SensorSize: Full frame (36 x 24 mm)
+    SensorType: Stacked CMOS
+    ShutterPriority: "No"
+    Speaker: ""
+    StorageTypes: Dual SD card slots (UHS-II/V90)
+    SubjectSceneModes: ""
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: ""
+    UncompressedFormat: ""
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: 1310 g (2.89 lb / 46.21 oz)
+    WhiteBalancePresets: "2"
+    Wireless: Built-In
+    WirelessNotes: 802.11a/b/g/n/ac

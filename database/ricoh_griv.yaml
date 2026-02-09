@@ -1,0 +1,173 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260204030158/https://www.dpreview.com/reviews/ricoh-gr-iv-in-depth-review'
+ProductCode: ricoh_griv
+Award: silver
+ImageURL: /files/p/products/ricoh_griv/shots/8e42e3b614ce4a6aafbe18e427d0a14a.png
+Name: Ricoh GR IV
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - 28 mm
+ReviewScore: 84
+URL: /products/ricoh/compacts/ricoh_griv
+ReviewData:
+    ExecutiveSummary: 'The Ricoh GR IV is a compact camera featuring a 26MP APS-C sensor and a 28mm equiv. F2.8 lens. Its sensor has five-axis stabilization; up from 3-axis on the GR III. The lens is made of 7 elements in 5 groups, with three aspherical elements.'
+    ProductPhotos:
+        - /files/p/products/ricoh_griv/shots/8e42e3b614ce4a6aafbe18e427d0a14a.png
+        - /files/p/products/ricoh_griv/shots/98d689cb4891449190ce2f80ff08d779.png
+        - /files/p/products/ricoh_griv/shots/ce892585c8634cfd8be1782f0f04fa3f.png
+        - /files/p/products/ricoh_griv/shots/ce3b8dd3077b4b28842c8692bcad329e.png
+        - /files/p/products/ricoh_griv/shots/03ea3e95c51544cfb26fc0644e79dfbb.png
+        - /files/p/products/ricoh_griv/shots/e2099de837144299b2160ce4d11b2609.png
+        - /files/p/products/ricoh_griv/shots/e2272fa2a682425f897b9ef2ddf6fddc.png
+        - /files/p/products/ricoh_griv/shots/2b7f19b2bd2b4afebc1cb1d0c5ac4ccc.png
+        - /files/p/products/ricoh_griv/shots/423280eb4e38406c86058781eed43f2e.png
+        - /files/p/products/ricoh_griv/shots/af5efd1117fb4a108181f3f2bc417141.png
+        - /files/p/products/ricoh_griv/shots/d71249aa15b84538a7ad22b8eee8ed1b.png
+        - /files/p/products/ricoh_griv/shots/ee13c1e534104eeba28417bc82a9d54b.png
+    ReviewSummary:
+        GoodFor: |-
+            Street photography
+            Travelers
+            People who want a truly pocketable fixed lens camera
+        NotSoGoodFor: |-
+            Sports/Action
+            Videographers
+        Conclusion: 'The GR IV offers the most image quality you can get in a camera this size, alongside an engaging user interface.'
+    ASIN:
+        - B0FMYVJPG8
+        - B0FQJP5G3X
+        - B0CZ72VJTQ
+        - B0FQJSDL5M
+        - B0FQJNGLRJ
+        - B005NGLWSK
+        - B0G881XZDK
+        - B0GH2FMG59
+        - B0FQJPDLWF
+        - ricoh_griv
+        - B09FQ7JJ9Y
+Specs:
+    AEBracketing: ""
+    Announced: May 22, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DB-120 battery
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: ""
+    CustomWhiteBalance: Yes (Adjustable ±14 steps on A-B axis or G-M axis)
+    DigitalZoom: ""
+    Dimensions: 109 x 61 x 33 mm (4.29 x 2.4 x 1.3″)
+    DriveModes:
+        - Single Frame Shooting
+        - Continuous Shooting
+        - Bracketing
+        - Multi-exposure
+        - Interval Shooting
+        - Interval Composite
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: ""
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture Priority
+        - Shutter Priority
+        - Snap Distance Priority
+        - Manual
+    ExternalFlash: ""
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif 2.3), DCF2.0 compliant
+        - RAW (14-bit DNG)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: "No"
+    HeadphonePort: ""
+    ISO: ""
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: L, M, S, XS
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1499, £1199
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6192 x 4128
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: ""
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4944x3296, 3504x2336, 1920x1280
+    Processor: ""
+    RemoteControl: ""
+    Resolutions: ""
+    ReviewPreview: |-
+        84%Silver Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,037,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 sec, 10 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: ""
+    StorageTypes: UHS-1 microSD
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: Yes (Capacitive)
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: Yes (Type C)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: ""
+    WBBracketing: ""
+    WeightIncBatteries: 262 g (0.58 lb / 9.24 oz)
+    WhiteBalancePresets: "12"
+    Wireless: Built-In
+    WirelessNotes: 2.4Ghz, 5Ghz

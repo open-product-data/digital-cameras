@@ -1,0 +1,148 @@
+DPRReviewArchiveURL: ""
+ProductCode: leica_dlux8
+Award: ""
+ImageURL: /files/p/products/leica_dlux8/shots/7802fc40f67046b58c31e31b056f3f20.png
+Name: Leica D-Lux 8
+ShortSpecs:
+    - 17 megapixels
+    - 3″ screen
+    - 24 – 75 mm (3.1×)
+ReviewScore: 83
+URL: /products/leica/compacts/leica_dlux8
+ReviewData:
+    ExecutiveSummary: 'The Leica D-Lux 8 is an updated 17MP enthusiast zoom compact camera that uses a series of crops of a Four Thirds sized sensor to give multiple aspect ratios. It''s a gentle update of the D-Lux 7 with refreshed look, revised interface and a much-improved viewfinder.'
+    ProductPhotos:
+        - /files/p/products/leica_dlux8/shots/7802fc40f67046b58c31e31b056f3f20.png
+        - /files/p/products/leica_dlux8/shots/7bcd58929aa74da5ae86283a0e97bd75.png
+        - /files/p/products/leica_dlux8/shots/133776345c1847119e4a360f2b57a958.png
+    ReviewSummary:
+        GoodFor: Photographers wanting a flexible compact.
+        NotSoGoodFor: Budget-conscious shooters who need true pocketability.
+        Conclusion: 'The D-Lux 8 puts a lot of image quality and flexibility in a small, attractive package. The slow-zooming lens undermines the shooting experience and the image quality doesn''t quite live up to the price tag. We admire the D-Lux 8 more than we love it.'
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Jul 2, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: DP-DC15 lithium-ion battery & USB charger
+    BatteryLifeCIPA: ""
+    BodyMaterial: Magnesium alloy
+    BodyType: Large sensor compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: Yes (4.3x - 6.2x)
+    Dimensions: 130 x 69 x 62 mm (5.12 x 2.72 x 2.44″)
+    DriveModes:
+        - Single
+        - Continuous (H/M/L)
+        - Self-timer
+    Durability: ""
+    EffectivePixels: 17 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: "Yes"
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v.2.31)
+        - Raw (DNG)
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/4000 sec
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, AVCHD, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 200-25600 (expands down to 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, standard
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1595
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4736 x 3552
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 1800 sec
+    Modes:
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 60i, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1280 x 720 @ 30p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: "49"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: 4928 x 3288 (3:2), 5152 x 2904 (16:9), 3552 x 3552 (1:1)
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: |-
+        83%
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,843,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (UHS-II supported)
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.0 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.74 ×
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 397 g (0.88 lb / 14.00 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 5.0 LE

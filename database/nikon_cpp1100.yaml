@@ -1,0 +1,149 @@
+DPRReviewArchiveURL: ""
+ProductCode: nikon_cpp1100
+Award: ""
+ImageURL: /files/p/products/nikon_cpp1100/shots/c8eedcced1614793a1e5b00ae8dcc168.png
+Name: Nikon Coolpix P1100
+ShortSpecs:
+    - 16 megapixels
+    - 3.2″ screen
+    - 24 – 3000 mm (125×)
+ReviewScore: 0
+URL: /products/nikon/compacts/nikon_cpp1100
+ReviewData:
+    ExecutiveSummary: 'The Nikon Coolpix P1100 superzoom camera has, as of February 2025, the world''s longest lens in a bridge camera, coming in at 24-3000mm equivalent with a maximum aperture range of F2.8 - F8. The lens features one Super ED and five ED elements and an image stabilization system that reduces shake by up to five stops. With the lens extended, the camera is 181mm (7.2") long and weighs 1.4kg (3.1lbs).'
+    ProductPhotos:
+        - /files/p/products/nikon_cpp1100/shots/c8eedcced1614793a1e5b00ae8dcc168.png
+        - /files/p/products/nikon_cpp1100/shots/1214377baa894c48bc234d22d49d8e65.png
+        - /files/p/products/nikon_cpp1100/shots/b617ca5739594650bf395e3aded6fcf5.png
+        - /files/p/products/nikon_cpp1100/shots/8246f663302146e0baaea824c40fbf8a.png
+        - /files/p/products/nikon_cpp1100/shots/64f13e89fd8f47d985cfe71eca6a27e6.png
+        - /files/p/products/nikon_cpp1100/shots/56f041b948b9479a87f1039f51ee1563.png
+        - /files/p/products/nikon_cpp1100/shots/4fc06bf98dd547b0ae967b4ff131f924.png
+        - /files/p/products/nikon_cpp1100/shots/811ca2d51f2c4d2fab6173cbea448591.png
+        - /files/p/products/nikon_cpp1100/shots/95303c0276a94e7eb0eed23095e8b1de.png
+        - /files/p/products/nikon_cpp1100/shots/7a064d6b014b484a8c3f5a7829cbe367.png
+        - /files/p/products/nikon_cpp1100/shots/bac5ec858cff4b9ea13897d346d917cf.png
+    ReviewSummary: null
+    ASIN:
+        - B01C672SZ4
+        - B0DWSYJLGJ
+        - B07DL7J4R1
+        - B0DYG1YYQ9
+        - B0837HB52G
+        - B0DW4KJ5D6
+        - B0DW4BHHV2
+        - B07H4BQHJV
+        - nikon_cpp1100
+        - B0DHGZT8X1
+        - B0DMP1KPZ9
+Specs:
+    AEBracketing: ±2 (3 frames at 1/3 EV steps)
+    Announced: Feb 5, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: EN-EL20a lithium-ion battery and charger
+    BatteryLifeCIPA: "250"
+    BodyMaterial: ""
+    BodyType: SLR-like (bridge)
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 4 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 7.0 fps
+    CustomWhiteBalance: "Yes"
+    DigitalZoom: Yes (4X)
+    Dimensions: 146 x 119 x 181 mm (5.75 x 4.69 x 7.13″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 16 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±2 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: ""
+    FlashRange: 12.00 m (at Auto ISO)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 100-6400
+    ImageRatioWh: '4:3'
+    ImageStabilization: Optical
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: ""
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $1,099
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 4608 x 3456
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+    NumberOfFocusPoints: ""
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Nikon Expeed
+    RemoteControl: Yes (via smartphone, Bluetooth remote, wired remote)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 921,000
+    ScreenSize: 3.2″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (2 or 10 secs)
+    SensorPhotoDetectors: 17 megapixels
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC (UHS-I support)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 99 %
+    ViewfinderMagnification: ""
+    ViewfinderResolution: 2,359,000
+    ViewfinderType: Electronic
+    WBBracketing: "No"
+    WeightIncBatteries: 1410 g (3.11 lb / 49.74 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g + Bluetooth 5.1

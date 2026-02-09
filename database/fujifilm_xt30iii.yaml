@@ -1,0 +1,160 @@
+DPRReviewArchiveURL: 'http://web.archive.org/web/20260105192422/https://www.dpreview.com/reviews/fujifilm-x-t30-iii-initial-review'
+ProductCode: fujifilm_xt30iii
+Award: ""
+ImageURL: /files/p/products/fujifilm_xt30iii/shots/c20015bade4644b2a96e21e38235d32e.png
+Name: Fujifilm X-T30 III
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 0
+URL: /products/fujifilm/slrs/fujifilm_xt30iii
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/fujifilm_xt30iii/shots/c20015bade4644b2a96e21e38235d32e.png
+        - /files/p/products/fujifilm_xt30iii/shots/56d59cb4546f45049e274b461350d12d.png
+        - /files/p/products/fujifilm_xt30iii/shots/f32515c2045449b394dca1d5d3cd6f47.png
+        - /files/p/products/fujifilm_xt30iii/shots/40780e4f416b4bcda763efc749f3024b.png
+        - /files/p/products/fujifilm_xt30iii/shots/470c7be066ac4be4a3053bfd21fe5f33.png
+        - /files/p/products/fujifilm_xt30iii/shots/0ebfa24d1ae7409fb77b06103d8d3edc.png
+        - /files/p/products/fujifilm_xt30iii/shots/296f9ec12a0b4275a4b5200735da3880.png
+        - /files/p/products/fujifilm_xt30iii/shots/c4daa8be3ae2405785dea7a1db22d30c.png
+        - /files/p/products/fujifilm_xt30iii/shots/0b64575af3ee42fa985df145989d9fa4.png
+        - /files/p/products/fujifilm_xt30iii/shots/4e4d61a4198d4313834208892ecd6374.png
+        - /files/p/products/fujifilm_xt30iii/shots/61d70388bf6544db8b61e88e19d4858e.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±5 (2, 3, 5, 7 frames at 1/3 EV, 1/2 EV, 2/3 EV, 1 EV, 2 EV steps)
+    Announced: Oct 23, 2025
+    AperturePriority: "Yes"
+    ArticulatedLCD: Tilting
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-W126S lithium-ion battery & Charger
+    BatteryLifeCIPA: "315"
+    BodyMaterial: Metal
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: "51200"
+    BoostedISOMinimum: "80"
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: ""
+    ColorFilterArray: X-Trans
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 30.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 118 x 83 x 47 mm (4.65 x 3.27 x 1.85″)
+    DriveModes:
+        - Single
+        - Continuous H
+        - Continuous L
+        - Bracket
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "No"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes:
+        - Program
+        - Aperture priority
+        - Shutter priority
+        - Manual
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG (Exif v.2.3)
+        - Raw (Fujifilm 14-bit RAF)
+    FlashModes: Auto, on, slow sync, manual, commander
+    FlashRange: 5.00 m (at ISO 100)
+    FlashXSyncSpeed: 1/180 sec
+    FocalLengthMultiplier: 1.5 ×
+    Format: MPEG-4, H.264
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, 160-12800 (expands to 80-51200)
+    ImageRatioWh: 1:1, 3:2, 16:9
+    ImageStabilization: "No"
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Fine, normal
+    LensMount: Fujifilm X
+    LiveView: "Yes"
+    MSRP: $1000 (body only), $1150 (w/13-33mm lens)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6240 x 4160
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/32000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 900 sec
+    Modes:
+        - 4096 x 2160 @ 30p, H.264
+        - 4096 x 2160 @ 25p, H.264
+        - 4096 x 2160 @ 24p, H.264
+        - 4096 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+        - 1920 x 1080 @ 23.98p, H.264
+    NumberOfFocusPoints: "425"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: X-Processor 4
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: 'SR Auto Portrait Portrait Enhancer Landscape Sport Night Night (tripod) Fireworks Sunset Snow Beach Underwater Party Flower Text'
+    ScreenDots: 1,620,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "Yes"
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23.5 x 15.6 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-I supported)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 1 (5 GBit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 0.93 × (0.62 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 383 g (0.84 lb / 13.51 oz)
+    WhiteBalancePresets: "7"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 4.2

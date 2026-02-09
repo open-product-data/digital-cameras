@@ -1,13 +1,13 @@
-DPRReviewArchiveURL: https://web.archive.org/web/20221102140204/https://www.dpreview.com/reviews/fujifilm-x-t5-initial-review
+DPRReviewArchiveURL: 'http://web.archive.org/web/20250925123302/https://www.dpreview.com/reviews/fujifilm-x-t5-in-depth-review'
 ProductCode: fujifilm_xt5
-Award: ""
-ImageURL: /files/p/products/fujifilm_xt5/47da42fda9ed450bb3b7516e8bee6036.png
+Award: gold
+ImageURL: /files/p/products/fujifilm_xt5/shots/e890bd47822043058170beadf7f03ae5.png
 Name: Fujifilm X-T5
 ShortSpecs:
     - 40 megapixels
     - 3″ screen
     - APS-C sensor
-ReviewScore: 0
+ReviewScore: 90
 URL: /products/fujifilm/slrs/fujifilm_xt5
 ReviewData:
     ExecutiveSummary: ""
@@ -17,11 +17,11 @@ ReviewData:
         - /files/p/products/fujifilm_xt5/shots/5f16c09052744d5a9053a09c508fb1d7.png
         - /files/p/products/fujifilm_xt5/shots/5ae51097332b4567b155799562db1b07.png
         - /files/p/products/fujifilm_xt5/shots/8602fde89ea64f4baf6660029dc4a698.png
-    ReviewSummary: null
-    ASIN:
-        - B0BK2MW5HV
-        - B084ZTV3QK
-        - B0BMCGY1TZ
+    ReviewSummary:
+        GoodFor: 'Still photographers, including portrait, wildlife, travel, and landscape shooters. Anyone who desires a rugged, high-resolution camera with classic charm.'
+        NotSoGoodFor: Videographers and hybrid shooters.
+        Conclusion: 'The Fujifilm X-T5 is our favorite APS-C camera for stills photographers. It''s fast, well-designed, and capable of class-leading image quality. However, video quality isn''t its strong suit and there are slightly more reliable autofocus systems for the money.'
+    ASIN: []
 Specs:
     AEBracketing: ±3 (2, 3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV, 2 EV steps)
     Announced: Nov 2, 2022
@@ -47,7 +47,7 @@ Specs:
     BoostedISOMaximum: "51200"
     BoostedISOMinimum: "64"
     BuiltInFlash: "No"
-    BuyingOptions: Check prices
+    BuyingOptions: ""
     CIPAImageStabilizationRating: 7 stop(s)
     ColorFilterArray: X-Trans
     ColorSpace: sRGB, Adobe RGB
@@ -78,7 +78,7 @@ Specs:
     FlashModes: ""
     FlashRange: ""
     FlashXSyncSpeed: 1/250 sec
-    FocalLengthMultiplier: 1.5×
+    FocalLengthMultiplier: 1.5 ×
     Format: H.264, H.265
     GPS: None
     GPSNotes: ""
@@ -105,7 +105,7 @@ Specs:
     Microphone: Stereo
     MicrophonePort: "Yes"
     MinimumShutterSpeed: 15 sec
-    Modes: ""
+    Modes: []
     NumberOfFocusPoints: "425"
     NumberOfLenses: ""
     OrientationSensor: "Yes"
@@ -113,7 +113,9 @@ Specs:
     Processor: X-Processor 5
     RemoteControl: "Yes"
     Resolutions: ""
-    ReviewPreview: "Read preview ...\n                                    \n                                    \n                                        Nov 2, 2022"
+    ReviewPreview: |-
+        90%Gold Award
+        Read review ...
     SceneModes: ""
     ScreenDots: 1,840,000
     ScreenSize: 3″
@@ -131,8 +133,8 @@ Specs:
     USB: USB 3.2 Gen 2 (10 GBit/sec)
     USBCharging: "Yes"
     UncompressedFormat: RAW
-    ViewfinderCoverage: 100%
-    ViewfinderMagnification: 1.2× (0.8× 35mm equiv.)
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.2 × (0.8 × 35mm equiv.)
     ViewfinderResolution: 3,690,000
     ViewfinderType: Electronic
     WBBracketing: "Yes"

@@ -1,0 +1,134 @@
+DPRReviewArchiveURL: ""
+ProductCode: omsystem_tg7
+Award: ""
+ImageURL: /files/p/products/omsystem_tg7/shots/22d556fb4a35487c81c32eb98d2bbf84.png
+Name: OM System Tough TG-7
+ShortSpecs:
+    - 12 megapixels
+    - 3″ screen
+    - 25 – 100 mm (4×)
+ReviewScore: 0
+URL: /products/olympus/compacts/omsystem_tg7
+ReviewData:
+    ExecutiveSummary: 'Manufacturer description: The OM System Tough TG-7 rugged camera is designed to deliver exceptional performance, with dustproof and shockproof capabilities, enduring falls from up to 2.1 meters and resisting forces up to one hundred kilograms. The Tough TG-7’s underwater shooting modes complement its waterproof abilities up to fifteen meters, and it remains functional in freezing temperatures down to -10°C. The camera can be utilized with the PT-059 Underwater Housing (sold separately) for usability in depths of up to forty-five meters. Its Field Sensor System automatically acquires location and environmental data, enhancing the shooting experience. The TG-7 features a compact, lightweight, and durable design, embodying the essence of the OM SYSTEM brand.'
+    ProductPhotos:
+        - /files/p/products/omsystem_tg7/shots/22d556fb4a35487c81c32eb98d2bbf84.png
+        - /files/p/products/omsystem_tg7/shots/bb6fe03a2fc943e989800bd33bcd4778.png
+        - /files/p/products/omsystem_tg7/shots/62485d37a1564a73922840e99c3cccf1.png
+        - /files/p/products/omsystem_tg7/shots/3a219dc00ed14fd9acd18d3815f3db03.png
+        - /files/p/products/omsystem_tg7/shots/5b7b1d497b374382930bef3cd46ecd21.png
+        - /files/p/products/omsystem_tg7/shots/946f0e8d2bd543b6b5d76c2af49a28bb.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ""
+    Announced: Sep 13, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fixed
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: LI-92B lithium-ion battery
+    BatteryLifeCIPA: "330"
+    BodyMaterial: ""
+    BodyType: Compact
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: ""
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 2.5 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 20.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 114 x 66 x 33 mm (4.49 x 2.6 x 1.3″)
+    DriveModes: []
+    Durability: Waterproof, Shockproof
+    EffectivePixels: 12 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±2
+    ExposureModes: []
+    ExternalFlash: "No"
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: 'Auto, Red Eye Reduction, Slow sync. (1st curtain), Red-eye Slow sync. (1st curtain), Fill- in, Manual, Flash Off'
+    FlashRange: ""
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: ""
+    Format: MPEG-4, H.264
+    GPS: Built-in
+    GPSNotes: GPS with e-compass, manometer, thermometer, accelerometer
+    HDMI: Yes (micro HDMI)
+    HeadphonePort: "No"
+    ISO: Auto, ISO 100-12800
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: ""
+    JPEGQualityLevels: Super fine, fine, normal
+    LensMount: ""
+    LiveView: "Yes"
+    MSRP: $549
+    ManualExposureMode: "No"
+    ManualFocus: "Yes"
+    MaxResolution: 4000 x 3000
+    MaximumShutterSpeed: 1/2000 sec
+    MaximumShutterSpeedElectronic: ""
+    MeteringModes:
+        - Multi
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "No"
+    MinimumShutterSpeed: 4 sec
+    Modes:
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1280 x 720 @ 30p, H.264
+        - 1280 x 720 @ 25p, H.264
+    NumberOfFocusPoints: "25"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,040,000
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: "No"
+    SensorPhotoDetectors: ""
+    SensorSize: 1/2.3" (6.17 x 4.55 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "No"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-I support)
+    SubjectSceneModes: "Yes"
+    TimelapseRecording: "Yes"
+    TouchScreen: "No"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: "Yes"
+    UncompressedFormat: RAW
+    ViewfinderCoverage: ""
+    ViewfinderMagnification: ""
+    ViewfinderResolution: ""
+    ViewfinderType: None
+    WBBracketing: ""
+    WeightIncBatteries: ""
+    WhiteBalancePresets: "6"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n

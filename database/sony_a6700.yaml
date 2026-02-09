@@ -1,0 +1,168 @@
+DPRReviewArchiveURL: http://web.archive.org/web/20260112053323/https://www.dpreview.com/reviews/sony-a6700-review
+ProductCode: sony_a6700
+Award: gold
+ImageURL: /files/p/products/sony_a6700/shots/93f9a316cf114825a2e36309ca7f8ae2.png
+Name: Sony a6700
+ShortSpecs:
+    - 26 megapixels
+    - 3″ screen
+    - APS-C sensor
+ReviewScore: 88
+URL: /products/sony/slrs/sony_a6700
+ReviewData:
+    ExecutiveSummary: ""
+    ProductPhotos:
+        - /files/p/products/sony_a6700/shots/93f9a316cf114825a2e36309ca7f8ae2.png
+        - /files/p/products/sony_a6700/shots/5774073e35994bd19413a8475d984aae.png
+    ReviewSummary:
+        GoodFor: Photographers, vloggers, and videographers of all walks.
+        NotSoGoodFor: 'Those looking for a camera that''s stylish as well as functional. Anyone who prefers a more traditional SLR design.'
+        Conclusion: 'The Sony a6700 is a well-rounded, camera that''s as well-suited for portraiture and landscape photography as it is for travel vlogging and filmmaking. Image quality, video capability, and autofocus are all top-notch, better than or on par with the best. The ergonomics and menus are well thought-out and there''s no shortage of lenses to choose from. Whether starting out, moving to mirrorless, or upgrading, the a6700 is a solid choice.'
+    ASIN:
+        - B07B4R8QGM
+        - sony_a6700
+        - B0CB8XJWLG
+        - B0FLPXYR8F
+        - B0CPT8NRJQ
+        - B0CB8T476W
+        - B0CB8VC1V2
+        - B0DPN61QNZ
+        - B0CPYPRT5S
+        - B0CBN8Y77Z
+        - B098M236VR
+Specs:
+    AEBracketing: ""
+    Announced: Jul 12, 2023
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Phase Detect
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: "Yes"
+    Battery: Battery Pack
+    BatteryDescription: NP-FZ100
+    BatteryLifeCIPA: "570"
+    BodyMaterial: Magnesium alloy
+    BodyType: Rangefinder-style mirrorless
+    BoostedISOMaximum: "102400"
+    BoostedISOMinimum: "50"
+    BuiltInFlash: "No"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: Primary color filter
+    ColorSpace: sRGB, Adobe RGB
+    ContinuousDrive: 11.0 fps
+    CustomWhiteBalance: Yes (3 slots)
+    DigitalZoom: ""
+    Dimensions: 122 x 69 x 64 mm (4.8 x 2.72 x 2.52″)
+    DriveModes:
+        - Single Continuous (Hi+/Hi/Mid/Lo) Self-timer Bracketing
+    Durability: ""
+    EffectivePixels: 26 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV, 1/2 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat:
+        - JPEG, Raw (Sony ARW), HEIF
+    FlashModes: ""
+    FlashRange: ""
+    FlashXSyncSpeed: 1/160 sec
+    FocalLengthMultiplier: 1.5 ×
+    Format: XAVC S, XAVC HS, XAVC S-I, H.264, H.265
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro HMDI)
+    HeadphonePort: "Yes"
+    ISO: 100-32000 (expandable 50-102400)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: 5-axis
+    JPEGQualityLevels: Light, Standard, Fine, Extra Fine
+    LensMount: Sony E
+    LiveView: "Yes"
+    MSRP: $1400 (body only)
+    ManualExposureMode: "Yes"
+    ManualFocus: "Yes"
+    MaxResolution: 6192 x 4128
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/8000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Highlight-weighted
+        - Average
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 30 sec
+    Modes:
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 120p, H.264
+        - 3840 x 2160 @ 120p, H.265
+        - 3840 x 2160 @ 120p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.265
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 60p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.265
+        - 3840 x 2160 @ 23.98p, H.264
+        - 3840 x 2160 @ 23.98p, H.264
+    NumberOfFocusPoints: "759"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: ""
+    RemoteControl: Yes (via App)
+    Resolutions: ""
+    ReviewPreview: |-
+        88%Gold Award
+        Read review ...
+    SceneModes: ""
+    ScreenDots: 1,036,800
+    ScreenSize: 3″
+    ScreenType: TFT LCD
+    SelfTimer: Yes (10, 5 or 2 sec)
+    SensorPhotoDetectors: ""
+    SensorSize: APS-C (23 x 15.5 mm)
+    SensorType: BSI-CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: UHS-II SD
+    SubjectSceneModes: ""
+    TimelapseRecording: ""
+    TouchScreen: "Yes"
+    USB: USB 3.2 Gen 2 (10 GBit/sec)
+    USBCharging: Yes (USB-PD)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.07 × (0.71 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 493 g (1.09 lb / 17.39 oz)
+    WhiteBalancePresets: "10"
+    Wireless: Built-In
+    WirelessNotes: 802.11ac MIMO 2x2

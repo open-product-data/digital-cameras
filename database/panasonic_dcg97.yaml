@@ -1,0 +1,144 @@
+DPRReviewArchiveURL: ""
+ProductCode: panasonic_dcg97
+Award: ""
+ImageURL: /files/p/products/panasonic_dcg97/shots/03312f8b316e42368d837d77fe30a09c.png
+Name: Panasonic Lumix DC-G97
+ShortSpecs:
+    - 20 megapixels
+    - 3″ screen
+    - Four Thirds sensor
+ReviewScore: 0
+URL: /products/panasonic/slrs/panasonic_dcg97
+ReviewData:
+    ExecutiveSummary: 'The Panasonic G97 is a Micro Four Thirds mirrorless camera with a 20MP CMOS sensor. Like other Panasonic mirrorless models, it has built-in Dual IS 2, that combines in-body and in-lens stabilization to reduce shake by up  to five stops. The G97 also uses the company''s Depth-from-Defocus contrast-detect AF system. The G97 is capable of shooting at 9 fps with focus and exposure locked on the first shot, or 6 fps with continuous AF.'
+    ProductPhotos:
+        - /files/p/products/panasonic_dcg97/shots/03312f8b316e42368d837d77fe30a09c.png
+        - /files/p/products/panasonic_dcg97/shots/765b5e5d683e46cca61ba2a23e5edc39.png
+        - /files/p/products/panasonic_dcg97/shots/57b9be1ab1f54c75928238c9f886138d.png
+        - /files/p/products/panasonic_dcg97/shots/61d1b2785b0948d995d3f7d6434688ac.png
+        - /files/p/products/panasonic_dcg97/shots/e40d4a251a17479fa22aeed7a43a96bd.png
+        - /files/p/products/panasonic_dcg97/shots/c136e61a30e045f7984f461f198a1045.png
+        - /files/p/products/panasonic_dcg97/shots/db47b4d925db4929b40449b9147d2f5f.png
+        - /files/p/products/panasonic_dcg97/shots/c7bd1570612241f598753aab69b00419.png
+        - /files/p/products/panasonic_dcg97/shots/cb5ba74574184145a3b8da8220007708.png
+        - /files/p/products/panasonic_dcg97/shots/36beca0d57af46b3a53b81e4f9a5ef3a.png
+    ReviewSummary: null
+    ASIN: []
+Specs:
+    AEBracketing: ±3 (3, 5, 7 frames at 1/3 EV, 2/3 EV, 1 EV steps)
+    Announced: Dec 17, 2024
+    AperturePriority: "Yes"
+    ArticulatedLCD: Fully articulated
+    Autofocus:
+        - Contrast Detect (sensor)
+        - Multi-area
+        - Center
+        - Selective single-point
+        - Tracking
+        - Single
+        - Continuous
+        - Touch
+        - Face Detection
+        - Live View
+    AutofocusAssistLamp: ""
+    Battery: Battery Pack
+    BatteryDescription: Lithium-ion battery & charger
+    BatteryLifeCIPA: "290"
+    BodyMaterial: ""
+    BodyType: SLR-style mirrorless
+    BoostedISOMaximum: ""
+    BoostedISOMinimum: "100"
+    BuiltInFlash: "Yes"
+    BuyingOptions: ""
+    CIPAImageStabilizationRating: 5 stop(s)
+    ColorFilterArray: ""
+    ColorSpace: ""
+    ContinuousDrive: 9.0 fps
+    CustomWhiteBalance: Yes (4 slots)
+    DigitalZoom: ""
+    Dimensions: 130 x 94 x 77 mm (5.12 x 3.7 x 3.03″)
+    DriveModes: []
+    Durability: ""
+    EffectivePixels: 20 megapixels
+    EnvironmentallySealed: "Yes"
+    ExposureCompensation: ±5 (at 1/3 EV steps)
+    ExposureModes: []
+    ExternalFlash: Yes (via hot shoe)
+    FieldOfView: ""
+    FileFormat: []
+    FlashModes: 'Auto, Auto/Red-eye Reduction, Forced On, Forced On/Red-eye Reduction, Slow Sync., Slow Sync./Red-eye Reduction, Forced Off'
+    FlashRange: 6.40 m (at ISO 100)
+    FlashXSyncSpeed: ""
+    FocalLengthMultiplier: 2 ×
+    Format: MPEG-4, AVCHD
+    GPS: None
+    GPSNotes: ""
+    HDMI: Yes (micro-HDMI)
+    HeadphonePort: "Yes"
+    ISO: Auto, 200-25600 (expands down to ISO 100)
+    ImageRatioWh: 1:1, 4:3, 3:2, 16:9
+    ImageStabilization: Sensor-shift
+    ImageStabilizationNotes: IS system works together with stabilized lenses to improve shake reduction
+    JPEGQualityLevels: Fine, normal
+    LensMount: Micro Four Thirds
+    LiveView: "Yes"
+    MSRP: $849 (12-60mm kit)
+    ManualExposureMode: "Yes"
+    ManualFocus: ""
+    MaxResolution: 5184 x 3888
+    MaximumShutterSpeed: 1/4000 sec
+    MaximumShutterSpeedElectronic: 1/16000 sec
+    MeteringModes:
+        - Multi
+        - Center-weighted
+        - Spot
+    Microphone: Stereo
+    MicrophonePort: "Yes"
+    MinimumShutterSpeed: 60 sec
+    Modes:
+        - 3840 x 2160 @ 30p, H.264
+        - 3840 x 2160 @ 25p, H.264
+        - 3840 x 2160 @ 24p, H.264
+        - 1920 x 1080 @ 120p, H.264
+        - 1920 x 1080 @ 60p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 30p, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 50p, H.264
+        - 1920 x 1080 @ 50i, H.264
+        - 1920 x 1080 @ 25p, H.264
+        - 1920 x 1080 @ 24p, H.264
+    NumberOfFocusPoints: "49"
+    NumberOfLenses: ""
+    OrientationSensor: "Yes"
+    OtherResolutions: ""
+    Processor: Venus Engine
+    RemoteControl: Yes (via wired remote or smartphone)
+    Resolutions: ""
+    ReviewPreview: ""
+    SceneModes: ""
+    ScreenDots: 1,840,000
+    ScreenSize: 3″
+    ScreenType: TFT
+    SelfTimer: Yes (2 or 10 secs, 10 secs x 3 shots)
+    SensorPhotoDetectors: 22 megapixels
+    SensorSize: Four Thirds (17.3 x 13 mm)
+    SensorType: CMOS
+    ShutterPriority: "Yes"
+    Speaker: Mono
+    StorageTypes: SD/SDHC/SDXC card (UHS-II supported)
+    SubjectSceneModes: "No"
+    TimelapseRecording: "Yes"
+    TouchScreen: "Yes"
+    USB: USB 2.0 (480 Mbit/sec)
+    USBCharging: Yes (can be charged from external power banks)
+    UncompressedFormat: RAW
+    ViewfinderCoverage: 100 %
+    ViewfinderMagnification: 1.48 × (0.74 × 35mm equiv.)
+    ViewfinderResolution: 2,360,000
+    ViewfinderType: Electronic
+    WBBracketing: "Yes"
+    WeightIncBatteries: 530 g (1.17 lb / 18.70 oz)
+    WhiteBalancePresets: "5"
+    Wireless: Built-In
+    WirelessNotes: 802.11b/g/n + Bluetooth 5.0
